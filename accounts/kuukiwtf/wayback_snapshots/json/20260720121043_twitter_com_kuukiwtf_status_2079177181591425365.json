@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+          "id": "1502374025170882561",
+          "name": "WhatsApp"
+        }
+      }
+    ],
+    "conversation_id": "2079177181591425365",
+    "created_at": "2026-07-20T12:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079177181591425365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "chat.whatsapp.com/CPUXiZD27SJ2Xk…",
+          "end": 63,
+          "expanded_url": "https://chat.whatsapp.com/CPUXiZD27SJ2XkAtBvhiL5?s=cl&p=a&mlu=4",
+          "start": 40,
+          "unwound_url": "https://chat.whatsapp.com/CPUXiZD27SJ2XkAtBvhiL5?s=cl&p=a&mlu=4",
+          "url": "https://t.co/64Fi3GaRBD"
+        },
+        {
+          "description": "You can view and join @kuukimroom right away.",
+          "display_url": "t.me/kuukimroom",
+          "end": 110,
+          "expanded_url": "https://t.me/kuukimroom",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2079177189740961792/dQ49LhD5?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2079177189740961792/dQ49LhD5?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 87,
+          "status": 200,
+          "title": "kuuki会议室",
+          "unwound_url": "https://t.me/kuukimroom",
+          "url": "https://t.co/xK9UMYVXqx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079177181591425365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚上有人一起打视频od割手手嘛\n有的call我\n在whatsapp group\nhttps://t.co/64Fi3GaRBD\nemm不要whatsapp的话 tg也可以喵\nhttps://t.co/xK9UMYVXqx\nww你们一定要来喵😭😭😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "2079177181591425365",
+        "created_at": "2026-07-20T12:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079177181591425365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "chat.whatsapp.com/CPUXiZD27SJ2Xk…",
+              "end": 63,
+              "expanded_url": "https://chat.whatsapp.com/CPUXiZD27SJ2XkAtBvhiL5?s=cl&p=a&mlu=4",
+              "start": 40,
+              "unwound_url": "https://chat.whatsapp.com/CPUXiZD27SJ2XkAtBvhiL5?s=cl&p=a&mlu=4",
+              "url": "https://t.co/64Fi3GaRBD"
+            },
+            {
+              "description": "You can view and join @kuukimroom right away.",
+              "display_url": "t.me/kuukimroom",
+              "end": 110,
+              "expanded_url": "https://t.me/kuukimroom",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2079177189740961792/dQ49LhD5?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079177189740961792/dQ49LhD5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "kuuki会议室",
+              "unwound_url": "https://t.me/kuukimroom",
+              "url": "https://t.co/xK9UMYVXqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079177181591425365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上有人一起打视频od割手手嘛\n有的call我\n在whatsapp group\nhttps://t.co/64Fi3GaRBD\nemm不要whatsapp的话 tg也可以喵\nhttps://t.co/xK9UMYVXqx\nww你们一定要来喵😭😭😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 215,
+          "like_count": 2662,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

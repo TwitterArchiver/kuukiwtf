@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080238781043761493",
+    "created_at": "2026-07-23T13:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080279110874697941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1558070773864087552",
+          "start": 0,
+          "username": "sukimiku0831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080279110874697941",
+    "in_reply_to_user_id": "1558070773864087552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080238781043761493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukimiku0831 可是那些数值为什么没有变化（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25725,
+        "height": 720,
+        "media_key": "13_2080238757199106048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080238757199106048/img/z_tABoZKhw01SRQY.jpg",
+        "public_metrics": {
+          "view_count": 26
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080238757199106048/vid/avc1/280x270/VxKCtZibYxsKpwA1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080238757199106048/vid/avc1/374x360/tsS3-h66zQztMbJ6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080238757199106048/vid/avc1/750x720/1mIoD0eiN7Q9iT90.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080238757199106048/pl/miDid7oEp_WJkfeS.m3u8"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080238781043761493",
+        "created_at": "2026-07-23T13:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080279110874697941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1558070773864087552",
+              "start": 0,
+              "username": "sukimiku0831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080279110874697941",
+        "in_reply_to_user_id": "1558070773864087552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080238781043761493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukimiku0831 可是那些数值为什么没有变化（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080238757199106048"
+          ]
+        },
+        "author_id": "1558070773864087552",
+        "conversation_id": "2080238781043761493",
+        "created_at": "2026-07-23T10:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080238781043761493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CVKm8cKzJ",
+              "end": 41,
+              "expanded_url": "https://x.com/sukimiku0831/status/2080238781043761493/video/1",
+              "media_key": "13_2080238757199106048",
+              "start": 18,
+              "url": "https://t.co/8CVKm8cKzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080238781043761493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于在资源管理器上玩 osu这件事 https://t.co/8CVKm8cKzJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 317,
+          "like_count": 4256,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-12T12:40:06.000Z",
+        "description": "初音suki一生推！！！ \nMTF/重焦重郁/\n音游玩家，基本都玩，主要舞萌DX，中二节奏，pjsk\n喜欢折腾数码产品，米粉果粉，米果双持\n二次元，爱看番，买谷，逛展\n爱听主要术曲术曲，jpop ，还有部分类型的摇滚，\n💊&🔪/愿大家都快快乐乐的活着",
+        "id": "1558070773864087552",
+        "location": "在初音身边",
+        "name": "世界で一番Mikuの騎士 🏳️‍⚧️",
+        "pinned_tweet_id": "1966733550272868421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077510445297197056/2l_d9GNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 250,
+          "like_count": 45,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 635
+        },
+        "url": "",
+        "username": "sukimiku0831",
+        "verified": true
+      }
+    ]
+  }
+}

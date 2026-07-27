@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080530643092730071",
+    "created_at": "2026-07-24T06:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080536955948085664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038221838187102208",
+          "start": 0,
+          "username": "A89642952N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080536955948085664",
+    "in_reply_to_user_id": "2038221838187102208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080530643092730071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A89642952N 轻了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080530643092730071",
+        "created_at": "2026-07-24T06:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080536955948085664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038221838187102208",
+              "start": 0,
+              "username": "A89642952N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080536955948085664",
+        "in_reply_to_user_id": "2038221838187102208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080530643092730071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A89642952N 轻了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038221838187102208",
+        "conversation_id": "2080530643092730071",
+        "created_at": "2026-07-24T05:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080530643092730071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080530643092730071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候在抖音看到支人虐待蟑螂的，虽然感觉这样做不对，但是不敢说\n现在长大了，感觉支那猪真该图下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 322,
+          "like_count": 4523,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-29T11:49:04.000Z",
+        "description": "伪装成中国人的日本杂种 被洗脑的恐怖分子 地球人奸 (🚪29.52，查成分互",
+        "id": "2038221838187102208",
+        "location": "秦城监狱",
+        "name": "An8964",
+        "pinned_tweet_id": "2074507484241502683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080178026491543552/0WlKFV-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 103,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 967
+        },
+        "url": "",
+        "username": "A89642952N",
+        "verified": false
+      }
+    ]
+  }
+}

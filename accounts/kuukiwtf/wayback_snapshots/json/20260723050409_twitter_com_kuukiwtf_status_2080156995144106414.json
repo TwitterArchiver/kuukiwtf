@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080156989485953024"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080156554037498014",
+    "created_at": "2026-07-23T05:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080156995144106414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2063169843671793664",
+          "start": 0,
+          "username": "Mercyvxv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pya5Gjosut",
+          "end": 41,
+          "expanded_url": "https://x.com/kuukiwtf/status/2080156995144106414/photo/1",
+          "media_key": "3_2080156989485953024",
+          "start": 18,
+          "url": "https://t.co/pya5Gjosut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080156995144106414",
+    "in_reply_to_user_id": "2063169843671793664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080156554037498014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyvxv kuuki牛逼 https://t.co/pya5Gjosut"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2080156989485953024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4zwsNbMAA-F4N.jpg",
+        "width": 534
+      },
+      {
+        "height": 1091,
+        "media_key": "3_2080156547267919872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4zW80bgAAdT8Q.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080156989485953024"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080156554037498014",
+        "created_at": "2026-07-23T05:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080156995144106414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pya5Gjosut",
+              "end": 41,
+              "expanded_url": "https://x.com/kuukiwtf/status/2080156995144106414/photo/1",
+              "media_key": "3_2080156989485953024",
+              "start": 18,
+              "url": "https://t.co/pya5Gjosut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080156995144106414",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080156554037498014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv kuuki牛逼 https://t.co/pya5Gjosut"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080156547267919872"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080156554037498014",
+        "created_at": "2026-07-23T05:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080156554037498014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MrBX2YlRQI",
+              "end": 51,
+              "expanded_url": "https://x.com/Mercyvxv/status/2080156554037498014/photo/1",
+              "media_key": "3_2080156547267919872",
+              "start": 28,
+              "url": "https://t.co/MrBX2YlRQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080156554037498014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽😭太牛逼了😭谢谢主人老婆老公爸爸妈妈爹😭万分感谢😭 https://t.co/MrBX2YlRQI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 309,
+          "like_count": 4107,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 429,
+          "like_count": 3227,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1144
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

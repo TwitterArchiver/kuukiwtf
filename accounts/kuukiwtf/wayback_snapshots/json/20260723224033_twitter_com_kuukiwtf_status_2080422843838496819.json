@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080422843838496819",
+    "created_at": "2026-07-23T22:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T23:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080422843838496819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2071405793606291696",
+          "start": 50,
+          "url": "https://t.co/Div7XSDVpk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080422843838496819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071405793606291696",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看来这些大学生有严重的价值观的价值观问题\n但是 都在中国上大学了 价值观还能没问题吗 笑死我了😅😅 https://t.co/Div7XSDVpk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36626,
+        "height": 720,
+        "media_key": "13_2071208357717803008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071208357717803008/img/gG-XTi10O1I5uwgV.jpg",
+        "public_metrics": {
+          "view_count": 53816
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071208357717803008/vid/avc1/480x270/8EXg1looGz69IV57.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071208357717803008/vid/avc1/640x360/1ffbnWQW7v4AeYT6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071208357717803008/vid/avc1/1280x720/DXke1inReey8DCh4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071208357717803008/pl/ZGiuG1CH68L0Td_b.m3u8?v=256"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 77833,
+        "height": 576,
+        "media_key": "13_2071208449174585344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071208449174585344/img/KDS_AMvWhsLiH_qK.jpg",
+        "public_metrics": {
+          "view_count": 3979
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071208449174585344/vid/avc1/476x270/K9cnDRntJGhmk0SU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071208449174585344/vid/avc1/634x360/dZn5JUQdgiooffhW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071208449174585344/vid/avc1/1016x576/LbJ3yK2-4F9xAlJj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071208449174585344/pl/9hKKPEdTh45BqHMB.m3u8?v=fc9"
+          }
+        ],
+        "width": 1016
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2071208459534471168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5pHsZWEAAbgIR.jpg",
+        "width": 1353
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2071208549863034880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5pM85WkAAXE54.jpg",
+        "width": 2102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080422843838496819",
+        "created_at": "2026-07-23T22:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080422843838496819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2071405793606291696",
+              "start": 50,
+              "url": "https://t.co/Div7XSDVpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080422843838496819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071405793606291696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来这些大学生有严重的价值观的价值观问题\n但是 都在中国上大学了 价值观还能没问题吗 笑死我了😅😅 https://t.co/Div7XSDVpk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071208357717803008",
+            "13_2071208449174585344",
+            "3_2071208459534471168",
+            "3_2071208549863034880"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071405793606291696",
+        "created_at": "2026-06-29T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071405793606291696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VClQVNpS3q",
+              "end": 133,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2071405793606291696/video/1",
+              "media_key": "13_2071208357717803008",
+              "start": 110,
+              "url": "https://t.co/VClQVNpS3q"
+            },
+            {
+              "display_url": "pic.x.com/VClQVNpS3q",
+              "end": 133,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2071405793606291696/video/1",
+              "media_key": "13_2071208449174585344",
+              "start": 110,
+              "url": "https://t.co/VClQVNpS3q"
+            },
+            {
+              "display_url": "pic.x.com/VClQVNpS3q",
+              "end": 133,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2071405793606291696/video/1",
+              "media_key": "3_2071208459534471168",
+              "start": 110,
+              "url": "https://t.co/VClQVNpS3q"
+            },
+            {
+              "display_url": "pic.x.com/VClQVNpS3q",
+              "end": 133,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2071405793606291696/video/1",
+              "media_key": "3_2071208549863034880",
+              "start": 110,
+              "url": "https://t.co/VClQVNpS3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071405793606291696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，一则清华大学实验室电气安全科普动画 被指 涉嫌“物化女性”。\n\n动画将“地线”拟人化为身着兔女郎服饰的女性形象，台词标注为机器的“私人保姆”；\n而“防护电闸”则被设计为男性保镖形象，贵重设备拟人男性坐享女性服务。\n\n有网友说：“把安全防护功能直接等同于女性的贴身服务，用性感女性形象做趣味噱头、还带有性暗示，本质就是赤裸裸的物化女性。”\n\n有网友评论：兔女郎服饰本身带有低俗性化符号属性，在面向广大学生、社会公众的严肃科普内容里，把安全防护功能绑定性感女性形象，将女性简化为依附、服侍他人的观赏符号，属于典型物化女性，强化“女性天然负责伺候、取悦他人”的落后性别观念。\n\n也有网友觉得，清华大学从制作、审核到最终动画公开传播进行安全教育，均未对相关设计提出异议，“最高学府”的性别平权意识何在？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 158584,
+          "like_count": 461,
+          "quote_count": 12,
+          "reply_count": 102,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "近日，一则清华大学实验室电气安全科普动画 被指 涉嫌“物化女性”。\n\n动画将“地线”拟人化为身着兔女郎服饰的女性形象，台词标注为机器的“私人保姆”；\n而“防护电闸”则被设计为男性保镖形象，贵重设备拟人男性坐享女性服务。 https://t.co/VClQVNpS3q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 319,
+          "like_count": 4310,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 757
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243636,
+          "following_count": 1079,
+          "like_count": 9807,
+          "listed_count": 8834,
+          "media_count": 50947,
+          "tweet_count": 58167
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

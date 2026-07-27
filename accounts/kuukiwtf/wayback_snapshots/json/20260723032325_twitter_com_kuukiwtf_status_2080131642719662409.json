@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080016430435844490",
+    "created_at": "2026-07-23T03:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080131642719662409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2078277656412581889",
+          "start": 0,
+          "username": "WXX0530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080131642719662409",
+    "in_reply_to_user_id": "2078277656412581889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080016430435844490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WXX0530 我一个都没\n气不气（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080016430435844490",
+        "created_at": "2026-07-23T03:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080131642719662409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2078277656412581889",
+              "start": 0,
+              "username": "WXX0530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080131642719662409",
+        "in_reply_to_user_id": "2078277656412581889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080016430435844490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WXX0530 我一个都没\n气不气（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078277656412581889",
+        "conversation_id": "2080016430435844490",
+        "created_at": "2026-07-22T19:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080016430435844490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Moningmeng/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Moningmeng/status/2079723941141397957",
+              "start": 13,
+              "url": "https://t.co/Zhr9Zzqocc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080016430435844490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079723941141397957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "還好我只有後面一個 哈哈 https://t.co/Zhr9Zzqocc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 303,
+          "like_count": 4045,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-18T00:37:34.000Z",
+        "description": "一個04年大學生/看好主頁封面圖判定我為男女/167cm/64kg/精神狀態未知/無敵社恐/喜歡寂靜/Delta Force/有過應激行為（少）/磕藥/歡迎大家來我主頁玩",
+        "id": "2078277656412581889",
+        "location": "China Taiwan",
+        "name": "Fiona",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078278068293210112/w5w_LNlX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 78,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "WXX0530",
+        "verified": false
+      }
+    ]
+  }
+}
