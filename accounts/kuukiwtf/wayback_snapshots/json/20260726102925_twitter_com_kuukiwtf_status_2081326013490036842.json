@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081316088395215002",
+    "created_at": "2026-07-26T10:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081326013490036842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048745058804105216",
+          "start": 0,
+          "username": "TaoistYouth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081326013490036842",
+    "in_reply_to_user_id": "2048745058804105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081316088395215002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoistYouth 老师！我「理科强！（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 626,
+        "media_key": "3_2081316074033975296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJR8SobEAAYU_H.jpg",
+        "width": 488
+      },
+      {
+        "height": 101,
+        "media_key": "3_2081316081726279680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJR8vSaUAAOvEV.jpg",
+        "width": 129
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081316088395215002",
+        "created_at": "2026-07-26T10:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081326013490036842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048745058804105216",
+              "start": 0,
+              "username": "TaoistYouth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081326013490036842",
+        "in_reply_to_user_id": "2048745058804105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081316088395215002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistYouth 老师！我「理科强！（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081316074033975296",
+            "3_2081316081726279680"
+          ]
+        },
+        "author_id": "2048745058804105216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081316088395215002",
+        "created_at": "2026-07-26T09:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081316088395215002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tTpw7MYPl5",
+              "end": 31,
+              "expanded_url": "https://x.com/TaoistYouth/status/2081316088395215002/photo/1",
+              "media_key": "3_2081316074033975296",
+              "start": 8,
+              "url": "https://t.co/tTpw7MYPl5"
+            },
+            {
+              "display_url": "pic.x.com/tTpw7MYPl5",
+              "end": 31,
+              "expanded_url": "https://x.com/TaoistYouth/status/2081316088395215002/photo/1",
+              "media_key": "3_2081316081726279680",
+              "start": 8,
+              "url": "https://t.co/tTpw7MYPl5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081316088395215002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习下李上的结晶 https://t.co/tTpw7MYPl5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 363,
+          "like_count": 5710,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1012
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "自由，博爱，平等！一个右翼自由派，理想主义者，道教善信，目前在日本生活。致力于反抗中共，反抗独裁暴政！追求人格独立，个人自由｜六四精神永存，自由民主不死。愿我们期冀的民主之花，在不远后的将来，开遍华夏的每一个角落🕯️｜ 日更高质量政治梗图\n小号防失联@TaoistYouth3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "TaoistYouth3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20812…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2081268318032498774",
+                "start": 0,
+                "url": "https://t.co/O67YQyEOOR"
+              }
+            ]
+          }
+        },
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "☯︎Taoist_Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2081311172612235488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 764,
+          "like_count": 14005,
+          "listed_count": 12,
+          "media_count": 650,
+          "tweet_count": 5241
+        },
+        "url": "https://t.co/O67YQyEOOR",
+        "username": "TaoistYouth",
+        "verified": false
+      }
+    ]
+  }
+}

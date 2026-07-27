@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2077484516822892760",
+    "created_at": "2026-07-15T20:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T21:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077484516822892760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/z9gsystem/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/z9gsystem/status/2077390482293030984",
+          "start": 28,
+          "url": "https://t.co/ctUPu0QKPu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077484516822892760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077390482293030984",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯 每天推文也不发就等着别人来fo我\n现在是 幻想时间 https://t.co/ctUPu0QKPu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2077484516822892760",
+        "created_at": "2026-07-15T20:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T21:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077484516822892760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/z9gsystem/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/z9gsystem/status/2077390482293030984",
+              "start": 28,
+              "url": "https://t.co/ctUPu0QKPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077484516822892760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077390482293030984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯 每天推文也不发就等着别人来fo我\n现在是 幻想时间 https://t.co/ctUPu0QKPu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952805837401202688",
+        "conversation_id": "2077390482293030984",
+        "created_at": "2026-07-15T13:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077390482293030984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077390482293030984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯 每天推文也不发就等着别人来fo我\n现在是 幻想时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡✞ \n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\n⟡ v-kei ꙳scenecore lover ♡✦ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 67,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 82
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-05T18:56:30.000Z",
+        "description": "07  四川 男\n成分复杂 OverDoes 女装 友跨🏳️‍⚧️  亚文化🖤后朋🤘🏻 无政府主义爱好者☠️  \n哲学 心理学重度依赖🥺\n全X使命召唤手游最强玩家\n 机车 抑郁 焦虑 BPD \n多意识体系统:李玖钟system\n世界上成分最复杂之人\n期待互fo喵\n座右铭:\n意义由存在的当下赋予",
+        "id": "1952805837401202688",
+        "location": "距离你114514km",
+        "name": "Aliseya",
+        "pinned_tweet_id": "2049564004264362377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960586455530790912/fMX1dRw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 318,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "Z9Gsystem",
+        "verified": false
+      }
+    ]
+  }
+}

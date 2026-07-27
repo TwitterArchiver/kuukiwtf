@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080813295863500804",
+    "created_at": "2026-07-25T00:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T01:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080813295863500804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woaiuai0721/st…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/woaiuai0721/status/2080800209647583232",
+          "start": 34,
+          "url": "https://t.co/KLJiXBCZlD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080813295863500804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080800209647583232",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一天我不在了，你们就尽全力的想念我吧，我不想被忘记，我就是如此自私 https://t.co/KLJiXBCZlD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080813295863500804",
+        "created_at": "2026-07-25T00:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080813295863500804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woaiuai0721/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/woaiuai0721/status/2080800209647583232",
+              "start": 34,
+              "url": "https://t.co/KLJiXBCZlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080813295863500804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080800209647583232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一天我不在了，你们就尽全力的想念我吧，我不想被忘记，我就是如此自私 https://t.co/KLJiXBCZlD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975129821111074816",
+        "conversation_id": "2080800209647583232",
+        "created_at": "2026-07-24T23:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080800209647583232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080800209647583232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天我不在了，你们就尽全力的想念我吧，我不想被忘记，我就是如此自私"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 336,
+          "like_count": 4904,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "大家可以叫我朱雨辰或者别的 很友善 别对我有太多恶意呀 直fo就是觉得你很好 互fo都是好人 骂我什么的随便吧\n@Surajazeem 挂上了\nip：浙江",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Surajazeem"
+              }
+            ]
+          }
+        },
+        "id": "1975129821111074816",
+        "location": "明天",
+        "name": "朱雨辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079301853201006592/XYreYYmU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 169,
+          "like_count": 8065,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2005
+        },
+        "url": "",
+        "username": "woaiuai0721",
+        "verified": false
+      }
+    ]
+  }
+}

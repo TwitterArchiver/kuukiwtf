@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080485450356269056"
+      ],
+      "media_source_tweet_id": [
+        "2080485469469478982"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080892506020151574",
+    "created_at": "2026-07-25T05:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080892506020151574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1338865966550138881",
+          "start": 3,
+          "username": "Injun_king"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HRptXGYlVC",
+          "end": 39,
+          "expanded_url": "https://x.com/Injun_king/status/2080485469469478982/video/1",
+          "media_key": "13_2080485450356269056",
+          "start": 16,
+          "url": "https://t.co/HRptXGYlVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080892506020151574",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080485469469478982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Injun_king: https://t.co/HRptXGYlVC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10026,
+        "height": 426,
+        "media_key": "13_2080485450356269056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080485450356269056/img/Ibc5eg4305D6oPbf.jpg",
+        "public_metrics": {
+          "view_count": 9890
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080485450356269056/vid/avc1/320x320/P3L8raX4M8kUCk8Z.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080485450356269056/vid/avc1/426x426/mW7dbtqX2FVC1wgx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080485450356269056/pl/8BISAmaalaFk_eQA.m3u8?v=cfc"
+          }
+        ],
+        "width": 426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080485450356269056"
+          ]
+        },
+        "author_id": "1338865966550138881",
+        "conversation_id": "2080485469469478982",
+        "created_at": "2026-07-24T02:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080485469469478982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRptXGYlVC",
+              "end": 23,
+              "expanded_url": "https://x.com/Injun_king/status/2080485469469478982/video/1",
+              "media_key": "13_2080485450356269056",
+              "start": 0,
+              "url": "https://t.co/HRptXGYlVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080485469469478982",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 326,
+          "impression_count": 18790,
+          "like_count": 1636,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HRptXGYlVC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080485450356269056"
+          ],
+          "media_source_tweet_id": [
+            "2080485469469478982"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080892506020151574",
+        "created_at": "2026-07-25T05:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080892506020151574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1338865966550138881",
+              "start": 3,
+              "username": "Injun_king"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRptXGYlVC",
+              "end": 39,
+              "expanded_url": "https://x.com/Injun_king/status/2080485469469478982/video/1",
+              "media_key": "13_2080485450356269056",
+              "start": 16,
+              "url": "https://t.co/HRptXGYlVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080892506020151574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080485469469478982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Injun_king: https://t.co/HRptXGYlVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 338,
+          "like_count": 5073,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-15T15:18:35.000Z",
+        "description": "",
+        "id": "1338865966550138881",
+        "name": "Injun King",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077508195644555264/xt_K5nsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10014,
+          "following_count": 585,
+          "like_count": 178162,
+          "listed_count": 37,
+          "media_count": 10508,
+          "tweet_count": 15677
+        },
+        "url": "",
+        "username": "Injun_king",
+        "verified": true
+      }
+    ]
+  }
+}

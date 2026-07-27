@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2078218255450444243",
+    "created_at": "2026-07-17T20:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T21:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078218255450444243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/katamigase/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/katamigase/status/2078056731939315766",
+          "start": 14,
+          "url": "https://t.co/aa8p5BFoMa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078218255450444243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078056731939315766",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶为什么我不长这样（啊不是 https://t.co/aa8p5BFoMa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1490,
+        "media_key": "3_2078056718995791872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa9k27boAA-t8r.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2078218255450444243",
+        "created_at": "2026-07-17T20:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T21:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078218255450444243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/katamigase/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/katamigase/status/2078056731939315766",
+              "start": 14,
+              "url": "https://t.co/aa8p5BFoMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078218255450444243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078056731939315766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶为什么我不长这样（啊不是 https://t.co/aa8p5BFoMa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078056718995791872"
+          ]
+        },
+        "author_id": "1835884494852890624",
+        "conversation_id": "2078056731939315766",
+        "created_at": "2026-07-17T09:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078056731939315766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UmDfjxr4U0",
+              "end": 26,
+              "expanded_url": "https://x.com/katamigase/status/2078056731939315766/photo/1",
+              "media_key": "3_2078056718995791872",
+              "start": 3,
+              "url": "https://t.co/UmDfjxr4U0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078056731939315766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1233,
+          "impression_count": 65436,
+          "like_count": 9473,
+          "quote_count": 6,
+          "reply_count": 8,
+          "retweet_count": 347
+        },
+        "reply_settings": "everyone",
+        "text": "あつ https://t.co/UmDfjxr4U0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 115,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-17T03:33:05.000Z",
+        "description": "おにまいが好きです。お絵描きを少々嗜みます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/573722",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/573722",
+                "start": 0,
+                "url": "https://t.co/edUFqVJc3U"
+              }
+            ]
+          }
+        },
+        "id": "1835884494852890624",
+        "name": "カタミガセ・マイ【1日目(8/15土)西せ13a】",
+        "pinned_tweet_id": "1845037782479274467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835885613268209664/aJ9mXhWK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21945,
+          "following_count": 6255,
+          "like_count": 55788,
+          "listed_count": 80,
+          "media_count": 2445,
+          "tweet_count": 19073
+        },
+        "url": "https://t.co/edUFqVJc3U",
+        "username": "katamigase",
+        "verified": true
+      }
+    ]
+  }
+}

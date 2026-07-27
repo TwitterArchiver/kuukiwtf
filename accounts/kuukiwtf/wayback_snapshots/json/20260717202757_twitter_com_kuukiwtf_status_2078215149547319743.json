@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2078200172484669476",
+    "created_at": "2026-07-17T20:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T21:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078215149547319743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "343200220",
+          "start": 0,
+          "username": "3miku9_0miku1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078215149547319743",
+    "in_reply_to_user_id": "343200220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078210571120566481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3miku9_0miku1 中国性同意年龄是14哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2078200172484669476",
+        "created_at": "2026-07-17T20:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T21:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078215149547319743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "343200220",
+              "start": 0,
+              "username": "3miku9_0miku1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078215149547319743",
+        "in_reply_to_user_id": "343200220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078210571120566481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3miku9_0miku1 中国性同意年龄是14哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "343200220",
+        "conversation_id": "2078200172484669476",
+        "created_at": "2026-07-17T20:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T21:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078210571120566481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078210571120566481",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078200172484669476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 你太小了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 115,
+          "like_count": 1449,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-27T06:16:28.000Z",
+        "description": "烂人一个, 这里只有每天说些废话, 漫无目的的过日子, 不强求任何关系.",
+        "id": "343200220",
+        "location": "Honolulu, HI",
+        "name": "𤭢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995346340252192768/fvuy8H1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2098,
+          "like_count": 22735,
+          "listed_count": 14,
+          "media_count": 132,
+          "tweet_count": 1788
+        },
+        "url": "",
+        "username": "3miku9_0miku1",
+        "verified": false
+      }
+    ]
+  }
+}

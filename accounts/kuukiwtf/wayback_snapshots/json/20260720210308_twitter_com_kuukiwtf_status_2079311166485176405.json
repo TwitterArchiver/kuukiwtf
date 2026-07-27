@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079200343930577160",
+    "created_at": "2026-07-20T21:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T22:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079311166485176405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757031119894257664",
+          "start": 0,
+          "username": "wozijibzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079311166485176405",
+    "in_reply_to_user_id": "1757031119894257664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079200343930577160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wozijibzd 这傻逼吗\n恶臭男🤮🤮🤮🤮🤮🤮🤮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079200326880800768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrNrmSbMAAREZn.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079200343930577160",
+        "created_at": "2026-07-20T21:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T22:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079311166485176405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757031119894257664",
+              "start": 0,
+              "username": "wozijibzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079311166485176405",
+        "in_reply_to_user_id": "1757031119894257664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079200343930577160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wozijibzd 这傻逼吗\n恶臭男🤮🤮🤮🤮🤮🤮🤮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079200326880800768"
+          ]
+        },
+        "author_id": "1757031119894257664",
+        "conversation_id": "2079200343930577160",
+        "created_at": "2026-07-20T13:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079200343930577160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KmPy4dnEMs",
+              "end": 31,
+              "expanded_url": "https://x.com/wozijibzd/status/2079200343930577160/photo/1",
+              "media_key": "3_2079200326880800768",
+              "start": 8,
+              "url": "https://t.co/KmPy4dnEMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079200343930577160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 682,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "认识了一个嘉豪 https://t.co/KmPy4dnEMs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 221,
+          "like_count": 2856,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T13:17:33.000Z",
+        "description": "8964",
+        "id": "1757031119894257664",
+        "location": "地球🌍",
+        "name": "叙叙8964",
+        "pinned_tweet_id": "2004503297982705696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068076618539823104/pXALgGJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 683,
+          "like_count": 7320,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2375
+        },
+        "url": "",
+        "username": "wozijibzd",
+        "verified": false
+      }
+    ]
+  }
+}

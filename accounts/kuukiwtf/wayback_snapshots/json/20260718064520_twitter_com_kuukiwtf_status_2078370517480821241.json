@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2078370517480821241",
+    "created_at": "2026-07-18T06:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078370517480821241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Y_Kaixin/statu…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/Y_Kaixin/status/2078002291404407035",
+          "start": 48,
+          "url": "https://t.co/uGRfJWybI9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078370517480821241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078002291404407035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为了让自己老老实实专心玩\n我把中国的apps全卸载了\n（骗你的卸不卸根本没影响（根本无人在意 https://t.co/uGRfJWybI9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2078370517480821241",
+        "created_at": "2026-07-18T06:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078370517480821241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Y_Kaixin/statu…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Y_Kaixin/status/2078002291404407035",
+              "start": 48,
+              "url": "https://t.co/uGRfJWybI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078370517480821241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078002291404407035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为了让自己老老实实专心玩\n我把中国的apps全卸载了\n（骗你的卸不卸根本没影响（根本无人在意 https://t.co/uGRfJWybI9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795276575887519744",
+        "conversation_id": "2078002291404407035",
+        "created_at": "2026-07-17T06:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078002291404407035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078002291404407035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17141,
+          "like_count": 344,
+          "quote_count": 14,
+          "reply_count": 153,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "要不是微信没消息我至于玩推特吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 130,
+          "like_count": 1759,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-28T02:11:12.000Z",
+        "description": "02｜ESFJ｜巨蟹｜南京人｜上海工作ing｜\n我是直男｜男同请远离我｜\n摄影｜徒步｜越野跑｜美食｜旅游｜\n分享日常｜碎碎念｜",
+        "id": "1795276575887519744",
+        "location": "距离你0.1km",
+        "name": "双层吉士堡",
+        "pinned_tweet_id": "1937802897624068218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995877533355823104/xDQZY9zw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 165,
+          "like_count": 5223,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "Y_Kaixin",
+        "verified": true
+      }
+    ]
+  }
+}

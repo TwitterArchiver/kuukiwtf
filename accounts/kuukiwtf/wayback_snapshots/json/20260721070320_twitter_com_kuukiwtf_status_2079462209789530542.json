@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079462209789530542",
+    "created_at": "2026-07-21T07:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079462209789530542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/todorokidoya1/…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/todorokidoya1/status/2079448768664183181",
+          "start": 76,
+          "url": "https://t.co/jCeWntREwW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079462209789530542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079448768664183181",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "滥用药物就是健全，尤其青少年，扔掉你手中的药，从此走上吸毒路，不要让你的美好在低谷上眼含泪水。这世界上还有很多的天堂等着你不要因为一时的爹妈就放弃自己 https://t.co/jCeWntREwW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079462209789530542",
+        "created_at": "2026-07-21T07:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079462209789530542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/todorokidoya1/…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/todorokidoya1/status/2079448768664183181",
+              "start": 76,
+              "url": "https://t.co/jCeWntREwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079462209789530542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079448768664183181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "滥用药物就是健全，尤其青少年，扔掉你手中的药，从此走上吸毒路，不要让你的美好在低谷上眼含泪水。这世界上还有很多的天堂等着你不要因为一时的爹妈就放弃自己 https://t.co/jCeWntREwW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946149148878852096",
+        "conversation_id": "2079448768664183181",
+        "created_at": "2026-07-21T06:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079448768664183181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uwatchlife/sta…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/uwatchlife/status/2079435481041760410",
+              "start": 76,
+              "url": "https://t.co/5UhbmqeuxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079448768664183181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079435481041760410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "滥用药物就是健全，尤其青少年，扔掉你手中的药，从此走上吸毒路，不要让你的美好在低谷上眼含泪水。这世界上还有很多的天堂等着你不要因为一时的爹妈就放弃自己 https://t.co/5UhbmqeuxU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n要打标签的内容: @voidsama777\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 243,
+          "like_count": 3232,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "如此懦弱…\n\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "o0omftft"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "location": "绘画世界",
+        "name": "0o0",
+        "pinned_tweet_id": "2067946828298121465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 503,
+          "like_count": 49910,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 3319
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true
+      }
+    ]
+  }
+}

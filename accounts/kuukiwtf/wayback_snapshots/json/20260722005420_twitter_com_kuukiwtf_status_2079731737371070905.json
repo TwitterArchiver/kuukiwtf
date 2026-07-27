@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079731737371070905",
+    "created_at": "2026-07-22T00:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079731737371070905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuukiwtf/statu…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/kuukiwtf/status/2079516376990093409",
+          "start": 67,
+          "url": "https://t.co/D48l9Yb7bk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079731737371070905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079516376990093409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊\n我给他说\n呃呃这个袋子非常重 你就不要提了 去按电梯把\n\n弟弟：（提起袋子）（跑到电梯间）（按电梯）\n\n我和我妈：😁😁😁☝️🤓 https://t.co/D48l9Yb7bk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2079516363547365376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvtHWnaUAAO0Jc.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079731737371070905",
+        "created_at": "2026-07-22T00:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079731737371070905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwtf/statu…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/kuukiwtf/status/2079516376990093409",
+              "start": 67,
+              "url": "https://t.co/D48l9Yb7bk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079731737371070905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079516376990093409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊\n我给他说\n呃呃这个袋子非常重 你就不要提了 去按电梯把\n\n弟弟：（提起袋子）（跑到电梯间）（按电梯）\n\n我和我妈：😁😁😁☝️🤓 https://t.co/D48l9Yb7bk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079516363547365376"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079516376990093409",
+        "created_at": "2026-07-21T10:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079516376990093409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/09KSXm77kY",
+              "end": 62,
+              "expanded_url": "https://x.com/kuukiwtf/status/2079516376990093409/photo/1",
+              "media_key": "3_2079516363547365376",
+              "start": 39,
+              "url": "https://t.co/09KSXm77kY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079516376990093409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 993,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ww我要当姐姐了吗\n我的弟弟好厉害提了好多东西\n我和我妈两个人都提不动喵🥹🥹 https://t.co/09KSXm77kY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 278,
+          "like_count": 3623,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

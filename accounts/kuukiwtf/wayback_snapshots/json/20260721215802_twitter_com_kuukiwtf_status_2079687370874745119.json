@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2079687370874745119",
+    "created_at": "2026-07-21T21:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T22:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079687370874745119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1665268574028705792",
+          "start": 3,
+          "username": "39_lwliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079687370874745119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078974117517430999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @39_lwliu: 可以叫我宁！\n\n19｜🇨🇳广州→🇺🇸留学中\noc｜同人｜od/ed｜⚢\ntadc｜mtl｜alnst｜lcb｜htf｜ymmt｜mygo!!!!\n\n喜欢医疗、血腥元素的作品🩸\n珍珠奶茶重度爱好者🧋\n偶尔会发布一些敏感内容，请注意避雷。\n\n欢迎同好互f…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3464,
+        "media_key": "3_2078974111808974848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNn_8JebcAAMTJx.jpg",
+        "width": 3464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2079687370874745119",
+        "created_at": "2026-07-21T21:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079687370874745119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1665268574028705792",
+              "start": 3,
+              "username": "39_lwliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079687370874745119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078974117517430999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @39_lwliu: 可以叫我宁！\n\n19｜🇨🇳广州→🇺🇸留学中\noc｜同人｜od/ed｜⚢\ntadc｜mtl｜alnst｜lcb｜htf｜ymmt｜mygo!!!!\n\n喜欢医疗、血腥元素的作品🩸\n珍珠奶茶重度爱好者🧋\n偶尔会发布一些敏感内容，请注意避雷。\n\n欢迎同好互f…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078974111808974848"
+          ]
+        },
+        "author_id": "1665268574028705792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2078974117517430999",
+        "created_at": "2026-07-19T22:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078974117517430999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zpU9FvDIE",
+              "end": 167,
+              "expanded_url": "https://x.com/39_lwliu/status/2078974117517430999/photo/1",
+              "media_key": "3_2078974111808974848",
+              "start": 144,
+              "url": "https://t.co/9zpU9FvDIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078974117517430999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "可以叫我宁！\n\n19｜🇨🇳广州→🇺🇸留学中\noc｜同人｜od/ed｜⚢\ntadc｜mtl｜alnst｜lcb｜htf｜ymmt｜mygo!!!!\n\n喜欢医疗、血腥元素的作品🩸\n珍珠奶茶重度爱好者🧋\n偶尔会发布一些敏感内容，请注意避雷。\n\n欢迎同好互fo、聊天！\n转发、点赞都会认真回访🫶 https://t.co/9zpU9FvDIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 274,
+          "like_count": 3529,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-04T08:05:56.000Z",
+        "description": "🤍07❤️ 🇨🇳→🇺🇸留学中 ｜⚢ ｜they / X他\n🖤DETHKLOK/WEEN🖤 EN+汉 = OK 👍 \n💊 od/ed/klepto🧋🩷 @miyako_yumemita 🩷 \nCW 43kg ｜GW 33kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "miyako_yumemita"
+              }
+            ]
+          }
+        },
+        "id": "1665268574028705792",
+        "location": "⚢+X他+互fo",
+        "name": "宁🧋",
+        "pinned_tweet_id": "2078974117517430999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068527735371452416/waPli_HI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 225,
+          "like_count": 1998,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "39_lwliu",
+        "verified": false
+      }
+    ]
+  }
+}

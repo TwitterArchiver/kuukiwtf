@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079941977853079670",
+    "created_at": "2026-07-22T15:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079947742638756041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076508802137149440",
+          "start": 0,
+          "username": "uuuUu18sage777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079947742638756041",
+    "in_reply_to_user_id": "2076508802137149440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079941977853079670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uuuUu18sage777 这我.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079941977853079670",
+        "created_at": "2026-07-22T15:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079947742638756041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076508802137149440",
+              "start": 0,
+              "username": "uuuUu18sage777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079947742638756041",
+        "in_reply_to_user_id": "2076508802137149440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079941977853079670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uuuUu18sage777 这我.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076508802137149440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2079941977853079670",
+        "created_at": "2026-07-22T14:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079941977853079670"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 133,
+              "tag": "cptsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079941977853079670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨我的名字，姓氏，恨我说的中文这个语言，恨我的国籍，恨这里的方言，我恨我原本黑色的发色，恨我的脸，我的身材 所以我漂发 计划鼻综合眼综合 减肥 希望英语能让我逃离一切 我想移民 出国了留学了就会只说英语 只叫英文名 姓氏假如结婚可以随夫姓  我就是恨我现在的一切 #cptsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 291,
+          "like_count": 3972,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-13T03:28:58.000Z",
+        "description": "8teen 直女 mdd/cptsd/adhd/bulimia转限制 EN/简中 #shedtwt #tcc #ricecakestwt 新教徒等待受洗 #moots #emogirl #midwestemo 💉 T7.5mg gw115lbs 互fo欢迎 i block freely😋i follow back",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "tcc"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "tag": "ricecakestwt"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "tag": "moots"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "emogirl"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "tag": "midwestemo"
+              }
+            ]
+          }
+        },
+        "id": "2076508802137149440",
+        "location": "Springfield, IL",
+        "name": "uu777🇺🇸dpna_irl",
+        "pinned_tweet_id": "2078906289435123998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076699309941424130/wmDPpwfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 85,
+          "like_count": 1223,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "uuuUu18sage777",
+        "verified": false
+      }
+    ]
+  }
+}

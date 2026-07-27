@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2078103464668971493",
+    "created_at": "2026-07-17T13:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078103464668971493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AacerF59616/st…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/AacerF59616/status/2078008904953602118",
+          "start": 96,
+          "url": "https://t.co/3pTPAaE9RN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078103464668971493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078008904953602118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（发现同类）好耶，我是一只药娘！（摆尾巴）（吞食补佳乐）我是药娘 好耶 （疯狂喵叫）（晃耳朵）好耶 药娘我是药娘，好耶！！！！！（摆动尾巴）（rua耳朵）（使劲撒娇）（在地上打滚）（装可爱） https://t.co/3pTPAaE9RN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2078103464668971493",
+        "created_at": "2026-07-17T13:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078103464668971493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2078008904953602118",
+              "start": 96,
+              "url": "https://t.co/3pTPAaE9RN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078103464668971493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078008904953602118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（发现同类）好耶，我是一只药娘！（摆尾巴）（吞食补佳乐）我是药娘 好耶 （疯狂喵叫）（晃耳朵）好耶 药娘我是药娘，好耶！！！！！（摆动尾巴）（rua耳朵）（使劲撒娇）（在地上打滚）（装可爱） https://t.co/3pTPAaE9RN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2078008904953602118",
+        "created_at": "2026-07-17T06:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078008904953602118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078008904953602118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1249,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "（发现同类）好耶，我是一只药娘！（摆尾巴）（吞食补佳乐）我是药娘 好耶 （疯狂喵叫）（晃耳朵）好耶 药娘我是药娘，好耶！！！！！（摆动尾巴）（rua耳朵）（使劲撒娇）（在地上打滚）（装可爱）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡✞ \n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\n⟡ v-kei ꙳scenecore lover ♡✦ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 109,
+          "like_count": 1275,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 490,
+          "like_count": 3246,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1002
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

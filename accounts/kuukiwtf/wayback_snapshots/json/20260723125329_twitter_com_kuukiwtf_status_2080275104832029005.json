@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080275089975885824",
+        "3_2080275097898913792"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080275104832029005",
+    "created_at": "2026-07-23T12:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080275104832029005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UjkYPZRMLG",
+          "end": 27,
+          "expanded_url": "https://x.com/kuukiwtf/status/2080275104832029005/photo/1",
+          "media_key": "3_2080275089975885824",
+          "start": 4,
+          "url": "https://t.co/UjkYPZRMLG"
+        },
+        {
+          "display_url": "pic.x.com/UjkYPZRMLG",
+          "end": 27,
+          "expanded_url": "https://x.com/kuukiwtf/status/2080275104832029005/photo/1",
+          "media_key": "3_2080275097898913792",
+          "start": 4,
+          "url": "https://t.co/UjkYPZRMLG"
+        },
+        {
+          "display_url": "x.com/Huqi2009/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Huqi2009/status/2080225051907871181",
+          "start": 28,
+          "url": "https://t.co/2U3qhfvJvf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080275104832029005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080225051907871181",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跟一个 https://t.co/UjkYPZRMLG https://t.co/2U3qhfvJvf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2080275089975885824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6fLC0bQAAI4YF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2080275097898913792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6fLgVbEAA8syO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3216,
+        "media_key": "3_2080225044589088768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5xqBOakAAXShX.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080275089975885824",
+            "3_2080275097898913792"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080275104832029005",
+        "created_at": "2026-07-23T12:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080275104832029005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjkYPZRMLG",
+              "end": 27,
+              "expanded_url": "https://x.com/kuukiwtf/status/2080275104832029005/photo/1",
+              "media_key": "3_2080275089975885824",
+              "start": 4,
+              "url": "https://t.co/UjkYPZRMLG"
+            },
+            {
+              "display_url": "pic.x.com/UjkYPZRMLG",
+              "end": 27,
+              "expanded_url": "https://x.com/kuukiwtf/status/2080275104832029005/photo/1",
+              "media_key": "3_2080275097898913792",
+              "start": 4,
+              "url": "https://t.co/UjkYPZRMLG"
+            },
+            {
+              "display_url": "x.com/Huqi2009/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Huqi2009/status/2080225051907871181",
+              "start": 28,
+              "url": "https://t.co/2U3qhfvJvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080275104832029005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080225051907871181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟一个 https://t.co/UjkYPZRMLG https://t.co/2U3qhfvJvf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080225044589088768"
+          ]
+        },
+        "author_id": "1611274720460304384",
+        "conversation_id": "2080225051907871181",
+        "created_at": "2026-07-23T09:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080225051907871181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8P4kg3bulF",
+              "end": 47,
+              "expanded_url": "https://x.com/Huqi2009/status/2080225051907871181/photo/1",
+              "media_key": "3_2080225044589088768",
+              "start": 24,
+              "url": "https://t.co/8P4kg3bulF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080225051907871181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在国内社媒越用越少了\n没有一天忍不住不上X😂 https://t.co/8P4kg3bulF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 317,
+          "like_count": 4243,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T08:13:34.000Z",
+        "description": "「地球上，天空下，我们做一对傻瓜」\nAnother me @Huqi1118",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Huqi1118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1795901462",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1795901462",
+                "start": 0,
+                "url": "https://t.co/FQW6XHHPuY"
+              }
+            ]
+          }
+        },
+        "id": "1611274720460304384",
+        "location": "Kivotos",
+        "name": "𝚂𝚎𝚛𝚊𝚙𝚑💊",
+        "pinned_tweet_id": "2075901541861769575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080213676695621632/GxILh98f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 229,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/FQW6XHHPuY",
+        "username": "Huqi2009",
+        "verified": false
+      }
+    ]
+  }
+}

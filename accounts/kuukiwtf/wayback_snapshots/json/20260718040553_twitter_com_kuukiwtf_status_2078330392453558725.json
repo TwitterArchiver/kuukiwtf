@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076891287920259072"
+      ],
+      "media_source_tweet_id": [
+        "2078132616612503934"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078330392453558725",
+    "created_at": "2026-07-18T04:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078330392453558725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818666773790838784",
+          "start": 3,
+          "username": "ZockevVT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EEgitNo4JA",
+          "end": 80,
+          "expanded_url": "https://x.com/ZockevVT/status/2078132616612503934/photo/1",
+          "media_key": "3_2076891287920259072",
+          "start": 57,
+          "url": "https://t.co/EEgitNo4JA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078330392453558725",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 361
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078132616612503934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZockevVT: Esto hace feliz a las cuentas chiquitas ❤️ https://t.co/EEgitNo4JA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 120,
+        "media_key": "3_2076891287920259072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKZn12XMAAoKgN.png",
+        "width": 235
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076891287920259072"
+          ]
+        },
+        "author_id": "1818666773790838784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078132616612503934",
+        "created_at": "2026-07-17T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078132616612503934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EEgitNo4JA",
+              "end": 66,
+              "expanded_url": "https://x.com/ZockevVT/status/2078132616612503934/photo/1",
+              "media_key": "3_2076891287920259072",
+              "start": 43,
+              "url": "https://t.co/EEgitNo4JA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078132616612503934",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 55013,
+          "like_count": 2850,
+          "quote_count": 61,
+          "reply_count": 149,
+          "retweet_count": 361
+        },
+        "reply_settings": "everyone",
+        "text": "Esto hace feliz a las cuentas chiquitas ❤️ https://t.co/EEgitNo4JA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076891287920259072"
+          ],
+          "media_source_tweet_id": [
+            "2078132616612503934"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078330392453558725",
+        "created_at": "2026-07-18T04:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078330392453558725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818666773790838784",
+              "start": 3,
+              "username": "ZockevVT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EEgitNo4JA",
+              "end": 80,
+              "expanded_url": "https://x.com/ZockevVT/status/2078132616612503934/photo/1",
+              "media_key": "3_2076891287920259072",
+              "start": 57,
+              "url": "https://t.co/EEgitNo4JA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078330392453558725",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 361
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078132616612503934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZockevVT: Esto hace feliz a las cuentas chiquitas ❤️ https://t.co/EEgitNo4JA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 124,
+          "like_count": 1572,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T15:15:32.000Z",
+        "description": "Vtuber Dragon Omnipresente. #ZockevVTart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 28,
+                "tag": "ZockevVTart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zockevvt.carrd.co",
+                "end": 23,
+                "expanded_url": "https://zockevvt.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/KnbrnGr6pX"
+              }
+            ]
+          }
+        },
+        "id": "1818666773790838784",
+        "name": "ZockevVT",
+        "pinned_tweet_id": "1964131440217444739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076886333377703937/GMA-4FeM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 200,
+          "like_count": 15407,
+          "listed_count": 1,
+          "media_count": 1401,
+          "tweet_count": 3823
+        },
+        "url": "https://t.co/KnbrnGr6pX",
+        "username": "ZockevVT",
+        "verified": true
+      }
+    ]
+  }
+}

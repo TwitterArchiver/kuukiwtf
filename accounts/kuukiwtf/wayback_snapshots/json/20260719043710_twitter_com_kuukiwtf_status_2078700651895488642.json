@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078700645373362176"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2078689122286498188",
+    "created_at": "2026-07-19T04:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078700651895488642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "KitsuMio7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ApgV8OJrWL",
+          "end": 67,
+          "expanded_url": "https://x.com/kuukiwtf/status/2078700651895488642/photo/1",
+          "media_key": "3_2078700645373362176",
+          "start": 44,
+          "url": "https://t.co/ApgV8OJrWL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078700651895488642",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078689122286498188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitsuMio7 这里写了..\n若只\n这不明显的自我介绍吗\n关爱关爱他得了\n真是的 https://t.co/ApgV8OJrWL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 586,
+        "media_key": "3_2078700645373362176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkHOTnawAAvR1p.jpg",
+        "width": 551
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078689111834292224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNj8u91a8AApfgX.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078700645373362176"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2078689122286498188",
+        "created_at": "2026-07-19T04:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078700651895488642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "KitsuMio7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ApgV8OJrWL",
+              "end": 67,
+              "expanded_url": "https://x.com/kuukiwtf/status/2078700651895488642/photo/1",
+              "media_key": "3_2078700645373362176",
+              "start": 44,
+              "url": "https://t.co/ApgV8OJrWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078700651895488642",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078689122286498188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitsuMio7 这里写了..\n若只\n这不明显的自我介绍吗\n关爱关爱他得了\n真是的 https://t.co/ApgV8OJrWL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078689111834292224"
+          ]
+        },
+        "author_id": "2060679315126439936",
+        "conversation_id": "2078689122286498188",
+        "created_at": "2026-07-19T03:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078689122286498188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Oj03NlEsh",
+              "end": 37,
+              "expanded_url": "https://x.com/KitsuMio7/status/2078689122286498188/photo/1",
+              "media_key": "3_2078689111834292224",
+              "start": 14,
+              "url": "https://t.co/1Oj03NlEsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078689122286498188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是被 MtF 伤害过吗？ https://t.co/1Oj03NlEsh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 171,
+          "like_count": 2211,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT 2023 | ENTP | AuDHD | BPD | DID | TS/Node | 先天跨 | 声音女性化 | MioMtFWiki 创建&维护者 | 激进形式平权主义 | 激进性别自决主义 | 反性别权利分化 | 反还原论 | 碎碎念@KitsuMio79 | 同类互 fo 喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KitsuMio79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074764007295385600/5PZFNtiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 1166,
+          "like_count": 2233,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "KitsuMio7",
+        "verified": true
+      }
+    ]
+  }
+}

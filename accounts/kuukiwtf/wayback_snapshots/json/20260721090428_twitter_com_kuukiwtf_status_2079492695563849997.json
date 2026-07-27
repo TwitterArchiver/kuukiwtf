@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079492675724881920",
+        "3_2079492683014483968",
+        "3_2079492689821921280"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079492695563849997",
+    "created_at": "2026-07-21T09:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079492695563849997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IHLpDXOgEX",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2079492695563849997/photo/1",
+          "media_key": "3_2079492675724881920",
+          "start": 0,
+          "url": "https://t.co/IHLpDXOgEX"
+        },
+        {
+          "display_url": "pic.x.com/IHLpDXOgEX",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2079492695563849997/photo/1",
+          "media_key": "3_2079492683014483968",
+          "start": 0,
+          "url": "https://t.co/IHLpDXOgEX"
+        },
+        {
+          "display_url": "pic.x.com/IHLpDXOgEX",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2079492695563849997/photo/1",
+          "media_key": "3_2079492689821921280",
+          "start": 0,
+          "url": "https://t.co/IHLpDXOgEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079492695563849997",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/IHLpDXOgEX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2079492675724881920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvXkimbsAAZXUL.jpg",
+        "width": 534
+      },
+      {
+        "height": 534,
+        "media_key": "3_2079492683014483968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvXk9waMAAtv9a.jpg",
+        "width": 534
+      },
+      {
+        "height": 534,
+        "media_key": "3_2079492689821921280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvXlXHbcAA245D.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079492675724881920",
+            "3_2079492683014483968",
+            "3_2079492689821921280"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079492695563849997",
+        "created_at": "2026-07-21T09:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079492695563849997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IHLpDXOgEX",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2079492695563849997/photo/1",
+              "media_key": "3_2079492675724881920",
+              "start": 0,
+              "url": "https://t.co/IHLpDXOgEX"
+            },
+            {
+              "display_url": "pic.x.com/IHLpDXOgEX",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2079492695563849997/photo/1",
+              "media_key": "3_2079492683014483968",
+              "start": 0,
+              "url": "https://t.co/IHLpDXOgEX"
+            },
+            {
+              "display_url": "pic.x.com/IHLpDXOgEX",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2079492695563849997/photo/1",
+              "media_key": "3_2079492689821921280",
+              "start": 0,
+              "url": "https://t.co/IHLpDXOgEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079492695563849997",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IHLpDXOgEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n要打标签的内容: @voidsama777\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 251,
+          "like_count": 3281,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

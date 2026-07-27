@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081318635319226368"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081318643845988863",
+    "created_at": "2026-07-26T10:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081318643845988863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dMC1Jr2y0c",
+          "end": 66,
+          "expanded_url": "https://x.com/kuukiwtf/status/2081318643845988863/photo/1",
+          "media_key": "3_2081318635319226368",
+          "start": 43,
+          "url": "https://t.co/dMC1Jr2y0c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081318643845988863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没东西发了 怀念一下六月底我买手机好了 悲 😭😭😭😭我怎么那么惨啊我又要在中国呆着了 https://t.co/dMC1Jr2y0c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_2081318635319226368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJURYKacAA8vMj.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081318635319226368"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081318643845988863",
+        "created_at": "2026-07-26T10:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081318643845988863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMC1Jr2y0c",
+              "end": 66,
+              "expanded_url": "https://x.com/kuukiwtf/status/2081318643845988863/photo/1",
+              "media_key": "3_2081318635319226368",
+              "start": 43,
+              "url": "https://t.co/dMC1Jr2y0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081318643845988863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没东西发了 怀念一下六月底我买手机好了 悲 😭😭😭😭我怎么那么惨啊我又要在中国呆着了 https://t.co/dMC1Jr2y0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 363,
+          "like_count": 5693,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

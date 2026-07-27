@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080923326239920196",
+    "created_at": "2026-07-25T09:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080945825878884674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1920881863310123008",
+          "start": 0,
+          "username": "iron314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080945825878884674",
+    "in_reply_to_user_id": "1920881863310123008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080945094069510615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iron314 把你觉得去掉喵 就是非常有水平🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080923326239920196",
+        "created_at": "2026-07-25T09:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080945825878884674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1920881863310123008",
+              "start": 0,
+              "username": "iron314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080945825878884674",
+        "in_reply_to_user_id": "1920881863310123008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080945094069510615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iron314 把你觉得去掉喵 就是非常有水平🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920881863310123008",
+        "conversation_id": "2080923326239920196",
+        "created_at": "2026-07-25T09:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080945094069510615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080945094069510615",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080923326239920196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 不得不说，“我觉得”pixel的工业设计还是很有水平的啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 341,
+          "like_count": 5262,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 919
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-09T16:41:58.000Z",
+        "description": "只是一个疯子而已啦……",
+        "id": "1920881863310123008",
+        "location": "empty dream",
+        "name": "iron",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064433474677944320/ot0k9yiz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 271,
+          "like_count": 65841,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 784
+        },
+        "url": "",
+        "username": "iron314",
+        "verified": false
+      }
+    ]
+  }
+}

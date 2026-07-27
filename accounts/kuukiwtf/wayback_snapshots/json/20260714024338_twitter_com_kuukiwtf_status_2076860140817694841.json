@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2076860140817694841",
+    "created_at": "2026-07-14T02:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076860140817694841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ANDEL0426/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ANDEL0426/status/2076282735711420640",
+          "start": 18,
+          "url": "https://t.co/3qGZ3udKR5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076860140817694841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076282735711420640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我什么时候能1000fo。（做梦呢 https://t.co/3qGZ3udKR5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2076860140817694841",
+        "created_at": "2026-07-14T02:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076860140817694841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ANDEL0426/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ANDEL0426/status/2076282735711420640",
+              "start": 18,
+              "url": "https://t.co/3qGZ3udKR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076860140817694841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076282735711420640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我什么时候能1000fo。（做梦呢 https://t.co/3qGZ3udKR5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2076282735711420640",
+        "created_at": "2026-07-12T12:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076282735711420640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076282735711420640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2428,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我什么时候能1000fo。（做梦呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡✞ \n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\n⟡ v-kei ꙳scenecore lover ♡✦ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "我的眼淚 你聽得到嗎\n生理性别女｜心理性别女｜四爱\n苦逼女高。日常倒苦水\n推=qq空间 无任何r18",
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072650381449162752/m20v3_lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 338,
+          "like_count": 1365,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

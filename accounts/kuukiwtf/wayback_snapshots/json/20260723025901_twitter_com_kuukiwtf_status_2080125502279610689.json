@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080125502279610689",
+    "created_at": "2026-07-23T02:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080125502279610689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skdky_0xzero/s…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/skdky_0xzero/status/2080119147413827957",
+          "start": 131,
+          "url": "https://t.co/JW4HPyh1s6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080125502279610689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080119147413827957",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "肯       肯   德德德     基基基\n 肯     肯    德　　    基     基\n  肯   肯     德德德    基     基\n   肯 肯　　       德   基     基\n     肯         德德德    基基基 https://t.co/JW4HPyh1s6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080125502279610689",
+        "created_at": "2026-07-23T02:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080125502279610689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skdky_0xzero/s…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/skdky_0xzero/status/2080119147413827957",
+              "start": 131,
+              "url": "https://t.co/JW4HPyh1s6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080125502279610689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080119147413827957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "肯       肯   德德德     基基基\n 肯     肯    德　　    基     基\n  肯   肯     德德德    基     基\n   肯 肯　　       德   基     基\n     肯         德德德    基基基 https://t.co/JW4HPyh1s6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918898482045480960",
+        "conversation_id": "2080119147413827957",
+        "created_at": "2026-07-23T02:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080119147413827957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080119147413827957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肯       肯   德德德     基基基\n 肯     肯    德　　    基     基\n  肯   肯     德德德    基     基\n   肯 肯　　       德   基     基\n     肯         德德德    基基基"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 301,
+          "like_count": 4026,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 677
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-04T05:20:36.000Z",
+        "description": "Get Rich All In Web3｜Infinite progress｜Crypto｜专心搞U 偶尔悟道｜推文内容仅供参考 不构成投资建议｜我们都是小韭菜，有一天会被强大的庄庄割死｜My Club：https://t.co/sEBmRfKJjG｜商务合作⬇️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kaoyu_club",
+                "end": 125,
+                "expanded_url": "https://t.me/kaoyu_club",
+                "start": 102,
+                "url": "https://t.co/sEBmRfKJjG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kaoyu_0xzero",
+                "end": 23,
+                "expanded_url": "https://t.me/kaoyu_0xzero",
+                "start": 0,
+                "url": "https://t.co/QzSk0p2hlg"
+              }
+            ]
+          }
+        },
+        "id": "1918898482045480960",
+        "location": "尼伯龙根",
+        "name": "社恐大烤鱼｜买美股上币安",
+        "pinned_tweet_id": "2062508632772894959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062132010068680704/9khju5eR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4643,
+          "following_count": 3445,
+          "like_count": 13966,
+          "listed_count": 7,
+          "media_count": 505,
+          "tweet_count": 6650
+        },
+        "url": "https://t.co/QzSk0p2hlg",
+        "username": "skdky_0xzero",
+        "verified": true
+      }
+    ]
+  }
+}

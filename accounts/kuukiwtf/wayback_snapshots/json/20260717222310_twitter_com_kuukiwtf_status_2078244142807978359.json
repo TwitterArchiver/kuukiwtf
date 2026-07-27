@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2078244142807978359",
+    "created_at": "2026-07-17T22:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T23:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078244142807978359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2043048243760648192",
+          "start": 3,
+          "username": "Duanmu1Megumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078244142807978359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071404320474767371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Duanmu1Megumi: 自介\n昵称:端木Megumi\n名字构成:端木（中国复姓）+Megumi（《学园孤岛》佐倉慈的「慈」）\n称呼:端木/Megumi\n年龄:21\n\n性别:♂\n只是想找女生聊天的建议看清楚性别这里\n\n头像:松坂砂糖\n国籍:🇨🇳\n中英日都可，韩语入门…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2078244142807978359",
+        "created_at": "2026-07-17T22:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T23:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078244142807978359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2043048243760648192",
+              "start": 3,
+              "username": "Duanmu1Megumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078244142807978359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071404320474767371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Duanmu1Megumi: 自介\n昵称:端木Megumi\n名字构成:端木（中国复姓）+Megumi（《学园孤岛》佐倉慈的「慈」）\n称呼:端木/Megumi\n年龄:21\n\n性别:♂\n只是想找女生聊天的建议看清楚性别这里\n\n头像:松坂砂糖\n国籍:🇨🇳\n中英日都可，韩语入门…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043048243760648192",
+        "conversation_id": "2071404320474767371",
+        "created_at": "2026-06-29T01:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071404320474767371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071404320474767371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2458,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自介\n昵称:端木Megumi\n名字构成:端木（中国复姓）+Megumi（《学园孤岛》佐倉慈的「慈」）\n称呼:端木/Megumi\n年龄:21\n\n性别:♂\n只是想找女生聊天的建议看清楚性别这里\n\n头像:松坂砂糖\n国籍:🇨🇳\n中英日都可，韩语入门中\n交朋友为主，有关必回私信必回，每天不定时上线，帖子内容很杂\n会尽力带来一点温暖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 118,
+          "like_count": 1510,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T19:27:24.000Z",
+        "description": "|请看置顶|\n主播是♂，如果只是想找女生聊天那你可能要失望了\n第一次使用推\n日常垢（？）\n（算是日常号，偶尔发癫）\n| 交友 |\n| 略带抑郁|\n| 欢迎私信 |\n| 政治❌|\n|因为有课，所以不定时上线|\n孩子们快来跟我交友\n有关必回，评论必回",
+        "id": "2043048243760648192",
+        "name": "端木Megumi",
+        "pinned_tweet_id": "2071404320474767371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059933442616463360/gUG76Qas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 281,
+          "like_count": 3102,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1892
+        },
+        "url": "",
+        "username": "Duanmu1Megumi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2077540075483861470",
+    "created_at": "2026-07-15T23:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T00:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077540075483861470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dearemon/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/dearemon/status/2077277219412660338",
+          "start": 11,
+          "url": "https://t.co/OR6ENjJu4c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077540075483861470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077277219412660338",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這是右美沙芬吃太多了 https://t.co/OR6ENjJu4c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2077277205848346624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP4nOKbUAA3H_c.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2077540075483861470",
+        "created_at": "2026-07-15T23:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077540075483861470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dearemon/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/dearemon/status/2077277219412660338",
+              "start": 11,
+              "url": "https://t.co/OR6ENjJu4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077540075483861470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077277219412660338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這是右美沙芬吃太多了 https://t.co/OR6ENjJu4c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077277205848346624"
+          ]
+        },
+        "author_id": "126581934",
+        "conversation_id": "2077277219412660338",
+        "created_at": "2026-07-15T06:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077277219412660338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gd4AQJRXf",
+              "end": 35,
+              "expanded_url": "https://x.com/dearemon/status/2077277219412660338/photo/1",
+              "media_key": "3_2077277205848346624",
+              "start": 12,
+              "url": "https://t.co/8gd4AQJRXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077277219412660338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1266,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的是醉了……😵‍💫 https://t.co/8gd4AQJRXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡✞ \n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\n⟡ v-kei ꙳scenecore lover ♡✦ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 68,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64572,
+          "following_count": 711,
+          "like_count": 5872,
+          "listed_count": 236,
+          "media_count": 35286,
+          "tweet_count": 407195
+        },
+        "url": "",
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

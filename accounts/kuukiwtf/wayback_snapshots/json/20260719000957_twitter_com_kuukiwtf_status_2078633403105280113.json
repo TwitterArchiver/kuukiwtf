@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2078375825720987781",
+    "created_at": "2026-07-19T00:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T01:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078633403105280113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952257824664485888",
+          "start": 0,
+          "username": "LibailuOne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078633403105280113",
+    "in_reply_to_user_id": "1952257824664485888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078375825720987781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LibailuOne 他昵称不是写了吗\n若只 若只自我介绍的呗🤣🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078375822264811520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNffzHPawAAmOiT.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2078375825720987781",
+        "created_at": "2026-07-19T00:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078633403105280113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952257824664485888",
+              "start": 0,
+              "username": "LibailuOne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078633403105280113",
+        "in_reply_to_user_id": "1952257824664485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078375825720987781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LibailuOne 他昵称不是写了吗\n若只 若只自我介绍的呗🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078375822264811520"
+          ]
+        },
+        "author_id": "1952257824664485888",
+        "conversation_id": "2078375825720987781",
+        "created_at": "2026-07-18T07:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078375825720987781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVCxzIHqVT",
+              "end": 40,
+              "expanded_url": "https://x.com/LibailuOne/status/2078375825720987781/photo/1",
+              "media_key": "3_2078375822264811520",
+              "start": 17,
+              "url": "https://t.co/FVCxzIHqVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078375825720987781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3638,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "至今不明白这作者受到了什么刺激😰 https://t.co/FVCxzIHqVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 170,
+          "like_count": 2126,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-04T06:38:58.000Z",
+        "description": "摆烂在家，无业游民。欢迎来找我聊天🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/ybSVcXZYco"
+              }
+            ]
+          }
+        },
+        "id": "1952257824664485888",
+        "location": "亚神瑞亚尼赛亚（Asenruia Nisaa）",
+        "name": "Libailu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078069980101570560/fPG5ylsK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 387,
+          "like_count": 8672,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/ybSVcXZYco",
+        "username": "LibailuOne",
+        "verified": false
+      }
+    ]
+  }
+}

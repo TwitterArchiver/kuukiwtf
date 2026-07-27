@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079630292923691167",
+    "created_at": "2026-07-21T20:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T21:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079667456461926518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1171043978201878528",
+          "start": 0,
+          "username": "Claris73645268"
+        },
+        {
+          "end": 28,
+          "id": "1877035470615638016",
+          "start": 16,
+          "username": "LMegurine03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079667456461926518",
+    "in_reply_to_user_id": "1171043978201878528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079630292923691167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Claris73645268 @LMegurine03 👅👅👅👅👅👅👅👅如此美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_2079630285722079232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxUufyb0AAa6W2.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079630285713657856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxUufwbUAA17zM.jpg",
+        "width": 1066
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2079630285709459456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxUufvbQAALiUK.jpg",
+        "width": 1988
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2079630286007201792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxUug2acAAvpjy.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079630292923691167",
+        "created_at": "2026-07-21T20:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T21:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079667456461926518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1171043978201878528",
+              "start": 0,
+              "username": "Claris73645268"
+            },
+            {
+              "end": 28,
+              "id": "1877035470615638016",
+              "start": 16,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079667456461926518",
+        "in_reply_to_user_id": "1171043978201878528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079630292923691167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Claris73645268 @LMegurine03 👅👅👅👅👅👅👅👅如此美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079630285722079232",
+            "3_2079630285713657856",
+            "3_2079630285709459456",
+            "3_2079630286007201792"
+          ]
+        },
+        "author_id": "1171043978201878528",
+        "conversation_id": "2079630292923691167",
+        "created_at": "2026-07-21T18:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079630292923691167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1877035470615638016",
+              "start": 8,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tUUkmJJdU",
+              "end": 67,
+              "expanded_url": "https://x.com/Claris73645268/status/2079630292923691167/photo/1",
+              "media_key": "3_2079630285722079232",
+              "start": 44,
+              "url": "https://t.co/4tUUkmJJdU"
+            },
+            {
+              "display_url": "pic.x.com/4tUUkmJJdU",
+              "end": 67,
+              "expanded_url": "https://x.com/Claris73645268/status/2079630292923691167/photo/1",
+              "media_key": "3_2079630285713657856",
+              "start": 44,
+              "url": "https://t.co/4tUUkmJJdU"
+            },
+            {
+              "display_url": "pic.x.com/4tUUkmJJdU",
+              "end": 67,
+              "expanded_url": "https://x.com/Claris73645268/status/2079630292923691167/photo/1",
+              "media_key": "3_2079630285709459456",
+              "start": 44,
+              "url": "https://t.co/4tUUkmJJdU"
+            },
+            {
+              "display_url": "pic.x.com/4tUUkmJJdU",
+              "end": 67,
+              "expanded_url": "https://x.com/Claris73645268/status/2079630292923691167/photo/1",
+              "media_key": "3_2079630286007201792",
+              "start": 44,
+              "url": "https://t.co/4tUUkmJJdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079630292923691167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是luka @LMegurine03 作品集👏\n把我拍的好好看）\n意境这一块拿捏了 https://t.co/4tUUkmJJdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n要打标签的内容: @voidsama777\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 271,
+          "like_count": 3455,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-09T12:53:49.000Z",
+        "description": "mtf（？）欢迎来戳☺️同类互fo喵\n@AZURE_UwU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "AZURE_UwU"
+              }
+            ]
+          }
+        },
+        "id": "1171043978201878528",
+        "location": "unknown",
+        "name": "Claris🍥",
+        "pinned_tweet_id": "2079267056227438963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 375,
+          "like_count": 984,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2790
+        },
+        "url": "",
+        "username": "Claris73645268",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 7499,
+          "like_count": 8248,
+          "listed_count": 8,
+          "media_count": 1890,
+          "tweet_count": 7148
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

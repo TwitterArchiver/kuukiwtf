@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079499480563650647",
+    "created_at": "2026-07-21T09:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079499480563650647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Parasiticharlo…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Parasiticharlot/status/2079347103021633734",
+          "start": 19,
+          "url": "https://t.co/LY52Eu9OAf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079499480563650647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079347103021633734",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "机器人都比你们聪明🥵🥵😡（bushi https://t.co/LY52Eu9OAf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079499480563650647",
+        "created_at": "2026-07-21T09:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079499480563650647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Parasiticharlo…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Parasiticharlot/status/2079347103021633734",
+              "start": 19,
+              "url": "https://t.co/LY52Eu9OAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079499480563650647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079347103021633734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "机器人都比你们聪明🥵🥵😡（bushi https://t.co/LY52Eu9OAf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2734687936",
+        "conversation_id": "2079346896414671270",
+        "created_at": "2026-07-20T23:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T00:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079347103021633734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079347103021633734",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079346896414671270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 名字好像很眼熟！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n要打标签的内容: @voidsama777\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 251,
+          "like_count": 3288,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-06T01:45:47.000Z",
+        "description": "银狐VPN，高速稳定，下载送2天，邀请送1天，提前安装更省心。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/Lo6fytolT2"
+              }
+            ]
+          }
+        },
+        "id": "2734687936",
+        "name": "银狐VPN高速引擎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078815196248739840/wvzrY2JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 30,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/Lo6fytolT2",
+        "username": "Parasiticharlot",
+        "verified": false
+      }
+    ]
+  }
+}

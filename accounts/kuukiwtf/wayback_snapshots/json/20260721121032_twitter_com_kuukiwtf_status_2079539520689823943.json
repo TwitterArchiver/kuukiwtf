@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079539520689823943",
+    "created_at": "2026-07-21T12:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079539520689823943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reservoir48897…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/reservoir488970/status/2079517135290925315",
+          "start": 9,
+          "url": "https://t.co/Rb0ZSQ3o8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079539520689823943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079517135290925315",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "理想型\n手机🥺🥺 https://t.co/Rb0ZSQ3o8f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079517129670631424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvtz8pboAAGgh3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079539520689823943",
+        "created_at": "2026-07-21T12:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079539520689823943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reservoir48897…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/reservoir488970/status/2079517135290925315",
+              "start": 9,
+              "url": "https://t.co/Rb0ZSQ3o8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079539520689823943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079517135290925315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理想型\n手机🥺🥺 https://t.co/Rb0ZSQ3o8f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079517129670631424"
+          ]
+        },
+        "author_id": "1786754414533021696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079517135290925315",
+        "created_at": "2026-07-21T10:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079517135290925315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IjIrPWqLQW",
+              "end": 29,
+              "expanded_url": "https://x.com/reservoir488970/status/2079517135290925315/photo/1",
+              "media_key": "3_2079517129670631424",
+              "start": 6,
+              "url": "https://t.co/IjIrPWqLQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079517135290925315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "僕のスマホ https://t.co/IjIrPWqLQW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n要打标签的内容: @voidsama777\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 255,
+          "like_count": 3332,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-04T13:47:22.000Z",
+        "description": "複垢管理者@Hitorichan810 @UNI10424445 万博通期勢 TTちゃん推し 阿波人 Aimez France エンカは基本しません（今まで会った人+3人限定）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "Hitorichan810"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "UNI10424445"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@andalousie837…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@andalousie8373?si=oyb384yrfrUUNC-J",
+                "start": 0,
+                "url": "https://t.co/nYm0KTzYiw"
+              }
+            ]
+          }
+        },
+        "id": "1786754414533021696",
+        "location": "フランス　パリ",
+        "name": "kroï🇫🇷",
+        "pinned_tweet_id": "2023315266160210322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984998887204241408/OSV1irOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1207,
+          "like_count": 179971,
+          "listed_count": 6,
+          "media_count": 1366,
+          "tweet_count": 30132
+        },
+        "url": "https://t.co/nYm0KTzYiw",
+        "username": "reservoir488970",
+        "verified": false
+      }
+    ]
+  }
+}

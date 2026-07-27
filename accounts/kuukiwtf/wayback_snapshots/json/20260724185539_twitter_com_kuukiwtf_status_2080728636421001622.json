@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080728600257720320"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080728636421001622",
+    "created_at": "2026-07-24T18:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080728636421001622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KMauYLesAd",
+          "end": 41,
+          "expanded_url": "https://x.com/kuukiwtf/status/2080728636421001622/video/1",
+          "media_key": "13_2080728600257720320",
+          "start": 18,
+          "url": "https://t.co/KMauYLesAd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080728636421001622",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "happy fumo friday https://t.co/KMauYLesAd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58566,
+        "height": 576,
+        "media_key": "13_2080728600257720320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080728600257720320/img/I6skunFxes1ESI25.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080728600257720320/vid/avc1/364x270/O-9IYDAJxENoGP2M.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080728600257720320/vid/avc1/486x360/OOveLT_ppRa7KrFn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080728600257720320/vid/avc1/778x576/o1E6w_5lmE24Xpkc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080728600257720320/pl/BQz3CLq87msZO1fW.m3u8"
+          }
+        ],
+        "width": 778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080728600257720320"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080728636421001622",
+        "created_at": "2026-07-24T18:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080728636421001622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMauYLesAd",
+              "end": 41,
+              "expanded_url": "https://x.com/kuukiwtf/status/2080728636421001622/video/1",
+              "media_key": "13_2080728600257720320",
+              "start": 18,
+              "url": "https://t.co/KMauYLesAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080728636421001622",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "happy fumo friday https://t.co/KMauYLesAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 334,
+          "like_count": 4733,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 841
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

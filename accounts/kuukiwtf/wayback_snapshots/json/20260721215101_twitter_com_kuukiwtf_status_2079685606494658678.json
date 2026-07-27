@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079685606494658678",
+    "created_at": "2026-07-21T21:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T22:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079685606494658678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rwayne/status/…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/rwayne/status/2079429914298646795",
+          "start": 68,
+          "url": "https://t.co/8X8ngcELiS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079685606494658678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079429914298646795",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼吧 \n老子的脊椎骨他媽的是生下來就有得 我媽給的 跟這個死禿頭有什麼關係😅😅\n還有這誰啊 老不死的禿頭嗎\n😅😅\n中國支那蛆蛆鬧麻了 https://t.co/8X8ngcELiS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_2079413584715759616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuPo1oawAAfQmV.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079685606494658678",
+        "created_at": "2026-07-21T21:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079685606494658678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rwayne/status/…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/rwayne/status/2079429914298646795",
+              "start": 68,
+              "url": "https://t.co/8X8ngcELiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079685606494658678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079429914298646795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼吧 \n老子的脊椎骨他媽的是生下來就有得 我媽給的 跟這個死禿頭有什麼關係😅😅\n還有這誰啊 老不死的禿頭嗎\n😅😅\n中國支那蛆蛆鬧麻了 https://t.co/8X8ngcELiS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079413584715759616"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "conversation_id": "2079429914298646795",
+        "created_at": "2026-07-21T04:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079429914298646795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0wJH1HFNzL",
+              "end": 37,
+              "expanded_url": "https://x.com/rwayne/status/2079429914298646795/photo/1",
+              "media_key": "3_2079413584715759616",
+              "start": 14,
+              "url": "https://t.co/0wJH1HFNzL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079429914298646795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 1100999,
+          "like_count": 1557,
+          "quote_count": 0,
+          "reply_count": 449,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "这可能是我见过最牛x的评论 https://t.co/0wJH1HFNzL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 273,
+          "like_count": 3528,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 552
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "医学，经济学与人工智能交叉领域段子手研究员🤡\n我的科研Skill：rw-research-skill\n发段子是因为科研很压抑了...😅",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2077401955387982126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52915,
+          "following_count": 784,
+          "like_count": 39370,
+          "listed_count": 276,
+          "media_count": 6493,
+          "tweet_count": 21201
+        },
+        "url": "",
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

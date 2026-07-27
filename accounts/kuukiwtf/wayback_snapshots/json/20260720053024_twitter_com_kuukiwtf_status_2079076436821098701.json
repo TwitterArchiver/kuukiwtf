@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079076338670198784"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079076436821098701",
+    "created_at": "2026-07-20T05:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079076436821098701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MnAKn727wT",
+          "end": 31,
+          "expanded_url": "https://x.com/kuukiwtf/status/2079076436821098701/photo/1",
+          "media_key": "3_2079076338670198784",
+          "start": 8,
+          "url": "https://t.co/MnAKn727wT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079076436821098701",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晒黑了😭😭😭😭 https://t.co/MnAKn727wT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2079076338670198784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpc6iNbYAA_DS7.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079076338670198784"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079076436821098701",
+        "created_at": "2026-07-20T05:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079076436821098701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MnAKn727wT",
+              "end": 31,
+              "expanded_url": "https://x.com/kuukiwtf/status/2079076436821098701/photo/1",
+              "media_key": "3_2079076338670198784",
+              "start": 8,
+              "url": "https://t.co/MnAKn727wT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079076436821098701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晒黑了😭😭😭😭 https://t.co/MnAKn727wT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 211,
+          "like_count": 2555,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 349
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

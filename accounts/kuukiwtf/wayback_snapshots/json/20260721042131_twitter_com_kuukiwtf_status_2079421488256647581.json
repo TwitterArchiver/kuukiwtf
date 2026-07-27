@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079421488256647581",
+    "created_at": "2026-07-21T04:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079421488256647581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhwevea/status…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/zhwevea/status/2079224688094670897",
+          "start": 49,
+          "url": "https://t.co/dDe7Wl3GCb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079421488256647581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079224688094670897",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘻嘻羡慕这些人了\n\n我觉得我死了都不会被人发现 \n被当成又被晶了 账户又被同学发现了\n然后被遗忘 https://t.co/dDe7Wl3GCb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079421488256647581",
+        "created_at": "2026-07-21T04:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079421488256647581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhwevea/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/zhwevea/status/2079224688094670897",
+              "start": 49,
+              "url": "https://t.co/dDe7Wl3GCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079421488256647581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079224688094670897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘻嘻羡慕这些人了\n\n我觉得我死了都不会被人发现 \n被当成又被晶了 账户又被同学发现了\n然后被遗忘 https://t.co/dDe7Wl3GCb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "2079224688094670897",
+        "created_at": "2026-07-20T15:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079224688094670897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ak1raq_love/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ak1raq_love/status/2079221428369629501",
+              "start": 43,
+              "url": "https://t.co/vz6dAtRMaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079224688094670897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 679,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079221428369629501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "声明一点🌚\n如果我本人以后die了🌚\n那么随便你怎么做我都无所谓🌚\n反正我不在乎了🌚 https://t.co/vz6dAtRMaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n要打标签的内容: @voidsama777\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 237,
+          "like_count": 3166,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 460
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 还可以叫我 Eliya ～｜想要每天耍乐到处玩 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7585,
+          "following_count": 434,
+          "like_count": 33429,
+          "listed_count": 24,
+          "media_count": 2642,
+          "tweet_count": 20735
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      }
+    ]
+  }
+}

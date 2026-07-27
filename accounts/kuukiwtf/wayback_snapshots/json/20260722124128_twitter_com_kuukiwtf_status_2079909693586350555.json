@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079909693586350555",
+    "created_at": "2026-07-22T12:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079909693586350555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JustShowMeFumo…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/JustShowMeFumos/status/2079610974655353017",
+          "start": 18,
+          "url": "https://t.co/QvR1G9Pbpd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079909693586350555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079610974655353017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有ai标识 说明是真的（ᗜᴗᗜ） https://t.co/QvR1G9Pbpd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079610971421614080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxDKQaXIAAok90.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079909693586350555",
+        "created_at": "2026-07-22T12:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079909693586350555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JustShowMeFumo…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/JustShowMeFumos/status/2079610974655353017",
+              "start": 18,
+              "url": "https://t.co/QvR1G9Pbpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079909693586350555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079610974655353017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有ai标识 说明是真的（ᗜᴗᗜ） https://t.co/QvR1G9Pbpd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079610971421614080"
+          ]
+        },
+        "author_id": "1676953234286714881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079610974655353017",
+        "created_at": "2026-07-21T16:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079610974655353017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjPLIcu7rn",
+              "end": 23,
+              "expanded_url": "https://x.com/JustShowMeFumos/status/2079610974655353017/photo/1",
+              "media_key": "3_2079610971421614080",
+              "start": 0,
+              "url": "https://t.co/OjPLIcu7rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079610974655353017",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 487,
+          "impression_count": 64059,
+          "like_count": 5716,
+          "quote_count": 16,
+          "reply_count": 48,
+          "retweet_count": 441
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OjPLIcu7rn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 288,
+          "like_count": 3894,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-06T13:57:55.000Z",
+        "description": "made this account so I only see fumos and no other nonsense I see everyday. follow for fumo. please check out @bogmire64 if u r interested in art 🙏🙏🙏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 110,
+                "username": "bogmire64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/xc-NtHkhUaI",
+                "end": 23,
+                "expanded_url": "https://youtu.be/xc-NtHkhUaI",
+                "start": 0,
+                "url": "https://t.co/iKJKiPpwdK"
+              }
+            ]
+          }
+        },
+        "id": "1676953234286714881",
+        "location": "Hell presumably",
+        "name": "Just Show Me Fumos ᗜ_ᗜ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758331987339665408/5RnsDQse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11779,
+          "following_count": 224,
+          "like_count": 44864,
+          "listed_count": 16,
+          "media_count": 3277,
+          "tweet_count": 14599
+        },
+        "url": "https://t.co/iKJKiPpwdK",
+        "username": "JustShowMeFumos",
+        "verified": false
+      }
+    ]
+  }
+}

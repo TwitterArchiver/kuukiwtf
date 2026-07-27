@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078183731454697472",
+        "3_2078183742309580800"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078183748370329947",
+    "created_at": "2026-07-17T18:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078183748370329947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sXDtVXc5JF",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2078183748370329947/photo/1",
+          "media_key": "3_2078183731454697472",
+          "start": 0,
+          "url": "https://t.co/sXDtVXc5JF"
+        },
+        {
+          "display_url": "pic.x.com/sXDtVXc5JF",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2078183748370329947/photo/1",
+          "media_key": "3_2078183742309580800",
+          "start": 0,
+          "url": "https://t.co/sXDtVXc5JF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078183748370329947",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/sXDtVXc5JF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2078183731454697472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcxF9NaYAArquI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 512,
+        "media_key": "3_2078183742309580800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcxGlpawAARu7K.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078183731454697472",
+            "3_2078183742309580800"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078183748370329947",
+        "created_at": "2026-07-17T18:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078183748370329947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXDtVXc5JF",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2078183748370329947/photo/1",
+              "media_key": "3_2078183731454697472",
+              "start": 0,
+              "url": "https://t.co/sXDtVXc5JF"
+            },
+            {
+              "display_url": "pic.x.com/sXDtVXc5JF",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2078183748370329947/photo/1",
+              "media_key": "3_2078183742309580800",
+              "start": 0,
+              "url": "https://t.co/sXDtVXc5JF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078183748370329947",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sXDtVXc5JF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡✞ \n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\n⟡ v-kei ꙳scenecore lover ♡✦ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 112,
+          "like_count": 1352,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

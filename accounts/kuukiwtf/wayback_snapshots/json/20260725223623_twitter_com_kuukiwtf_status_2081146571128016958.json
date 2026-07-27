@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081146571128016958",
+    "created_at": "2026-07-25T22:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T23:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081146571128016958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uuuUu18sage777…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/uuuUu18sage777/status/2081134107514581067",
+          "start": 25,
+          "url": "https://t.co/43NphGEQBK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081146571128016958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081134107514581067",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以今天起床30分钟内坐到桌子前面 高考不会等我 https://t.co/43NphGEQBK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081146571128016958",
+        "created_at": "2026-07-25T22:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081146571128016958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uuuUu18sage777…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/uuuUu18sage777/status/2081134107514581067",
+              "start": 25,
+              "url": "https://t.co/43NphGEQBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081146571128016958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081134107514581067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以今天起床30分钟内坐到桌子前面 高考不会等我 https://t.co/43NphGEQBK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076508802137149440",
+        "conversation_id": "2081134107514581067",
+        "created_at": "2026-07-25T21:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T22:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081134107514581067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081134107514581067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以今天起床30分钟内坐到桌子前面 高考不会等我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 360,
+          "like_count": 5454,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-13T03:28:58.000Z",
+        "description": "8teen 直女 mdd/cptsd/adhd/bulimia转限制 EN/简中 #shedtwt #tcc 新教徒待受洗 #moots #midwestemo 💉 #Mounjaro 10mg gw115lbs 互fo欢迎 i block freely😋i follow back 暗恋孙笑川",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "tcc"
+              },
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "moots"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "midwestemo"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "tag": "Mounjaro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyu77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyu77",
+                "start": 0,
+                "url": "https://t.co/WNRIHx14RL"
+              }
+            ]
+          }
+        },
+        "id": "2076508802137149440",
+        "location": "Springfield, IL",
+        "name": "uu777🇺🇸dpna_irl",
+        "pinned_tweet_id": "2080932032667152531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076699309941424130/wmDPpwfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 131,
+          "like_count": 2047,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/WNRIHx14RL",
+        "username": "uuuUu18sage777",
+        "verified": false
+      }
+    ]
+  }
+}

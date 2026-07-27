@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079418749485277285",
+    "created_at": "2026-07-21T04:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079418749485277285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tristesse_deme…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/Tristesse_demer/status/2079413806934184112",
+          "start": 76,
+          "url": "https://t.co/kv6AvoqOv7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079418749485277285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079413806934184112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "滥用药物就是吸毒，尤其青少年，扔掉你手中的药，从此走上健全路，不要让你的爹妈在天台上眼含泪水。这世界上还有很多的美好等着你不要因为一时的低谷就放弃自己 https://t.co/kv6AvoqOv7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079418749485277285",
+        "created_at": "2026-07-21T04:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079418749485277285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tristesse_deme…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/Tristesse_demer/status/2079413806934184112",
+              "start": 76,
+              "url": "https://t.co/kv6AvoqOv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079418749485277285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079413806934184112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "滥用药物就是吸毒，尤其青少年，扔掉你手中的药，从此走上健全路，不要让你的爹妈在天台上眼含泪水。这世界上还有很多的美好等着你不要因为一时的低谷就放弃自己 https://t.co/kv6AvoqOv7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850329593728917504",
+        "conversation_id": "2079413806934184112",
+        "created_at": "2026-07-21T03:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079413806934184112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki312813/sta…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/yuki312813/status/2079413450359320756",
+              "start": 76,
+              "url": "https://t.co/8JZmsVxaqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079413806934184112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079413450359320756",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "滥用药物就是吸毒，尤其青少年，扔掉你手中的药，从此走上健全路，不要让你的爹妈在天台上眼含泪水。这世界上还有很多的美好等着你不要因为一时的低谷就放弃自己 https://t.co/8JZmsVxaqL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n要打标签的内容: @voidsama777\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 236,
+          "like_count": 3154,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-27T00:12:15.000Z",
+        "description": "可以叫我小池 泛🚪88｜188｜520｜888（歡迎隨意打賞）沒過🚪不閒聊 不賣不約 酗酒嗑藥很溫良 非國人約的別找我我雙相精分自傷 傻逼死好了 查成分回fo\n匿名問👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tristesse_demer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tristesse_demer",
+                "start": 0,
+                "url": "https://t.co/VKVrwx3qbd"
+              }
+            ]
+          }
+        },
+        "id": "1850329593728917504",
+        "name": "離離池上喵",
+        "pinned_tweet_id": "2078689056666333344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078675461190627328/-QRb2quF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 439,
+          "like_count": 4977,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1152
+        },
+        "url": "https://t.co/VKVrwx3qbd",
+        "username": "Tristesse_demer",
+        "verified": false
+      }
+    ]
+  }
+}

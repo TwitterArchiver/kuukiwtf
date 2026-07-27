@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2077624295745085613",
+    "created_at": "2026-07-16T05:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077624295745085613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1gdsb/status/2…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/1gdsb/status/2077607980644880400",
+          "start": 81,
+          "url": "https://t.co/sYTyrwLiTl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077624295745085613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "关于我的🍉: 1.首先谢谢大家对这件事情的关心，我事先根本没有想到会这样，既然已经出这件事情了，那我不如直接讲清楚吧，也不是博得大家的同情什么的，只是回应一下。 2.那人所发出来的聊天记录、照片、视频、都是真的，无一造假，可我从未将这些东西流传在任何网络平台上面，至于那个人是怎么有的，我也不清楚。 3.虽然这事出了，但我没有不尊重任何人，我不认为我有错，所以我不会认错。 4.最后，今天星期4 v我50🤓"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077607980644880400",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于我的🍉: 1.首先谢谢大家对这件事情的关心，我事先根本没有想到会这样，既然已经出这件事情了，那我不如直接讲清楚吧，也不是博得大家的同情什么的，只是回应一下。 https://t.co/sYTyrwLiTl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2077624295745085613",
+        "created_at": "2026-07-16T05:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077624295745085613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1gdsb/status/2…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/1gdsb/status/2077607980644880400",
+              "start": 81,
+              "url": "https://t.co/sYTyrwLiTl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077624295745085613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于我的🍉: 1.首先谢谢大家对这件事情的关心，我事先根本没有想到会这样，既然已经出这件事情了，那我不如直接讲清楚吧，也不是博得大家的同情什么的，只是回应一下。 2.那人所发出来的聊天记录、照片、视频、都是真的，无一造假，可我从未将这些东西流传在任何网络平台上面，至于那个人是怎么有的，我也不清楚。 3.虽然这事出了，但我没有不尊重任何人，我不认为我有错，所以我不会认错。 4.最后，今天星期4 v我50🤓"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077607980644880400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于我的🍉: 1.首先谢谢大家对这件事情的关心，我事先根本没有想到会这样，既然已经出这件事情了，那我不如直接讲清楚吧，也不是博得大家的同情什么的，只是回应一下。 https://t.co/sYTyrwLiTl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024068861134528512",
+        "conversation_id": "2077607980644880400",
+        "created_at": "2026-07-16T04:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077607980644880400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077607980644880400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于我的🍉: 1.首先谢谢大家对这件事情的关心，我事先根本没有想到会这样，既然已经出这件事情了，那我不如直接讲清楚吧，也不是博得大家的同情什么的，只是回应一下。 2.那人所发出来的聊天记录、照片、视频、都是真的，无一造假，可我从未将这些东西流传在任何网络平台上面，至于那个人是怎么有的，我也不清楚。 3.虽然这事出了，但我没有不尊重任何人，我不认为我有错，所以我不会认错。 4.最后，今天星期4 v我50🤓"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 474,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我的🍉: 1.首先谢谢大家对这件事情的关心，我事先根本没有想到会这样，既然已经出这件事情了，那我不如直接讲清楚吧，也不是博得大家的同情什么的，只是回应一下。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡✞ \n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\n⟡ v-kei ꙳scenecore lover ♡✦ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 84,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "mtf/x？ 缺爱？抖m？ 🚪0r🥺一分不用\n不o不割纯发癫 我决定只发正常的东西了发疯的东西都去我草稿箱待着吧😋\n天残年龄党\n小号@ovvvvvvvvvvomtf\n出厂日期2011.8.31（开学前一天悲:(\n身高179 57.4kg\nhrt2026.4.15 同类100%回fo\n其他不想写",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "ovvvvvvvvvvomtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDhbvO"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "location": "广州海珠赤岗",
+        "name": "cn_1gdsb",
+        "pinned_tweet_id": "2077300686853992684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 512,
+          "like_count": 2664,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/nDeqjDhbvO",
+        "username": "1gdsb",
+        "verified": true
+      }
+    ]
+  }
+}

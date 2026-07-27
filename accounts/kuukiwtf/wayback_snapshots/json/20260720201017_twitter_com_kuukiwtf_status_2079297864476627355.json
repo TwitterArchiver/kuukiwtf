@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079239182418083902",
+    "created_at": "2026-07-20T20:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T21:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079297864476627355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2078119852003508224",
+          "start": 0,
+          "username": "KitsuMio79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079297864476627355",
+    "in_reply_to_user_id": "2078119852003508224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079239182418083902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitsuMio79 我是kuuki喵♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079239182418083902",
+        "created_at": "2026-07-20T20:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079297864476627355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2078119852003508224",
+              "start": 0,
+              "username": "KitsuMio79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079297864476627355",
+        "in_reply_to_user_id": "2078119852003508224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079239182418083902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitsuMio79 我是kuuki喵♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078119852003508224",
+        "conversation_id": "2079239182418083902",
+        "created_at": "2026-07-20T16:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079239182418083902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079239182418083902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那你是谁啊，我不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 220,
+          "like_count": 2784,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 412
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-17T14:12:36.000Z",
+        "description": "是创伤型系统橘川系统的主导子系统澪(Mio) | 发一些碎碎念 | 主账号是 @KitsuMio7 | 思维风格侧重点明显变化+失忆基本就是前台切换了，但是自己感觉不到，可能会很频繁 | 解离屏障严重 | 我们都可以是澪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "KitsuMio7"
+              }
+            ]
+          }
+        },
+        "id": "2078119852003508224",
+        "name": "橘川系统 - 主导子系统 · 澪🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078121568363028480/5YEaQA_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 106,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "KitsuMio79",
+        "verified": false
+      }
+    ]
+  }
+}

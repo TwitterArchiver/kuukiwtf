@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2078605344104980971",
+    "created_at": "2026-07-18T22:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T23:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078605344104980971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bulunuofu/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/bulunuofu/status/2078467948604432772",
+          "start": 5,
+          "url": "https://t.co/T27Q0iEvKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078605344104980971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078467948604432772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这期神了 https://t.co/T27Q0iEvKn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2078605344104980971",
+        "created_at": "2026-07-18T22:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T23:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078605344104980971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bulunuofu/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bulunuofu/status/2078467948604432772",
+              "start": 5,
+              "url": "https://t.co/T27Q0iEvKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078605344104980971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078467948604432772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这期神了 https://t.co/T27Q0iEvKn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065706049064312832",
+        "conversation_id": "2078420127406784520",
+        "created_at": "2026-07-18T13:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078467948604432772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782932905419046912",
+              "start": 0,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078467948604432772",
+        "in_reply_to_user_id": "1782932905419046912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2672,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078420127406784520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratshelprats 别打嘴炮吹牛逼，假如你真是只鸡，找你无套操逼逼，汉庭如家鸡上坐 ，无套插操还内射，之后转账，送客"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 164,
+          "like_count": 2000,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-13T08:04:12.000Z",
+        "description": "",
+        "id": "2065706049064312832",
+        "name": "布鲁诺夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065707177147580416/F5RYkDGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "bulunuofu",
+        "verified": false
+      }
+    ]
+  }
+}

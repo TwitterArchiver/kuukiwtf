@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2078200172484669476",
+    "created_at": "2026-07-17T19:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078200172484669476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tnggu34051/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/tnggu34051/status/2078041302747509106",
+          "start": 12,
+          "url": "https://t.co/WlV3iCoZ1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078200172484669476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078041302747509106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁来和我发生一下性关系 https://t.co/WlV3iCoZ1z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2078200172484669476",
+        "created_at": "2026-07-17T19:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078200172484669476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tnggu34051/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/tnggu34051/status/2078041302747509106",
+              "start": 12,
+              "url": "https://t.co/WlV3iCoZ1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078200172484669476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078041302747509106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁来和我发生一下性关系 https://t.co/WlV3iCoZ1z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872300767136399361",
+        "conversation_id": "2078041302747509106",
+        "created_at": "2026-07-17T08:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078041302747509106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078041302747509106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16837,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 100,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得和推特认识的人见面是一件很恐怖的事情吗？见面就等于默认准许发生性关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 113,
+          "like_count": 1402,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 183
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-26T15:17:50.000Z",
+        "description": "希望开开心心每一天˃ ˄ ˂̥̥  有🚪 提供情绪价值",
+        "id": "1872300767136399361",
+        "name": "兔糖",
+        "pinned_tweet_id": "1930252801764143392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919760197893099521/gNG0oioz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4341,
+          "following_count": 9,
+          "like_count": 304,
+          "listed_count": 6,
+          "media_count": 18,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "tnggu34051",
+        "verified": false
+      }
+    ]
+  }
+}

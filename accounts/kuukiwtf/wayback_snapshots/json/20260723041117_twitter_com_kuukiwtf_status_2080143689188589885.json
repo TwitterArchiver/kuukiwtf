@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080143682351874048"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080143689188589885",
+    "created_at": "2026-07-23T04:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080143689188589885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ulmZLrluSL",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2080143689188589885/photo/1",
+          "media_key": "3_2080143682351874048",
+          "start": 0,
+          "url": "https://t.co/ulmZLrluSL"
+        },
+        {
+          "display_url": "x.com/A89642952N/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/A89642952N/status/2080113093473157349",
+          "start": 24,
+          "url": "https://t.co/qzTWCfnUQo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080143689188589885",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080113093473157349",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/ulmZLrluSL https://t.co/qzTWCfnUQo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1375,
+        "media_key": "3_2080143682351874048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4nqHRbQAAPrgf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080143682351874048"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080143689188589885",
+        "created_at": "2026-07-23T04:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080143689188589885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulmZLrluSL",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2080143689188589885/photo/1",
+              "media_key": "3_2080143682351874048",
+              "start": 0,
+              "url": "https://t.co/ulmZLrluSL"
+            },
+            {
+              "display_url": "x.com/A89642952N/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/A89642952N/status/2080113093473157349",
+              "start": 24,
+              "url": "https://t.co/qzTWCfnUQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080143689188589885",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080113093473157349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ulmZLrluSL https://t.co/qzTWCfnUQo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038221838187102208",
+        "conversation_id": "2080113093473157349",
+        "created_at": "2026-07-23T02:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080113093473157349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080113093473157349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "支那猪粉蛆都给我出来，我好一起给你们屏蔽了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 307,
+          "like_count": 4077,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-29T11:49:04.000Z",
+        "description": "伪装成中国人的日本杂种 被洗脑的恐怖分子 地球人奸 (🚪29.52",
+        "id": "2038221838187102208",
+        "location": "秦城监狱",
+        "name": "An8964",
+        "pinned_tweet_id": "2074507484241502683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079841991626764288/VFNdaTSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 84,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 861
+        },
+        "url": "",
+        "username": "A89642952N",
+        "verified": false
+      }
+    ]
+  }
+}

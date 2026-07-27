@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079461453699145756",
+    "created_at": "2026-07-21T07:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079464415783723288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2073422551972466689",
+          "start": 0,
+          "username": "Yzrhgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079464415783723288",
+    "in_reply_to_user_id": "2073422551972466689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079464238733824301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yzrhgg 啊呀骇亖我力\n我的眼睛\n👊👊👊👊👊👊👊👊👊👊👊👊👊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2079464227119792128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNu9snSbgAAb6gl.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079461453699145756",
+        "created_at": "2026-07-21T07:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079464415783723288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2073422551972466689",
+              "start": 0,
+              "username": "Yzrhgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079464415783723288",
+        "in_reply_to_user_id": "2073422551972466689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079464238733824301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yzrhgg 啊呀骇亖我力\n我的眼睛\n👊👊👊👊👊👊👊👊👊👊👊👊👊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079464227119792128"
+          ]
+        },
+        "author_id": "2073422551972466689",
+        "conversation_id": "2079461453699145756",
+        "created_at": "2026-07-21T07:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079464238733824301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aaxgSJprj5",
+              "end": 33,
+              "expanded_url": "https://x.com/Yzrhgg/status/2079464238733824301/photo/1",
+              "media_key": "3_2079464227119792128",
+              "start": 10,
+              "url": "https://t.co/aaxgSJprj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079464238733824301",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079461453699145756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf https://t.co/aaxgSJprj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n要打标签的内容: @voidsama777\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 243,
+          "like_count": 3243,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-04T15:05:34.000Z",
+        "description": "时常感到无聊，欢迎找我聊天\n互fo\n不时发些碎碎念",
+        "id": "2073422551972466689",
+        "location": "某行星",
+        "name": "退屈党人",
+        "pinned_tweet_id": "2074104382912864345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073424909980901376/ap3GnRYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 31,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "Yzrhgg",
+        "verified": false
+      }
+    ]
+  }
+}

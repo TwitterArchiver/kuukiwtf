@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079773007476838878",
+    "created_at": "2026-07-22T03:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079773007476838878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reina93/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/reina93/status/2079728721754488834",
+          "start": 10,
+          "url": "https://t.co/RBfsdTv2yc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079773007476838878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079728721754488834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来真的是同类喵！ https://t.co/RBfsdTv2yc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079773007476838878",
+        "created_at": "2026-07-22T03:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079773007476838878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reina93/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/reina93/status/2079728721754488834",
+              "start": 10,
+              "url": "https://t.co/RBfsdTv2yc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079773007476838878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079728721754488834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来真的是同类喵！ https://t.co/RBfsdTv2yc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "26640428",
+        "conversation_id": "2079728413376729301",
+        "created_at": "2026-07-22T00:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079728721754488834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079728721754488834",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1470,
+          "like_count": 30,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079728413376729301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 原来真的是同类喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 280,
+          "like_count": 3686,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-26T00:27:27.000Z",
+        "description": "银狐VPN，下载即送2天免费，邀请好友送1天，网络不稳定？提前准备，有备无患。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/mVtCDZAYWC"
+              }
+            ]
+          }
+        },
+        "id": "26640428",
+        "name": "银狐VPN全球漫游",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078251925842313216/FlDU_PLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 46,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/mVtCDZAYWC",
+        "username": "reina93",
+        "verified": false
+      }
+    ]
+  }
+}

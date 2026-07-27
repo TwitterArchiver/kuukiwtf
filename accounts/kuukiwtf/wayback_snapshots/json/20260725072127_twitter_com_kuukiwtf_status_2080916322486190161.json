@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080391830881841152"
+      ],
+      "media_source_tweet_id": [
+        "2080391837735436655"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080916322486190161",
+    "created_at": "2026-07-25T07:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080916322486190161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1684115943100645378",
+          "start": 3,
+          "username": "NuttiMcFrutti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RDtJ5l2qbp",
+          "end": 51,
+          "expanded_url": "https://x.com/NuttiMcFrutti/status/2080391837735436655/photo/1",
+          "media_key": "3_2080391830881841152",
+          "start": 28,
+          "url": "https://t.co/RDtJ5l2qbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080916322486190161",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080391837735436655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NuttiMcFrutti: GN Frens https://t.co/RDtJ5l2qbp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2080391830881841152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8JWQlWMAA1Efi.png",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080391830881841152"
+          ]
+        },
+        "author_id": "1684115943100645378",
+        "conversation_id": "2080391837735436655",
+        "created_at": "2026-07-23T20:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080391837735436655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDtJ5l2qbp",
+              "end": 32,
+              "expanded_url": "https://x.com/NuttiMcFrutti/status/2080391837735436655/photo/1",
+              "media_key": "3_2080391830881841152",
+              "start": 9,
+              "url": "https://t.co/RDtJ5l2qbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080391837735436655",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 817,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "GN Frens https://t.co/RDtJ5l2qbp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080391830881841152"
+          ],
+          "media_source_tweet_id": [
+            "2080391837735436655"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080916322486190161",
+        "created_at": "2026-07-25T07:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080916322486190161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1684115943100645378",
+              "start": 3,
+              "username": "NuttiMcFrutti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDtJ5l2qbp",
+              "end": 51,
+              "expanded_url": "https://x.com/NuttiMcFrutti/status/2080391837735436655/photo/1",
+              "media_key": "3_2080391830881841152",
+              "start": 28,
+              "url": "https://t.co/RDtJ5l2qbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080916322486190161",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080391837735436655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NuttiMcFrutti: GN Frens https://t.co/RDtJ5l2qbp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 339,
+          "like_count": 5216,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-26T08:18:41.000Z",
+        "description": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH\n\nHoppean/ 🇩🇪🇦🇹/ fumo ᗜ‿ᗜ fumo",
+        "id": "1684115943100645378",
+        "name": "Nutti",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072197358306099201/0ZF63Ir8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 1765,
+          "like_count": 90000,
+          "listed_count": 7,
+          "media_count": 7485,
+          "tweet_count": 19117
+        },
+        "url": "",
+        "username": "NuttiMcFrutti",
+        "verified": false
+      }
+    ]
+  }
+}

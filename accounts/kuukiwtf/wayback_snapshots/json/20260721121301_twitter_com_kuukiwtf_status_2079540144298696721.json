@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079424682647027760",
+    "created_at": "2026-07-21T12:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079540144298696721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1729241207946313728",
+          "start": 0,
+          "username": "1sellmyself3ks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079540144298696721",
+    "in_reply_to_user_id": "1729241207946313728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079424682647027760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1sellmyself3ks 好可爱喵♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079424670722580480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuZuIOaYAAUwl5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079424670739398656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuZuISbAAAd0h9.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079424682647027760",
+        "created_at": "2026-07-21T12:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079540144298696721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1729241207946313728",
+              "start": 0,
+              "username": "1sellmyself3ks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079540144298696721",
+        "in_reply_to_user_id": "1729241207946313728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079424682647027760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1sellmyself3ks 好可爱喵♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079424670722580480",
+            "3_2079424670739398656"
+          ]
+        },
+        "author_id": "1729241207946313728",
+        "conversation_id": "2079424682647027760",
+        "created_at": "2026-07-21T04:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079424682647027760"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "上海"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3i2nqwLEmZ",
+              "end": 50,
+              "expanded_url": "https://x.com/1sellmyself3ks/status/2079424682647027760/photo/1",
+              "media_key": "3_2079424670722580480",
+              "start": 27,
+              "url": "https://t.co/3i2nqwLEmZ"
+            },
+            {
+              "display_url": "pic.x.com/3i2nqwLEmZ",
+              "end": 50,
+              "expanded_url": "https://x.com/1sellmyself3ks/status/2079424682647027760/photo/1",
+              "media_key": "3_2079424670739398656",
+              "start": 27,
+              "url": "https://t.co/3i2nqwLEmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079424682647027760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "人生短暂，而我被埋了很久\n#上海 #门槛妹 #爸爸活 https://t.co/3i2nqwLEmZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n要打标签的内容: @voidsama777\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 257,
+          "like_count": 3335,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-27T20:50:15.000Z",
+        "description": "亲自秽土转生中",
+        "id": "1729241207946313728",
+        "location": "上海接纯半非绿🚪50过门发课表喵",
+        "name": "天逆每三代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079423245577748480/OXVPxOKZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 56,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "1sellmyself3ks",
+        "verified": false
+      }
+    ]
+  }
+}

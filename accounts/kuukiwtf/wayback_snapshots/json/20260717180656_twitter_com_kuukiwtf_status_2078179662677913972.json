@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2078179662677913972",
+    "created_at": "2026-07-17T18:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078179662677913972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/smiroyama/status/2078095121149772057",
+          "start": 41,
+          "url": "https://t.co/rgGAHkYMah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078179662677913972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078095121149772057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉每天都能看见有人去世捏\n记不清现在是什么时候了 \n感觉死掉好多人了\n\nrip https://t.co/rgGAHkYMah"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2078179662677913972",
+        "created_at": "2026-07-17T18:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078179662677913972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/smiroyama/status/2078095121149772057",
+              "start": 41,
+              "url": "https://t.co/rgGAHkYMah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078179662677913972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078095121149772057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉每天都能看见有人去世捏\n记不清现在是什么时候了 \n感觉死掉好多人了\n\nrip https://t.co/rgGAHkYMah"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2078095121149772057",
+        "created_at": "2026-07-17T12:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078095121149772057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1565981667746914304",
+              "start": 14,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078095121149772057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 20876,
+          "like_count": 141,
+          "quote_count": 17,
+          "reply_count": 41,
+          "retweet_count": 32
+        },
+        "reply_settings": "following",
+        "text": "讣告\n\n经可靠信息来源得知，@Kagura_Yukikaze （雪風ちゃん）服用了剧毒化学溶液离世，愿她能够安息。🕯️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡✞ \n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\n⟡ v-kei ꙳scenecore lover ♡✦ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 111,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "活力大湾区 魅力新加州\nQ群667335570\n小号：@yansuichan | 闺蜜:@smiroyama\n生产年份:2007 | 180cm 60kg | female 🏳️‍⚧️\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "yansuichan"
+              },
+              {
+                "end": 54,
+                "start": 44,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "Los Angeles, CA",
+        "name": "绿色杯子千寻酱😦😨😰🥵🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075359239284117504/FUSiyyKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7077,
+          "following_count": 2568,
+          "like_count": 13775,
+          "listed_count": 13,
+          "media_count": 2345,
+          "tweet_count": 8563
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

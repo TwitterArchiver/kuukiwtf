@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2078339076143636960",
+    "created_at": "2026-07-18T04:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078339076143636960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uuuUu18sage777…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/uuuUu18sage777/status/2078333277258330410",
+          "start": 29,
+          "url": "https://t.co/YXEnAkKnx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078339076143636960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078333277258330410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "理论上我耳机的声音够大\n就可以隔绝一切外界别人发出的噪音 https://t.co/YXEnAkKnx0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2078339076143636960",
+        "created_at": "2026-07-18T04:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078339076143636960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uuuUu18sage777…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/uuuUu18sage777/status/2078333277258330410",
+              "start": 29,
+              "url": "https://t.co/YXEnAkKnx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078339076143636960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078333277258330410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理论上我耳机的声音够大\n就可以隔绝一切外界别人发出的噪音 https://t.co/YXEnAkKnx0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076508802137149440",
+        "conversation_id": "2078333277258330410",
+        "created_at": "2026-07-18T04:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078333277258330410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078333277258330410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戴了耳机也隔绝不了声音。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 127,
+          "like_count": 1609,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-13T03:28:58.000Z",
+        "description": "8teen愚蠢小女孩 mdd/cptsd/adhd/bulimia转限制 EN/简中 #shedtwt #tcc 新教徒等待受洗 #moots #emogirl #midwestemo 💉 T7.5mg gw115lbs 互fo欢迎 i block freely",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 56,
+                "start": 52,
+                "tag": "tcc"
+              },
+              {
+                "end": 71,
+                "start": 65,
+                "tag": "moots"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "tag": "emogirl"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "tag": "midwestemo"
+              }
+            ]
+          }
+        },
+        "id": "2076508802137149440",
+        "location": "Springfield, IL",
+        "name": "uu777🇺🇸",
+        "pinned_tweet_id": "2078301986647327097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076699309941424130/wmDPpwfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 54,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "uuuUu18sage777",
+        "verified": false
+      }
+    ]
+  }
+}

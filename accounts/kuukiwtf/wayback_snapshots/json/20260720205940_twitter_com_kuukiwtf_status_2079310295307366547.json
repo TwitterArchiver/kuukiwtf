@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079310295307366547",
+    "created_at": "2026-07-20T20:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T21:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079310295307366547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ayanami_rin0/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/Ayanami_rin0/status/2078910919867081198",
+          "start": 44,
+          "url": "https://t.co/lgJENGBsUw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079310295307366547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078910919867081198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要完蛋了\n我不记得黄瓜这东西是用来吃的了😭😭😭😭😭😭😭😭😭😭😭\n啊啊互联网彻底毁了我 https://t.co/lgJENGBsUw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078910912011087872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnGdb4asAASI1l.jpg",
+        "width": 1234
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078910912002699264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnGdb2asAA3YLs.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079310295307366547",
+        "created_at": "2026-07-20T20:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079310295307366547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ayanami_rin0/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Ayanami_rin0/status/2078910919867081198",
+              "start": 44,
+              "url": "https://t.co/lgJENGBsUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079310295307366547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078910919867081198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要完蛋了\n我不记得黄瓜这东西是用来吃的了😭😭😭😭😭😭😭😭😭😭😭\n啊啊互联网彻底毁了我 https://t.co/lgJENGBsUw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078910912011087872",
+            "3_2078910912002699264"
+          ]
+        },
+        "author_id": "1597605170502062080",
+        "conversation_id": "2078910919867081198",
+        "created_at": "2026-07-19T18:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078910919867081198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ysmiv1JlVO",
+              "end": 47,
+              "expanded_url": "https://x.com/Ayanami_rin0/status/2078910919867081198/photo/1",
+              "media_key": "3_2078910912011087872",
+              "start": 24,
+              "url": "https://t.co/ysmiv1JlVO"
+            },
+            {
+              "display_url": "pic.x.com/ysmiv1JlVO",
+              "end": 47,
+              "expanded_url": "https://x.com/Ayanami_rin0/status/2078910919867081198/photo/1",
+              "media_key": "3_2078910912002699264",
+              "start": 24,
+              "url": "https://t.co/ysmiv1JlVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078910919867081198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13280,
+          "like_count": 79,
+          "quote_count": 2,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一根很长很长很长的黄瓜\n猜猜我要干什么❤️ https://t.co/ysmiv1JlVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER: #NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\nv-kei, scenecore lover ♡ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 8,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 221,
+          "like_count": 2842,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 417
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "大龄术后MTF，某二次元公司游戏开发🎮Unity客户端🦋\n只管开心,无需正常\n 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人\n宝宝：@mario_2333 老公：@shuishui2333\n#啊呀纳米相册  #小绫的诗歌日记本 #小绫饭店 #aynm吃什么",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 122,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 146,
+                "start": 141,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 155,
+                "start": 147,
+                "tag": "aynm吃什么"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "mario_2333"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "shuishui2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L2HGT"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm🌊",
+        "pinned_tweet_id": "2061116133726716255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5107,
+          "following_count": 1099,
+          "like_count": 19272,
+          "listed_count": 16,
+          "media_count": 1809,
+          "tweet_count": 11834
+        },
+        "url": "https://t.co/scHs3L2HGT",
+        "username": "Ayanami_rin0",
+        "verified": true
+      }
+    ]
+  }
+}

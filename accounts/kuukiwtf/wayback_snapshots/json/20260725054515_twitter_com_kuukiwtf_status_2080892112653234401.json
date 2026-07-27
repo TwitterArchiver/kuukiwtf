@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080164945006661632"
+      ],
+      "media_source_tweet_id": [
+        "2080661781509443728"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080892112653234401",
+    "created_at": "2026-07-25T05:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080892112653234401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671582177190977548",
+          "start": 3,
+          "username": "FUMIMEgame"
+        }
+      ],
+      "urls": [
+        {
+          "description": "1,997 likes, 21 comments - fumo_fumo_tewi on July 6, 2026: \"Reimu’s lucky day🍀 #touhouproject #touhou #fumofumo #fumo\".",
+          "display_url": "instagram.com/p/DaehQmQJX7K/",
+          "end": 94,
+          "expanded_url": "https://www.instagram.com/p/DaehQmQJX7K/",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2080661784181293056/FaYVJkXJ?format=jpg&name=orig",
+              "width": 360
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2080661784181293056/FaYVJkXJ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 71,
+          "status": 200,
+          "title": "@fumo_fumo_tewi • Instagram reel",
+          "unwound_url": "https://www.instagram.com/p/DaehQmQJX7K/",
+          "url": "https://t.co/lx0yGNK7Hz"
+        },
+        {
+          "display_url": "pic.x.com/Fyt32x8zyw",
+          "end": 118,
+          "expanded_url": "https://x.com/FUMIMEgame/status/2080661781509443728/video/1",
+          "media_key": "13_2080164945006661632",
+          "start": 95,
+          "url": "https://t.co/Fyt32x8zyw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080892112653234401",
+    "lang": "ro",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080661781509443728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FUMIMEgame: [Live]🔴 from ⛩️Hakurei Temple - in Gensokyo\n\n[Source]:\nhttps://t.co/lx0yGNK7Hz https://t.co/Fyt32x8zyw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10041,
+        "height": 1222,
+        "media_key": "13_2080164945006661632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080164945006661632/img/o6GKEnXeKLyL3-JO.jpg",
+        "public_metrics": {
+          "view_count": 4063
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080164945006661632/vid/avc1/320x568/Z9CDqVkFupGLp1RO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080164945006661632/vid/avc1/480x852/MzE8NJLS8W4aCGcl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080164945006661632/vid/avc1/688x1222/gLxez2rHGW2Iy6HP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080164945006661632/pl/9LzHF0mloQqEI9B3.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080164945006661632"
+          ]
+        },
+        "author_id": "1671582177190977548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080661781509443728",
+        "created_at": "2026-07-24T14:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080661781509443728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "1,997 likes, 21 comments - fumo_fumo_tewi on July 6, 2026: \"Reimu’s lucky day🍀 #touhouproject #touhou #fumofumo #fumo\".",
+              "display_url": "instagram.com/p/DaehQmQJX7K/",
+              "end": 78,
+              "expanded_url": "https://www.instagram.com/p/DaehQmQJX7K/",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2080661784181293056/FaYVJkXJ?format=jpg&name=orig",
+                  "width": 360
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080661784181293056/FaYVJkXJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "@fumo_fumo_tewi • Instagram reel",
+              "unwound_url": "https://www.instagram.com/p/DaehQmQJX7K/",
+              "url": "https://t.co/lx0yGNK7Hz"
+            },
+            {
+              "display_url": "pic.x.com/Fyt32x8zyw",
+              "end": 102,
+              "expanded_url": "https://x.com/FUMIMEgame/status/2080661781509443728/video/1",
+              "media_key": "13_2080164945006661632",
+              "start": 79,
+              "url": "https://t.co/Fyt32x8zyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080661781509443728",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 8552,
+          "like_count": 601,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "[Live]🔴 from ⛩️Hakurei Temple - in Gensokyo\n\n[Source]:\nhttps://t.co/lx0yGNK7Hz https://t.co/Fyt32x8zyw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080164945006661632"
+          ],
+          "media_source_tweet_id": [
+            "2080661781509443728"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080892112653234401",
+        "created_at": "2026-07-25T05:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080892112653234401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671582177190977548",
+              "start": 3,
+              "username": "FUMIMEgame"
+            }
+          ],
+          "urls": [
+            {
+              "description": "1,997 likes, 21 comments - fumo_fumo_tewi on July 6, 2026: \"Reimu’s lucky day🍀 #touhouproject #touhou #fumofumo #fumo\".",
+              "display_url": "instagram.com/p/DaehQmQJX7K/",
+              "end": 94,
+              "expanded_url": "https://www.instagram.com/p/DaehQmQJX7K/",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2080661784181293056/FaYVJkXJ?format=jpg&name=orig",
+                  "width": 360
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080661784181293056/FaYVJkXJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "@fumo_fumo_tewi • Instagram reel",
+              "unwound_url": "https://www.instagram.com/p/DaehQmQJX7K/",
+              "url": "https://t.co/lx0yGNK7Hz"
+            },
+            {
+              "display_url": "pic.x.com/Fyt32x8zyw",
+              "end": 118,
+              "expanded_url": "https://x.com/FUMIMEgame/status/2080661781509443728/video/1",
+              "media_key": "13_2080164945006661632",
+              "start": 95,
+              "url": "https://t.co/Fyt32x8zyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080892112653234401",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080661781509443728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FUMIMEgame: [Live]🔴 from ⛩️Hakurei Temple - in Gensokyo\n\n[Source]:\nhttps://t.co/lx0yGNK7Hz https://t.co/Fyt32x8zyw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 338,
+          "like_count": 5068,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 888
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-21T18:13:51.000Z",
+        "description": "Game Dev. :\n✨FUMIME TCG 🃏\n\nThe w🌎rlds 1st:\n\nFUMO² CARD GAME\nフモフモカードゲーム \nFumo x MeMe x Community\n\nComing 202?+\nhttps://t.co/Wiq8oh4cnU\nFollow us on Discord:",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "FUMIME.com",
+                "end": 133,
+                "expanded_url": "http://www.FUMIME.com",
+                "start": 110,
+                "url": "https://t.co/Wiq8oh4cnU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/CWzxkDXweF",
+                "end": 23,
+                "expanded_url": "https://discord.gg/CWzxkDXweF",
+                "start": 0,
+                "url": "https://t.co/bAwEMt5bsh"
+              }
+            ]
+          }
+        },
+        "id": "1671582177190977548",
+        "location": "Gensokyo Europe",
+        "name": "FUMIME TCG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814337568776892430/Wqy1qMpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 617,
+          "like_count": 17918,
+          "listed_count": 1,
+          "media_count": 1598,
+          "tweet_count": 5654
+        },
+        "url": "https://t.co/bAwEMt5bsh",
+        "username": "FUMIMEgame",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081304758888042496",
+        "13_2081304782736916480",
+        "13_2081304816991805441"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081304836902134066",
+    "created_at": "2026-07-26T09:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T10:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081304836902134066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/upwE5vKvT1",
+          "end": 133,
+          "expanded_url": "https://x.com/kuukiwtf/status/2081304836902134066/video/1",
+          "media_key": "13_2081304758888042496",
+          "start": 110,
+          "url": "https://t.co/upwE5vKvT1"
+        },
+        {
+          "display_url": "pic.x.com/upwE5vKvT1",
+          "end": 133,
+          "expanded_url": "https://x.com/kuukiwtf/status/2081304836902134066/video/1",
+          "media_key": "13_2081304782736916480",
+          "start": 110,
+          "url": "https://t.co/upwE5vKvT1"
+        },
+        {
+          "display_url": "pic.x.com/upwE5vKvT1",
+          "end": 133,
+          "expanded_url": "https://x.com/kuukiwtf/status/2081304836902134066/video/1",
+          "media_key": "13_2081304816991805441",
+          "start": 110,
+          "url": "https://t.co/upwE5vKvT1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081304836902134066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "v1\n去年被朋友在ktv亲了我不知道\n他喝吐血了 kuuki嗑晕了\nv2\n7/23 kuuki在夜店嗑大了在taxi上亲他\nv3\nkuuki在夜店门口cos尸体\n\n可恶啊也不多给我拍点（\n（ww在朋友中已经被绑定关系了 https://t.co/upwE5vKvT1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6677,
+        "height": 960,
+        "media_key": "13_2081304758888042496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081304758888042496/img/H4mShXiIO2LbBKuO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081304758888042496/vid/avc1/320x568/Ewd72dYRgRlcuURH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081304758888042496/vid/avc1/480x852/vH7FpBGn9C_J9IHs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081304758888042496/vid/avc1/540x960/MmyYSyAsadGd8_3G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081304758888042496/pl/ltsd2y9e7Ntn-_0u.m3u8"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "duration_ms": 17761,
+        "height": 1280,
+        "media_key": "13_2081304782736916480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081304782736916480/img/lG-oMCBpOOxwDqMb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081304782736916480/vid/avc1/320x568/Az0mwEXcsTnkoTS_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081304782736916480/vid/avc1/480x852/8UIQzDt08tqKBW5L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081304782736916480/vid/avc1/720x1280/nqwEhGfw0eBMdz0y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081304782736916480/pl/VumNbIwySnWLwChZ.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3272,
+        "height": 1280,
+        "media_key": "13_2081304816991805441",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081304816991805441/img/5NCDepISZX6Ce1pq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081304816991805441/vid/avc1/320x568/Kgngaofk4NnNoNzN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081304816991805441/vid/avc1/480x852/1TmjgvJBsE8uMsDG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081304816991805441/vid/avc1/720x1280/-vZbxr1bTMLh5ErS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081304816991805441/pl/PcSQDUp2m1Uuzkdo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081304758888042496",
+            "13_2081304782736916480",
+            "13_2081304816991805441"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081304836902134066",
+        "created_at": "2026-07-26T09:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081304836902134066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/upwE5vKvT1",
+              "end": 133,
+              "expanded_url": "https://x.com/kuukiwtf/status/2081304836902134066/video/1",
+              "media_key": "13_2081304758888042496",
+              "start": 110,
+              "url": "https://t.co/upwE5vKvT1"
+            },
+            {
+              "display_url": "pic.x.com/upwE5vKvT1",
+              "end": 133,
+              "expanded_url": "https://x.com/kuukiwtf/status/2081304836902134066/video/1",
+              "media_key": "13_2081304782736916480",
+              "start": 110,
+              "url": "https://t.co/upwE5vKvT1"
+            },
+            {
+              "display_url": "pic.x.com/upwE5vKvT1",
+              "end": 133,
+              "expanded_url": "https://x.com/kuukiwtf/status/2081304836902134066/video/1",
+              "media_key": "13_2081304816991805441",
+              "start": 110,
+              "url": "https://t.co/upwE5vKvT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081304836902134066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "v1\n去年被朋友在ktv亲了我不知道\n他喝吐血了 kuuki嗑晕了\nv2\n7/23 kuuki在夜店嗑大了在taxi上亲他\nv3\nkuuki在夜店门口cos尸体\n\n可恶啊也不多给我拍点（\n（ww在朋友中已经被绑定关系了 https://t.co/upwE5vKvT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 363,
+          "like_count": 5667,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 999
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

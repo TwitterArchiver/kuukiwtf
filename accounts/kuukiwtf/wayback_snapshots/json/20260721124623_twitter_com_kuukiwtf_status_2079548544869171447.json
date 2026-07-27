@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079545443755901153",
+    "created_at": "2026-07-21T12:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079548544869171447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076508802137149440",
+          "start": 0,
+          "username": "uuuUu18sage777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079548544869171447",
+    "in_reply_to_user_id": "2076508802137149440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079547578375696495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uuuUu18sage777 🤤🤤✌️✌️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079545443755901153",
+        "created_at": "2026-07-21T12:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079548544869171447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076508802137149440",
+              "start": 0,
+              "username": "uuuUu18sage777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079548544869171447",
+        "in_reply_to_user_id": "2076508802137149440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079547578375696495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uuuUu18sage777 🤤🤤✌️✌️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076508802137149440",
+        "conversation_id": "2079545443755901153",
+        "created_at": "2026-07-21T12:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079547578375696495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079547578375696495",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079547023146291308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 我去我想试用😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n要打标签的内容: @voidsama777\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 258,
+          "like_count": 3403,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 531
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-13T03:28:58.000Z",
+        "description": "8teen 直女 mdd/cptsd/adhd/bulimia转限制 EN/简中 #shedtwt #tcc #ricecakestwt 新教徒等待受洗 #moots #emogirl #midwestemo 💉 T7.5mg gw115lbs 互fo欢迎 i block freely😋i follow back",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "tcc"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "tag": "ricecakestwt"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "tag": "moots"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "emogirl"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "tag": "midwestemo"
+              }
+            ]
+          }
+        },
+        "id": "2076508802137149440",
+        "location": "Springfield, IL",
+        "name": "uu777🇺🇸",
+        "pinned_tweet_id": "2078906289435123998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076699309941424130/wmDPpwfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 78,
+          "like_count": 1062,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "uuuUu18sage777",
+        "verified": false
+      }
+    ]
+  }
+}

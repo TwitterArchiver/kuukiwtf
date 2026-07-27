@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2077403521427878326",
+    "created_at": "2026-07-15T14:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077403521427878326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pai6676/status…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/pai6676/status/2077388589462434095",
+          "start": 106,
+          "url": "https://t.co/921ivRbzbX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077403521427878326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077388589462434095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "朋友抽烟我递火\n朋友喝酒我开瓶盖\n朋友卷🍃我递纸\n朋友嗑💊我递水\n朋友歌手我递刀\n朋友噶人我埋尸\n朋友想戒💊我送朋友去医院\n朋友想好好学习我帮ta补习\n朋友想健身我带ta去健身房\n\n总之尊重朋友的所有个人选择👍 https://t.co/921ivRbzbX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2077403521427878326",
+        "created_at": "2026-07-15T14:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077403521427878326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pai6676/status…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/pai6676/status/2077388589462434095",
+              "start": 106,
+              "url": "https://t.co/921ivRbzbX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077403521427878326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077388589462434095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朋友抽烟我递火\n朋友喝酒我开瓶盖\n朋友卷🍃我递纸\n朋友嗑💊我递水\n朋友歌手我递刀\n朋友噶人我埋尸\n朋友想戒💊我送朋友去医院\n朋友想好好学习我帮ta补习\n朋友想健身我带ta去健身房\n\n总之尊重朋友的所有个人选择👍 https://t.co/921ivRbzbX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062164542541479936",
+        "conversation_id": "2077388589462434095",
+        "created_at": "2026-07-15T13:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077388589462434095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grievouspotato…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/grievouspotato1/status/2077355489092948284",
+              "start": 106,
+              "url": "https://t.co/GB0VLiXJxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077388589462434095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077355489092948284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朋友抽烟我递火\n朋友喝酒我开瓶盖\n朋友卷🍃我递纸\n朋友嗑💊我递水\n朋友歌手我递刀\n朋友噶人我埋尸\n朋友想戒💊我送朋友去医院\n朋友想好好学习我帮ta补习\n朋友想健身我带ta去健身房\n\n总之尊重朋友的所有个人选择👍 https://t.co/GB0VLiXJxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡✞ \n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\n⟡ v-kei ꙳scenecore lover ♡✦ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 66,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-03T13:30:04.000Z",
+        "description": "=PAI\n手殘bass手｜座右铭｜我想要让所有oder获得爱！！\n患有边缘性人格 ｜BPD｜歡迎互fo\n（讨厌转性别者介意者請注意）",
+        "id": "2062164542541479936",
+        "name": "愈美戰士",
+        "pinned_tweet_id": "2062175548470686092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062180259752017920/-RDuVZe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 75,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "pai6676",
+        "verified": false
+      }
+    ]
+  }
+}

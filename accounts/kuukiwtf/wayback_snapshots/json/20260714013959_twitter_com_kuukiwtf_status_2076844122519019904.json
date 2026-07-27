@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076844120073740288"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2076844122519019904",
+    "created_at": "2026-07-14T01:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076844122519019904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gc0V9vsmaf",
+          "end": 27,
+          "expanded_url": "https://x.com/kuukiwtf/status/2076844122519019904/photo/1",
+          "media_key": "3_2076844120073740288",
+          "start": 4,
+          "url": "https://t.co/Gc0V9vsmaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076844122519019904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自介条 https://t.co/Gc0V9vsmaf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1388,
+        "media_key": "3_2076844120073740288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJuuT7aoAATSju.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076844120073740288"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2076844122519019904",
+        "created_at": "2026-07-14T01:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076844122519019904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gc0V9vsmaf",
+              "end": 27,
+              "expanded_url": "https://x.com/kuukiwtf/status/2076844122519019904/photo/1",
+              "media_key": "3_2076844120073740288",
+              "start": 4,
+              "url": "https://t.co/Gc0V9vsmaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076844122519019904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自介条 https://t.co/Gc0V9vsmaf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "",
+        "id": "2076841557802864640",
+        "name": "kuuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": false
+      }
+    ]
+  }
+}

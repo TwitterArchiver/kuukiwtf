@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2077492531680752087",
+    "created_at": "2026-07-15T20:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T21:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077492531680752087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mi_0_se/status…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/mi_0_se/status/2077419145034158342",
+          "start": 38,
+          "url": "https://t.co/maW8OozNRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077492531680752087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077419145034158342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只要是发女装照的，我一般都不在乎性别\n只要可爱就行，女的还是男娘都无所谓😋 https://t.co/maW8OozNRN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2077492531680752087",
+        "created_at": "2026-07-15T20:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T21:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077492531680752087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mi_0_se/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/mi_0_se/status/2077419145034158342",
+              "start": 38,
+              "url": "https://t.co/maW8OozNRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077492531680752087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077419145034158342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只要是发女装照的，我一般都不在乎性别\n只要可爱就行，女的还是男娘都无所谓😋 https://t.co/maW8OozNRN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "conversation_id": "2077419145034158342",
+        "created_at": "2026-07-15T15:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077419145034158342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077419145034158342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1178,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要是发女装照的，我一般都不在乎性别\n只要可爱就行，女的还是男娘都无所谓😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡✞ \n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\n⟡ v-kei ꙳scenecore lover ♡✦ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 67,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "我是澪世 (404 not found)，你可以叫我 04 或者 みおせ (Miose) 都行",
+        "id": "1470943033365438470",
+        "location": "404 Not Found",
+        "name": "澪世❄️",
+        "pinned_tweet_id": "2074387881821667338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754677745135617/PTxLN9py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 878,
+          "like_count": 28749,
+          "listed_count": 11,
+          "media_count": 1551,
+          "tweet_count": 20834
+        },
+        "url": "",
+        "username": "MI_0_SE",
+        "verified": false
+      }
+    ]
+  }
+}

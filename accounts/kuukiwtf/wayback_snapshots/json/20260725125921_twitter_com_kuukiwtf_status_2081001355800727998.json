@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2080982760924278841",
+    "created_at": "2026-07-25T12:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081001355800727998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2078716467781013504",
+          "start": 0,
+          "username": "slearthly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081001355800727998",
+    "in_reply_to_user_id": "2078716467781013504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080982760924278841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slearthly 感觉这个活不了多长时间喵\n另外咱刚把钱花完 真是遗憾呢🫪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2080982736874172416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEixg8a8AA5MFs.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2080982752200155136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiyaCa4AAJ9Kq.jpg",
+        "width": 3137
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080982760924278841",
+        "created_at": "2026-07-25T12:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081001355800727998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2078716467781013504",
+              "start": 0,
+              "username": "slearthly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081001355800727998",
+        "in_reply_to_user_id": "2078716467781013504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080982760924278841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slearthly 感觉这个活不了多长时间喵\n另外咱刚把钱花完 真是遗憾呢🫪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080982736874172416",
+            "3_2080982752200155136"
+          ]
+        },
+        "author_id": "2078716467781013504",
+        "conversation_id": "2080982760924278841",
+        "created_at": "2026-07-25T11:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080982760924278841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjPO6nKpB8",
+              "end": 41,
+              "expanded_url": "https://x.com/slearthly/status/2080982760924278841/photo/1",
+              "media_key": "3_2080982736874172416",
+              "start": 18,
+              "url": "https://t.co/TjPO6nKpB8"
+            },
+            {
+              "display_url": "pic.x.com/TjPO6nKpB8",
+              "end": 41,
+              "expanded_url": "https://x.com/slearthly/status/2080982760924278841/photo/1",
+              "media_key": "3_2080982752200155136",
+              "start": 18,
+              "url": "https://t.co/TjPO6nKpB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080982760924278841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们完蛋了情报是真的\n药商天塌了 https://t.co/TjPO6nKpB8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 351,
+          "like_count": 5335,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-19T05:54:53.000Z",
+        "description": "招代理/追求平价糖果拒绝恶意抬价（\n雌/孕/抗雄/减肥药代理/美白/pr金刚🌽\n09年无证/🍥25.11.16/od妹/双向/坐标广东/高二/jumpstyle爱好者/亚文化/中二病患者/眼罩人助力/性格阴暗内向/可互fo  可以叫咱雾川岛/小雾/买糖私信ovo/没回就是在睡觉\ntg号没了",
+        "id": "2078716467781013504",
+        "name": "sly雾川岛🍥糖商",
+        "pinned_tweet_id": "2080591537529032875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080906602027294720/PrJHZSlr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 173,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "slearthly",
+        "verified": false
+      }
+    ]
+  }
+}

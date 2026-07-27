@@ -1,0 +1,1201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10028298438",
+          "name": "Cuéntame Cómo Pasó"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1492215422623490048",
+          "name": "FTX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2079542493713228024",
+    "created_at": "2026-07-21T12:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079542493713228024"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "Igbt"
+        },
+        {
+          "end": 9,
+          "start": 6,
+          "tag": "地雷"
+        },
+        {
+          "end": 15,
+          "start": 10,
+          "tag": "oder"
+        },
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "mtf"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "ftm"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "mtx"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "ftx"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "xyn"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "hrt"
+        },
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "跨性別"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "非二元"
+        },
+        {
+          "end": 66,
+          "start": 56,
+          "tag": "nonbinary"
+        },
+        {
+          "end": 73,
+          "start": 67,
+          "tag": "queer"
+        },
+        {
+          "end": 81,
+          "start": 74,
+          "tag": "gender"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "od"
+        },
+        {
+          "end": 95,
+          "start": 86,
+          "tag": "overdose"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "歐滴"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "嗑藥"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "餐券"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "慘圈"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "自殘"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "自傷"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "血圖"
+        },
+        {
+          "end": 133,
+          "start": 124,
+          "tag": "selfharm"
+        },
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "ccp"
+        },
+        {
+          "end": 143,
+          "start": 139,
+          "tag": "xjp"
+        },
+        {
+          "end": 148,
+          "start": 144,
+          "tag": "新加坡"
+        },
+        {
+          "end": 153,
+          "start": 149,
+          "tag": "習近平"
+        },
+        {
+          "end": 158,
+          "start": 154,
+          "tag": "刁迈乎"
+        },
+        {
+          "end": 162,
+          "start": 159,
+          "tag": "支黑"
+        },
+        {
+          "end": 167,
+          "start": 163,
+          "tag": "prc"
+        },
+        {
+          "end": 172,
+          "start": 168,
+          "tag": "roc"
+        },
+        {
+          "end": 177,
+          "start": 173,
+          "tag": "互fo"
+        },
+        {
+          "end": 191,
+          "start": 178,
+          "tag": "mutualfollow"
+        },
+        {
+          "end": 195,
+          "start": 192,
+          "tag": "互關"
+        },
+        {
+          "end": 201,
+          "start": 196,
+          "tag": "互相關注"
+        },
+        {
+          "end": 207,
+          "start": 202,
+          "tag": "互相跟隨"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HanLuo14894/st…",
+          "end": 231,
+          "expanded_url": "https://twitter.com/HanLuo14894/status/2079534275398160806",
+          "start": 208,
+          "url": "https://t.co/gHIgS8MkVZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079542493713228024",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079534275398160806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#Igbt #地雷 #oder #mtf #ftm #mtx #ftx #xyn #hrt #跨性別 #非二元 #nonbinary #queer #gender #od #overdose #歐滴 #嗑藥 #餐券 #慘圈 #自殘 #自傷 #血圖 #selfharm #ccp #xjp #新加坡 #習近平 #刁迈乎 #支黑 #prc #roc #互fo #mutualfollow #互關 #互相關注 #互相跟隨 https://t.co/gHIgS8MkVZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10028298438",
+              "name": "Cuéntame Cómo Pasó"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1492215422623490048",
+              "name": "FTX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2079542493713228024",
+        "created_at": "2026-07-21T12:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079542493713228024"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "Igbt"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "地雷"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "oder"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "mtf"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "ftm"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "mtx"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "ftx"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "xyn"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "hrt"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "跨性別"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "非二元"
+            },
+            {
+              "end": 66,
+              "start": 56,
+              "tag": "nonbinary"
+            },
+            {
+              "end": 73,
+              "start": 67,
+              "tag": "queer"
+            },
+            {
+              "end": 81,
+              "start": 74,
+              "tag": "gender"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "od"
+            },
+            {
+              "end": 95,
+              "start": 86,
+              "tag": "overdose"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "歐滴"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "嗑藥"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "餐券"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "慘圈"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "自殘"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "自傷"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "血圖"
+            },
+            {
+              "end": 133,
+              "start": 124,
+              "tag": "selfharm"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "ccp"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "xjp"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "新加坡"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "習近平"
+            },
+            {
+              "end": 158,
+              "start": 154,
+              "tag": "刁迈乎"
+            },
+            {
+              "end": 162,
+              "start": 159,
+              "tag": "支黑"
+            },
+            {
+              "end": 167,
+              "start": 163,
+              "tag": "prc"
+            },
+            {
+              "end": 172,
+              "start": 168,
+              "tag": "roc"
+            },
+            {
+              "end": 177,
+              "start": 173,
+              "tag": "互fo"
+            },
+            {
+              "end": 191,
+              "start": 178,
+              "tag": "mutualfollow"
+            },
+            {
+              "end": 195,
+              "start": 192,
+              "tag": "互關"
+            },
+            {
+              "end": 201,
+              "start": 196,
+              "tag": "互相關注"
+            },
+            {
+              "end": 207,
+              "start": 202,
+              "tag": "互相跟隨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HanLuo14894/st…",
+              "end": 231,
+              "expanded_url": "https://twitter.com/HanLuo14894/status/2079534275398160806",
+              "start": 208,
+              "url": "https://t.co/gHIgS8MkVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079542493713228024",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079534275398160806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#Igbt #地雷 #oder #mtf #ftm #mtx #ftx #xyn #hrt #跨性別 #非二元 #nonbinary #queer #gender #od #overdose #歐滴 #嗑藥 #餐券 #慘圈 #自殘 #自傷 #血圖 #selfharm #ccp #xjp #新加坡 #習近平 #刁迈乎 #支黑 #prc #roc #互fo #mutualfollow #互關 #互相關注 #互相跟隨 https://t.co/gHIgS8MkVZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787079624260001792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10028298438",
+              "name": "Cuéntame Cómo Pasó"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1492215422623490048",
+              "name": "FTX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2079534275398160806",
+        "created_at": "2026-07-21T11:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079534275398160806"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "lgbt"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "地雷"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "oder"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "mtf"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "ftm"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "mtx"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "ftx"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "xyn"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "hrt"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "跨性別"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "非二元"
+            },
+            {
+              "end": 66,
+              "start": 56,
+              "tag": "nonbinary"
+            },
+            {
+              "end": 73,
+              "start": 67,
+              "tag": "queer"
+            },
+            {
+              "end": 81,
+              "start": 74,
+              "tag": "gender"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "od"
+            },
+            {
+              "end": 95,
+              "start": 86,
+              "tag": "overdose"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "歐滴"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "嗑藥"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "餐券"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "慘圈"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "自殘"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "自傷"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "血圖"
+            },
+            {
+              "end": 133,
+              "start": 124,
+              "tag": "selfharm"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "ccp"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "xjp"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "新加坡"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "習近平"
+            },
+            {
+              "end": 158,
+              "start": 154,
+              "tag": "刁邁乎"
+            },
+            {
+              "end": 162,
+              "start": 159,
+              "tag": "支黑"
+            },
+            {
+              "end": 167,
+              "start": 163,
+              "tag": "prc"
+            },
+            {
+              "end": 172,
+              "start": 168,
+              "tag": "roc"
+            },
+            {
+              "end": 177,
+              "start": 173,
+              "tag": "互fo"
+            },
+            {
+              "end": 191,
+              "start": 178,
+              "tag": "mutualfollow"
+            },
+            {
+              "end": 195,
+              "start": 192,
+              "tag": "互關"
+            },
+            {
+              "end": 201,
+              "start": 196,
+              "tag": "互相關注"
+            },
+            {
+              "end": 207,
+              "start": 202,
+              "tag": "互相跟隨"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079534275398160806",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＃lgbt #地雷 #oder #mtf #ftm #mtx #ftx #xyn #hrt #跨性別 #非二元 #nonbinary #queer #gender #od #overdose #歐滴 #嗑藥 #餐券 #慘圈 #自殘 #自傷 #血圖 #selfharm #ccp #xjp #新加坡 #習近平 #刁邁乎 #支黑 #prc #roc #互fo #mutualfollow #互關 #互相關注 #互相跟隨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n要打标签的内容: @voidsama777\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 258,
+          "like_count": 3345,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-05T11:19:40.000Z",
+        "description": "脑子有点神经的家伙。\n漂着，等着砸在水泥地。\n爱科技、音乐和胡思乱想。\n不是机器人，是会抽烟咳嗽的真人～\n同类欢迎来聊，只要狂人神人，正常人勿扰。",
+        "id": "1787079624260001792",
+        "location": "无间地狱",
+        "name": "罗 XY",
+        "pinned_tweet_id": "2063878065110016353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946790191877750784/hnZJkmLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 27,
+          "like_count": 51918,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1116
+        },
+        "url": "",
+        "username": "HanLuo14894",
+        "verified": false
+      }
+    ]
+  }
+}

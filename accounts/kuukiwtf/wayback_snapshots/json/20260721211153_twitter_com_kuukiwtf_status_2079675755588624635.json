@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079570421666722100",
+    "created_at": "2026-07-21T21:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T22:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079675755588624635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885529810942009344",
+          "start": 0,
+          "username": "NEO_NA45"
+        },
+        {
+          "end": 21,
+          "id": "2043741432914292739",
+          "start": 10,
+          "username": "Tudouni213"
+        },
+        {
+          "end": 37,
+          "id": "1547084206559219713",
+          "start": 22,
+          "username": "Lurveo_Weoslyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079675755588624635",
+    "in_reply_to_user_id": "1885529810942009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079570421666722100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEO_NA45 @Tudouni213 @Lurveo_Weoslyn 我操這個是真帥👅👅👅👅👅👅👅👅👅👅👅👅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079570330293764096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNweMoaaAAAWp8Q.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2079570352527798272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNweN7PacAAsQV3.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2079570374938046464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwePOubsAAhvzJ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2079570399197798400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNweQpGaIAAbS8j.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079570421666722100",
+        "created_at": "2026-07-21T21:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079675755588624635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885529810942009344",
+              "start": 0,
+              "username": "NEO_NA45"
+            },
+            {
+              "end": 21,
+              "id": "2043741432914292739",
+              "start": 10,
+              "username": "Tudouni213"
+            },
+            {
+              "end": 37,
+              "id": "1547084206559219713",
+              "start": 22,
+              "username": "Lurveo_Weoslyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079675755588624635",
+        "in_reply_to_user_id": "1885529810942009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079570421666722100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEO_NA45 @Tudouni213 @Lurveo_Weoslyn 我操這個是真帥👅👅👅👅👅👅👅👅👅👅👅👅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079570330293764096",
+            "3_2079570352527798272",
+            "3_2079570374938046464",
+            "3_2079570399197798400"
+          ]
+        },
+        "author_id": "1885529810942009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Miami",
+              "id": "855447833045946370",
+              "name": "Miami"
+            }
+          }
+        ],
+        "conversation_id": "2079570421666722100",
+        "created_at": "2026-07-21T14:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:31:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079559848140947810",
+          "2079570421666722100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "2043741432914292739",
+              "start": 41,
+              "username": "Tudouni213"
+            },
+            {
+              "end": 68,
+              "id": "1547084206559219713",
+              "start": 53,
+              "username": "Lurveo_Weoslyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X4c9gmi9Ev",
+              "end": 92,
+              "expanded_url": "https://x.com/NEO_NA45/status/2079570421666722100/photo/1",
+              "media_key": "3_2079570330293764096",
+              "start": 69,
+              "url": "https://t.co/X4c9gmi9Ev"
+            },
+            {
+              "display_url": "pic.x.com/X4c9gmi9Ev",
+              "end": 92,
+              "expanded_url": "https://x.com/NEO_NA45/status/2079570421666722100/photo/1",
+              "media_key": "3_2079570352527798272",
+              "start": 69,
+              "url": "https://t.co/X4c9gmi9Ev"
+            },
+            {
+              "display_url": "pic.x.com/X4c9gmi9Ev",
+              "end": 92,
+              "expanded_url": "https://x.com/NEO_NA45/status/2079570421666722100/photo/1",
+              "media_key": "3_2079570374938046464",
+              "start": 69,
+              "url": "https://t.co/X4c9gmi9Ev"
+            },
+            {
+              "display_url": "pic.x.com/X4c9gmi9Ev",
+              "end": 92,
+              "expanded_url": "https://x.com/NEO_NA45/status/2079570421666722100/photo/1",
+              "media_key": "3_2079570399197798400",
+              "start": 69,
+              "url": "https://t.co/X4c9gmi9Ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079570421666722100",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Forza Ferrari!\n🏎️F1-75 SPA\n🏎️SF-25 Miami\n@Tudouni213 @Lurveo_Weoslyn https://t.co/X4c9gmi9Ev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n要打标签的内容: @voidsama777\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 273,
+          "like_count": 3499,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T03:25:23.000Z",
+        "description": "感謝關注喵：https://t.co/nX3TA1bUT8 👈匿名提問！\n🏎️ F1｜📱 Android｜📷 Photography｜分享生活碎片與一些想法\n👑GOAT:@LewisHamilton #WeRaceAsOne",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 100,
+                "tag": "WeRaceAsOne"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "LewisHamilton"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/neo_na45",
+                "end": 29,
+                "expanded_url": "https://ngl.link/neo_na45",
+                "start": 6,
+                "url": "https://t.co/nX3TA1bUT8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+eDZJidpQ71tmN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+eDZJidpQ71tmNzRl",
+                "start": 0,
+                "url": "https://t.co/yAoK8WYuRc"
+              }
+            ]
+          }
+        },
+        "id": "1885529810942009344",
+        "name": "NEO_NA45",
+        "pinned_tweet_id": "2078541670766014893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 397,
+          "like_count": 3478,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/yAoK8WYuRc",
+        "username": "NEO_NA45",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T17:23:16.000Z",
+        "description": "07\n碎碎念小号\n别骚扰我行不。",
+        "id": "2043741432914292739",
+        "name": "OwO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051359561806958592/87d8P4MV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "Tudouni213",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T05:03:27.000Z",
+        "description": "还是Weoslyn 响应时代号召\n特别i所以发言互动喜欢在匿名信箱\n因为F1关注我要做好心理准备我经常发其他内容🥺\n和我玩：https://t.co/NWMhY2dFqa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ov-o-woad.vercel.app/u/weoslyn_1",
+                "end": 85,
+                "expanded_url": "https://ov-o-woad.vercel.app/u/weoslyn_1",
+                "start": 62,
+                "url": "https://t.co/NWMhY2dFqa"
+              }
+            ]
+          }
+        },
+        "id": "1547084206559219713",
+        "location": "我无处不在～",
+        "name": "方猪猪还钱",
+        "pinned_tweet_id": "2077668103920751039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054276070447206400/mspZGH6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 51,
+          "like_count": 2927,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "Lurveo_Weoslyn",
+        "verified": true
+      }
+    ]
+  }
+}

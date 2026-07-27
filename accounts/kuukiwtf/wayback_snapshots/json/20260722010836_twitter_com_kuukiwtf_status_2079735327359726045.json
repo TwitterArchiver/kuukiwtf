@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2079710513932755179",
+    "created_at": "2026-07-22T01:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079735327359726045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2047295680138362880",
+          "start": 0,
+          "username": "littlejusir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079735327359726045",
+    "in_reply_to_user_id": "2047295680138362880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079710513932755179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlejusir 先给我一个福再吃吧☝️🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2079606594409533440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNw_LexXEAAIblN.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2079710513932755179",
+        "created_at": "2026-07-22T01:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079735327359726045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2047295680138362880",
+              "start": 0,
+              "username": "littlejusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079735327359726045",
+        "in_reply_to_user_id": "2047295680138362880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079710513932755179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlejusir 先给我一个福再吃吧☝️🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079606594409533440"
+          ]
+        },
+        "author_id": "2047295680138362880",
+        "conversation_id": "2079710513932755179",
+        "created_at": "2026-07-21T23:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079710513932755179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WptqglIwhU",
+              "end": 37,
+              "expanded_url": "https://x.com/littlejusir/status/2079710513932755179/photo/1",
+              "media_key": "3_2079606594409533440",
+              "start": 14,
+              "url": "https://t.co/WptqglIwhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079710513932755179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "jusir吃各位推友的福😋 https://t.co/WptqglIwhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡ overdose ♡ \n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 279,
+          "like_count": 3638,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 578
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T12:45:27.000Z",
+        "description": "中国人，互fo\n\n大号@bigjusir\n二号机@littlejusir\n三号机@jusirlieyan\n\n自制AI图转载请勿去除水印",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "bigjusir"
+              },
+              {
+                "end": 36,
+                "start": 24,
+                "username": "littlejusir"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "jusirlieyan"
+              }
+            ]
+          }
+        },
+        "id": "2047295680138362880",
+        "location": "中华人民共和国",
+        "name": "jusir的二号机(求关)",
+        "pinned_tweet_id": "2078785397061005348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078783984847237120/YXgravfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 713,
+          "like_count": 1502,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1197
+        },
+        "url": "",
+        "username": "littlejusir",
+        "verified": true
+      }
+    ]
+  }
+}

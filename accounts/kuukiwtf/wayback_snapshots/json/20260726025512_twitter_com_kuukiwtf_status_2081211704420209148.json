@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081211704420209148",
+    "created_at": "2026-07-26T02:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T03:54:33.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081211544499810469",
+      "2081211704420209148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangtao1729/st…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/yangtao1729/status/2081093141013422445",
+          "start": 105,
+          "url": "https://t.co/ft5RYsY2UK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081211704420209148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081093141013422445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还记得三个月前的我\ntwitter账户——我有一万个不开心的理由 和女装照 或者裸照\n…第二天\n学校\n诶kuuki你过来这是你吧\n我：？…？\n…回家赶紧，打开twitter\n死手赶紧把推锁了啊啊😭😭😭😭😭。） https://t.co/ft5RYsY2UK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081211544499810469",
+        "created_at": "2026-07-26T02:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:54:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081211544499810469",
+          "2081211704420209148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangtao1729/st…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/yangtao1729/status/2081093141013422445",
+              "start": 102,
+              "url": "https://t.co/ft5RYsY2UK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081211544499810469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081093141013422445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还记得三个月前的我\ntwitter账户——我有一万个不开心的理由 和女装照 或者裸照\n…第二天\n学校\n诶kuuki你过来这是你吧\n我：？…？\n…回家赶紧，打开twitter\n死手赶紧锁啊啊😭😭😭😭😭。） https://t.co/ft5RYsY2UK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081211704420209148",
+        "created_at": "2026-07-26T02:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:54:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081211544499810469",
+          "2081211704420209148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangtao1729/st…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/yangtao1729/status/2081093141013422445",
+              "start": 105,
+              "url": "https://t.co/ft5RYsY2UK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081211704420209148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081093141013422445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还记得三个月前的我\ntwitter账户——我有一万个不开心的理由 和女装照 或者裸照\n…第二天\n学校\n诶kuuki你过来这是你吧\n我：？…？\n…回家赶紧，打开twitter\n死手赶紧把推锁了啊啊😭😭😭😭😭。） https://t.co/ft5RYsY2UK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914766734420279296",
+        "conversation_id": "2081093141013422445",
+        "created_at": "2026-07-25T19:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081093141013422445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081093141013422445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得早年的我\nQQ动态——我有一万个不开心的理由\n…第二天\n学校\naBC…\n前桌后桌：#*!@&amp;…\n我：？…？\n…回家赶紧，打开QQ动态～\n所有人不可见。）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 360,
+          "like_count": 5608,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-22T19:42:30.000Z",
+        "description": "♂男        永远的@XiShangguan    \n                               我是坏人 。我好像不太会介绍自己呢                                      我大哥@yangtao1708 @yangtao0111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "XiShangguan"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "yangtao1708"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "yangtao0111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangtao1729",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangtao1729",
+                "start": 0,
+                "url": "https://t.co/MjsQHi05n5"
+              }
+            ]
+          }
+        },
+        "id": "1914766734420279296",
+        "location": "下界",
+        "name": "白骑士与刺玫瑰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000433652501774336/VpJJuMMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 290,
+          "like_count": 22424,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 10833
+        },
+        "url": "https://t.co/MjsQHi05n5",
+        "username": "yangtao1729",
+        "verified": false
+      }
+    ]
+  }
+}

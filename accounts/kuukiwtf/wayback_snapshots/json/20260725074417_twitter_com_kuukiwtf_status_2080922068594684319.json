@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "1951584627316953241",
+    "created_at": "2026-07-25T07:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080922068594684319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797976114205478912",
+          "start": 0,
+          "username": "Lilyth_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080922068594684319",
+    "in_reply_to_user_id": "1797976114205478912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951584627316953241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lilyth_sama 🕯️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "1951584627316953241",
+        "created_at": "2026-07-25T07:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080922068594684319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797976114205478912",
+              "start": 0,
+              "username": "Lilyth_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080922068594684319",
+        "in_reply_to_user_id": "1797976114205478912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951584627316953241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lilyth_sama 🕯️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797976114205478912",
+        "conversation_id": "1951584627316953241",
+        "created_at": "2025-08-02T10:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T11:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951584627316953241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951584627316953241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1245,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "lilyth死在了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 341,
+          "like_count": 5230,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-04T12:58:15.000Z",
+        "description": "I’d swear, I’d give the whole thing up for you.",
+        "id": "1797976114205478912",
+        "name": "Lilyth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940446777716391936/_TuNbwig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 54,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 649
+        },
+        "url": "",
+        "username": "Lilyth_sama",
+        "verified": false
+      }
+    ]
+  }
+}

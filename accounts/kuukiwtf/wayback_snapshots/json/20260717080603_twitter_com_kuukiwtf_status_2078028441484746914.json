@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2077756469366477253",
+    "created_at": "2026-07-17T08:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078028441484746914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965246583379034117",
+          "start": 0,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078028441484746914",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077756469366477253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyunjennagua 我是山东人🥵🥵👊\n😡😡我不背这个锅（bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2077756469366477253",
+        "created_at": "2026-07-17T08:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078028441484746914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078028441484746914",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077756469366477253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 我是山东人🥵🥵👊\n😡😡我不背这个锅（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2077756469366477253",
+        "created_at": "2026-07-16T14:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077756469366477253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077756469366477253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个山东男人的一天\n5:50，起床，第一件事就是给爹娘磕头请安，然后焚香跪拜孔圣，求祖宗保佑今年能出人头地7:10，早饭煎饼卷大葱，外加两头大蒜下肚\n8:00，坐在小板凳上背《弟子规》和《中庸》，反复练习八股文腔调，为考公做准备\n11:40，抽空打半小时老婆，算是午饭前热身\n12:10，午饭继续煎饼卷大葱，蘸上自家腌的咸菜12:40，打半小时老婆，饭后促进血液循环\n14:00，去地里干农活，扛着锄头和200斤麦种，干得满头大汗\n17:40，考公笔试再次落榜，回家被爹娘轮流教训\"这么不争气，怎么对得起列祖列宗\"\n18:20，晚饭猛造几个热乎乎刚出炉的大馒头，配大葱和酱豆\n18:50，打半小时老婆，强身健体顺便发泄压力19:40，准点坐在炕上看老家电视台的相亲节目21:10，拉着老婆备孕，叮嘱“必须生儿子，不然咱们就不过了”\n22:00，心满意足睡去，梦里还在背“百善孝为先”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1926,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个山东男人的一天\n5:50，起床，第一件事就是给爹娘磕头请安，然后焚香跪拜孔圣，求祖宗保佑今年能出人头地7:10，早饭煎饼卷大葱，外加两头大蒜下肚\n8:00，坐在小板凳上背《弟子规》和《中庸》，反复练习八股文腔调，为考公做准备\n11:40，抽空打半小时老婆，算是午饭前热身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡✞ \n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\n⟡ v-kei ꙳scenecore lover ♡✦ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 105,
+          "like_count": 1174,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 1076,
+          "like_count": 7728,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 3849
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

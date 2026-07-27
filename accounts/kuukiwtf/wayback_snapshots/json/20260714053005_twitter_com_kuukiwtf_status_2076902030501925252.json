@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2076902030501925252",
+    "created_at": "2026-07-14T05:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076902030501925252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/surajazeem/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/surajazeem/status/2076710113340223804",
+          "start": 14,
+          "url": "https://t.co/5bY3xTwiVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076902030501925252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076710113340223804",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我本来想长这样的☝️🤓 https://t.co/5bY3xTwiVI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11678,
+        "height": 1280,
+        "media_key": "13_2076710043404378112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076710043404378112/img/Fbn2kVefWIR0HEam.jpg",
+        "public_metrics": {
+          "view_count": 646
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076710043404378112/vid/avc1/320x568/kGER6qIZW0fwJShI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076710043404378112/vid/avc1/480x852/IHRxoOZBltK7u3N8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076710043404378112/vid/avc1/720x1280/t5eV-cNDXx3ZiJIc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076710043404378112/pl/EXZqc6soa2BVeAtm.m3u8?v=66b"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2076902030501925252",
+        "created_at": "2026-07-14T05:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076902030501925252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/surajazeem/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/surajazeem/status/2076710113340223804",
+              "start": 14,
+              "url": "https://t.co/5bY3xTwiVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076902030501925252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076710113340223804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我本来想长这样的☝️🤓 https://t.co/5bY3xTwiVI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076710043404378112"
+          ]
+        },
+        "author_id": "357539288",
+        "conversation_id": "2076710113340223804",
+        "created_at": "2026-07-13T16:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076710113340223804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqQmIUTvto",
+              "end": 23,
+              "expanded_url": "https://x.com/Surajazeem/status/2076710113340223804/video/1",
+              "media_key": "13_2076710043404378112",
+              "start": 0,
+              "url": "https://t.co/XqQmIUTvto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076710113340223804",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1971,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XqQmIUTvto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡✞ \n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡\n⟡ v-kei ꙳scenecore lover ♡✦ \nrebzyyx kets4eki fans \n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "kuuki",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 22,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n18.0\n辣条已过气。\n妈妈@Shivam3228\n牛马💊 @AminoXx_killer \n媳妇@Ririka12208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Ririka12208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/GEPRzkdFkj"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "location": "msk身后",
+        "name": "雨林18+",
+        "pinned_tweet_id": "2074845970169577745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074861255509307392/Y8tOJNW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 162,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/GEPRzkdFkj",
+        "username": "Surajazeem",
+        "verified": false
+      }
+    ]
+  }
+}
