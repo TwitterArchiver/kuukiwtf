@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087074893401829504",
+    "created_at": "2026-08-11T08:40:38.000Z",
+    "display_text_range": [
+      10,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087096843943780661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2078812455829147648",
+          "start": 0,
+          "username": "lyc2111z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087096843943780661",
+    "in_reply_to_user_id": "2078812455829147648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087095048932581387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyc2111z 不用a \n我對自己以後的要求就是\n要麼基礎款 要麼pro\n\n但備用機可以a（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087074893401829504",
+        "created_at": "2026-08-11T08:40:38.000Z",
+        "display_text_range": [
+          10,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087096843943780661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2078812455829147648",
+              "start": 0,
+              "username": "lyc2111z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087096843943780661",
+        "in_reply_to_user_id": "2078812455829147648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087095048932581387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyc2111z 不用a \n我對自己以後的要求就是\n要麼基礎款 要麼pro\n\n但備用機可以a（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078812455829147648",
+        "conversation_id": "2087074893401829504",
+        "created_at": "2026-08-11T08:33:30.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087095048932581387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087095048932581387",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087074893401829504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 買A版啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑\n不認識也不查就瞎雞巴問的支那豬 自己從窗戶翻下去\n支那豬可以自由拉黑我 這也表示你認輸\n\n████████████████████\n其他帳戶\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087096843943780661",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 568,
+          "like_count": 10389,
+          "listed_count": 0,
+          "media_count": 411,
+          "tweet_count": 2039
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T12:04:07.000Z",
+        "description": "",
+        "id": "2078812455829147648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087095048932581387",
+        "name": "AZEZ21",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078813989648343040/90l4erWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 61,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "lyc2111z",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

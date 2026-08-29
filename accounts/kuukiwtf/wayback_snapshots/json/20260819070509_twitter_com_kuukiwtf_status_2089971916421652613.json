@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089971916421652613",
+    "created_at": "2026-08-19T07:05:09.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089971916421652613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/adCa00414/stat…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/adCa00414/status/2089921643930128864",
+          "start": 64,
+          "url": "https://t.co/9kbV74Dzgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089971916421652613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089921643930128864",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你把手往下伸 有管你就撸 有逼你就抠 再骂我我帮你也行 别一天天逮着我骂 我们只是网友 你把手机摔了我就死了 一群没教养的东西 https://t.co/9kbV74Dzgz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089971916421652613",
+        "created_at": "2026-08-19T07:05:09.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089971916421652613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/adCa00414/stat…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/adCa00414/status/2089921643930128864",
+              "start": 64,
+              "url": "https://t.co/9kbV74Dzgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089971916421652613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089921643930128864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你把手往下伸 有管你就撸 有逼你就抠 再骂我我帮你也行 别一天天逮着我骂 我们只是网友 你把手机摔了我就死了 一群没教养的东西 https://t.co/9kbV74Dzgz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083477847797362688",
+        "conversation_id": "2089921643930128864",
+        "created_at": "2026-08-19T03:45:23.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T04:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089921643930128864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089921643930128864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你把手往下伸 有管你就撸 有逼你就抠 再骂我我帮你也行 别一天天逮着我骂 我们只是网友 你把手机摔了我就死了 一群没教养的东西"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089971916421652613",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 675,
+          "like_count": 12672,
+          "listed_count": 1,
+          "media_count": 564,
+          "tweet_count": 2701
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T09:01:29.000Z",
+        "description": "前世@ANDEL0426\n我的狗狗@xxs0721 \n纯绿墙外🚪30 不加v 完全被动聊天\n可能是友跨｜烟鬼｜海豹厨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ANDEL0426"
+              },
+              {
+                "end": 25,
+                "start": 17,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "2083477847797362688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089940300290814450",
+        "name": "ADniako喵",
+        "pinned_tweet_id": "2089180053561278594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083477847797362688/1786896504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083478390020149248/3ahRmuL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 109,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "adCa00414",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

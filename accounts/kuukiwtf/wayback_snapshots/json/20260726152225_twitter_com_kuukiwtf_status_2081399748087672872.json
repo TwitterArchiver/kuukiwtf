@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081355616036282510",
+    "created_at": "2026-07-26T15:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081399748087672872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1671184573198131200",
+          "start": 0,
+          "username": "Rainmoon0721"
+        },
+        {
+          "end": 19,
+          "id": "1720665183188922368",
+          "start": 14,
+          "username": "grok"
+        },
+        {
+          "end": 25,
+          "id": "1720665183188922368",
+          "start": 20,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081399748087672872",
+    "in_reply_to_user_id": "1671184573198131200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081355616036282510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainmoon0721 @grok @grok 我兄弟跟你說話呢 你趕緊回复 聽見沒有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081355616036282510",
+        "created_at": "2026-07-26T15:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081399748087672872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1671184573198131200",
+              "start": 0,
+              "username": "Rainmoon0721"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            },
+            {
+              "end": 25,
+              "id": "1720665183188922368",
+              "start": 20,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081399748087672872",
+        "in_reply_to_user_id": "1671184573198131200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081355616036282510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainmoon0721 @grok @grok 我兄弟跟你說話呢 你趕緊回复 聽見沒有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671184573198131200",
+        "conversation_id": "2081355616036282510",
+        "created_at": "2026-07-26T12:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081355616036282510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081355616036282510",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@grok 降低我账号推送mtf，od类似亚文化内容的权重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 375,
+          "like_count": 5862,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-20T15:53:57.000Z",
+        "description": "生理男/心理男/泛性恋/age:17/ip:🌐\n你喜欢我＝我喜欢你🥰\n有心理疾病/脑子不太正常/休学中\n暂时不od自残\n不及时回复抱歉\n唯一爱好:玩fps游戏(cs2/瓦/洲但是是一个本质菜逼\n政治立场为降临派😇人类自愿灭绝计划支持者\nx目前用得不太熟练 正在慢慢学习中📖\n懒得充蓝v了 一分钱不想给msk爆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ra1nm00n",
+                "end": 23,
+                "expanded_url": "https://t.me/Ra1nm00n",
+                "start": 0,
+                "url": "https://t.co/APcoUKwYqX"
+              }
+            ]
+          }
+        },
+        "id": "1671184573198131200",
+        "location": "江西南昌",
+        "name": "雨月Ugetsu🌧️🌙",
+        "pinned_tweet_id": "2081376512411156915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081280403210723328/OECbufRX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 166,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/APcoUKwYqX",
+        "username": "Rainmoon0721",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8878126,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7221,
+          "media_count": 9188914,
+          "tweet_count": 132352779
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

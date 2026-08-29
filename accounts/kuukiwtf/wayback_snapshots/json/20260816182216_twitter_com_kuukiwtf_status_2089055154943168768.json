@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088364973676216320"
+      ],
+      "media_source_tweet_id": [
+        "2088364977899942284"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089055154943168768",
+    "created_at": "2026-08-16T18:22:16.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T19:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089055154943168768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2020957629183295488",
+          "start": 3,
+          "username": "rainthecandy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BRPT6MVYvY",
+          "end": 41,
+          "expanded_url": "https://x.com/girlsgutz/status/2088364977899942284/photo/1",
+          "media_key": "3_2088364973676216320",
+          "start": 18,
+          "url": "https://t.co/BRPT6MVYvY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089055154943168768",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088364973676216320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4386
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088364977899942284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rainthecandy: https://t.co/BRPT6MVYvY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 225,
+        "media_key": "3_2088364973676216320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPtc4QFWwAAJ5nK.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088364973676216320"
+          ],
+          "media_source_tweet_id": [
+            "2088364977899942284"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089055154943168768",
+        "created_at": "2026-08-16T18:22:16.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T19:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089055154943168768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2020957629183295488",
+              "start": 3,
+              "username": "rainthecandy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRPT6MVYvY",
+              "end": 41,
+              "expanded_url": "https://x.com/girlsgutz/status/2088364977899942284/photo/1",
+              "media_key": "3_2088364973676216320",
+              "start": 18,
+              "url": "https://t.co/BRPT6MVYvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089055154943168768",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088364973676216320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4386
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088364977899942284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rainthecandy: https://t.co/BRPT6MVYvY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088364973676216320"
+          ]
+        },
+        "author_id": "2020957629183295488",
+        "conversation_id": "2088364977899942284",
+        "created_at": "2026-08-14T20:39:45.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T21:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088364977899942284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRPT6MVYvY",
+              "end": 23,
+              "expanded_url": "https://x.com/girlsgutz/status/2088364977899942284/photo/1",
+              "media_key": "3_2088364973676216320",
+              "start": 0,
+              "url": "https://t.co/BRPT6MVYvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088364977899942284",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088364973676216320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 846,
+          "impression_count": 102650,
+          "like_count": 15269,
+          "quote_count": 61,
+          "reply_count": 10,
+          "retweet_count": 4386
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BRPT6MVYvY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089055154943168768",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 676,
+          "like_count": 12212,
+          "listed_count": 0,
+          "media_count": 531,
+          "tweet_count": 2509
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-09T20:29:07.000Z",
+        "description": "⛧°𓃵 ⋆༺25 I'm honestly too old to be back here again • Hope yall don't end up like me༻⋆ 𓃵°⛧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rain-candy.neocities.org",
+                "end": 23,
+                "expanded_url": "http://rain-candy.neocities.org",
+                "start": 0,
+                "url": "https://t.co/XHZMH0PA9e"
+              }
+            ]
+          }
+        },
+        "id": "2020957629183295488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089015460989743280",
+        "name": "Ｒａｉｎ　Ｃａｎｄｙ　殴ほッ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020957629183295488/1786775113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088512267058876416/IRuC6u4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 168,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/XHZMH0PA9e",
+        "username": "rainthecandy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

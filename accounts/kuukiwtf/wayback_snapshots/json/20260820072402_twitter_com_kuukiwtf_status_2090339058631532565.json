@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090339058631532565",
+    "created_at": "2026-08-20T07:24:02.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T08:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090339058631532565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bigjusir/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/bigjusir/status/2090255297520832532",
+          "start": 33,
+          "url": "https://t.co/SbqoyXGnhZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090339058631532565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090255297520832532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "髮型是照著馬桶蓋做的嘛  長那麼醜 什麼垃圾審美 中國馬上完蛋了 https://t.co/SbqoyXGnhZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2090255283738288128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIUGx0aoAAIst8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090339058631532565",
+        "created_at": "2026-08-20T07:24:02.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090339058631532565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bigjusir/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/bigjusir/status/2090255297520832532",
+              "start": 33,
+              "url": "https://t.co/SbqoyXGnhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090339058631532565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090255297520832532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "髮型是照著馬桶蓋做的嘛  長那麼醜 什麼垃圾審美 中國馬上完蛋了 https://t.co/SbqoyXGnhZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090255283738288128"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2090255297520832532",
+        "created_at": "2026-08-20T01:51:12.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T02:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090255297520832532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwW9CTXlaG",
+              "end": 113,
+              "expanded_url": "https://x.com/bigjusir/status/2090255297520832532/photo/1",
+              "media_key": "3_2090255283738288128",
+              "start": 90,
+              "url": "https://t.co/zwW9CTXlaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090255297520832532",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090255283738288128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4901,
+          "like_count": 68,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "墙内一堆人说重庆是国民党的陪都，那群时代峰峻的嘉豪都是国军。\n\n可jusir偏要说，照片里的两个人都是十五岁，只有国军是我们民族的脊梁。\n\n时代峰峻的嘉豪根本不能和国军相提并论。 https://t.co/zwW9CTXlaG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090339058631532565",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 686,
+          "like_count": 12957,
+          "listed_count": 1,
+          "media_count": 575,
+          "tweet_count": 2766
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)\n\n大号@bigjusir\n二号机@littlejusir\n三号机@jusirlieyan\n\n自制AI图转载请勿去除水印",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "bigjusir"
+              },
+              {
+                "end": 40,
+                "start": 28,
+                "username": "littlejusir"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "jusirlieyan"
+              }
+            ]
+          }
+        },
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2090334404170404226",
+        "name": "jusir",
+        "pinned_tweet_id": "2087100350092181848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 3598,
+          "like_count": 8040,
+          "listed_count": 11,
+          "media_count": 979,
+          "tweet_count": 4180
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2083112985766035671",
+    "created_at": "2026-07-31T08:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083112985766035671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047699031502319616",
+          "start": 3,
+          "username": "Zxyywyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083112985766035671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083079521893327125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zxyywyl: 老给我扣问号和发嗯的人能不能滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2083112985766035671",
+        "created_at": "2026-07-31T08:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083112985766035671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047699031502319616",
+              "start": 3,
+              "username": "Zxyywyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083112985766035671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083079521893327125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zxyywyl: 老给我扣问号和发嗯的人能不能滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047699031502319616",
+        "conversation_id": "2083079521893327125",
+        "created_at": "2026-07-31T06:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083079521893327125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083079521893327125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老给我扣问号和发嗯的人能不能滚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 515,
+          "like_count": 7617,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1425
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-24T15:31:28.000Z",
+        "description": "阴晴不定",
+        "id": "2047699031502319616",
+        "name": "六月",
+        "pinned_tweet_id": "2078809594483093920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081919196389052416/A3TDllSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 106,
+          "like_count": 5836,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "Zxyywyl",
+        "verified": false
+      }
+    ]
+  }
+}

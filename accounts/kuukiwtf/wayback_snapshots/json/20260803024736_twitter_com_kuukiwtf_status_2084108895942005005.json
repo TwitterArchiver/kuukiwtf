@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2084100083398930749",
+    "created_at": "2026-08-03T02:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084108895942005005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084108895942005005",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084100083398930749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 這不是弗太嗎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084100074217578496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOw1-bgaoAAXV2h.jpg",
+        "width": 1014
+      },
+      {
+        "height": 1584,
+        "media_key": "3_2084100074217537536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOw1-bgaAAAExFT.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2084100083398930749",
+        "created_at": "2026-08-03T02:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084108895942005005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084108895942005005",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084100083398930749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 這不是弗太嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084100074217578496",
+            "3_2084100074217537536"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084100083398930749",
+        "created_at": "2026-08-03T02:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084100083398930749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ok44mrGlfh",
+              "end": 169,
+              "expanded_url": "https://x.com/xixikawaii/status/2084100083398930749/photo/1",
+              "media_key": "3_2084100074217578496",
+              "start": 146,
+              "url": "https://t.co/Ok44mrGlfh"
+            },
+            {
+              "display_url": "pic.x.com/Ok44mrGlfh",
+              "end": 169,
+              "expanded_url": "https://x.com/xixikawaii/status/2084100083398930749/photo/1",
+              "media_key": "3_2084100074217537536",
+              "start": 146,
+              "url": "https://t.co/Ok44mrGlfh"
+            },
+            {
+              "display_url": "x.com/xixikawaii/sta…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/xixikawaii/status/2083764343272054912",
+              "start": 170,
+              "url": "https://t.co/zfNO1ZVHxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084100083398930749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "感觉你是丑比没性魅力从小到大的后排边缘人，雨中自我陶醉的嘉豪，唯一碰过的女人是他妈。好不容易有了父母给的1500生活费，宿舍里刷抖音对着夜刀神狗打飞机的主，抓耳挠腮的特别想操b，费尽心思的编辑文案，把他太太爷爷到现在的总计50平米祖坟和自家10亩地按房价折算能说自己是A8，分期租了个奔驰拍照准备钓鱼寻思着骗一晚上的逼操先😈🩵"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1691,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083764343272054912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉你是丑比没性魅力从小到大的后排边缘人，雨中自我陶醉的嘉豪，唯一碰过的女人是他妈。好不容易有了父母给的1500生活费，宿舍里刷抖音对着夜刀神狗打飞机的主，抓耳挠腮的特别想操b，费尽心思的编辑文案，把他太太爷爷到现在的总计50平米祖坟和自家10亩地按房价折算能说自己是A8，分期租了个奔驰拍 https://t.co/Ok44mrGlfh https://t.co/zfNO1ZVHxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 530,
+          "like_count": 8201,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 1574
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp | 戒赌版 | 每天要去迪士尼版 | 投稿请私信DM\n\nJKS水手服 | cl一生推 | 分享欲高 | 亮点推文\n\n承蒙厚爱不胜感激 | 私のことを好きになってくださり、ありがとうございます。🩵\n\n爱党 | 爱国 | 坚持一个中国原则",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_xixi",
+                "start": 0,
+                "url": "https://t.co/Xf4PjsKl0T"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "1000x Meme Alpha 👉🏻",
+        "name": "汐",
+        "pinned_tweet_id": "2074172096805233082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081397697450496000/Lp1pngND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48045,
+          "following_count": 1190,
+          "like_count": 15409,
+          "listed_count": 470,
+          "media_count": 5149,
+          "tweet_count": 25198
+        },
+        "url": "https://t.co/Xf4PjsKl0T",
+        "username": "xixikawaii",
+        "verified": true
+      }
+    ]
+  }
+}

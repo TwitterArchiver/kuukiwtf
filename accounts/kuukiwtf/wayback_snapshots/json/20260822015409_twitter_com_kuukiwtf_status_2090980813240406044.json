@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090642548851437782",
+    "created_at": "2026-08-22T01:54:09.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090980813240406044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1239436070292320257",
+          "start": 0,
+          "username": "0427SMtieshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090980813240406044",
+    "in_reply_to_user_id": "1239436070292320257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090642548851437782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0427SMtieshou 先給我再說"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090642548851437782",
+        "created_at": "2026-08-22T01:54:09.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090980813240406044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1239436070292320257",
+              "start": 0,
+              "username": "0427SMtieshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090980813240406044",
+        "in_reply_to_user_id": "1239436070292320257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090642548851437782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0427SMtieshou 先給我再說"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239436070292320257",
+        "conversation_id": "2090642548851437782",
+        "created_at": "2026-08-21T03:30:00.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090642548851437782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090642548851437782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 573042,
+          "like_count": 1044,
+          "quote_count": 10,
+          "reply_count": 689,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "你可以挥霍2.4万亿人民币\n\n但代价是60岁以后失去人生自由\n\n有谁愿意换？？？？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "NONBINARY | AROMANTIC ASEXUAL\nsh/od twt\njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 96,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090980813240406044",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 695,
+          "like_count": 13682,
+          "listed_count": 1,
+          "media_count": 593,
+          "tweet_count": 2913
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-16T06:19:34.000Z",
+        "description": "每日精进\n日拱一卒\n一起发东西南北旋风财！",
+        "id": "1239436070292320257",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090980304270004410",
+        "name": "铁手",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239436070292320257/1779750869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052880484473217024/W7AIOFFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81959,
+          "following_count": 1744,
+          "like_count": 23003,
+          "listed_count": 449,
+          "media_count": 2396,
+          "tweet_count": 18838
+        },
+        "url": "",
+        "username": "0427SMtieshou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2084346387639205987",
+    "created_at": "2026-08-03T18:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T19:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084346387639205987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuukiwtf/statu…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/kuukiwtf/status/2084345610548003182",
+          "start": 31,
+          "url": "https://t.co/XyU2hPnU0Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084346387639205987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084345610548003182",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇哇哇\n閉關鎖國欸\n匪共你贏了\n👍👍👍\n你媽亖了傻逼玩意支那 https://t.co/XyU2hPnU0Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2084346387639205987",
+        "created_at": "2026-08-03T18:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084346387639205987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwtf/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/kuukiwtf/status/2084345610548003182",
+              "start": 31,
+              "url": "https://t.co/XyU2hPnU0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084346387639205987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084345610548003182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇哇哇\n閉關鎖國欸\n匪共你贏了\n👍👍👍\n你媽亖了傻逼玩意支那 https://t.co/XyU2hPnU0Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2084345610548003182",
+        "created_at": "2026-08-03T18:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084345610548003182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084345610548003182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "moj.gov.cn/pub/sfbgw/gwxw…",
+                "end": 365,
+                "expanded_url": "https://www.moj.gov.cn/pub/sfbgw/gwxw/xwyw/202607/t20260731_538116.html",
+                "start": 342,
+                "url": "https://t.co/TWKTB3GPeI"
+              }
+            ]
+          },
+          "text": "《国务院关于出境入境管理的规定》9月15日起施行\n来源：新华社 发布时间：2026-07-31 18:51\n\n《国务院关于出境入境管理的规定》7月31日公布，自2026年9月15日起施行。规定共19条，旨在规范出境入境管理，保障出境入境人员合法权益，维护国家主权、安全、发展利益。\n\n　　规定主要体现四方面内容：一是健全出境安全风险防范制度，规定国务院外交、文化和旅游主管部门等及时公开发布国外安全提醒和旅游目的地安全风险提示等；二是明确出境入境申请要求，规定出境入境人员申请出境入境、停留居留的事由应当真实、合法等；三是完善出境入境限制措施，规定中国公民依法不准其出境、外国人依法不准其入境的情形；四是规范出境入境中介服务，规定对从事出境入境中介服务的机构和人员实行备案管理等。\n\nhttps://t.co/TWKTB3GPeI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《国务院关于出境入境管理的规定》9月15日起施行\n来源：新华社 发布时间：2026-07-31 18:51\n\n《国务院关于出境入境管理的规定》7月31日公布，自2026年9月15日起施行。规定共19条，旨在规范出境入境管理，保障出境入境人员合法权益，维护国家主权、安全、发展利益。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 530,
+          "like_count": 8403,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 1630
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

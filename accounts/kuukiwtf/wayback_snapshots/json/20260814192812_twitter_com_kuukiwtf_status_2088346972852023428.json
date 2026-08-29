@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088346972852023428",
+    "created_at": "2026-08-14T19:28:12.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T20:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088346972852023428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sisiisthinking…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/sisiisthinking/status/2087919842523582819",
+          "start": 32,
+          "url": "https://t.co/jxXuAKD3sB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088346972852023428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087919842523582819",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "問題來了\n取得美國國籍 和 購買方舟的補佳樂  哪一個更難呢（ https://t.co/jxXuAKD3sB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088346972852023428",
+        "created_at": "2026-08-14T19:28:12.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088346972852023428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sisiisthinking…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/sisiisthinking/status/2087919842523582819",
+              "start": 32,
+              "url": "https://t.co/jxXuAKD3sB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088346972852023428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087919842523582819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "問題來了\n取得美國國籍 和 購買方舟的補佳樂  哪一個更難呢（ https://t.co/jxXuAKD3sB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1281869293462761475",
+        "conversation_id": "2087919842523582819",
+        "created_at": "2026-08-13T15:10:56.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087919842523582819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087919842523582819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 11267,
+          "like_count": 105,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "方舟健客改了补佳乐的流程，强制上传处方并有“图片识别过滤”机制，拒绝“未包含处方或病历信息”图片的上传\n\n增加了数个问题，并需要文字回答问题“是医生让买的吗？”\n\n最后，即使通过流程，也限制了7天内购买数量（最多4盒）\n\n---\n\n上面是更新简述，方舟健客似乎有付款后再次审核的环节，有成功买到的吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088346972852023428",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 659,
+          "like_count": 11415,
+          "listed_count": 0,
+          "media_count": 495,
+          "tweet_count": 2384
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-11T08:34:00.000Z",
+        "description": "she / her | 🩷💜💙 | 🏳️‍⚧️🍥 | 破壳日 2008 / 04 / 04 | HRT 2024 / 06 / 12 | 姐姐 @enocxzlw | 叫思思就好~ | @bakanekodumbcat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "enocxzlw"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "bakanekodumbcat"
+              }
+            ]
+          }
+        },
+        "id": "1281869293462761475",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088098888414863773",
+        "name": "思思思考中~",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043738941480906752/my3YMp05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 458,
+          "like_count": 4479,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "sisiisthinking",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087066554873905160",
+    "created_at": "2026-08-11T06:40:17.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087066554873905160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1846596976265326592",
+          "start": 5,
+          "username": "voidsama777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087066554873905160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "準備停用 @voidsama777"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087066554873905160",
+        "created_at": "2026-08-11T06:40:17.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087066554873905160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1846596976265326592",
+              "start": 5,
+              "username": "voidsama777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087066554873905160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "準備停用 @voidsama777"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑\n不認識也不查就瞎雞巴問的支那豬 自己從窗戶翻下去\n支那豬可以自由拉黑我 這也表示你認輸\n\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "voidsama777"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087066554873905160",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 567,
+          "like_count": 10353,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 2091
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/kAV7Ns7mb3"
+              }
+            ]
+          }
+        },
+        "id": "1846596976265326592",
+        "is_identity_verified": false,
+        "location": "ＩＮＴＥＲＮＥＴ",
+        "most_recent_tweet_id": "2076723135265878257",
+        "name": "✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨",
+        "pinned_tweet_id": "2074246566727332007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1846596976265326592/1780159060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 544,
+          "like_count": 18395,
+          "listed_count": 1,
+          "media_count": 543,
+          "tweet_count": 2860
+        },
+        "url": "https://t.co/kAV7Ns7mb3",
+        "username": "voidsama777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

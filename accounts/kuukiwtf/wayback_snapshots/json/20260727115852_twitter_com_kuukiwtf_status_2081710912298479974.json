@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081710912298479974",
+    "created_at": "2026-07-27T11:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081710912298479974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/hsn8086/status/2081441332577595433",
+          "start": 25,
+          "url": "https://t.co/t2LDZ9Ee7Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081710912298479974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081441332577595433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "壞了我竟然不知道麥當勞有優惠券\n我的錢啊😭😭😭😭 https://t.co/t2LDZ9Ee7Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_2081441313933893632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLD2NnaIAA0PJ4.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081710912298479974",
+        "created_at": "2026-07-27T11:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081710912298479974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/hsn8086/status/2081441332577595433",
+              "start": 25,
+              "url": "https://t.co/t2LDZ9Ee7Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081710912298479974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081441332577595433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "壞了我竟然不知道麥當勞有優惠券\n我的錢啊😭😭😭😭 https://t.co/t2LDZ9Ee7Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081441313933893632"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2081441332577595433",
+        "created_at": "2026-07-26T18:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081441332577595433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQvfaZOPqu",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2081441332577595433/photo/1",
+              "media_key": "3_2081441313933893632",
+              "start": 0,
+              "url": "https://t.co/BQvfaZOPqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081441332577595433",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 431128,
+          "like_count": 1695,
+          "quote_count": 4,
+          "reply_count": 98,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BQvfaZOPqu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 458,
+          "like_count": 6198,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121720,
+          "following_count": 1119,
+          "like_count": 52135,
+          "listed_count": 300,
+          "media_count": 23687,
+          "tweet_count": 34241
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

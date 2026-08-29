@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090855535415545856"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090855546543034537",
+    "created_at": "2026-08-21T17:36:23.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090855546543034537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dY64QxlIjN",
+          "end": 37,
+          "expanded_url": "https://x.com/kuukiwtf/status/2090855546543034537/photo/1",
+          "media_key": "3_2090855535415545856",
+          "start": 14,
+          "url": "https://t.co/dY64QxlIjN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090855546543034537",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090855535415545856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就這麼縮著抽菸\n凍死爺了 https://t.co/dY64QxlIjN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090855535415545856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQ2CBkaUAA4pB_.jpg",
+        "width": 3077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090855535415545856"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090855546543034537",
+        "created_at": "2026-08-21T17:36:23.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090855546543034537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dY64QxlIjN",
+              "end": 37,
+              "expanded_url": "https://x.com/kuukiwtf/status/2090855546543034537/photo/1",
+              "media_key": "3_2090855535415545856",
+              "start": 14,
+              "url": "https://t.co/dY64QxlIjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090855546543034537",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090855535415545856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就這麼縮著抽菸\n凍死爺了 https://t.co/dY64QxlIjN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "NONBINARY | AROMANTIC ASEXUAL\nsh/od twt\njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 96,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090855546543034537",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 694,
+          "like_count": 13411,
+          "listed_count": 1,
+          "media_count": 587,
+          "tweet_count": 2861
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

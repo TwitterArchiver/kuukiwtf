@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082260448972595200"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081539909563928657",
+    "created_at": "2026-07-29T00:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082260455867961527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060150471466405888",
+          "start": 0,
+          "username": "MiniBoooooooo"
+        },
+        {
+          "end": 30,
+          "id": "1953220902109540352",
+          "start": 15,
+          "username": "ThinkDeeply000"
+        },
+        {
+          "end": 42,
+          "id": "1952816489213374464",
+          "start": 31,
+          "username": "GavxOv8344"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3CA6M9vUbD",
+          "end": 80,
+          "expanded_url": "https://x.com/kuukiwtf/status/2082260455867961527/photo/1",
+          "media_key": "3_2082260448972595200",
+          "start": 57,
+          "url": "https://t.co/3CA6M9vUbD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082260455867961527",
+    "in_reply_to_user_id": "2060150471466405888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082259007851647014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiniBoooooooo @ThinkDeeply000 @GavxOv8344 你永遠是 支 那 豬 🥰🥰 https://t.co/3CA6M9vUbD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2082260448972595200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWs2JbbYAA6DRp.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082260448972595200"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081539909563928657",
+        "created_at": "2026-07-29T00:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082260455867961527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060150471466405888",
+              "start": 0,
+              "username": "MiniBoooooooo"
+            },
+            {
+              "end": 30,
+              "id": "1953220902109540352",
+              "start": 15,
+              "username": "ThinkDeeply000"
+            },
+            {
+              "end": 42,
+              "id": "1952816489213374464",
+              "start": 31,
+              "username": "GavxOv8344"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3CA6M9vUbD",
+              "end": 80,
+              "expanded_url": "https://x.com/kuukiwtf/status/2082260455867961527/photo/1",
+              "media_key": "3_2082260448972595200",
+              "start": 57,
+              "url": "https://t.co/3CA6M9vUbD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082260455867961527",
+        "in_reply_to_user_id": "2060150471466405888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082259007851647014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiniBoooooooo @ThinkDeeply000 @GavxOv8344 你永遠是 支 那 豬 🥰🥰 https://t.co/3CA6M9vUbD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060150471466405888",
+        "conversation_id": "2081539909563928657",
+        "created_at": "2026-07-29T00:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082259007851647014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1953220902109540352",
+              "start": 0,
+              "username": "ThinkDeeply000"
+            },
+            {
+              "end": 27,
+              "id": "1952816489213374464",
+              "start": 16,
+              "username": "GavxOv8344"
+            },
+            {
+              "end": 37,
+              "id": "2076841557802864640",
+              "start": 28,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082259007851647014",
+        "in_reply_to_user_id": "1953220902109540352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081567546327933402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThinkDeeply000 @GavxOv8344 @kuukiwtf 你是真的傻逼🤣🤣废物你永远是 中国香港人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 490,
+          "like_count": 6768,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1229
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-29T00:06:34.000Z",
+        "description": "",
+        "id": "2060150471466405888",
+        "name": "Mini Boo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060150953278623744/-Hw5LNLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "MiniBoooooooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T22:25:41.000Z",
+        "description": "Maintain your own creativity\n🇭🇰🇹🇼🇬🇧🇯🇵🇫🇷🇮🇹🇳🇿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/oMA12IAoOmE?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/oMA12IAoOmE?si=KNXDX_Y8VtaHXhRV",
+                "start": 0,
+                "url": "https://t.co/uoGx8PCKr7"
+              }
+            ]
+          }
+        },
+        "id": "1953220902109540352",
+        "location": "Kwun Tong, British Hong Kong",
+        "name": "Priest",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073498879954415616/0vpe_B86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 312,
+          "like_count": 9833,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/uoGx8PCKr7",
+        "username": "ThinkDeeply000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-05T19:38:42.000Z",
+        "description": "加缪",
+        "id": "1952816489213374464",
+        "name": "庸杨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081542018161860609/o2YwcBec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "GavxOv8344",
+        "verified": false
+      }
+    ]
+  }
+}

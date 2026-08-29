@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087535167082823771",
+    "created_at": "2026-08-12T14:38:17.000Z",
+    "display_text_range": [
+      20,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087549236561011049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883207896768651264",
+          "start": 0,
+          "username": "clem0216"
+        },
+        {
+          "end": 19,
+          "id": "1994720929709174784",
+          "start": 10,
+          "username": "bth95147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087549236561011049",
+    "in_reply_to_user_id": "1883207896768651264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087548994834559453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clem0216 @bth95147 那是我噘嘴的✋😭🤚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087535167082823771",
+        "created_at": "2026-08-12T14:38:17.000Z",
+        "display_text_range": [
+          20,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087549236561011049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            },
+            {
+              "end": 19,
+              "id": "1994720929709174784",
+              "start": 10,
+              "username": "bth95147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087549236561011049",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087548994834559453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 @bth95147 那是我噘嘴的✋😭🤚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2087535167082823771",
+        "created_at": "2026-08-12T14:37:19.000Z",
+        "display_text_range": [
+          20,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087548994834559453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            },
+            {
+              "end": 19,
+              "id": "1994720929709174784",
+              "start": 10,
+              "username": "bth95147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087548994834559453",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087535167082823771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf @bth95147 突嘴有点严重啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087549256379105468",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 636,
+          "like_count": 10791,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 2175
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为两千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem02161",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem02161",
+                "start": 0,
+                "url": "https://t.co/ZtOzowjylj"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2087548994834559453",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883207896768651264/1776001298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 976,
+          "like_count": 14492,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 1297
+        },
+        "url": "https://t.co/ZtOzowjylj",
+        "username": "clem0216",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T10:53:09.000Z",
+        "description": "Golang | Chemistry | 🏳️‍⚧️🍥\n提问箱 https://t.co/0j9zGBlULL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ask-bth.neko.surf",
+                "end": 55,
+                "expanded_url": "http://ask-bth.neko.surf",
+                "start": 32,
+                "url": "https://t.co/0j9zGBlULL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bth95147.github.io",
+                "end": 23,
+                "expanded_url": "http://bth95147.github.io",
+                "start": 0,
+                "url": "https://t.co/VQlRoNUK3l"
+              }
+            ]
+          }
+        },
+        "id": "1994720929709174784",
+        "is_identity_verified": true,
+        "location": "SD",
+        "most_recent_tweet_id": "2087540558642495836",
+        "name": "𝘽𝙩𝙃",
+        "pinned_tweet_id": "2066796313690374173",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994720929709174784/1782550033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070789036810346496/wdKPDiy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 378,
+          "like_count": 686,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/VQlRoNUK3l",
+        "username": "bth95147",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

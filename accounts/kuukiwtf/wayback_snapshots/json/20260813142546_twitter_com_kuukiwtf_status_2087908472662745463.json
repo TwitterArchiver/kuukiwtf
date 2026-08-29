@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087908472662745463",
+    "created_at": "2026-08-13T14:25:46.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087908472662745463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1807823851818307584",
+          "start": 3,
+          "username": "AUMIN273497"
+        },
+        {
+          "end": 53,
+          "id": "1852949232749293568",
+          "start": 43,
+          "username": "xsen60102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087908472662745463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086803978768306640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AUMIN273497: =uiamu 可以叫我uu\nbi｜sub｜🔪🩸\n前世@xsen60102 \n被误封正在申诉中\n请和我互fo助力我夺回我的一切"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [xsen60102].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "xsen60102",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "xsen60102"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087908472662745463",
+        "created_at": "2026-08-13T14:25:46.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087908472662745463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807823851818307584",
+              "start": 3,
+              "username": "AUMIN273497"
+            },
+            {
+              "end": 53,
+              "id": "1852949232749293568",
+              "start": 43,
+              "username": "xsen60102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087908472662745463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086803978768306640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AUMIN273497: =uiamu 可以叫我uu\nbi｜sub｜🔪🩸\n前世@xsen60102 \n被误封正在申诉中\n请和我互fo助力我夺回我的一切"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807823851818307584",
+        "conversation_id": "2086803978768306640",
+        "created_at": "2026-08-10T13:16:54.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086803978768306640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1852949232749293568",
+              "start": 26,
+              "username": "xsen60102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086803978768306640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "=uiamu 可以叫我uu\nbi｜sub｜🔪🩸\n前世@xsen60102 \n被误封正在申诉中\n请和我互fo助力我夺回我的一切"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087908472662745463",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 649,
+          "like_count": 11036,
+          "listed_count": 0,
+          "media_count": 483,
+          "tweet_count": 2308
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-01T17:09:39.000Z",
+        "description": "再次亲眼看看你的笑容\n本体@xsen60102\n此为备用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "xsen60102"
+              }
+            ]
+          }
+        },
+        "id": "1807823851818307584",
+        "is_identity_verified": false,
+        "location": "海拉鲁大陆",
+        "most_recent_tweet_id": "2087907363953226203",
+        "name": "uiamu 2.0",
+        "pinned_tweet_id": "2086803978768306640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807823851818307584/1786267880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813097038210605058/vFcu33yX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 19,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "AUMIN273497",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

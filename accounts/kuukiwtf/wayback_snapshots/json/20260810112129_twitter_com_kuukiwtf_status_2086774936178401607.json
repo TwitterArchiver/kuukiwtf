@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086774936178401607",
+    "created_at": "2026-08-10T11:21:29.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086774936178401607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "6231912",
+          "start": 28,
+          "username": "kuuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086774936178401607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老資歷\n我羨慕死了\n07年的kuuki極品id✋😭🤚（\n@kuuki"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086774936178401607",
+        "created_at": "2026-08-10T11:21:29.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086774936178401607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "6231912",
+              "start": 28,
+              "username": "kuuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086774936178401607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老資歷\n我羨慕死了\n07年的kuuki極品id✋😭🤚（\n@kuuki"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo互fo互fo互fo\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "voidsama777"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086774936178401607",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 557,
+          "like_count": 9954,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-05-22T13:51:08.000Z",
+        "description": "実績解除フラッシュよろしくね https://t.co/kM84Xq9A5T 合わせて土星化計画も https://t.co/TU2tSCGwuw ヽ(*ﾟдﾟ)ノ ﾒﾅﾑｰ!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "unlock360.hp2.jp",
+                "end": 38,
+                "expanded_url": "http://unlock360.hp2.jp",
+                "start": 15,
+                "url": "https://t.co/kM84Xq9A5T"
+              },
+              {
+                "display_url": "dosei.hp2.jp",
+                "end": 73,
+                "expanded_url": "http://dosei.hp2.jp",
+                "start": 50,
+                "url": "https://t.co/TU2tSCGwuw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "live.xbox.com/ja-JP/Profile?…",
+                "end": 23,
+                "expanded_url": "http://live.xbox.com/ja-JP/Profile?gamertag=kuuki",
+                "start": 0,
+                "url": "https://t.co/yQqAzpa6gZ"
+              }
+            ]
+          }
+        },
+        "id": "6231912",
+        "is_identity_verified": false,
+        "location": "HEAT FLOOR",
+        "most_recent_tweet_id": "2086535039224095091",
+        "name": "kuuki / 芽菜村希宏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6231912/1528554083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/623549689992908800/HzNLix4I_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 707,
+          "like_count": 5348,
+          "listed_count": 12,
+          "media_count": 1283,
+          "tweet_count": 31486
+        },
+        "url": "https://t.co/yQqAzpa6gZ",
+        "username": "kuuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

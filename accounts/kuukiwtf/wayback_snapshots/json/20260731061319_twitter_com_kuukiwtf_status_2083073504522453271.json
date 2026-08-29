@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2083021440933384420",
+    "created_at": "2026-07-31T06:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083073504522453271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "sword_1003"
+        },
+        {
+          "end": 28,
+          "id": "2052629403210018817",
+          "start": 12,
+          "username": "MentalOutcrypto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083073504522453271",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083073057284124940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_1003 @MentalOutcrypto 我不知道（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2083021440933384420",
+        "created_at": "2026-07-31T06:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083073504522453271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_1003"
+            },
+            {
+              "end": 28,
+              "id": "2052629403210018817",
+              "start": 12,
+              "username": "MentalOutcrypto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083073504522453271",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083073057284124940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_1003 @MentalOutcrypto 我不知道（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "2083021440933384420",
+        "created_at": "2026-07-31T06:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083073057284124940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            },
+            {
+              "end": 26,
+              "id": "2052629403210018817",
+              "start": 10,
+              "username": "MentalOutcrypto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083073057284124940",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083068004531859837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf @MentalOutcrypto 北京口音吗）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 521,
+          "like_count": 7534,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1419
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "可以叫我夜鸟 | MTX | BPD | ADHD | 双相 | 主要关注：轨道交通/建筑文化/现代诗/心性探索/美学/卡迷 | 想认识不同的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gE80d"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "location": "公元前",
+        "name": "HongSword",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079233249654800384/nhE5u1xE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 619,
+          "like_count": 32765,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 7080
+        },
+        "url": "https://t.co/Y9Zk1gE80d",
+        "username": "sword_1003",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T05:59:34.000Z",
+        "description": "飞机群: https://t.co/i5TeVRLnLN\n本群策略每晚22.30发布固定一单，请大家定好闹钟，每晚记得来接送最新策略。\n有什么问题也可以私信交流，交个朋友🤝🤝\nGate返佣：https://t.co/ZPr3Gqhj89",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+7205JnBQRBQ0M…",
+                "end": 28,
+                "expanded_url": "https://t.me/+7205JnBQRBQ0MjJh",
+                "start": 5,
+                "url": "https://t.co/i5TeVRLnLN"
+              },
+              {
+                "display_url": "gatewebsite.net/share/MASHALAD",
+                "end": 118,
+                "expanded_url": "Https://www.gatewebsite.net/share/MASHALAD",
+                "start": 95,
+                "url": "https://t.co/ZPr3Gqhj89"
+              }
+            ]
+          }
+        },
+        "id": "2052629403210018817",
+        "location": "香港",
+        "name": "加密心理掌握",
+        "pinned_tweet_id": "2063269630433698142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055883355032526848/e2p4oIX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7743,
+          "following_count": 6874,
+          "like_count": 5269,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 5703
+        },
+        "url": "",
+        "username": "MentalOutcrypto",
+        "verified": true
+      }
+    ]
+  }
+}

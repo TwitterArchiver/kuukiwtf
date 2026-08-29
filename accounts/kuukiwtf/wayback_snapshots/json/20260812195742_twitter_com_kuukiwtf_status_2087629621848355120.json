@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087279511410978817"
+      ],
+      "media_source_tweet_id": [
+        "2087279521225756938"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087629621848355120",
+    "created_at": "2026-08-12T19:57:42.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T20:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087629621848355120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2017426370414923778",
+          "start": 3,
+          "username": "FrostyMena"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/seDAtbhwzV",
+          "end": 39,
+          "expanded_url": "https://x.com/FrostyMena/status/2087279521225756938/video/1",
+          "media_key": "13_2087279511410978817",
+          "start": 16,
+          "url": "https://t.co/seDAtbhwzV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087629621848355120",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2087279511410978817"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087279521225756938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FrostyMena: https://t.co/seDAtbhwzV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11609,
+        "height": 128,
+        "media_key": "13_2087279511410978817",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087279511410978817/img/jEchlTJA1MU2KBxr.jpg",
+        "public_metrics": {
+          "view_count": 3424
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087279511410978817/vid/avc1/128x128/FEosXpvl2wN3fMA_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087279511410978817/pl/Gjbpo_BCo13B8V9S.m3u8?v=cfc"
+          }
+        ],
+        "width": 128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087279511410978817"
+          ]
+        },
+        "author_id": "2017426370414923778",
+        "conversation_id": "2087279521225756938",
+        "created_at": "2026-08-11T20:46:32.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087279521225756938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/seDAtbhwzV",
+              "end": 23,
+              "expanded_url": "https://x.com/FrostyMena/status/2087279521225756938/video/1",
+              "media_key": "13_2087279511410978817",
+              "start": 0,
+              "url": "https://t.co/seDAtbhwzV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087279521225756938",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2087279511410978817"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 7263,
+          "like_count": 793,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/seDAtbhwzV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087279511410978817"
+          ],
+          "media_source_tweet_id": [
+            "2087279521225756938"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087629621848355120",
+        "created_at": "2026-08-12T19:57:42.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087629621848355120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2017426370414923778",
+              "start": 3,
+              "username": "FrostyMena"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/seDAtbhwzV",
+              "end": 39,
+              "expanded_url": "https://x.com/FrostyMena/status/2087279521225756938/video/1",
+              "media_key": "13_2087279511410978817",
+              "start": 16,
+              "url": "https://t.co/seDAtbhwzV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087629621848355120",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2087279511410978817"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087279521225756938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FrostyMena: https://t.co/seDAtbhwzV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087629621848355120",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 639,
+          "like_count": 10890,
+          "listed_count": 0,
+          "media_count": 476,
+          "tweet_count": 2250
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-31T02:35:22.000Z",
+        "description": "Chatea con Tewi o chinga a tu madre\n\nLa mayoría de memes que subo son robados de discord, los créditos van a sus respectivos creadores",
+        "id": "2017426370414923778",
+        "is_identity_verified": false,
+        "location": "Casa de la novia de Mokou ",
+        "most_recent_tweet_id": "2087606822769443144",
+        "name": "Chatear con Tewi Inaba",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2017426370414923778/1769827524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043897069451259904/cHmVgmgM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 104,
+          "like_count": 1640,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 891
+        },
+        "url": "",
+        "username": "FrostyMena",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

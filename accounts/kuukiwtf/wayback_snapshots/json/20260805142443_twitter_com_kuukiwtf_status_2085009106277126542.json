@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2084985485915836803",
+    "created_at": "2026-08-05T14:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085009106277126542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035527946354716672",
+          "start": 0,
+          "username": "Amatsukiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085009106277126542",
+    "in_reply_to_user_id": "2035527946354716672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084985485915836803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amatsukiqwq musk日常發揮（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2084985458245918720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9bOkCaYAAI9Iw.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2084985458254372864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9bOkEbYAAU2nh.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2084985458195644416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9bOj2bQAAHiFr.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2084985485915836803",
+        "created_at": "2026-08-05T14:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085009106277126542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035527946354716672",
+              "start": 0,
+              "username": "Amatsukiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085009106277126542",
+        "in_reply_to_user_id": "2035527946354716672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084985485915836803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amatsukiqwq musk日常發揮（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084985458245918720",
+            "3_2084985458254372864",
+            "3_2084985458195644416"
+          ]
+        },
+        "author_id": "2035527946354716672",
+        "conversation_id": "2084985485915836803",
+        "created_at": "2026-08-05T12:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084985485915836803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8nk3wZVNf6",
+              "end": 62,
+              "expanded_url": "https://x.com/Amatsukiqwq/status/2084985485915836803/photo/1",
+              "media_key": "3_2084985458245918720",
+              "start": 39,
+              "url": "https://t.co/8nk3wZVNf6"
+            },
+            {
+              "display_url": "pic.x.com/8nk3wZVNf6",
+              "end": 62,
+              "expanded_url": "https://x.com/Amatsukiqwq/status/2084985485915836803/photo/1",
+              "media_key": "3_2084985458254372864",
+              "start": 39,
+              "url": "https://t.co/8nk3wZVNf6"
+            },
+            {
+              "display_url": "pic.x.com/8nk3wZVNf6",
+              "end": 62,
+              "expanded_url": "https://x.com/Amatsukiqwq/status/2084985485915836803/photo/1",
+              "media_key": "3_2084985458195644416",
+              "start": 39,
+              "url": "https://t.co/8nk3wZVNf6"
+            },
+            {
+              "display_url": "x.com/bailixing11451…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/bailixing114514/status/2084920319849214265",
+              "start": 63,
+              "url": "https://t.co/8XmBscnF11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084985485915836803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084920319849214265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《關聯性》《可能為垃圾信息》😊😊😊\nOnly 1️⃣🐉🐎 can do it https://t.co/8nk3wZVNf6 https://t.co/8XmBscnF11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2084689654230692126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 537,
+          "like_count": 8740,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 1735
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T01:25:44.000Z",
+        "description": "🏳️‍⚧️🍥|简体中文/正體中文/日本語|日本の文化と文学が好き|バンドリ、プロセカをプレイ\n总之大家可以来找我聊天交朋友\n同类互fo\n邮箱：l3165865411@outlook.com\n加我discord好友喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/fM2eM59Q",
+                "end": 23,
+                "expanded_url": "https://discord.gg/fM2eM59Q",
+                "start": 0,
+                "url": "https://t.co/nK2ohygoNs"
+              }
+            ]
+          }
+        },
+        "id": "2035527946354716672",
+        "location": "重慶",
+        "name": "天月🏳️‍⚧️ 🍥",
+        "pinned_tweet_id": "2072508716562383206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068511169758064640/ImfSq6Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 499,
+          "like_count": 4789,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/nK2ohygoNs",
+        "username": "Amatsukiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

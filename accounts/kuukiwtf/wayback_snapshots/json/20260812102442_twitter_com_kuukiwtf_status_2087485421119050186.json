@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087485421119050186",
+    "created_at": "2026-08-12T10:24:42.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T11:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087485421119050186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2074146558443171840",
+          "start": 3,
+          "username": "xxs1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087485421119050186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074337921566654693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxs1966: 这里是高性能小学生4.0♡\n4.0配备了许多新功能，比如睡觉\n性别未知。\n喜欢玩舞萌dx 怪物猎人崛起和喷三，最近也有在打xx\n情绪不稳定且精力不是很足每天无精打采的，别骂我，骂我你只能看到一头猪从天而降且掷地有声\n喜欢喝酒，不od不割手。\n可以约勤。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2074337904982388736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmHVZKacAA2QRg.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074337918244839424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmHWKkbYAAhfKP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074337915895951360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmHWB0aMAA5M8-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 664,
+        "media_key": "3_2074337911970099200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmHVzMacAAcj3H.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087485421119050186",
+        "created_at": "2026-08-12T10:24:42.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087485421119050186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2074146558443171840",
+              "start": 3,
+              "username": "xxs1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087485421119050186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074337921566654693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxs1966: 这里是高性能小学生4.0♡\n4.0配备了许多新功能，比如睡觉\n性别未知。\n喜欢玩舞萌dx 怪物猎人崛起和喷三，最近也有在打xx\n情绪不稳定且精力不是很足每天无精打采的，别骂我，骂我你只能看到一头猪从天而降且掷地有声\n喜欢喝酒，不od不割手。\n可以约勤。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074337904982388736",
+            "3_2074337918244839424",
+            "3_2074337915895951360",
+            "3_2074337911970099200"
+          ]
+        },
+        "author_id": "2074146558443171840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074337921566654693",
+        "created_at": "2026-07-07T03:41:14.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074337921566654693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6Nyykpc3b",
+              "end": 168,
+              "expanded_url": "https://x.com/xxs1966/status/2074337921566654693/photo/1",
+              "media_key": "3_2074337904982388736",
+              "start": 145,
+              "url": "https://t.co/g6Nyykpc3b"
+            },
+            {
+              "display_url": "pic.x.com/g6Nyykpc3b",
+              "end": 168,
+              "expanded_url": "https://x.com/xxs1966/status/2074337921566654693/photo/1",
+              "media_key": "3_2074337918244839424",
+              "start": 145,
+              "url": "https://t.co/g6Nyykpc3b"
+            },
+            {
+              "display_url": "pic.x.com/g6Nyykpc3b",
+              "end": 168,
+              "expanded_url": "https://x.com/xxs1966/status/2074337921566654693/photo/1",
+              "media_key": "3_2074337915895951360",
+              "start": 145,
+              "url": "https://t.co/g6Nyykpc3b"
+            },
+            {
+              "display_url": "pic.x.com/g6Nyykpc3b",
+              "end": 168,
+              "expanded_url": "https://x.com/xxs1966/status/2074337921566654693/photo/1",
+              "media_key": "3_2074337911970099200",
+              "start": 145,
+              "url": "https://t.co/g6Nyykpc3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074337921566654693",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2074337904982388736"
+          },
+          {
+            "media_key": "3_2074337918244839424"
+          },
+          {
+            "media_key": "3_2074337915895951360"
+          },
+          {
+            "media_key": "3_2074337911970099200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2655,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是高性能小学生4.0♡\n4.0配备了许多新功能，比如睡觉\n性别未知。\n喜欢玩舞萌dx 怪物猎人崛起和喷三，最近也有在打xx\n情绪不稳定且精力不是很足每天无精打采的，别骂我，骂我你只能看到一头猪从天而降且掷地有声\n喜欢喝酒，不od不割手。\n可以约勤。\n和我互fo送纯棉内裤\n请帮转偶内盖 https://t.co/g6Nyykpc3b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087485421119050186",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 633,
+          "like_count": 10724,
+          "listed_count": 0,
+          "media_count": 442,
+          "tweet_count": 2147
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T15:02:00.000Z",
+        "description": "前世\n@xxs8964 @xxs0721 @xxs1976\nlgbtq全友好\n是高性能机器人♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "xxs8964"
+              },
+              {
+                "end": 20,
+                "start": 12,
+                "username": "xxs0721"
+              },
+              {
+                "end": 29,
+                "start": 21,
+                "username": "xxs1976"
+              }
+            ]
+          }
+        },
+        "id": "2074146558443171840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087483834753532128",
+        "name": "✟高性能小学生4.0✟",
+        "pinned_tweet_id": "2074337921566654693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074146558443171840/1783535405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074922484231819264/EDjYtCNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 93,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "xxs1966",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

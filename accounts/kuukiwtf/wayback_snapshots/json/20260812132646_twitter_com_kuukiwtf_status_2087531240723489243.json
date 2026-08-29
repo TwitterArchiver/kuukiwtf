@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087497165665190125",
+    "created_at": "2026-08-12T13:26:46.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087531240723489243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1434042551879847936",
+          "start": 0,
+          "username": "kurokisu29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087531240723489243",
+    "in_reply_to_user_id": "1434042551879847936",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087497165665190125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurokisu29 alright im 16("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087497165665190125",
+        "created_at": "2026-08-12T13:26:46.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087531240723489243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1434042551879847936",
+              "start": 0,
+              "username": "kurokisu29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087531240723489243",
+        "in_reply_to_user_id": "1434042551879847936",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087497165665190125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurokisu29 alright im 16("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434042551879847936",
+        "conversation_id": "2087497165665190125",
+        "created_at": "2026-08-12T11:11:22.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087497165665190125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087497165665190125",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "just saw someone say “I’m 16 (I’m unc)” like what????? u are a child"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087531240723489243",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 636,
+          "like_count": 10779,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 2165
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-04T06:36:14.000Z",
+        "description": "#shedrtwt 🩷 system ⠀﹒⠀ problematic \nno dni : I block freely\ngw: 50kg ⠀﹒⠀ ugw: 39kg\n— 🪽",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "shedrtwt"
+              }
+            ]
+          }
+        },
+        "id": "1434042551879847936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087497962075398230",
+        "name": "(ㅅ´ ˘ `) kAngel 🪽",
+        "pinned_tweet_id": "2081896209023979544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1434042551879847936/1785998334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081876547070472192/BM6qlDuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 179,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "kurokisu29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089377350115102720"
+      ],
+      "media_source_tweet_id": [
+        "2089377359044686160"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089546461604393014",
+    "created_at": "2026-08-18T02:54:32.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T03:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089546461604393014"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "互fo"
+        },
+        {
+          "end": 37,
+          "start": 31,
+          "tag": "藍v互fo"
+        },
+        {
+          "end": 44,
+          "start": 38,
+          "tag": "藍標互fo"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083196399211200512",
+          "start": 3,
+          "username": "kuukiwfn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UWHFKA2eqV",
+          "end": 68,
+          "expanded_url": "https://x.com/kuukiwfn/status/2089377359044686160/photo/1",
+          "media_key": "3_2089377350115102720",
+          "start": 45,
+          "url": "https://t.co/UWHFKA2eqV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089546461604393014",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089377350115102720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089377359044686160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuukiwfn: 誰能幫助我破100fo\n#互fo #藍v互fo #藍標互fo https://t.co/UWHFKA2eqV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_2089377350115102720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP71oUNbkAA0mYO.jpg",
+        "width": 715
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089377350115102720"
+          ],
+          "media_source_tweet_id": [
+            "2089377359044686160"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089546461604393014",
+        "created_at": "2026-08-18T02:54:32.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089546461604393014"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "互fo"
+            },
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "藍v互fo"
+            },
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "藍標互fo"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083196399211200512",
+              "start": 3,
+              "username": "kuukiwfn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UWHFKA2eqV",
+              "end": 68,
+              "expanded_url": "https://x.com/kuukiwfn/status/2089377359044686160/photo/1",
+              "media_key": "3_2089377350115102720",
+              "start": 45,
+              "url": "https://t.co/UWHFKA2eqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089546461604393014",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089377350115102720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089377359044686160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuukiwfn: 誰能幫助我破100fo\n#互fo #藍v互fo #藍標互fo https://t.co/UWHFKA2eqV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089377350115102720"
+          ]
+        },
+        "author_id": "2083196399211200512",
+        "conversation_id": "2089377359044686160",
+        "created_at": "2026-08-17T15:42:35.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089377359044686160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "互fo"
+            },
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "藍v互fo"
+            },
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "藍標互fo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UWHFKA2eqV",
+              "end": 54,
+              "expanded_url": "https://x.com/kuukiwfn/status/2089377359044686160/photo/1",
+              "media_key": "3_2089377350115102720",
+              "start": 31,
+              "url": "https://t.co/UWHFKA2eqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089377359044686160",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089377350115102720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "誰能幫助我破100fo\n#互fo #藍v互fo #藍標互fo https://t.co/UWHFKA2eqV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089546461604393014",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 688,
+          "like_count": 12423,
+          "listed_count": 1,
+          "media_count": 555,
+          "tweet_count": 2622
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T14:22:20.000Z",
+        "description": "ｋｕｕｋｉ　本　體\nGENDER\n#NONBINARY \njoined 31/7/26 (4th acc\n\n████████████████████\nother acc\n@kuukiwtf \n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 17,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "kuukiwtf"
+              },
+              {
+                "end": 111,
+                "start": 96,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2083196399211200512",
+        "is_identity_verified": false,
+        "location": "ｉｎｔｅｒｎｅｔ",
+        "most_recent_tweet_id": "2089545521488900374",
+        "name": "kuuki",
+        "pinned_tweet_id": "2089409020889366730",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083196399211200512/1785509200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202604855926784/BKn2wpol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 79,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "kuukiwfn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

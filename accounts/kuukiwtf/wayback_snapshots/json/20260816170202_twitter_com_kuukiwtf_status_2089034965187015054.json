@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088973094383988841",
+    "created_at": "2026-08-16T17:02:02.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089034965187015054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903104521624227841",
+          "start": 0,
+          "username": "PhonSng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089034965187015054",
+    "in_reply_to_user_id": "1903104521624227841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089034718939582843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhonSng 好？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088973094383988841",
+        "created_at": "2026-08-16T17:02:02.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089034965187015054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903104521624227841",
+              "start": 0,
+              "username": "PhonSng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089034965187015054",
+        "in_reply_to_user_id": "1903104521624227841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089034718939582843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhonSng 好？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903104521624227841",
+        "conversation_id": "2088973094383988841",
+        "created_at": "2026-08-16T17:01:04.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089034718939582843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089034718939582843",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088973094383988841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 公安直接枪毙了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089034965187015054",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 676,
+          "like_count": 12169,
+          "listed_count": 0,
+          "media_count": 524,
+          "tweet_count": 2488
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:21:08.000Z",
+        "description": "LGBTQIA+友好/泛性恋-友跨🏳️‍⚧️/INTP-T/小楠孩/生产日期：12.10/od蛆/pr80重度依赖/不见证/欢迎来找我交朋友互fo/可以叫我橘猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orangecatt2",
+                "end": 23,
+                "expanded_url": "http://t.me/orangecatt2",
+                "start": 0,
+                "url": "https://t.co/dLdtYJCxDO"
+              }
+            ]
+          }
+        },
+        "id": "1903104521624227841",
+        "is_identity_verified": false,
+        "location": "南极企鹅窟",
+        "most_recent_tweet_id": "2089034718939582843",
+        "name": "caTT",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903104521624227841/1784711811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089031607873323009/z34I0F7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 255,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/dLdtYJCxDO",
+        "username": "PhonSng",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

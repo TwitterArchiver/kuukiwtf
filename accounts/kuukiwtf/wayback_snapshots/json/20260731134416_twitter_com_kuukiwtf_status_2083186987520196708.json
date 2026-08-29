@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081972050386980864"
+      ],
+      "media_source_tweet_id": [
+        "2081972292851257591"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2083186987520196708",
+    "created_at": "2026-07-31T13:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083186987520196708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "shennaichuan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H4TBeM0GUn",
+          "end": 114,
+          "expanded_url": "https://x.com/shennaichuan_/status/2081972292851257591/photo/1",
+          "media_key": "3_2081972050386980864",
+          "start": 91,
+          "url": "https://t.co/H4TBeM0GUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083186987520196708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081972292851257591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shennaichuan_: 唉家里人出事情了😭😭，最近工作又找不到我感觉我要去世了😭如果有好心的网友推油能不能让我圈一点，如果没有钱一分可以一毛可以，看到的谢谢宝子转个推 https://t.co/H4TBeM0GUn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_2081972050386980864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSmjI-bkAABvXH.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081972050386980864"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2081972292851257591",
+        "created_at": "2026-07-28T05:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081972292851257591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4TBeM0GUn",
+              "end": 95,
+              "expanded_url": "https://x.com/shennaichuan_/status/2081972292851257591/photo/1",
+              "media_key": "3_2081972050386980864",
+              "start": 72,
+              "url": "https://t.co/H4TBeM0GUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081972292851257591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2448,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "唉家里人出事情了😭😭，最近工作又找不到我感觉我要去世了😭如果有好心的网友推油能不能让我圈一点，如果没有钱一分可以一毛可以，看到的谢谢宝子转个推 https://t.co/H4TBeM0GUn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081972050386980864"
+          ],
+          "media_source_tweet_id": [
+            "2081972292851257591"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2083186987520196708",
+        "created_at": "2026-07-31T13:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083186987520196708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "shennaichuan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4TBeM0GUn",
+              "end": 114,
+              "expanded_url": "https://x.com/shennaichuan_/status/2081972292851257591/photo/1",
+              "media_key": "3_2081972050386980864",
+              "start": 91,
+              "url": "https://t.co/H4TBeM0GUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083186987520196708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081972292851257591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shennaichuan_: 唉家里人出事情了😭😭，最近工作又找不到我感觉我要去世了😭如果有好心的网友推油能不能让我圈一点，如果没有钱一分可以一毛可以，看到的谢谢宝子转个推 https://t.co/H4TBeM0GUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 517,
+          "like_count": 7653,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1438
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "给我转钱我都射射你😭🙏",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2081972292851257591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 665,
+          "like_count": 979,
+          "listed_count": 3,
+          "media_count": 459,
+          "tweet_count": 3562
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

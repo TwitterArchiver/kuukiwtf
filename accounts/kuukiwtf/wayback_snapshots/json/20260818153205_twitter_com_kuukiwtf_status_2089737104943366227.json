@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089737104943366227",
+    "created_at": "2026-08-18T15:32:05.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089737104943366227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "en.wikipedia.org/wiki/Nervous_s…",
+          "end": 30,
+          "expanded_url": "https://en.wikipedia.org/wiki/Nervous_system",
+          "images": [
+            {
+              "height": 1504,
+              "url": "https://pbs.twimg.com/news_img/2089737112203739136/zO7boYrh?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2089737112203739136/zO7boYrh?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 7,
+          "status": 200,
+          "title": "Nervous system - Wikipedia",
+          "unwound_url": "https://en.wikipedia.org/wiki/Nervous_system",
+          "url": "https://t.co/C6CdsosRFk"
+        },
+        {
+          "display_url": "x.com/Bochichan250hh…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Bochichan250hh/status/2089399607126323519",
+          "start": 31,
+          "url": "https://t.co/X3xEM0Xrif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089737104943366227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089399607126323519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也來發神經\nhttps://t.co/C6CdsosRFk https://t.co/X3xEM0Xrif"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089737104943366227",
+        "created_at": "2026-08-18T15:32:05.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089737104943366227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "en.wikipedia.org/wiki/Nervous_s…",
+              "end": 30,
+              "expanded_url": "https://en.wikipedia.org/wiki/Nervous_system",
+              "images": [
+                {
+                  "height": 1504,
+                  "url": "https://pbs.twimg.com/news_img/2089737112203739136/zO7boYrh?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2089737112203739136/zO7boYrh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 7,
+              "status": 200,
+              "title": "Nervous system - Wikipedia",
+              "unwound_url": "https://en.wikipedia.org/wiki/Nervous_system",
+              "url": "https://t.co/C6CdsosRFk"
+            },
+            {
+              "display_url": "x.com/Bochichan250hh…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Bochichan250hh/status/2089399607126323519",
+              "start": 31,
+              "url": "https://t.co/X3xEM0Xrif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089737104943366227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089399607126323519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也來發神經\nhttps://t.co/C6CdsosRFk https://t.co/X3xEM0Xrif"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063159075572158465",
+        "conversation_id": "2089399607126323519",
+        "created_at": "2026-08-17T17:11:00.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089399607126323519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089399607126323519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1038,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没啥能发的了，那我发神经好了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089737104943366227",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 694,
+          "like_count": 12599,
+          "listed_count": 1,
+          "media_count": 564,
+          "tweet_count": 2693
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "it is too late…. \n@Yokuso_desu的小账户\nelectric guitar 学习中🎸\n查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeybig"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2089727854447669612",
+        "name": "防尘迷呀awa🇰🇵",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063159075572158465/1783759262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 1728,
+          "like_count": 9169,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1499
+        },
+        "url": "https://t.co/dkFNyeybig",
+        "username": "Bochichan250hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

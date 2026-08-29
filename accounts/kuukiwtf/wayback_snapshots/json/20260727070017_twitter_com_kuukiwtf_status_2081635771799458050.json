@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081633864007692490",
+    "created_at": "2026-07-27T07:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081635771799458050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057006320851849216",
+          "start": 0,
+          "username": "yamazakiisuzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081635771799458050",
+    "in_reply_to_user_id": "2057006320851849216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081633864007692490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazakiisuzu 片假名可比縮寫好理解多了\n別侮辱片假名（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081633864007692490",
+        "created_at": "2026-07-27T07:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081635771799458050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057006320851849216",
+              "start": 0,
+              "username": "yamazakiisuzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081635771799458050",
+        "in_reply_to_user_id": "2057006320851849216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081633864007692490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazakiisuzu 片假名可比縮寫好理解多了\n別侮辱片假名（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057006320851849216",
+        "conversation_id": "2081633864007692490",
+        "created_at": "2026-07-27T06:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081633864007692490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081633864007692490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你国也有自己的片假名，某些傻子就算到了墙外也不能正常说话，就喜欢用拼音缩写，又不是什么流行词汇写缩写谁认得出来是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 450,
+          "like_count": 6052,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-20T07:51:56.000Z",
+        "description": "ここは山崎いすずの個人垢/中国人/日本語を勉強している/日本語の程度はN95です/讨厌阳光，讨厌风/如果可能的话30岁就自杀吧🐱",
+        "id": "2057006320851849216",
+        "location": "༎ຶ⁠‿⁠༎ຶ",
+        "name": "⁺✟₊山崎いすず₊✟⁺",
+        "pinned_tweet_id": "2078265672631824475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058413683731226624/mYzWrFfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 147,
+          "like_count": 5013,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1797
+        },
+        "url": "",
+        "username": "yamazakiisuzu",
+        "verified": false
+      }
+    ]
+  }
+}

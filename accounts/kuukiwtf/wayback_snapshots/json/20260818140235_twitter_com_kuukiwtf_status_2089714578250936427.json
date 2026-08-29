@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089714564762157056"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089653067897880891",
+    "created_at": "2026-08-18T14:02:35.000Z",
+    "display_text_range": [
+      15,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T15:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089714578250936427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819276723290095616",
+          "start": 0,
+          "username": "Natsuki_803nz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1eWzRll6cG",
+          "end": 59,
+          "expanded_url": "https://x.com/kuukiwtf/status/2089714578250936427/photo/1",
+          "media_key": "3_2089714564762157056",
+          "start": 36,
+          "url": "https://t.co/1eWzRll6cG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089714578250936427",
+    "in_reply_to_user_id": "1819276723290095616",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089714564762157056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089653067897880891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuki_803nz （我的\n（我只有 tg 和系統 有通知 https://t.co/1eWzRll6cG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2089714564762157056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAoUyqbwAAdjHD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089652558356996096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_v7iza4AA9ozZ.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089714564762157056"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089653067897880891",
+        "created_at": "2026-08-18T14:02:35.000Z",
+        "display_text_range": [
+          15,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089714578250936427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819276723290095616",
+              "start": 0,
+              "username": "Natsuki_803nz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1eWzRll6cG",
+              "end": 59,
+              "expanded_url": "https://x.com/kuukiwtf/status/2089714578250936427/photo/1",
+              "media_key": "3_2089714564762157056",
+              "start": 36,
+              "url": "https://t.co/1eWzRll6cG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089714578250936427",
+        "in_reply_to_user_id": "1819276723290095616",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089714564762157056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089653067897880891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuki_803nz （我的\n（我只有 tg 和系統 有通知 https://t.co/1eWzRll6cG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089652558356996096"
+          ]
+        },
+        "author_id": "1819276723290095616",
+        "conversation_id": "2089653067897880891",
+        "created_at": "2026-08-18T09:58:09.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089653067897880891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZmLnJvYGp",
+              "end": 54,
+              "expanded_url": "https://x.com/Natsuki_803nz/status/2089653067897880891/photo/1",
+              "media_key": "3_2089652558356996096",
+              "start": 31,
+              "url": "https://t.co/2ZmLnJvYGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089653067897880891",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089652558356996096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通知栏通过一键删除去不掉的\n（咱懒得手动关通知，于是越攒越多 https://t.co/2ZmLnJvYGp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089714578250936427",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 692,
+          "like_count": 12528,
+          "listed_count": 1,
+          "media_count": 562,
+          "tweet_count": 2674
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T07:39:26.000Z",
+        "description": "高一｜没钱，暂时蓝v｜炸柜断糖｜重度抑郁｜周六晚上复活，消息回复可能不及时｜177cm/65kg｜百合｜交通迷｜无聊｜想被抱抱…\n小号备用：@Natsuki_nz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Natsuki_nz"
+              }
+            ]
+          }
+        },
+        "id": "1819276723290095616",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2089708815491158334",
+        "name": "夏希🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819276723290095616/1771773388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087726087333957632/6Jp9VRIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 360,
+          "like_count": 2005,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1052
+        },
+        "url": "",
+        "username": "Natsuki_803nz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

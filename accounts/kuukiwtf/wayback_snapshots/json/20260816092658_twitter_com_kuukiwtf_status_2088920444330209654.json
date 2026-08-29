@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088920444330209654",
+    "created_at": "2026-08-16T09:26:58.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088920444330209654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oldbigdickdadd…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/oldbigdickdaddy/status/2088424433555849579",
+          "start": 44,
+          "url": "https://t.co/Ymdtju6bs3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088920444330209654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088424433555849579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "二次元怎麼看起來和三次元不太一樣\n二次元明顯更美好✋😭🤚不說了兄弟我先跳了（bushi https://t.co/Ymdtju6bs3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088424427398561792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuS86dXAAAnjuI.jpg",
+        "width": 1778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088920444330209654",
+        "created_at": "2026-08-16T09:26:58.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088920444330209654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oldbigdickdadd…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/oldbigdickdaddy/status/2088424433555849579",
+              "start": 44,
+              "url": "https://t.co/Ymdtju6bs3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088920444330209654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088424433555849579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "二次元怎麼看起來和三次元不太一樣\n二次元明顯更美好✋😭🤚不說了兄弟我先跳了（bushi https://t.co/Ymdtju6bs3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088424427398561792"
+          ]
+        },
+        "author_id": "1940528068868612097",
+        "conversation_id": "2088424433555849579",
+        "created_at": "2026-08-15T00:36:00.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088424433555849579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nA07MEhj5Z",
+              "end": 43,
+              "expanded_url": "https://x.com/oldbigdickdaddy/status/2088424433555849579/photo/1",
+              "media_key": "3_2088424427398561792",
+              "start": 20,
+              "url": "https://t.co/nA07MEhj5Z"
+            },
+            {
+              "display_url": "x.com/fleshspiritbon…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/fleshspiritbone/status/2081939961578991740",
+              "start": 44,
+              "url": "https://t.co/kTVyYvD5dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088424433555849579",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088424427398561792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 961,
+          "impression_count": 112611,
+          "like_count": 12796,
+          "quote_count": 38,
+          "reply_count": 15,
+          "retweet_count": 2308
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081939961578991740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i love you kai-chan https://t.co/nA07MEhj5Z https://t.co/kTVyYvD5dw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088920444330209654",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 667,
+          "like_count": 12011,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 2423
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-02T21:48:47.000Z",
+        "description": "",
+        "id": "1940528068868612097",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088897482163957811",
+        "name": "dhhdjsjdjajxj",
+        "pinned_tweet_id": "2087635448579367012",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086971403157278720/-juQk2kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 2,
+          "like_count": 22030,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1527
+        },
+        "url": "",
+        "username": "oldbigdickdaddy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

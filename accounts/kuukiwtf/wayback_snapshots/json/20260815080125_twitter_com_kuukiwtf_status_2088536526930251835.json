@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088517348894396416"
+      ],
+      "media_source_tweet_id": [
+        "2088517364245561543"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088536526930251835",
+    "created_at": "2026-08-15T08:01:25.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088536526930251835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1829502489227575296",
+          "start": 3,
+          "username": "C103ofsixteen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DIPnFTuWcU",
+          "end": 42,
+          "expanded_url": "https://x.com/C103ofsixteen/status/2088517364245561543/video/1",
+          "media_key": "13_2088517348894396416",
+          "start": 19,
+          "url": "https://t.co/DIPnFTuWcU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088536526930251835",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2088517348894396416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088517364245561543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C103ofsixteen: https://t.co/DIPnFTuWcU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11656,
+        "height": 128,
+        "media_key": "13_2088517348894396416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088517348894396416/img/4sboAqqNaiANrQ1s.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088517348894396416/vid/avc1/128x128/BUMUrWcRYcIY19qE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088517348894396416/pl/MUXSi_4HOByb3Rfs.m3u8"
+          }
+        ],
+        "width": 128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088517348894396416"
+          ],
+          "media_source_tweet_id": [
+            "2088517364245561543"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088536526930251835",
+        "created_at": "2026-08-15T08:01:25.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088536526930251835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1829502489227575296",
+              "start": 3,
+              "username": "C103ofsixteen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DIPnFTuWcU",
+              "end": 42,
+              "expanded_url": "https://x.com/C103ofsixteen/status/2088517364245561543/video/1",
+              "media_key": "13_2088517348894396416",
+              "start": 19,
+              "url": "https://t.co/DIPnFTuWcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088536526930251835",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2088517348894396416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088517364245561543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C103ofsixteen: https://t.co/DIPnFTuWcU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088517348894396416"
+          ]
+        },
+        "author_id": "1829502489227575296",
+        "conversation_id": "2088517364245561543",
+        "created_at": "2026-08-15T06:45:17.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088517364245561543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DIPnFTuWcU",
+              "end": 23,
+              "expanded_url": "https://x.com/C103ofsixteen/status/2088517364245561543/video/1",
+              "media_key": "13_2088517348894396416",
+              "start": 0,
+              "url": "https://t.co/DIPnFTuWcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088517364245561543",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2088517348894396416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DIPnFTuWcU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088536526930251835",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 662,
+          "like_count": 11631,
+          "listed_count": 0,
+          "media_count": 478,
+          "tweet_count": 2314
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阿拉僧本地猫娘｜？｜🏳️‍⚧️（疑｜男｜不线下｜波奇｜双性恋｜♥️@aruannie512｜各方面都不健全｜史上最倒霉的人 | 蓝v互fo | 老人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "aruannie512"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hajihajimo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hajihajimo1",
+                "start": 0,
+                "url": "https://t.co/CCqoayt7ID"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088520011107459195",
+        "name": "C103阿拉僧🦐🍥",
+        "pinned_tweet_id": "2083938434360459319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829502489227575296/1785055211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082063873847541760/wh9SWs9I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 382,
+          "like_count": 5553,
+          "listed_count": 3,
+          "media_count": 1641,
+          "tweet_count": 4296
+        },
+        "url": "https://t.co/CCqoayt7ID",
+        "username": "C103ofsixteen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086787963267219839",
+    "created_at": "2026-08-10T12:13:15.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086787963267219839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Natsuki_803nz/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Natsuki_803nz/status/2086786916075323607",
+          "start": 14,
+          "url": "https://t.co/s4ZoLW8j3D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086787963267219839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086786916075323607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "對 關注kuuki謝謝喵♡ https://t.co/s4ZoLW8j3D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2086786872349782017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXBmqhbcAEdiuf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086787963267219839",
+        "created_at": "2026-08-10T12:13:15.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086787963267219839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Natsuki_803nz/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Natsuki_803nz/status/2086786916075323607",
+              "start": 14,
+              "url": "https://t.co/s4ZoLW8j3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086787963267219839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086786916075323607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "對 關注kuuki謝謝喵♡ https://t.co/s4ZoLW8j3D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086786872349782017"
+          ]
+        },
+        "author_id": "1819276723290095616",
+        "conversation_id": "2086786916075323607",
+        "created_at": "2026-08-10T12:09:06.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086786916075323607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJYQviVZxv",
+              "end": 39,
+              "expanded_url": "https://x.com/Natsuki_803nz/status/2086786916075323607/photo/1",
+              "media_key": "3_2086786872349782017",
+              "start": 16,
+              "url": "https://t.co/YJYQviVZxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086786916075323607",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086786872349782017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf \n是不是你 https://t.co/YJYQviVZxv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo互fo互fo互fo\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "voidsama777"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086787963267219839",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 557,
+          "like_count": 9977,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 2005
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T07:39:26.000Z",
+        "description": "高一｜炸柜断糖｜重度抑郁｜周六晚上复活，消息回复可能不及时｜177cm/58kg｜百合｜交通迷｜无聊｜想被抱抱…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Natsuki_803",
+                "end": 23,
+                "expanded_url": "https://t.me/Natsuki_803",
+                "start": 0,
+                "url": "https://t.co/AYea4soCXv"
+              }
+            ]
+          }
+        },
+        "id": "1819276723290095616",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2086786916075323607",
+        "name": "夏希🍥",
+        "pinned_tweet_id": "2086026144693076272",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819276723290095616/1771773388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040744519550001153/-nZHCknj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 220,
+          "like_count": 1158,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/AYea4soCXv",
+        "username": "Natsuki_803nz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

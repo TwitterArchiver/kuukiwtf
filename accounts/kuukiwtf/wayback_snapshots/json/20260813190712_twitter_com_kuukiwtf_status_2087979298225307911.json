@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087602228173398016"
+      ],
+      "media_source_tweet_id": [
+        "2087602261614567771"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087979298225307911",
+    "created_at": "2026-08-13T19:07:12.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087979298225307911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1390785961160806404",
+          "start": 3,
+          "username": "sz_vc7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nGxIl76vyK",
+          "end": 75,
+          "expanded_url": "https://x.com/sz_vc7/status/2087602261614567771/video/1",
+          "media_key": "13_2087602228173398016",
+          "start": 52,
+          "url": "https://t.co/nGxIl76vyK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087979298225307911",
+    "lang": "ar",
+    "media_metadata": [
+      {
+        "media_key": "13_2087602228173398016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13308
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087602261614567771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sz_vc7: اللي ينزل تغريدات و متابعينه و تفاعله 0 https://t.co/nGxIl76vyK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8543,
+        "height": 720,
+        "media_key": "13_2087602228173398016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087602228173398016/img/dIeXjnXNyrZr-dUq.jpg",
+        "public_metrics": {
+          "view_count": 693129
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087602228173398016/vid/avc1/480x270/Su9LW9hho0o_V455.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087602228173398016/vid/avc1/640x360/9EqXfy__HXaOhmQ4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087602228173398016/vid/avc1/1280x720/CcWL3BdLAQuRvQOK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087602228173398016/pl/NVBifoA0ENR1Fmu3.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087602228173398016"
+          ]
+        },
+        "author_id": "1390785961160806404",
+        "conversation_id": "2087602261614567771",
+        "created_at": "2026-08-12T18:08:59.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087602261614567771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGxIl76vyK",
+              "end": 63,
+              "expanded_url": "https://x.com/sz_vc7/status/2087602261614567771/video/1",
+              "media_key": "13_2087602228173398016",
+              "start": 40,
+              "url": "https://t.co/nGxIl76vyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087602261614567771",
+        "lang": "ar",
+        "media_metadata": [
+          {
+            "media_key": "13_2087602228173398016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3780,
+          "impression_count": 2048747,
+          "like_count": 53705,
+          "quote_count": 4683,
+          "reply_count": 2832,
+          "retweet_count": 13308
+        },
+        "reply_settings": "everyone",
+        "text": "اللي ينزل تغريدات و متابعينه و تفاعله 0 https://t.co/nGxIl76vyK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087602228173398016"
+          ],
+          "media_source_tweet_id": [
+            "2087602261614567771"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087979298225307911",
+        "created_at": "2026-08-13T19:07:12.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087979298225307911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1390785961160806404",
+              "start": 3,
+              "username": "sz_vc7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGxIl76vyK",
+              "end": 75,
+              "expanded_url": "https://x.com/sz_vc7/status/2087602261614567771/video/1",
+              "media_key": "13_2087602228173398016",
+              "start": 52,
+              "url": "https://t.co/nGxIl76vyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087979298225307911",
+        "lang": "ar",
+        "media_metadata": [
+          {
+            "media_key": "13_2087602228173398016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13308
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087602261614567771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sz_vc7: اللي ينزل تغريدات و متابعينه و تفاعله 0 https://t.co/nGxIl76vyK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087979298225307911",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 649,
+          "like_count": 11070,
+          "listed_count": 0,
+          "media_count": 487,
+          "tweet_count": 2324
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T21:50:03.000Z",
+        "description": "",
+        "id": "1390785961160806404",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087919742250008973",
+        "name": "wo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027532363224518656/IOEOZGPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12171,
+          "following_count": 2709,
+          "like_count": 6881,
+          "listed_count": 15,
+          "media_count": 1698,
+          "tweet_count": 2977
+        },
+        "url": "",
+        "username": "sz_vc7",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089549911306170368"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089549922916028424",
+    "created_at": "2026-08-18T03:08:18.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089549922916028424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2076841557802864640",
+          "start": 0,
+          "username": "kuukiwtf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xaMvX5YKH5",
+          "end": 84,
+          "expanded_url": "https://x.com/kuukiwtf/status/2089549922916028424/photo/1",
+          "media_key": "3_2089549911306170368",
+          "start": 61,
+          "url": "https://t.co/xaMvX5YKH5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089549922916028424",
+    "in_reply_to_user_id": "2076841557802864640",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089549911306170368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@kuukiwtf 被封禁了12小時\n那我先用這個帳戶吧 \n\n操你媽馬支克 我自介條你都管那麼嚴\n你要幹什麼😅😅😅😅😅😅 https://t.co/xaMvX5YKH5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2089549911306170368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-SksvacAAno2Q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089549911306170368"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089549922916028424",
+        "created_at": "2026-08-18T03:08:18.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089549922916028424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaMvX5YKH5",
+              "end": 84,
+              "expanded_url": "https://x.com/kuukiwtf/status/2089549922916028424/photo/1",
+              "media_key": "3_2089549911306170368",
+              "start": 61,
+              "url": "https://t.co/xaMvX5YKH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089549922916028424",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089549911306170368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 被封禁了12小時\n那我先用這個帳戶吧 \n\n操你媽馬支克 我自介條你都管那麼嚴\n你要幹什麼😅😅😅😅😅😅 https://t.co/xaMvX5YKH5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089549922916028424",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 688,
+          "like_count": 12427,
+          "listed_count": 1,
+          "media_count": 556,
+          "tweet_count": 2629
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

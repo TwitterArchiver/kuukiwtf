@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2083514853155831885",
+    "created_at": "2026-08-01T11:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083514853155831885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofuji___…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/hoshinofuji___/status/2083486944026128539",
+          "start": 10,
+          "url": "https://t.co/dvWMeycOcm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083514853155831885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083486944026128539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想吃了誰給我買🫪🫪 https://t.co/dvWMeycOcm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2083486924124397569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoIUZabIAEH52w.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2083514853155831885",
+        "created_at": "2026-08-01T11:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083514853155831885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofuji___…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hoshinofuji___/status/2083486944026128539",
+              "start": 10,
+              "url": "https://t.co/dvWMeycOcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083514853155831885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083486944026128539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想吃了誰給我買🫪🫪 https://t.co/dvWMeycOcm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083486924124397569"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083486944026128539",
+        "created_at": "2026-08-01T09:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083486944026128539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgNiPsinji",
+              "end": 31,
+              "expanded_url": "https://x.com/hoshinofuji___/status/2083486944026128539/photo/1",
+              "media_key": "3_2083486924124397569",
+              "start": 8,
+              "url": "https://t.co/dgNiPsinji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083486944026128539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "张老师想你了😭 https://t.co/dgNiPsinji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 522,
+          "like_count": 7874,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 1491
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜love the whole world🇺🇳｜pixiv illustrator | AIart | 旧友寻回中｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/nkPOtCbKri"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 750,
+          "like_count": 891,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/nkPOtCbKri",
+        "username": "hoshinofuji___",
+        "verified": true
+      }
+    ]
+  }
+}

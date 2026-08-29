@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2082281681298530498",
+    "created_at": "2026-07-29T01:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082281681298530498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mark67358226/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Mark67358226/status/2082112865662849128",
+          "start": 36,
+          "url": "https://t.co/arfuA3Om3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082281681298530498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082112865662849128",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "請不要在春天自殺\n請不要在夏天自殺\n請不要在秋天自殺\n請不要在冬天自殺 https://t.co/arfuA3Om3g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2082281681298530498",
+        "created_at": "2026-07-29T01:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082281681298530498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mark67358226/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Mark67358226/status/2082112865662849128",
+              "start": 36,
+              "url": "https://t.co/arfuA3Om3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082281681298530498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082112865662849128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "請不要在春天自殺\n請不要在夏天自殺\n請不要在秋天自殺\n請不要在冬天自殺 https://t.co/arfuA3Om3g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519649212736049152",
+        "conversation_id": "2082112865662849128",
+        "created_at": "2026-07-28T14:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082112865662849128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiangcai_nya/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/xiangcai_nya/status/2082048673681416689",
+              "start": 36,
+              "url": "https://t.co/04dOPw76c3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082112865662849128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 979,
+          "like_count": 26,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082048673681416689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "請不要在春天自殺\n請不要在夏天自殺\n請不要在秋天自殺\n請不要在冬天自殺 https://t.co/04dOPw76c3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 491,
+          "like_count": 6814,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體🇹🇼 簡體🉑 | 是mtx喵 |日語🇯🇵 朝鮮語🇰🇷也會一點 | LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！永遠最好的哥哥：@Mak1287267 永遠愛你喵🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "Mak1287267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG63tc"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 1722,
+          "like_count": 35225,
+          "listed_count": 3,
+          "media_count": 453,
+          "tweet_count": 7871
+        },
+        "url": "https://t.co/0zMrtG63tc",
+        "username": "Mark67358226",
+        "verified": true
+      }
+    ]
+  }
+}

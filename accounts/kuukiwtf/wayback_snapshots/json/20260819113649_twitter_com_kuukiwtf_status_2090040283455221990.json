@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090040243185647616"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090040283455221990",
+    "created_at": "2026-08-19T11:36:49.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090040283455221990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ERcE7ruiYp",
+          "end": 54,
+          "expanded_url": "https://x.com/kuukiwtf/status/2090040283455221990/video/1",
+          "media_key": "13_2090040243185647616",
+          "start": 31,
+          "url": "https://t.co/ERcE7ruiYp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090040283455221990",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2090040243185647616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "傻逼支那人有在街上擺東西 這他媽是馬路 不是你們的支那菜市場 https://t.co/ERcE7ruiYp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9624,
+        "height": 1280,
+        "media_key": "13_2090040243185647616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090040243185647616/img/tw4UF99KLo-U_JPG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090040243185647616/vid/avc1/320x568/IIfklHSPZqjx_qEW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090040243185647616/vid/avc1/480x852/1-B1FUMeeP_cx8nW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090040243185647616/vid/avc1/720x1280/yVN3aBNp7GzoWeI4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090040243185647616/pl/aDYv8jWRmJHy_Kjs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090040243185647616"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090040283455221990",
+        "created_at": "2026-08-19T11:36:49.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090040283455221990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ERcE7ruiYp",
+              "end": 54,
+              "expanded_url": "https://x.com/kuukiwtf/status/2090040283455221990/video/1",
+              "media_key": "13_2090040243185647616",
+              "start": 31,
+              "url": "https://t.co/ERcE7ruiYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090040283455221990",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090040243185647616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼支那人有在街上擺東西 這他媽是馬路 不是你們的支那菜市場 https://t.co/ERcE7ruiYp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090040283455221990",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 679,
+          "like_count": 12757,
+          "listed_count": 1,
+          "media_count": 568,
+          "tweet_count": 2731
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

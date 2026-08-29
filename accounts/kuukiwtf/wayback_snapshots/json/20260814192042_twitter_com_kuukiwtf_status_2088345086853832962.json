@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088345081329905664"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088345086853832962",
+    "created_at": "2026-08-14T19:20:42.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T20:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088345086853832962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Le27y2kDED",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2088345086853832962/photo/1",
+          "media_key": "3_2088345081329905664",
+          "start": 0,
+          "url": "https://t.co/Le27y2kDED"
+        },
+        {
+          "display_url": "x.com/ebs_hopeh/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/ebs_hopeh/status/2088330531956232392",
+          "start": 24,
+          "url": "https://t.co/i4MuLjydIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088345086853832962",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088345081329905664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088330531956232392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Le27y2kDED https://t.co/i4MuLjydIU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2088345081329905664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPtKyXUacAAgwOK.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2088330507121778688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPs9iCKa4AAK9q8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1528,
+        "media_key": "3_2088330515174842368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPs9igKa4AALUU8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 199,
+        "media_key": "3_2088330525677416448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPs9jHSbcAAfMtM.jpg",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088345081329905664"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088345086853832962",
+        "created_at": "2026-08-14T19:20:42.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088345086853832962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Le27y2kDED",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2088345086853832962/photo/1",
+              "media_key": "3_2088345081329905664",
+              "start": 0,
+              "url": "https://t.co/Le27y2kDED"
+            },
+            {
+              "display_url": "x.com/ebs_hopeh/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ebs_hopeh/status/2088330531956232392",
+              "start": 24,
+              "url": "https://t.co/i4MuLjydIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088345086853832962",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088345081329905664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088330531956232392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Le27y2kDED https://t.co/i4MuLjydIU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088330507121778688",
+            "3_2088330515174842368",
+            "3_2088330525677416448"
+          ]
+        },
+        "author_id": "2084323834933678080",
+        "conversation_id": "2088330531956232392",
+        "created_at": "2026-08-14T18:22:52.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088330531956232392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FaC79OOqJN",
+              "end": 168,
+              "expanded_url": "https://x.com/ebs_hopeh/status/2088330531956232392/photo/1",
+              "media_key": "3_2088330507121778688",
+              "start": 145,
+              "url": "https://t.co/FaC79OOqJN"
+            },
+            {
+              "display_url": "pic.x.com/FaC79OOqJN",
+              "end": 168,
+              "expanded_url": "https://x.com/ebs_hopeh/status/2088330531956232392/photo/1",
+              "media_key": "3_2088330515174842368",
+              "start": 145,
+              "url": "https://t.co/FaC79OOqJN"
+            },
+            {
+              "display_url": "pic.x.com/FaC79OOqJN",
+              "end": 168,
+              "expanded_url": "https://x.com/ebs_hopeh/status/2088330531956232392/photo/1",
+              "media_key": "3_2088330525677416448",
+              "start": 145,
+              "url": "https://t.co/FaC79OOqJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088330531956232392",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088330507121778688"
+          },
+          {
+            "media_key": "3_2088330515174842368"
+          },
+          {
+            "media_key": "3_2088330525677416448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本投降矣！\n1945年8月15日，裕仁天皇宣布日本无条件投降，结束了13年抗战、太平洋战争。这是光荣而伟大的反法西斯战争，日本帝国主义对中国及亚太地区的入侵，是对该地人民的践踏，是毁灭人性的，亚太人民的英勇斗争，摧毁了日本法西斯奴役人民的嚣张企图。\n“降书夕到醒方知，何幸今生见此时。” https://t.co/FaC79OOqJN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088345086853832962",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 659,
+          "like_count": 11400,
+          "listed_count": 0,
+          "media_count": 495,
+          "tweet_count": 2382
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T17:02:58.000Z",
+        "description": "毛派Mao Zedong Thought，男，工人，CN\n非LGBTQ+任何一种，非串，非恶俗，\n半吊子的博古通今，可能会发表一些政治话语，但更多的是观察互联网\n如果你是一名非中国人看我的话的时候记得检查是否有翻译错误\n欢迎私聊、讨论、辩论\nps:本人不会在推特公然讨论和LGBTQ+任何有关问题，如需讨论辩论请私聊",
+        "id": "2084323834933678080",
+        "is_identity_verified": false,
+        "location": "Jiangxi",
+        "most_recent_tweet_id": "2088338062703214624",
+        "name": "只等闲",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084323834933678080/1786507966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084384668242305024/3guaD38I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 89,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "ebs_hopeh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

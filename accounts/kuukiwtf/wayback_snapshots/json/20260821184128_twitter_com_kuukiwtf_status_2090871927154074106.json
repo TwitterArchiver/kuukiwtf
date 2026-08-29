@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090732604719063357",
+    "created_at": "2026-08-21T18:41:28.000Z",
+    "display_text_range": [
+      22,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090871927154074106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2006022202483957760",
+          "start": 0,
+          "username": "crispy896"
+        },
+        {
+          "end": 21,
+          "id": "1889861257",
+          "start": 11,
+          "username": "Sugarsast"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090871927154074106",
+    "in_reply_to_user_id": "2006022202483957760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090865424242192438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crispy896 @Sugarsast 緊急註銷中國國籍（bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090732604719063357",
+        "created_at": "2026-08-21T18:41:28.000Z",
+        "display_text_range": [
+          22,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090871927154074106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006022202483957760",
+              "start": 0,
+              "username": "crispy896"
+            },
+            {
+              "end": 21,
+              "id": "1889861257",
+              "start": 11,
+              "username": "Sugarsast"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090871927154074106",
+        "in_reply_to_user_id": "2006022202483957760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090865424242192438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crispy896 @Sugarsast 緊急註銷中國國籍（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006022202483957760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2090732604719063357",
+        "created_at": "2026-08-21T18:15:38.000Z",
+        "display_text_range": [
+          11,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090865424242192438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889861257",
+              "start": 0,
+              "username": "Sugarsast"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090865424242192438",
+        "in_reply_to_user_id": "1889861257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090732604719063357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sugarsast 把全中国1,400,000,000人首尾相连，然后给他们为普瑞八零是不是就能达到？全自动梦幻化学极乐共产主义"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "NONBINARY | AROMANTIC ASEXUAL\nsh/od twt\njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 96,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090871927154074106",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 695,
+          "like_count": 13427,
+          "listed_count": 1,
+          "media_count": 587,
+          "tweet_count": 2869
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-30T15:19:20.000Z",
+        "description": "我的政治倾向很混沌，大概是乐子人。欢迎互fo.....",
+        "id": "2006022202483957760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090871923886682453",
+        "name": "crispy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2006022202483957760/1768405115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084096510200094721/idad_Db9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 41,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "crispy896",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜情感淡漠｜家长不管党｜匿名:https://t.co/kXreZykI07｜Q:3673124663｜我的tg:https://t.co/1e7qTaQ9VS｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 50,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 27,
+                "url": "https://t.co/kXreZykI07"
+              },
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 92,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 69,
+                "url": "https://t.co/1e7qTaQ9VS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQ9VS"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090870610876641344",
+        "name": "神户盐🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889861257/1780258514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090704079244955648/09gAhiPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 1193,
+          "like_count": 8932,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 2997
+        },
+        "url": "https://t.co/1e7qTaQ9VS",
+        "username": "Sugarsast",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

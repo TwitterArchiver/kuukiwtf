@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087244255588921344"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087244267026850168",
+    "created_at": "2026-08-11T18:26:27.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T19:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087244267026850168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LMD2tpoVJS",
+          "end": 130,
+          "expanded_url": "https://x.com/kuukiwtf/status/2087244267026850168/photo/1",
+          "media_key": "3_2087244255588921344",
+          "start": 107,
+          "url": "https://t.co/LMD2tpoVJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087244267026850168",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087244255588921344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "all fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️\n\n我現在完全清醒醒喔 https://t.co/LMD2tpoVJS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2087244255588921344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdhl33aMAA1zTe.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087244255588921344"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087244267026850168",
+        "created_at": "2026-08-11T18:26:27.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087244267026850168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMD2tpoVJS",
+              "end": 130,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087244267026850168/photo/1",
+              "media_key": "3_2087244255588921344",
+              "start": 107,
+              "url": "https://t.co/LMD2tpoVJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087244267026850168",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087244255588921344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "all fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️\n\n我現在完全清醒醒喔 https://t.co/LMD2tpoVJS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑\n不認識也不查就瞎雞巴問的支那豬 自己從窗戶翻下去\n支那豬可以自由拉黑我 這也表示你認輸\n\n████████████████████\n其他帳戶\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087244267026850168",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 567,
+          "like_count": 10503,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 2079
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

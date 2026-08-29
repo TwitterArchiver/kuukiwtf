@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087236191871746048"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "2087236198939140329",
+    "created_at": "2026-08-11T17:54:23.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087236198939140329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pXIC4Hd1uD",
+          "end": 134,
+          "expanded_url": "https://x.com/kuukiwtf/status/2087236198939140329/photo/1",
+          "media_key": "3_2087236191871746048",
+          "start": 111,
+          "url": "https://t.co/pXIC4Hd1uD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087236198939140329",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087236191871746048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其實我覺得wechat這樣子還是很簡潔的\n\n（雖然我總是吐槽為什麼沒有一個選項\n在這個介面可以顯示訊息數量 （我的訊息實在少得可憐 三個帳戶湊不出2則（\n\n第一個付款用\n第二個網路社交限定（bushi\n第三個加現實中的人 https://t.co/pXIC4Hd1uD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2087236191871746048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdaQgLawAAhaAP.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087236191871746048"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2087236198939140329",
+        "created_at": "2026-08-11T17:54:23.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087236198939140329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXIC4Hd1uD",
+              "end": 134,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087236198939140329/photo/1",
+              "media_key": "3_2087236191871746048",
+              "start": 111,
+              "url": "https://t.co/pXIC4Hd1uD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087236198939140329",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087236191871746048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我覺得wechat這樣子還是很簡潔的\n\n（雖然我總是吐槽為什麼沒有一個選項\n在這個介面可以顯示訊息數量 （我的訊息實在少得可憐 三個帳戶湊不出2則（\n\n第一個付款用\n第二個網路社交限定（bushi\n第三個加現實中的人 https://t.co/pXIC4Hd1uD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑\n不認識也不查就瞎雞巴問的支那豬 自己從窗戶翻下去\n支那豬可以自由拉黑我 這也表示你認輸\n\n████████████████████\n其他帳戶\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087236198939140329",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 567,
+          "like_count": 10498,
+          "listed_count": 0,
+          "media_count": 421,
+          "tweet_count": 2074
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

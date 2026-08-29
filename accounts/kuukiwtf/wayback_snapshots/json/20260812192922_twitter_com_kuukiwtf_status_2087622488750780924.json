@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087573149508665344"
+      ],
+      "media_source_tweet_id": [
+        "2087573197764145632"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087622488750780924",
+    "created_at": "2026-08-12T19:29:22.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T20:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087622488750780924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1829502489227575296",
+          "start": 3,
+          "username": "C103ofsixteen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A36O8OYq7k",
+          "end": 53,
+          "expanded_url": "https://x.com/C103ofsixteen/status/2087573197764145632/video/1",
+          "media_key": "13_2087573149508665344",
+          "start": 30,
+          "url": "https://t.co/A36O8OYq7k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087622488750780924",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087573149508665344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087573197764145632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C103ofsixteen: 其实有四个baka🫵 https://t.co/A36O8OYq7k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17966,
+        "height": 1080,
+        "media_key": "13_2087573149508665344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087573149508665344/img/Cf27-ZZ2knAzaAsJ.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087573149508665344/pl/s9oec-orUa4S43HJ.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087573149508665344/vid/avc1/1280x720/cStFIW9pSBNYEgB5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087573149508665344/vid/avc1/640x360/g3Up0qFrXrQz8GmA.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087573149508665344/vid/avc1/480x270/fWbb1DluSCpmRV6l.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087573149508665344/vid/avc1/1920x1080/Dk5NlJhwqJ0OvDoz.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087573149508665344"
+          ]
+        },
+        "author_id": "1829502489227575296",
+        "conversation_id": "2087573197764145632",
+        "created_at": "2026-08-12T16:13:30.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087573197764145632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A36O8OYq7k",
+              "end": 34,
+              "expanded_url": "https://x.com/C103ofsixteen/status/2087573197764145632/video/1",
+              "media_key": "13_2087573149508665344",
+              "start": 11,
+              "url": "https://t.co/A36O8OYq7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087573197764145632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087573149508665344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实有四个baka🫵 https://t.co/A36O8OYq7k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087573149508665344"
+          ],
+          "media_source_tweet_id": [
+            "2087573197764145632"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087622488750780924",
+        "created_at": "2026-08-12T19:29:22.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087622488750780924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1829502489227575296",
+              "start": 3,
+              "username": "C103ofsixteen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A36O8OYq7k",
+              "end": 53,
+              "expanded_url": "https://x.com/C103ofsixteen/status/2087573197764145632/video/1",
+              "media_key": "13_2087573149508665344",
+              "start": 30,
+              "url": "https://t.co/A36O8OYq7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087622488750780924",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087573149508665344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087573197764145632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C103ofsixteen: 其实有四个baka🫵 https://t.co/A36O8OYq7k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087622488750780924",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 639,
+          "like_count": 10873,
+          "listed_count": 0,
+          "media_count": 468,
+          "tweet_count": 2232
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阿拉僧本地猫娘｜傲娇雌小鬼系乐子阿拉僧｜🏳️‍⚧️（存疑？｜男｜不线下｜波奇｜双性恋｜爱人♥️@aruannie512｜各方面都不健康｜史上最倒霉的人 | 蓝v互fo | 骚扰我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "aruannie512"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hajihajimo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hajihajimo1",
+                "start": 0,
+                "url": "https://t.co/CCqoayt7ID"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087579611974750398",
+        "name": "C103阿拉僧🦐🍥",
+        "pinned_tweet_id": "2083938434360459319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829502489227575296/1785055211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082063873847541760/wh9SWs9I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 378,
+          "like_count": 5489,
+          "listed_count": 3,
+          "media_count": 1576,
+          "tweet_count": 4187
+        },
+        "url": "https://t.co/CCqoayt7ID",
+        "username": "C103ofsixteen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

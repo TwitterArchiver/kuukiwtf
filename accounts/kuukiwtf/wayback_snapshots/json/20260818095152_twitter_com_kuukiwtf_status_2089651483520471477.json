@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089650880194969600"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089651483520471477",
+    "created_at": "2026-08-18T09:51:52.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T10:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089651483520471477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GIrBlFYOBw",
+          "end": 64,
+          "expanded_url": "https://x.com/kuukiwtf/status/2089651483520471477/photo/1",
+          "media_key": "3_2089650880194969600",
+          "start": 41,
+          "url": "https://t.co/GIrBlFYOBw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089651483520471477",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089650880194969600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "聽這首歌像是回到了小學\n明明過去也爛成一坨\n為什麽也會向往呢 \n真是個奇怪的問題 https://t.co/GIrBlFYOBw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2089650880194969600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_uZ3KagAAgmlh.jpg",
+        "width": 1333
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089650880194969600"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089651483520471477",
+        "created_at": "2026-08-18T09:51:52.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089651483520471477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GIrBlFYOBw",
+              "end": 64,
+              "expanded_url": "https://x.com/kuukiwtf/status/2089651483520471477/photo/1",
+              "media_key": "3_2089650880194969600",
+              "start": 41,
+              "url": "https://t.co/GIrBlFYOBw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089651483520471477",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089650880194969600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "聽這首歌像是回到了小學\n明明過去也爛成一坨\n為什麽也會向往呢 \n真是個奇怪的問題 https://t.co/GIrBlFYOBw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089651483520471477",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 686,
+          "like_count": 12462,
+          "listed_count": 1,
+          "media_count": 559,
+          "tweet_count": 2646
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

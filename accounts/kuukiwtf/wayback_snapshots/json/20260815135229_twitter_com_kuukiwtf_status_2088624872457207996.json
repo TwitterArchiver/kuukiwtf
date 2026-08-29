@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088624805323186176"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088624872457207996",
+    "created_at": "2026-08-15T13:52:29.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088624872457207996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1880803334405435393",
+          "start": 8,
+          "username": "tiantmaoshenshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N6JGj1Xac3",
+          "end": 48,
+          "expanded_url": "https://x.com/kuukiwtf/status/2088624872457207996/video/1",
+          "media_key": "13_2088624805323186176",
+          "start": 25,
+          "url": "https://t.co/N6JGj1Xac3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088624872457207996",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088624805323186176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "兩個人放黃片看 @tiantmaoshenshi https://t.co/N6JGj1Xac3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41600,
+        "height": 1280,
+        "media_key": "13_2088624805323186176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088624805323186176/img/tYNKZxT5JABm772M.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088624805323186176/vid/avc1/320x568/GUjyx0-5fvahyrIY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088624805323186176/vid/avc1/480x852/bVynPLxjM20dUUAS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088624805323186176/vid/avc1/720x1280/QtlfD2Uk3sOigrvP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088624805323186176/pl/NsCUv6BcjiDmkP6k.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088624805323186176"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088624872457207996",
+        "created_at": "2026-08-15T13:52:29.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088624872457207996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1880803334405435393",
+              "start": 8,
+              "username": "tiantmaoshenshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6JGj1Xac3",
+              "end": 48,
+              "expanded_url": "https://x.com/kuukiwtf/status/2088624872457207996/video/1",
+              "media_key": "13_2088624805323186176",
+              "start": 25,
+              "url": "https://t.co/N6JGj1Xac3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088624872457207996",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088624805323186176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兩個人放黃片看 @tiantmaoshenshi https://t.co/N6JGj1Xac3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088624872457207996",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 660,
+          "like_count": 11709,
+          "listed_count": 0,
+          "media_count": 500,
+          "tweet_count": 2358
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "友一切 靠近才能了解的兔子         \n喜歡視奸喜歡犯病\n有一群非常善良的天使陪著我🥹🥹\n\n                        https://t.co/wDrA82nsIu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao53379",
+                "end": 96,
+                "expanded_url": "https://ngl.link/miao53379",
+                "start": 73,
+                "url": "https://t.co/wDrA82nsIu"
+              }
+            ]
+          }
+        },
+        "id": "1880803334405435393",
+        "is_identity_verified": false,
+        "location": "中北海 🚪114514",
+        "most_recent_tweet_id": "2088616040280584340",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2072983024334189012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880803334405435393/1781014159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081997738003300352/-VJPrMj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 1229,
+          "like_count": 13431,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 9502
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

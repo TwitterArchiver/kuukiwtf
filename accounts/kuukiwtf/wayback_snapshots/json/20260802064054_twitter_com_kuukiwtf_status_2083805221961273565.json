@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2083805221961273565",
+    "created_at": "2026-08-02T06:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083805221961273565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1212s1212bs124…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/1212s1212bs1242/status/2083802843404755421",
+          "start": 28,
+          "url": "https://t.co/meqhQooi4y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083805221961273565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083802843404755421",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是誰把我的錢花完了\n我的錢怎麼都不見了\n這下真沒煙抽了 https://t.co/meqhQooi4y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2083805221961273565",
+        "created_at": "2026-08-02T06:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083805221961273565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1212s1212bs124…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/1212s1212bs1242/status/2083802843404755421",
+              "start": 28,
+              "url": "https://t.co/meqhQooi4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083805221961273565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083802843404755421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是誰把我的錢花完了\n我的錢怎麼都不見了\n這下真沒煙抽了 https://t.co/meqhQooi4y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2083802843404755421",
+        "created_at": "2026-08-02T06:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083802843404755421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083802843404755421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电子烟滞销，帮帮我们！\n香烟滞销，帮帮我们！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 527,
+          "like_count": 8094,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 1540
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 914,
+          "like_count": 17127,
+          "listed_count": 1,
+          "media_count": 1079,
+          "tweet_count": 10404
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

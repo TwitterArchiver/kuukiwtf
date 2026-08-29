@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088992332678926741",
+    "created_at": "2026-08-16T15:31:36.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089012205551600046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2078716467781013504",
+          "start": 0,
+          "username": "slearthly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089012205551600046",
+    "in_reply_to_user_id": "2078716467781013504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088992332678926741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slearthly 刷我啊刷我（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088992332678926741",
+        "created_at": "2026-08-16T15:31:36.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089012205551600046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2078716467781013504",
+              "start": 0,
+              "username": "slearthly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089012205551600046",
+        "in_reply_to_user_id": "2078716467781013504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088992332678926741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slearthly 刷我啊刷我（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078716467781013504",
+        "conversation_id": "2088992332678926741",
+        "created_at": "2026-08-16T14:12:38.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088992332678926741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088992332678926741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（挑战主页刷到谁就去时间谁的主页）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089012205551600046",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 672,
+          "like_count": 12145,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 2461
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T05:54:53.000Z",
+        "description": "我欧大了的时候不会对我任何的言行负责，当然一般我是不会看手机的，除非你过来跳脸\n\n买糖私信 对象@miyesi0927\n雌/孕/抗雄/减肥药/美白等\ncn雾川岛/生产日期20091113/无证 🍥23.3.5/未出柜/坐标广东潮州/高二理科/oder/jumpstyle/轻亚/ygo/roblox\n互fo查成分-雾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "miyesi0927"
+              }
+            ]
+          }
+        },
+        "id": "2078716467781013504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089000367476351233",
+        "name": "sly雾川岛🍥🏳️‍⚧️-糖商",
+        "pinned_tweet_id": "2088199587525787939",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078716467781013504/1786884866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088897575827218433/PdLSYJwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 291,
+          "like_count": 649,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "slearthly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

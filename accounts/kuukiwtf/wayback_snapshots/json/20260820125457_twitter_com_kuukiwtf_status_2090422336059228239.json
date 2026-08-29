@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090422336059228239",
+    "created_at": "2026-08-20T12:54:57.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090422336059228239"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a_username_owo…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/a_username_owo/status/2090048546024390818",
+          "start": 136,
+          "url": "https://t.co/mgIpgQKLgl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090422336059228239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090048546024390818",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果死了就好了\n死了家裡就不用為我花錢了\n死了就不用處理複雜的關係\n死了就不用被拋棄了\n死了就不用考慮明天\n死了就不用在意別人看法了\n死了就不用焦慮了\n死了就不害怕一個人\n死了就不用被別人討厭\n死了就不用想煩心事了\n死了就不用聽別人說我壞話\n死了就不用因為喜歡而亂想太多 https://t.co/mgIpgQKLgl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090422336059228239",
+        "created_at": "2026-08-20T12:54:57.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090422336059228239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a_username_owo…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/a_username_owo/status/2090048546024390818",
+              "start": 136,
+              "url": "https://t.co/mgIpgQKLgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090422336059228239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090048546024390818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果死了就好了\n死了家裡就不用為我花錢了\n死了就不用處理複雜的關係\n死了就不用被拋棄了\n死了就不用考慮明天\n死了就不用在意別人看法了\n死了就不用焦慮了\n死了就不害怕一個人\n死了就不用被別人討厭\n死了就不用想煩心事了\n死了就不用聽別人說我壞話\n死了就不用因為喜歡而亂想太多 https://t.co/mgIpgQKLgl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066758908233027584",
+        "conversation_id": "2090048546024390818",
+        "created_at": "2026-08-19T12:09:39.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090048546024390818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/png06451892543…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/png064518925431/status/2089818619282952263",
+              "start": 147,
+              "url": "https://t.co/3Syk4fDDWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090048546024390818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2408,
+          "like_count": 17,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089818619282952263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果死了就好了\n死了家裡就不用為我花錢了\n死了就不用處理複雜的關係\n死了就不用被拋棄了\n死了就不用哭到半夜了\n死了就不用考慮明天\n死了就不用在意別人看法了\n死了就不用焦慮了\n死了就不害怕一個人\n死了就不用被別人討厭\n死了就不用想煩心事了\n死了就不用聽別人說我壞話\n死了就不用因為喜歡而亂想太多 https://t.co/3Syk4fDDWF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090422336059228239",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 686,
+          "like_count": 13044,
+          "listed_count": 1,
+          "media_count": 580,
+          "tweet_count": 2787
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-16T05:45:35.000Z",
+        "description": "我有可能快活不下去了喵，急需一個新的對象幫我度過這段時期喵🥺",
+        "id": "2066758908233027584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090384527545991493",
+        "name": "可愛的小男孩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066758908233027584/1786120525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084977115293003776/BXHR2rR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 110,
+          "like_count": 18996,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1539
+        },
+        "url": "",
+        "username": "a_username_owo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

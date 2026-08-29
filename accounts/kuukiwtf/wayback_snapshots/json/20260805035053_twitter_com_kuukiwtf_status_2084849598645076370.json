@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084849591636426752"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2084849598645076370",
+    "created_at": "2026-08-05T03:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T04:48:36.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084849023748386925",
+      "2084849598645076370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2082124926375649280",
+          "start": 8,
+          "username": "Yuki281331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C1w2ld1ZSH",
+          "end": 64,
+          "expanded_url": "https://x.com/kuukiwtf/status/2084849598645076370/photo/1",
+          "media_key": "3_2084849591636426752",
+          "start": 41,
+          "url": "https://t.co/C1w2ld1ZSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084849598645076370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊感謝岐哥@Yuki281331😭😭😭😭😭😭😭我將嚴肅跟隨你一輩子👍👍🤩🤩 https://t.co/C1w2ld1ZSH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_2084849591636426752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7fqFebgAA8N2_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084849016521830400"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2084849023748386925",
+        "created_at": "2026-08-05T03:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:48:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084849023748386925",
+          "2084849598645076370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhzXWFTkZs",
+              "end": 54,
+              "expanded_url": "https://x.com/kuukiwtf/status/2084849023748386925/photo/1",
+              "media_key": "3_2084849016521830400",
+              "start": 31,
+              "url": "https://t.co/GhzXWFTkZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084849023748386925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊這又是那位富婆富公😭😭😭😭😭😭😭我將嚴肅購買香菸🤩🤩 https://t.co/GhzXWFTkZs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084849591636426752"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2084849598645076370",
+        "created_at": "2026-08-05T03:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:48:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084849023748386925",
+          "2084849598645076370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2082124926375649280",
+              "start": 8,
+              "username": "Yuki281331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1w2ld1ZSH",
+              "end": 64,
+              "expanded_url": "https://x.com/kuukiwtf/status/2084849598645076370/photo/1",
+              "media_key": "3_2084849591636426752",
+              "start": 41,
+              "url": "https://t.co/C1w2ld1ZSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084849598645076370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊感謝岐哥@Yuki281331😭😭😭😭😭😭😭我將嚴肅跟隨你一輩子👍👍🤩🤩 https://t.co/C1w2ld1ZSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2084689654230692126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 535,
+          "like_count": 8636,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 1706
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T15:25:30.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n会慢慢回fo，怕频繁被ban\n@Yuki312813 前世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Yuki312813"
+              }
+            ]
+          }
+        },
+        "id": "2082124926375649280",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想哭了。2.0。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 225,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "Yuki281331",
+        "verified": false
+      }
+    ]
+  }
+}

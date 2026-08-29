@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090799448859308360",
+    "created_at": "2026-08-21T17:23:31.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090852308460724485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2026081318497665024",
+          "start": 0,
+          "username": "85240609891_2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090852308460724485",
+    "in_reply_to_user_id": "2026081318497665024",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090799448859308360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@85240609891_2nd baka~🤍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090799448859308360",
+        "created_at": "2026-08-21T17:23:31.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090852308460724485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026081318497665024",
+              "start": 0,
+              "username": "85240609891_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090852308460724485",
+        "in_reply_to_user_id": "2026081318497665024",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090799448859308360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_2nd baka~🤍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026081318497665024",
+        "conversation_id": "2090799448859308360",
+        "created_at": "2026-08-21T13:53:28.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090799448859308360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090799448859308360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一個大陸詞匯我始終搞不明白\n\n傻逼\n\n到底是什麽意思"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "NONBINARY | AROMANTIC ASEXUAL\nsh/od twt\njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 96,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090852308460724485",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 694,
+          "like_count": 13411,
+          "listed_count": 1,
+          "media_count": 586,
+          "tweet_count": 2859
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "香港仔🇭🇰🎗️\n14年絕對武力player\nHELLO\n呢度係北極戰警嘅second account\n重視政治民主\n🇯🇵🇰🇷🇺🇸🇮🇱🇺🇦🇬🇧🇨🇦🇦🇺🇳🇿🇪🇺\n小粉紅 CCP嘅基本盤\nIF U唔想食我嘅AWP+Desert Eagle\n請快速離開\nPLS!!\n已經封鎖萬位",
+        "id": "2026081318497665024",
+        "is_identity_verified": false,
+        "location": "🇭🇰HONG KONG🇭🇰",
+        "most_recent_tweet_id": "2090802182694088994",
+        "name": "🇭🇰🎗️北極戰警 AWP Ver 0.60.4.1989",
+        "pinned_tweet_id": "2090056618729759095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026081318497665024/1787317193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090679115066355712/w3Vq4_F2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 430,
+          "like_count": 2340,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 1018
+        },
+        "url": "",
+        "username": "85240609891_2nd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

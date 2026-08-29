@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081970848177737990",
+    "created_at": "2026-07-28T05:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081970848177737990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whwzfyl/status…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/whwzfyl/status/2081970772214690165",
+          "start": 143,
+          "url": "https://t.co/RliIoFKVj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081970848177737990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081970772214690165",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难过什么呢 一只手搭在我的背 我转过头去一名黑色短发少女 身着西装短裙，头微微偏着，微笑着望我 你不需要担心亲爱的，要给你一个拥抱吗？涌入我心中的是一种意外的温存感，我躲在她背后，这一刻，只想被保护，只想被关爱，俯下身摸着我的脑袋把我的头埋入胸口，我永远爱着你所以你也要继续好吗乖孩子 https://t.co/RliIoFKVj0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081970848177737990",
+        "created_at": "2026-07-28T05:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081970848177737990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whwzfyl/status…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/whwzfyl/status/2081970772214690165",
+              "start": 143,
+              "url": "https://t.co/RliIoFKVj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081970848177737990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081970772214690165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难过什么呢 一只手搭在我的背 我转过头去一名黑色短发少女 身着西装短裙，头微微偏着，微笑着望我 你不需要担心亲爱的，要给你一个拥抱吗？涌入我心中的是一种意外的温存感，我躲在她背后，这一刻，只想被保护，只想被关爱，俯下身摸着我的脑袋把我的头埋入胸口，我永远爱着你所以你也要继续好吗乖孩子 https://t.co/RliIoFKVj0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530832862093594624",
+        "conversation_id": "2081950100604043326",
+        "created_at": "2026-07-28T05:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081970772214690165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081970772214690165",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081950100604043326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 难过什么呢 一只手搭在我的背 我转过头去一名黑色短发少女 身着西装短裙，头微微偏着，微笑着望我 你不需要担心亲爱的，要给你一个拥抱吗？涌入我心中的是一种意外的温存感，我躲在她背后，这一刻，只想被保护，只想被关爱，俯下身摸着我的脑袋把我的头埋入胸口，我永远爱着你所以你也要继续好吗乖孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 469,
+          "like_count": 6441,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1140
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-29T08:46:45.000Z",
+        "description": "退出鉴证",
+        "id": "1530832862093594624",
+        "name": "诺兰ove",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036150716339986432/ZUwciVTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 188,
+          "like_count": 14948,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 4362
+        },
+        "url": "",
+        "username": "whwzfyl",
+        "verified": false
+      }
+    ]
+  }
+}

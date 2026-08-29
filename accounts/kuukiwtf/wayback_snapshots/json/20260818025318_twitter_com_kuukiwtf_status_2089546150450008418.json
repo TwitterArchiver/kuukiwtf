@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089457410788507649"
+      ],
+      "media_source_tweet_id": [
+        "2089457425434939895"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089546150450008418",
+    "created_at": "2026-08-18T02:53:18.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T03:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089546150450008418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083196399211200512",
+          "start": 3,
+          "username": "kuukiwfn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7PcgM1eZVA",
+          "end": 64,
+          "expanded_url": "https://x.com/kuukiwfn/status/2089457425434939895/photo/1",
+          "media_key": "3_2089457410788507649",
+          "start": 41,
+          "url": "https://t.co/7PcgM1eZVA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089546150450008418",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089457410788507649"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089457425434939895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuukiwfn: 就先這些吧\n累死我了🫥🫥\n是靜脈血\n但是他怎麼噴過亖 https://t.co/7PcgM1eZVA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2089457410788507649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8-cddbQAENJP1.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089457410788507649"
+          ],
+          "media_source_tweet_id": [
+            "2089457425434939895"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089546150450008418",
+        "created_at": "2026-08-18T02:53:18.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089546150450008418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083196399211200512",
+              "start": 3,
+              "username": "kuukiwfn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PcgM1eZVA",
+              "end": 64,
+              "expanded_url": "https://x.com/kuukiwfn/status/2089457425434939895/photo/1",
+              "media_key": "3_2089457410788507649",
+              "start": 41,
+              "url": "https://t.co/7PcgM1eZVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089546150450008418",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089457410788507649"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089457425434939895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuukiwfn: 就先這些吧\n累死我了🫥🫥\n是靜脈血\n但是他怎麼噴過亖 https://t.co/7PcgM1eZVA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089457410788507649"
+          ]
+        },
+        "author_id": "2083196399211200512",
+        "conversation_id": "2089457425434939895",
+        "created_at": "2026-08-17T21:00:45.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T22:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089457425434939895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PcgM1eZVA",
+              "end": 50,
+              "expanded_url": "https://x.com/kuukiwfn/status/2089457425434939895/photo/1",
+              "media_key": "3_2089457410788507649",
+              "start": 27,
+              "url": "https://t.co/7PcgM1eZVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089457425434939895",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089457410788507649"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就先這些吧\n累死我了🫥🫥\n是靜脈血\n但是他怎麼噴過亖 https://t.co/7PcgM1eZVA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089546150450008418",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 688,
+          "like_count": 12423,
+          "listed_count": 1,
+          "media_count": 555,
+          "tweet_count": 2621
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T14:22:20.000Z",
+        "description": "ｋｕｕｋｉ　本　體\nGENDER\n#NONBINARY \njoined 31/7/26 (4th acc\n\n████████████████████\nother acc\n@kuukiwtf \n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 17,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "kuukiwtf"
+              },
+              {
+                "end": 111,
+                "start": 96,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2083196399211200512",
+        "is_identity_verified": false,
+        "location": "ｉｎｔｅｒｎｅｔ",
+        "most_recent_tweet_id": "2089545521488900374",
+        "name": "kuuki",
+        "pinned_tweet_id": "2089409020889366730",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083196399211200512/1785509200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202604855926784/BKn2wpol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 79,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "kuukiwfn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

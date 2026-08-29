@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086976010625728938",
+    "created_at": "2026-08-11T05:41:12.000Z",
+    "display_text_range": [
+      8,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:41:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087051686863114579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2083431637027823616",
+          "start": 0,
+          "username": "oczicl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087051686863114579",
+    "in_reply_to_user_id": "2083431637027823616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086976010625728938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oczicl 抖人的話就算了 都是支那豬 不要指望抖音這群支那能夠理解更高層的東西"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8869,
+        "height": 3200,
+        "media_key": "13_2086975938588479488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086975938588479488/img/M0v0d0VVKtO7z1z-.jpg",
+        "public_metrics": {
+          "view_count": 581
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086975938588479488/vid/avc1/480x1066/wQcI9_IK4gNpN1Qo.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086975938588479488/vid/avc1/1440x3200/t6x6WSOk69jIzc4p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086975938588479488/pl/Z-jUaF7ceEhQBe-t.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086975938588479488/vid/avc1/720x1600/om8fyErXLUhXwyQe.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086975938588479488/vid/avc1/320x710/R48BdzAAx3QYj4rt.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086976010625728938",
+        "created_at": "2026-08-11T05:41:12.000Z",
+        "display_text_range": [
+          8,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087051686863114579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2083431637027823616",
+              "start": 0,
+              "username": "oczicl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087051686863114579",
+        "in_reply_to_user_id": "2083431637027823616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086976010625728938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oczicl 抖人的話就算了 都是支那豬 不要指望抖音這群支那能夠理解更高層的東西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086975938588479488"
+          ]
+        },
+        "author_id": "2083431637027823616",
+        "conversation_id": "2086976010625728938",
+        "created_at": "2026-08-11T00:40:29.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086976010625728938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3LYTbzp0r",
+              "end": 69,
+              "expanded_url": "https://x.com/oczicl/status/2086976010625728938/video/1",
+              "media_key": "13_2086975938588479488",
+              "start": 46,
+              "url": "https://t.co/O3LYTbzp0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086976010625728938",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086975938588479488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1362,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说这个世界，为什么恶意会这么大吗？我们只想做自己想做的事情，行自己所往的，又没伤害他们。 https://t.co/O3LYTbzp0r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑\n不認識也不查就瞎雞巴問的支那豬 自己從窗戶翻下去\n支那豬可以自由拉黑我 這也表示你認輸\n\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "voidsama777"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087051686863114579",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 567,
+          "like_count": 10314,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T05:57:25.000Z",
+        "description": "药娘世家|出厂日期2008.7.9|🍥2026.6.3|MTF|巨蟹座|无证含糖|身高168体重108肩宽38穿37|家长党|不抽烟不喝酒的好孩子🤓一个制造有文采大便的小说家|希望能救大家\n🐧3866066283",
+        "id": "2083431637027823616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087050192717767113",
+        "name": "𝓠𝓲𝓷𝓰𝓺𝓾月下知清秋🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2087043680653971482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083431637027823616/1785587926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086095343209652224/BE5bgTny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 164,
+          "like_count": 466,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "oczicl",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

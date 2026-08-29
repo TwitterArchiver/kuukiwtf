@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089734712592039978",
+    "created_at": "2026-08-18T15:22:35.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089734712592039978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3e1diei0_oi7y/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/3e1diei0_oi7y/status/2089600640062472594",
+          "start": 3,
+          "url": "https://t.co/dTe6yxuSZt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089734712592039978",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089600640062472594",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羨慕 https://t.co/dTe6yxuSZt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089734712592039978",
+        "created_at": "2026-08-18T15:22:35.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089734712592039978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3e1diei0_oi7y/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/3e1diei0_oi7y/status/2089600640062472594",
+              "start": 3,
+              "url": "https://t.co/dTe6yxuSZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089734712592039978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089600640062472594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羨慕 https://t.co/dTe6yxuSZt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2089600640062472594",
+        "created_at": "2026-08-18T06:29:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089600640062472594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089600640062472594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1486,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想卖逼养老公喔...(๑• . •๑)\n没有零用钱，我就只想着要出卖身体这回事，把自己评估一番，左看看，右看看，不错的脸和身体，太多伤口也算是特色吗？或许可以卖一个好价钱。\n但是果然不要吧...如果我是一个有钱人，或许就不再想着卖逼和自杀。\n真的想要卖逼也并非一件容易的事情呢。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089734712592039978",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 694,
+          "like_count": 12589,
+          "listed_count": 1,
+          "media_count": 564,
+          "tweet_count": 2690
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089706498993848567",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904731881817735168/1784026484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 730,
+          "like_count": 35542,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 1377
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

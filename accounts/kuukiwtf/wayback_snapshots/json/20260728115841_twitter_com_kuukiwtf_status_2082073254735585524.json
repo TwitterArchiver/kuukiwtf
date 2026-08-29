@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2082062609717899632",
+    "created_at": "2026-07-28T11:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082073254735585524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2073706386488512512",
+          "start": 0,
+          "username": "shundeboooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082073254735585524",
+    "in_reply_to_user_id": "2073706386488512512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082062609717899632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shundeboooo 小姐姐在哪個城市"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "聊天窗口截图，包含两条用户消息：“是真人吗”、“小姐姐在哪个城市”，第二条消息带有时间戳09:21",
+        "height": 140,
+        "media_key": "3_2082062416985419776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT4vKybcAAguQc.png",
+        "width": 260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2082062609717899632",
+        "created_at": "2026-07-28T11:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082073254735585524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2073706386488512512",
+              "start": 0,
+              "username": "shundeboooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082073254735585524",
+        "in_reply_to_user_id": "2073706386488512512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082062609717899632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shundeboooo 小姐姐在哪個城市"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082062416985419776"
+          ]
+        },
+        "author_id": "2073706386488512512",
+        "conversation_id": "2082062609717899632",
+        "created_at": "2026-07-28T11:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082062609717899632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSxYjExBYM",
+              "end": 42,
+              "expanded_url": "https://x.com/shundeboooo/status/2082062609717899632/photo/1",
+              "media_key": "3_2082062416985419776",
+              "start": 19,
+              "url": "https://t.co/KSxYjExBYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082062609717899632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mtme tns whch sttt https://t.co/KSxYjExBYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 478,
+          "like_count": 6598,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1193
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-05T09:52:43.000Z",
+        "description": "@schlen_land\n原@shundebo__\n aziwa'ninndro\nshundebo@shundebo.top/\n我是抖m我是杂鱼 \nhttps://t.co/FpBeC0R3JQ\nINTP\nhttps://t.co/w3qdPcRCe0\nhttps://t.co/iqOmV7HzRW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "schlen_land"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "shundebo__"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/aziwaninndroic…",
+                "end": 97,
+                "expanded_url": "http://t.me/aziwaninndroichi",
+                "start": 74,
+                "url": "https://t.co/FpBeC0R3JQ"
+              },
+              {
+                "display_url": "schlen.top",
+                "end": 126,
+                "expanded_url": "https://schlen.top",
+                "start": 103,
+                "url": "https://t.co/w3qdPcRCe0"
+              },
+              {
+                "display_url": "ngl.link/shundebo2",
+                "end": 150,
+                "expanded_url": "https://ngl.link/shundebo2",
+                "start": 127,
+                "url": "https://t.co/iqOmV7HzRW"
+              }
+            ]
+          }
+        },
+        "id": "2073706386488512512",
+        "name": "shundebo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073706956444053504/hFKFFn21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 244,
+          "like_count": 1933,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "shundeboooo",
+        "verified": false
+      }
+    ]
+  }
+}

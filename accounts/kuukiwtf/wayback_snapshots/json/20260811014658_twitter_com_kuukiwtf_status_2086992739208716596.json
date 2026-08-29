@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086992731793231872"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086992739208716596",
+    "created_at": "2026-08-11T01:46:58.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T02:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086992739208716596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X6JpTeHDi2",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2086992739208716596/photo/1",
+          "media_key": "3_2086992731793231872",
+          "start": 0,
+          "url": "https://t.co/X6JpTeHDi2"
+        },
+        {
+          "display_url": "x.com/Mercyxvx1/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Mercyxvx1/status/2086979467839492505",
+          "start": 24,
+          "url": "https://t.co/QGdJ5pqPFq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086992739208716596",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086992731793231872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086979467839492505",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/X6JpTeHDi2 https://t.co/QGdJ5pqPFq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2086992731793231872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZ81QtbkAAY70i.jpg",
+        "width": 960
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2086979459887026176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZwwvAaUAA3Eep.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086992731793231872"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086992739208716596",
+        "created_at": "2026-08-11T01:46:58.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086992739208716596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X6JpTeHDi2",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2086992739208716596/photo/1",
+              "media_key": "3_2086992731793231872",
+              "start": 0,
+              "url": "https://t.co/X6JpTeHDi2"
+            },
+            {
+              "display_url": "x.com/Mercyxvx1/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Mercyxvx1/status/2086979467839492505",
+              "start": 24,
+              "url": "https://t.co/QGdJ5pqPFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086992739208716596",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086992731793231872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086979467839492505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/X6JpTeHDi2 https://t.co/QGdJ5pqPFq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086979459887026176"
+          ]
+        },
+        "author_id": "2082275840851845120",
+        "conversation_id": "2086979467839492505",
+        "created_at": "2026-08-11T00:54:13.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086979467839492505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CE8SnJR1pd",
+              "end": 23,
+              "expanded_url": "https://x.com/Mercyxvx1/status/2086979467839492505/photo/1",
+              "media_key": "3_2086979459887026176",
+              "start": 0,
+              "url": "https://t.co/CE8SnJR1pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086979467839492505",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086979459887026176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CE8SnJR1pd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑\n不認識也不查就瞎雞巴問的支那豬 自己從窗戶翻下去\n支那豬可以自由拉黑我 這也表示你認輸\n\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "voidsama777"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086992739208716596",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 561,
+          "like_count": 10286,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 2079
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T01:24:46.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR｜💖:@liyfn130024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "liyfn130024"
+              }
+            ]
+          }
+        },
+        "id": "2082275840851845120",
+        "is_identity_verified": false,
+        "location": "💊🔪🩸",
+        "most_recent_tweet_id": "2086988076170314152",
+        "name": "Mercy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082275840851845120/1786200645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086102773620498433/HZK3v4ox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 336,
+          "like_count": 1072,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 378
+        },
+        "url": "",
+        "username": "Mercyxvx1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

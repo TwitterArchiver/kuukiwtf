@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090648925799895479",
+    "created_at": "2026-08-21T03:55:20.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090648925799895479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aberyoheiabe/s",
+          "end": 85,
+          "expanded_url": "http://x.com/aberyoheiabe/s",
+          "start": 62,
+          "status": 404,
+          "unwound_url": "https://x.com/aberyoheiabe/s",
+          "url": "https://t.co/bEs97bQqUE"
+        },
+        {
+          "display_url": "x.com/GunandJason/st…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/GunandJason/status/2090476418576908571",
+          "start": 87,
+          "url": "https://t.co/hu4wX2j89Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090648925799895479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090476418576908571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推特真是个好东西 自从用上了推特 小红书不看了抖音不刷了微信不回了 也不胡思乱想了不敏感了不假文青了不活了  纯玩推特之人\nhttps://t.co/bEs97bQqUE… https://t.co/hu4wX2j89Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090648925799895479",
+        "created_at": "2026-08-21T03:55:20.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090648925799895479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aberyoheiabe/s",
+              "end": 85,
+              "expanded_url": "http://x.com/aberyoheiabe/s",
+              "start": 62,
+              "status": 404,
+              "unwound_url": "https://x.com/aberyoheiabe/s",
+              "url": "https://t.co/bEs97bQqUE"
+            },
+            {
+              "display_url": "x.com/GunandJason/st…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/GunandJason/status/2090476418576908571",
+              "start": 87,
+              "url": "https://t.co/hu4wX2j89Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090648925799895479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090476418576908571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特真是个好东西 自从用上了推特 小红书不看了抖音不刷了微信不回了 也不胡思乱想了不敏感了不假文青了不活了  纯玩推特之人\nhttps://t.co/bEs97bQqUE… https://t.co/hu4wX2j89Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076897141830844416",
+        "conversation_id": "2090476418576908571",
+        "created_at": "2026-08-20T16:29:52.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090476418576908571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aberyoheiabe/s…",
+              "end": 85,
+              "expanded_url": "https://x.com/aberyoheiabe/status/2090146139710615960",
+              "start": 62,
+              "url": "https://t.co/nhEwnMd4Im"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090476418576908571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090146139710615960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特真是个好东西 自从用上了推特 小红书不看了抖音不刷了微信不回了 也不胡思乱想了不敏感了不假文青了不活了  纯玩推特之人\nhttps://t.co/nhEwnMd4Im"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090648925799895479",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 686,
+          "like_count": 13160,
+          "listed_count": 1,
+          "media_count": 583,
+          "tweet_count": 2817
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T05:11:45.000Z",
+        "description": "Release Date：02/14/2011\n| mc原版 | 摄影  | 没啥空一直| 拼音不好 | 同类会互 fo \n| 中度拖延 | 地下党 |练声ing  |\n| 目前环境下为GF？ | 认同 mtf ，怕炸柜后被送扭转\n打光下脸还行\n无糖无证 enfp 不💊🔪涉z",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/gunand…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/gunandjason.bsky.social",
+                "start": 0,
+                "url": "https://t.co/a3iAtHSMew"
+              }
+            ]
+          }
+        },
+        "id": "2076897141830844416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090645613516124267",
+        "name": "高氯锂LiClO₄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076897141830844416/1787163180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085374964547665920/JEGkFew8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 327,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/a3iAtHSMew",
+        "username": "GunandJason",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

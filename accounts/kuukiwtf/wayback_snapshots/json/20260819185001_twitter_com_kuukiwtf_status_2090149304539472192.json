@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2090149304539472192",
+    "created_at": "2026-08-19T18:50:01.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090149304539472192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964331185590718464",
+          "start": 3,
+          "username": "breakcoreWTF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/iN",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/iN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090149304539472192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090132992979284341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @breakcoreWTF: 叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨HH丨maimai丨🏳️‍🌈friendly\nmaimaiw54，现在偶尔玩玩\n鏡音レン推し Vox推し bottom🔁⭕\n求转！想和同好和同类互关！ https://t.co/iN…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090132898922053632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGkzC2bQAA9cvV.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3866,
+        "media_key": "3_2090132928936497152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGk0yqbUAA0ace.jpg",
+        "width": 3073
+      },
+      {
+        "height": 2613,
+        "media_key": "3_2090132950428090369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGk2CubAAE5kAb.jpg",
+        "width": 3586
+      },
+      {
+        "height": 3075,
+        "media_key": "3_2090132974184665088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGk3bObkAA5o2A.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2090149304539472192",
+        "created_at": "2026-08-19T18:50:01.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090149304539472192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964331185590718464",
+              "start": 3,
+              "username": "breakcoreWTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/iN",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/iN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090149304539472192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090132992979284341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @breakcoreWTF: 叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨HH丨maimai丨🏳️‍🌈friendly\nmaimaiw54，现在偶尔玩玩\n鏡音レン推し Vox推し bottom🔁⭕\n求转！想和同好和同类互关！ https://t.co/iN…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090132898922053632",
+            "3_2090132928936497152",
+            "3_2090132950428090369",
+            "3_2090132974184665088"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2090132992979284341",
+        "created_at": "2026-08-19T17:45:12.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090132992979284341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNScGuWwil",
+              "end": 129,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2090132992979284341/photo/1",
+              "media_key": "3_2090132898922053632",
+              "start": 106,
+              "url": "https://t.co/iNScGuWwil"
+            },
+            {
+              "display_url": "pic.x.com/iNScGuWwil",
+              "end": 129,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2090132992979284341/photo/1",
+              "media_key": "3_2090132928936497152",
+              "start": 106,
+              "url": "https://t.co/iNScGuWwil"
+            },
+            {
+              "display_url": "pic.x.com/iNScGuWwil",
+              "end": 129,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2090132992979284341/photo/1",
+              "media_key": "3_2090132950428090369",
+              "start": 106,
+              "url": "https://t.co/iNScGuWwil"
+            },
+            {
+              "display_url": "pic.x.com/iNScGuWwil",
+              "end": 129,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2090132992979284341/photo/1",
+              "media_key": "3_2090132974184665088",
+              "start": 106,
+              "url": "https://t.co/iNScGuWwil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090132992979284341",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090132898922053632"
+          },
+          {
+            "media_key": "3_2090132928936497152"
+          },
+          {
+            "media_key": "3_2090132950428090369"
+          },
+          {
+            "media_key": "3_2090132974184665088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨HH丨maimai丨🏳️‍🌈friendly\nmaimaiw54，现在偶尔玩玩\n鏡音レン推し Vox推し bottom🔁⭕\n求转！想和同好和同类互关！ https://t.co/iNScGuWwil"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090149304539472192",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 681,
+          "like_count": 12899,
+          "listed_count": 1,
+          "media_count": 571,
+          "tweet_count": 2757
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2090138587904012296",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 778,
+          "like_count": 39783,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 7133
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

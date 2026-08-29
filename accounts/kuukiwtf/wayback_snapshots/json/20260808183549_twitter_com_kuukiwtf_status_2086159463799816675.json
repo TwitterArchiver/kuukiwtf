@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2086159450025701376"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086152698915946678",
+    "created_at": "2026-08-08T18:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T19:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086159463799816675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880803334405435393",
+          "start": 0,
+          "username": "tiantmaoshenshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/17ygw3sPe9",
+          "end": 43,
+          "expanded_url": "https://x.com/kuukiwtf/status/2086159463799816675/photo/1",
+          "media_key": "16_2086159450025701376",
+          "start": 20,
+          "url": "https://t.co/17ygw3sPe9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086159463799816675",
+    "in_reply_to_user_id": "1880803334405435393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086157072446685392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiantmaoshenshi 對！ https://t.co/17ygw3sPe9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "16_2086159450025701376",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPOG94ObMAAdNT5.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPOG94ObMAAdNT5.mp4"
+          }
+        ],
+        "width": 220
+      },
+      {
+        "height": 534,
+        "media_key": "3_2086157069951045632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOEzVwaEAAhzGK.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2086159450025701376"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086152698915946678",
+        "created_at": "2026-08-08T18:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T19:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086159463799816675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880803334405435393",
+              "start": 0,
+              "username": "tiantmaoshenshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/17ygw3sPe9",
+              "end": 43,
+              "expanded_url": "https://x.com/kuukiwtf/status/2086159463799816675/photo/1",
+              "media_key": "16_2086159450025701376",
+              "start": 20,
+              "url": "https://t.co/17ygw3sPe9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086159463799816675",
+        "in_reply_to_user_id": "1880803334405435393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086157072446685392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiantmaoshenshi 對！ https://t.co/17ygw3sPe9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086157069951045632"
+          ]
+        },
+        "author_id": "1880803334405435393",
+        "conversation_id": "2086152698915946678",
+        "created_at": "2026-08-08T18:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T19:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086157072446685392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MxAAaH8WF",
+              "end": 33,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2086157072446685392/photo/1",
+              "media_key": "3_2086157069951045632",
+              "start": 10,
+              "url": "https://t.co/1MxAAaH8WF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086157072446685392",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086156957531132396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf https://t.co/1MxAAaH8WF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2084689654230692126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 553,
+          "like_count": 9318,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 1880
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子         \n喜歡視奸喜歡犯病\n有一群非常善良的天使陪著我🥹🥹",
+        "id": "1880803334405435393",
+        "location": "中北海 🚪114514",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2072983024334189012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081997738003300352/-VJPrMj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 1033,
+          "like_count": 12263,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 8689
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false
+      }
+    ]
+  }
+}

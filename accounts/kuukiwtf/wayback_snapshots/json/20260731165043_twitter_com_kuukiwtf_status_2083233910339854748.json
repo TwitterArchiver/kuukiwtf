@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2083233910339854748",
+    "created_at": "2026-07-31T16:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083233910339854748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KTD593yug/stat…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/KTD593yug/status/2083208713490542714",
+          "start": 55,
+          "url": "https://t.co/kyr2buBWGS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083233910339854748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083208713490542714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "认识大家真的很开心，不过最近发生了一些事情，今天应该是我这个月最后一天在推上说话了，谢谢大家这么久以来的陪伴 https://t.co/kyr2buBWGS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2083233910339854748",
+        "created_at": "2026-07-31T16:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083233910339854748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KTD593yug/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/KTD593yug/status/2083208713490542714",
+              "start": 55,
+              "url": "https://t.co/kyr2buBWGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083233910339854748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083208713490542714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "认识大家真的很开心，不过最近发生了一些事情，今天应该是我这个月最后一天在推上说话了，谢谢大家这么久以来的陪伴 https://t.co/kyr2buBWGS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686914633314013184",
+        "conversation_id": "2083208713490542714",
+        "created_at": "2026-07-31T15:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083208713490542714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/763b_/status/2…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/763b_/status/2083205697484001628",
+              "start": 55,
+              "url": "https://t.co/4IFrQKD3oU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083208713490542714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083205697484001628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "认识大家真的很开心，不过最近发生了一些事情，今天应该是我这个月最后一天在推上说话了，谢谢大家这么久以来的陪伴 https://t.co/4IFrQKD3oU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 519,
+          "like_count": 7686,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-03T01:39:45.000Z",
+        "description": "雑魚ざこ♡ | 是ENFP | 友跨 | 偶尔半夜emo | 看情况互fo | 简介不定期更新喵",
+        "id": "1686914633314013184",
+        "location": "-13cm",
+        "name": "千绘莉喵～",
+        "pinned_tweet_id": "2077804269668110515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029148198111985664/FJjVvRik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 216,
+          "like_count": 2726,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "KTD593yug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087810128590381551",
+    "created_at": "2026-08-13T07:54:58.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087810128590381551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shennainai666/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/shennainai666/status/2087657846234390604",
+          "start": 19,
+          "url": "https://t.co/Wb2q4wNrC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087810128590381551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087657846234390604",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天真熱 家裡好無聊 找朋友出去踢球 https://t.co/Wb2q4wNrC5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "3_2087657794321440768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPjZs_sa4AAoui6.jpg",
+        "width": 1553
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087810128590381551",
+        "created_at": "2026-08-13T07:54:58.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087810128590381551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shennainai666/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/shennainai666/status/2087657846234390604",
+              "start": 19,
+              "url": "https://t.co/Wb2q4wNrC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087810128590381551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087657846234390604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天真熱 家裡好無聊 找朋友出去踢球 https://t.co/Wb2q4wNrC5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087657794321440768"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2087657846234390604",
+        "created_at": "2026-08-12T21:49:52.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T22:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087657846234390604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hExK2Xu2VO",
+              "end": 34,
+              "expanded_url": "https://x.com/shennainai666/status/2087657846234390604/photo/1",
+              "media_key": "3_2087657794321440768",
+              "start": 11,
+              "url": "https://t.co/hExK2Xu2VO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087657846234390604",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087657794321440768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "八年前的你在想什么呢 https://t.co/hExK2Xu2VO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087810128590381551",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 644,
+          "like_count": 10969,
+          "listed_count": 0,
+          "media_count": 479,
+          "tweet_count": 2282
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "进群私",
+        "id": "2010357366466990080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087733839615730121",
+        "name": "河南说唱之神",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010357366466990080/1769655313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4886,
+          "following_count": 753,
+          "like_count": 1162,
+          "listed_count": 3,
+          "media_count": 510,
+          "tweet_count": 3907
+        },
+        "url": "",
+        "username": "shennainai666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2083598933096530114",
+    "created_at": "2026-08-01T17:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083598933096530114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682303195832360960",
+          "start": 3,
+          "username": "ffynya"
+        },
+        {
+          "end": 61,
+          "id": "2083588007903604736",
+          "start": 53,
+          "username": "ffyynya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083598933096530114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083589503118451023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ffynya: 最近这么多人被封号🥺为了防止嘎掉，建一个逃生舱，如果我噶了，请通过这个号找到我🥺🥺@ffyynya"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2083598933096530114",
+        "created_at": "2026-08-01T17:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083598933096530114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682303195832360960",
+              "start": 3,
+              "username": "ffynya"
+            },
+            {
+              "end": 61,
+              "id": "2083588007903604736",
+              "start": 53,
+              "username": "ffyynya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083598933096530114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083589503118451023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ffynya: 最近这么多人被封号🥺为了防止嘎掉，建一个逃生舱，如果我噶了，请通过这个号找到我🥺🥺@ffyynya"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682303195832360960",
+        "conversation_id": "2083589503118451023",
+        "created_at": "2026-08-01T16:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083589503118451023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "2083588007903604736",
+              "start": 41,
+              "username": "ffyynya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083589503118451023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近这么多人被封号🥺为了防止嘎掉，建一个逃生舱，如果我噶了，请通过这个号找到我🥺🥺@ffyynya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 525,
+          "like_count": 7956,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1507
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜CH/EN｜友跨｜游戏、二次元｜\n聊天：https://t.co/vy1vlfiftN｜\nsteam好友代码：1238560657｜\n不o不割心理正常，不鉴证，不参团｜互fo｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 49,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 26,
+                "url": "https://t.co/vy1vlfiftN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffynya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffynya",
+                "start": 0,
+                "url": "https://t.co/q5hd5vC18p"
+              }
+            ]
+          }
+        },
+        "id": "1682303195832360960",
+        "location": "-20cm",
+        "name": "🫥ffy喵🫥",
+        "pinned_tweet_id": "2083228342774600011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 684,
+          "like_count": 1405,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/q5hd5vC18p",
+        "username": "ffynya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-08-01T16:18:51.000Z",
+        "description": "如果有一天我死了，这将是我唯一的沟通通道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 23,
+                "expanded_url": "http://t.me/ffynya",
+                "start": 0,
+                "url": "https://t.co/rksOpjHmoN"
+              }
+            ]
+          }
+        },
+        "id": "2083588007903604736",
+        "location": "避难所",
+        "name": "😱ffy喵😱逃生舱版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083588436301316096/RpbFOEB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 35,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "https://t.co/rksOpjHmoN",
+        "username": "ffyynya",
+        "verified": false
+      }
+    ]
+  }
+}

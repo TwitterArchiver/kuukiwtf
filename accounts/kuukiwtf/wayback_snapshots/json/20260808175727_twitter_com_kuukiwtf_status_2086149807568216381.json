@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086149807568216381",
+    "created_at": "2026-08-08T17:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T18:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086149807568216381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684788633797287936",
+          "start": 3,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086149807568216381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086096159949664565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moningmeng: 众所周知，推特是一款社交软件，而不是收益软件，它的一切创作者鼓励政策最后的落点应该落在激励使用者去更多，更高质量的使用软件。也就是说你使用的越好，你越可以获得更不错的收益。发放鼓励应该是建立在使用者「使用好软件」这个基础上的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086149807568216381",
+        "created_at": "2026-08-08T17:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T18:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086149807568216381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1684788633797287936",
+              "start": 3,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086149807568216381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086096159949664565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moningmeng: 众所周知，推特是一款社交软件，而不是收益软件，它的一切创作者鼓励政策最后的落点应该落在激励使用者去更多，更高质量的使用软件。也就是说你使用的越好，你越可以获得更不错的收益。发放鼓励应该是建立在使用者「使用好软件」这个基础上的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2086096159949664565",
+        "created_at": "2026-08-08T14:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086096159949664565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086096159949664565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "众所周知，推特是一款社交软件，而不是收益软件，它的一切创作者鼓励政策最后的落点应该落在激励使用者去更多，更高质量的使用软件。也就是说你使用的越好，你越可以获得更不错的收益。发放鼓励应该是建立在使用者「使用好软件」这个基础上的\n\n一个好的鼓励机制应该是让用户可以自己有能力够得到获取收益的门槛，即认真地去使用好软件本身，这是软件想要的，然后用户开通收益软件发钱，这是用户想要的，双方达成一种共赢的关系\n\n这次的新规门槛提高，对于未开通收益的使用者来说，可能会形成一种拦截，间接的降低使用者的使用意愿以及购买蓝标的意愿，获取收益的门槛过高本身就有可能对整体的用户参与意愿造成影响\n\n另外，对于已开通收益的使用者来说，非原创内容以及评论的权重彻底被抹除，也会直接影响到用户发布回复的意愿。先前的回复功能是一种双向的，被回复者可以增长收益，回复者也可以借助回复的流量增长收益，而现在完全变成了一种单向的，仅对被回复者有益的行为。这不利于用户对软件功能进行「深度利用」\n\n点赞，转发，评论，转载，以及原创内容，都是让社交软件保持活力的重要组成部分，合理的创作者鼓励应该鼓励全部的软件功能行为，如果收益机制只奖励其中某一种行为，而让其他行为失去价值，那么用户就会越来越倾向于追逐平台奖励的单一行为，而不是完整地使用软件。平台不应该告诉用户只有怎么做才能赚钱，而应该告诉用户“只要你认真地使用好这款软件，就有机会获得回报”\n\n收益计划的意义应该是让用户更愿意使用推特，而不是让推特逐渐变成一个为了收益而发帖的平台。创作者激励政策的改变，不可以破坏创作者与平台之间的共赢关系"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1002,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "众所周知，推特是一款社交软件，而不是收益软件，它的一切创作者鼓励政策最后的落点应该落在激励使用者去更多，更高质量的使用软件。也就是说你使用的越好，你越可以获得更不错的收益。发放鼓励应该是建立在使用者「使用好软件」这个基础上的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2084689654230692126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 553,
+          "like_count": 9261,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 1865
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086057688501526528/rx19B0NN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29430,
+          "following_count": 12269,
+          "like_count": 97245,
+          "listed_count": 104,
+          "media_count": 5638,
+          "tweet_count": 20088
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      }
+    ]
+  }
+}

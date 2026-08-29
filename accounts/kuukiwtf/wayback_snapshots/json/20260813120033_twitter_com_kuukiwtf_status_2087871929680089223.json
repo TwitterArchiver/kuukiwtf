@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087871908414980097"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087837410579054680",
+    "created_at": "2026-08-13T12:00:33.000Z",
+    "display_text_range": [
+      11,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087871929680089223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062372266613338112",
+          "start": 0,
+          "username": "scarymq69"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bmknZNqzCp",
+          "end": 46,
+          "expanded_url": "https://x.com/kuukiwtf/status/2087871929680089223/photo/1",
+          "media_key": "3_2087871908414980097",
+          "start": 23,
+          "url": "https://t.co/bmknZNqzCp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087871929680089223",
+    "in_reply_to_user_id": "2062372266613338112",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087871908414980097"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087871102030856383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scarymq69 你被ghostban了 https://t.co/bmknZNqzCp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2087871908414980097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmccE2XgAEhmT6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 808,
+        "media_key": "3_2087871090538500096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmbseBa0AApyiD.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087871908414980097"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087837410579054680",
+        "created_at": "2026-08-13T12:00:33.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087871929680089223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062372266613338112",
+              "start": 0,
+              "username": "scarymq69"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmknZNqzCp",
+              "end": 46,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087871929680089223/photo/1",
+              "media_key": "3_2087871908414980097",
+              "start": 23,
+              "url": "https://t.co/bmknZNqzCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087871929680089223",
+        "in_reply_to_user_id": "2062372266613338112",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087871908414980097"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087871102030856383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scarymq69 你被ghostban了 https://t.co/bmknZNqzCp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087871090538500096"
+          ]
+        },
+        "author_id": "2062372266613338112",
+        "conversation_id": "2087837410579054680",
+        "created_at": "2026-08-13T11:57:16.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087871102030856383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2D2i1Lyra5",
+              "end": 36,
+              "expanded_url": "https://x.com/scarymq69/status/2087871102030856383/photo/1",
+              "media_key": "3_2087871090538500096",
+              "start": 13,
+              "url": "https://t.co/2D2i1Lyra5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087871102030856383",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087871090538500096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087837410579054680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 杰作 https://t.co/2D2i1Lyra5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087871929680089223",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 646,
+          "like_count": 11004,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 2299
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T03:15:29.000Z",
+        "description": "discord:https://t.co/kRTt0dGldy\nngl:https://t.co/W9W5MzqHU1\nFb:https://t.co/4mJfWTZ16e\n和平ID：4755553056，加好友之前备注我在Twitter的姓名\n8月20之前超过300followers抄名",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/QBbCYht86Y",
+                "end": 31,
+                "expanded_url": "http://discord.gg/QBbCYht86Y",
+                "start": 8,
+                "url": "https://t.co/kRTt0dGldy"
+              },
+              {
+                "display_url": "ngl.link/pp19goo7h52573",
+                "end": 59,
+                "expanded_url": "http://ngl.link/pp19goo7h52573",
+                "start": 36,
+                "url": "https://t.co/W9W5MzqHU1"
+              },
+              {
+                "display_url": "facebook.com/share/1PfyiiDe…",
+                "end": 86,
+                "expanded_url": "http://facebook.com/share/1PfyiiDefn/",
+                "start": 63,
+                "url": "https://t.co/4mJfWTZ16e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=a97f90…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=a97f9025-e48f-4ad9-8389-f612693bdff6",
+                "start": 0,
+                "url": "https://t.co/ptenaS3kSC"
+              }
+            ]
+          }
+        },
+        "id": "2062372266613338112",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2087871913033138671",
+        "name": "scary farmer",
+        "pinned_tweet_id": "2083193298265821559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062372266613338112/1785492081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083067630739759104/CDVBiDdT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 275,
+          "like_count": 6053,
+          "listed_count": 0,
+          "media_count": 630,
+          "tweet_count": 2870
+        },
+        "url": "https://t.co/ptenaS3kSC",
+        "username": "scarymq69",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

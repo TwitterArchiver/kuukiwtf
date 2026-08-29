@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090175125291511808"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090175179716751437",
+    "created_at": "2026-08-19T20:32:51.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T21:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090175179716751437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tbpZjgucYy",
+          "end": 29,
+          "expanded_url": "https://x.com/kuukiwtf/status/2090175179716751437/video/1",
+          "media_key": "13_2090175125291511808",
+          "start": 6,
+          "url": "https://t.co/tbpZjgucYy"
+        },
+        {
+          "display_url": "x.com/jiaoyanboluooo…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/jiaoyanboluooo/status/2090173905873088832",
+          "start": 30,
+          "url": "https://t.co/AUxuftfoGQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090175179716751437",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2090175125291511808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090173905873088832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反 禁 毒 https://t.co/tbpZjgucYy https://t.co/AUxuftfoGQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11121,
+        "height": 1920,
+        "media_key": "13_2090175125291511808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090175125291511808/img/YmKEskkpvghytBzC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090175125291511808/vid/avc1/1080x1920/BZCc7ZghlVilDIuE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090175125291511808/vid/avc1/480x852/jkHHNebjH3KfHI_x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090175125291511808/pl/DWbMEujWhHwvvjAq.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090175125291511808/vid/avc1/720x1280/IjDtHMu1insJUQ3v.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090175125291511808/vid/avc1/320x568/8Ijjlr7LiWoa1jgV.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2090173890882629632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHKFFza8AAf-Y3.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090175125291511808"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090175179716751437",
+        "created_at": "2026-08-19T20:32:51.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T21:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090175179716751437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbpZjgucYy",
+              "end": 29,
+              "expanded_url": "https://x.com/kuukiwtf/status/2090175179716751437/video/1",
+              "media_key": "13_2090175125291511808",
+              "start": 6,
+              "url": "https://t.co/tbpZjgucYy"
+            },
+            {
+              "display_url": "x.com/jiaoyanboluooo…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/jiaoyanboluooo/status/2090173905873088832",
+              "start": 30,
+              "url": "https://t.co/AUxuftfoGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090175179716751437",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090175125291511808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090173905873088832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反 禁 毒 https://t.co/tbpZjgucYy https://t.co/AUxuftfoGQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090173890882629632"
+          ]
+        },
+        "author_id": "1704469304077611008",
+        "conversation_id": "2090173905873088832",
+        "created_at": "2026-08-19T20:27:47.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T21:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090173905873088832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47pPC0snj1",
+              "end": 23,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2090173905873088832/photo/1",
+              "media_key": "3_2090173890882629632",
+              "start": 0,
+              "url": "https://t.co/47pPC0snj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090173905873088832",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090173890882629632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/47pPC0snj1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090175179716751437",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 684,
+          "like_count": 12919,
+          "listed_count": 1,
+          "media_count": 574,
+          "tweet_count": 2761
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/三角洲UID:54317480744297644809\r／究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761\n给我发送匿名消息！ ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 120,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "is_identity_verified": false,
+        "location": "狗笼里",
+        "most_recent_tweet_id": "2090173905873088832",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2079594082041823465",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1704469304077611008/1736569625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5657,
+          "following_count": 4550,
+          "like_count": 33544,
+          "listed_count": 14,
+          "media_count": 1643,
+          "tweet_count": 7164
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086700207069409280"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086661731418538352",
+    "created_at": "2026-08-10T06:24:34.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T07:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086700213704782061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845133071479341067",
+          "start": 0,
+          "username": "visit_spring"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sm3F205JaE",
+          "end": 45,
+          "expanded_url": "https://x.com/kuukiwtf/status/2086700213704782061/photo/1",
+          "media_key": "3_2086700207069409280",
+          "start": 22,
+          "url": "https://t.co/sm3F205JaE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086700213704782061",
+    "in_reply_to_user_id": "1845133071479341067",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086700207069409280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086661731418538352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@visit_spring 大日本帝國萬歲 https://t.co/sm3F205JaE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2086700207069409280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVyyFMbMAAHQXz.jpg",
+        "width": 1280
+      },
+      {
+        "duration_ms": 24200,
+        "height": 2880,
+        "media_key": "13_2086661319303045120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086661319303045120/img/k7ZDzVd1Y1JNjFQF.jpg",
+        "public_metrics": {
+          "view_count": 829
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086661319303045120/vid/avc1/2160x2880/ZHRTua241Q_IYnPY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086661319303045120/vid/avc1/480x640/FnIRYW_O9A16VkQv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086661319303045120/pl/1D3XY_VNa4NR4EwZ.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086661319303045120/vid/avc1/320x426/62KCt3ECmyYxGne8.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086661319303045120/vid/avc1/1080x1440/CKt53YqviQRNSR66.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086661319303045120/vid/avc1/720x960/ZPrEivSAhMQbPNps.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086700207069409280"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086661731418538352",
+        "created_at": "2026-08-10T06:24:34.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086700213704782061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845133071479341067",
+              "start": 0,
+              "username": "visit_spring"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sm3F205JaE",
+              "end": 45,
+              "expanded_url": "https://x.com/kuukiwtf/status/2086700213704782061/photo/1",
+              "media_key": "3_2086700207069409280",
+              "start": 22,
+              "url": "https://t.co/sm3F205JaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086700213704782061",
+        "in_reply_to_user_id": "1845133071479341067",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086700207069409280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086661731418538352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@visit_spring 大日本帝國萬歲 https://t.co/sm3F205JaE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086661319303045120"
+          ]
+        },
+        "author_id": "1845133071479341067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086661731418538352",
+        "created_at": "2026-08-10T03:51:39.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:50:44.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086661500626964942",
+          "2086661649424056468",
+          "2086661731418538352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gTQfRnQOyz",
+              "end": 92,
+              "expanded_url": "https://x.com/visit_spring/status/2086661731418538352/video/1",
+              "media_key": "13_2086661319303045120",
+              "start": 69,
+              "url": "https://t.co/gTQfRnQOyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086661731418538352",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086661319303045120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5289,
+          "like_count": 50,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "日本现状, 军国主义教育、侵略教育、仇恨教育很普遍, 遍布男女老少各年龄段。他们也真觉得, 凭这帮歪瓜裂枣的残兵, 能抗衡我泱泱中国呢～ https://t.co/gTQfRnQOyz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086700213704782061",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 556,
+          "like_count": 9845,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 1984
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T16:03:15.000Z",
+        "description": "Spring, teacher @redsea_spring @fangchun_spring",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "redsea_spring"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "fangchun_spring"
+              }
+            ]
+          }
+        },
+        "id": "1845133071479341067",
+        "is_identity_verified": false,
+        "location": "Shanghai, China",
+        "most_recent_tweet_id": "2086679843727609945",
+        "name": "拜访春天 🇨🇳",
+        "pinned_tweet_id": "2086396772658868586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845133071479341067/1768047934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045325420191756288/lZ0wtJHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29785,
+          "following_count": 30177,
+          "like_count": 75165,
+          "listed_count": 56,
+          "media_count": 3480,
+          "tweet_count": 21972
+        },
+        "url": "",
+        "username": "visit_spring",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086563975735726238",
+    "created_at": "2026-08-09T21:23:12.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086563975735726238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jesse56896694/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Jesse56896694/status/2086552152559014192",
+          "start": 29,
+          "url": "https://t.co/nEhB0HWKPZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086563975735726238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086552152559014192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蠢逼嗎\n完美犯罪都發現不了你會有機會了解到？\n真是愚蠢了 https://t.co/nEhB0HWKPZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_2086552147131568128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPTsH28bEAAFFOd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086563975735726238",
+        "created_at": "2026-08-09T21:23:12.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086563975735726238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jesse56896694/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Jesse56896694/status/2086552152559014192",
+              "start": 29,
+              "url": "https://t.co/nEhB0HWKPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086563975735726238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086552152559014192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蠢逼嗎\n完美犯罪都發現不了你會有機會了解到？\n真是愚蠢了 https://t.co/nEhB0HWKPZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086552147131568128"
+          ]
+        },
+        "author_id": "1244520653744558082",
+        "conversation_id": "2086552152559014192",
+        "created_at": "2026-08-09T20:36:14.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086552152559014192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdzTLdcuVQ",
+              "end": 37,
+              "expanded_url": "https://x.com/Jesse56896694/status/2086552152559014192/photo/1",
+              "media_key": "3_2086552147131568128",
+              "start": 14,
+              "url": "https://t.co/hdzTLdcuVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086552152559014192",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086552147131568128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界上真的存在完美犯罪吗？ https://t.co/hdzTLdcuVQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086563975735726238",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 554,
+          "like_count": 9749,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 1961
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-30T07:03:50.000Z",
+        "description": "网盘拉新头部达人｜在拼多多虚拟收益过百万｜免费分享各类实用资源",
+        "id": "1244520653744558082",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086552152559014192",
+        "name": "叶子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244520653744558082/1585552053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081074033299447808/OaBwkgWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13353,
+          "following_count": 4338,
+          "like_count": 38,
+          "listed_count": 14,
+          "media_count": 329,
+          "tweet_count": 506
+        },
+        "url": "",
+        "username": "Jesse56896694",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

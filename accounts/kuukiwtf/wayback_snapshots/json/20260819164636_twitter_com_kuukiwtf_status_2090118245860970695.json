@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090040574619406336",
+        "3_2090040591933468672"
+      ],
+      "media_source_tweet_id": [
+        "2090040601848827983",
+        "2090040601848827983"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090118245860970695",
+    "created_at": "2026-08-19T16:46:36.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090118245860970695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2090032448050524161",
+          "start": 3,
+          "username": "Yuki1161taff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/52AyETc7PX",
+          "end": 135,
+          "expanded_url": "https://x.com/Yuki1161taff/status/2090040601848827983/photo/1",
+          "media_key": "3_2090040574619406336",
+          "start": 112,
+          "url": "https://t.co/52AyETc7PX"
+        },
+        {
+          "display_url": "pic.x.com/52AyETc7PX",
+          "end": 135,
+          "expanded_url": "https://x.com/Yuki1161taff/status/2090040601848827983/photo/1",
+          "media_key": "3_2090040591933468672",
+          "start": 112,
+          "url": "https://t.co/52AyETc7PX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090118245860970695",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090040574619406336"
+      },
+      {
+        "media_key": "3_2090040591933468672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090040601848827983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki1161taff: 遗憾的，仅仅3天乐子岐4.0便无法与您继续互动，现在是马斯克的平行时空第5顺位爹，好累。。马支克我是中国人别封了我让祖国母亲给你发点阿片好不好。?\n不嫌麻烦的朋友请帮转一下。。谢谢你。。 https://t.co/52AyETc7PX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_2090040574619406336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFQ1EBX0AAh4Tn.jpg",
+        "width": 1057
+      },
+      {
+        "height": 866,
+        "media_key": "3_2090040591933468672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFQ2EhXcAAz5P3.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090040574619406336",
+            "3_2090040591933468672"
+          ],
+          "media_source_tweet_id": [
+            "2090040601848827983",
+            "2090040601848827983"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090118245860970695",
+        "created_at": "2026-08-19T16:46:36.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090118245860970695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2090032448050524161",
+              "start": 3,
+              "username": "Yuki1161taff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/52AyETc7PX",
+              "end": 135,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2090040601848827983/photo/1",
+              "media_key": "3_2090040574619406336",
+              "start": 112,
+              "url": "https://t.co/52AyETc7PX"
+            },
+            {
+              "display_url": "pic.x.com/52AyETc7PX",
+              "end": 135,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2090040601848827983/photo/1",
+              "media_key": "3_2090040591933468672",
+              "start": 112,
+              "url": "https://t.co/52AyETc7PX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090118245860970695",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090040574619406336"
+          },
+          {
+            "media_key": "3_2090040591933468672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090040601848827983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki1161taff: 遗憾的，仅仅3天乐子岐4.0便无法与您继续互动，现在是马斯克的平行时空第5顺位爹，好累。。马支克我是中国人别封了我让祖国母亲给你发点阿片好不好。?\n不嫌麻烦的朋友请帮转一下。。谢谢你。。 https://t.co/52AyETc7PX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090040574619406336",
+            "3_2090040591933468672"
+          ]
+        },
+        "author_id": "2090032448050524161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090040601848827983",
+        "created_at": "2026-08-19T11:38:05.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090040601848827983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/52AyETc7PX",
+              "end": 117,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2090040601848827983/photo/1",
+              "media_key": "3_2090040574619406336",
+              "start": 94,
+              "url": "https://t.co/52AyETc7PX"
+            },
+            {
+              "display_url": "pic.x.com/52AyETc7PX",
+              "end": 117,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2090040601848827983/photo/1",
+              "media_key": "3_2090040591933468672",
+              "start": 94,
+              "url": "https://t.co/52AyETc7PX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090040601848827983",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090040574619406336"
+          },
+          {
+            "media_key": "3_2090040591933468672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "遗憾的，仅仅3天乐子岐4.0便无法与您继续互动，现在是马斯克的平行时空第5顺位爹，好累。。马支克我是中国人别封了我让祖国母亲给你发点阿片好不好。?\n不嫌麻烦的朋友请帮转一下。。谢谢你。。 https://t.co/52AyETc7PX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090118245860970695",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 681,
+          "like_count": 12854,
+          "listed_count": 1,
+          "media_count": 570,
+          "tweet_count": 2751
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:07:46.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。",
+        "id": "2090032448050524161",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090082321982488746",
+        "name": "岐哥，梦想死了。5.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090032448050524161/1787138596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090037514786476032/qTMS4fdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 24,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Yuki1161taff",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2084660534100852796",
+    "created_at": "2026-08-04T15:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084660534100852796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Taffydaisuki/s…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/Taffydaisuki/status/2084620350529404955",
+          "start": 58,
+          "url": "https://t.co/oZf9PIllWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084660534100852796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084620350529404955",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "媽的我一想到我考試的時候要機考還要練打字直接絕望了\nmd 我最不會的就是打字了😭😭😭😭😭😭😭😭😭😭😭😭😭😭太慘了我 https://t.co/oZf9PIllWN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2084660534100852796",
+        "created_at": "2026-08-04T15:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084660534100852796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Taffydaisuki/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Taffydaisuki/status/2084620350529404955",
+              "start": 58,
+              "url": "https://t.co/oZf9PIllWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084660534100852796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084620350529404955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "媽的我一想到我考試的時候要機考還要練打字直接絕望了\nmd 我最不會的就是打字了😭😭😭😭😭😭😭😭😭😭😭😭😭😭太慘了我 https://t.co/oZf9PIllWN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491368400924422149",
+        "conversation_id": "2084620350529404955",
+        "created_at": "2026-08-04T12:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084620350529404955"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084620350529404955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雅思還有18天，我還沒開口語和寫作，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 533,
+          "like_count": 8585,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-09T11:08:43.000Z",
+        "description": "精神故鄉加拿大，夢想是去南極旅遊/希望親友都能幸福/boymoder everyday🏳️‍⚧️/ㄆㄥˊㄧㄡˇ@bakajinping @ln_fbsq @DOUDEMOII_y92z0 @lyb1007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "bakajinping"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "ln_fbsq"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "DOUDEMOII_y92z0"
+              },
+              {
+                "end": 102,
+                "start": 94,
+                "username": "lyb1007"
+              }
+            ]
+          }
+        },
+        "id": "1491368400924422149",
+        "location": "台灣精神病收容所",
+        "name": "🍫空酱🍥",
+        "pinned_tweet_id": "2068595415705170165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017274336684720128/_d6AXlEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 629,
+          "like_count": 27934,
+          "listed_count": 0,
+          "media_count": 902,
+          "tweet_count": 6625
+        },
+        "url": "",
+        "username": "Taffydaisuki",
+        "verified": false
+      }
+    ]
+  }
+}

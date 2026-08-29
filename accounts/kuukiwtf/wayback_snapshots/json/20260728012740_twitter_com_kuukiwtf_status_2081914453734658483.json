@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081647212338278425",
+    "created_at": "2026-07-28T01:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081914453734658483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048745058804105216",
+          "start": 0,
+          "username": "TaoistYouth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081914453734658483",
+    "in_reply_to_user_id": "2048745058804105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081647212338278425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoistYouth 你媽..\n你應該向我支付瀏覽這則推文的費用👊👊👊👊👊👊👊👊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081647206482997248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HON_GvIacAAY1k-.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081647212338278425",
+        "created_at": "2026-07-28T01:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081914453734658483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048745058804105216",
+              "start": 0,
+              "username": "TaoistYouth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081914453734658483",
+        "in_reply_to_user_id": "2048745058804105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081647212338278425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistYouth 你媽..\n你應該向我支付瀏覽這則推文的費用👊👊👊👊👊👊👊👊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081647206482997248"
+          ]
+        },
+        "author_id": "2048745058804105216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2081647212338278425",
+        "created_at": "2026-07-27T07:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081647212338278425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0jJPxLQ3tp",
+              "end": 35,
+              "expanded_url": "https://x.com/TaoistYouth/status/2081647212338278425/photo/1",
+              "media_key": "3_2081647206482997248",
+              "start": 12,
+              "url": "https://t.co/0jJPxLQ3tp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081647212338278425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 153268,
+          "like_count": 100,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "习近平婴幼儿时期的照片 https://t.co/0jJPxLQ3tp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 469,
+          "like_count": 6387,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "自由，博爱，平等！一个右翼自由派，理想主义者，道教善信，目前在日本生活。致力于反抗中共，反抗独裁暴政！追求人格独立，个人自由｜六四精神永存，自由民主不死。愿我们期冀的民主之花，在不远后的将来，开遍华夏的每一个角落🕯️｜ 日更高质量政治梗图，感兴趣的关注\n小号防失联@TaoistYouth3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 132,
+                "username": "TaoistYouth3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20812…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2081268318032498774",
+                "start": 0,
+                "url": "https://t.co/O67YQyEOOR"
+              }
+            ]
+          }
+        },
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "☯︎Taoist_Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2081268318032498774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 760,
+          "like_count": 14358,
+          "listed_count": 13,
+          "media_count": 675,
+          "tweet_count": 5441
+        },
+        "url": "https://t.co/O67YQyEOOR",
+        "username": "TaoistYouth",
+        "verified": false
+      }
+    ]
+  }
+}

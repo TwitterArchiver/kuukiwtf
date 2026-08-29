@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2086883551585419623",
+    "created_at": "2026-08-10T18:33:05.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086883551585419623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/45_206MHz/stat…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/45_206MHz/status/2086675771272355890",
+          "start": 87,
+          "url": "https://t.co/9JJ6GwESom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086883551585419623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086675771272355890",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支那國央視\n「token要有中文！」\n「文化xxxx」\n「要用中文」\n那些詞彙甚至從日語偷來的\n還有 你的wifi怎麼不用中文阿\n你這個央視是不是不喜歡用你的支那語言阿😅😅 https://t.co/9JJ6GwESom"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 662,
+        "media_key": "3_2086675765647839232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVcjZzbEAAqysv.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2086883551585419623",
+        "created_at": "2026-08-10T18:33:05.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086883551585419623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/45_206MHz/stat…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/45_206MHz/status/2086675771272355890",
+              "start": 87,
+              "url": "https://t.co/9JJ6GwESom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086883551585419623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086675771272355890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支那國央視\n「token要有中文！」\n「文化xxxx」\n「要用中文」\n那些詞彙甚至從日語偷來的\n還有 你的wifi怎麼不用中文阿\n你這個央視是不是不喜歡用你的支那語言阿😅😅 https://t.co/9JJ6GwESom"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086675765647839232"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086675771272355890",
+        "created_at": "2026-08-10T04:47:27.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086675771272355890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8BRwJKdf0X",
+              "end": 47,
+              "expanded_url": "https://x.com/45_206MHz/status/2086675771272355890/photo/1",
+              "media_key": "3_2086675765647839232",
+              "start": 24,
+              "url": "https://t.co/8BRwJKdf0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086675771272355890",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086675765647839232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 95708,
+          "like_count": 403,
+          "quote_count": 11,
+          "reply_count": 202,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "截获…未加密…的…词元……？\n什么叫截获词元？ https://t.co/8BRwJKdf0X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑　\n不認識也不查就瞎雞巴問 自己從窗戶翻下去 支那豬\n\n(ᗜᴗᗜ) 東方project (ᗜᴗᗜ) \n\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "voidsama777"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086883551585419623",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 561,
+          "like_count": 10140,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 2052
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN | en-AU/NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "45_206io"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "45.206mhz.com",
+                "end": 23,
+                "expanded_url": "http://45.206mhz.com",
+                "start": 0,
+                "url": "https://t.co/bRhXiVkO12"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "is_identity_verified": false,
+        "location": "maimai DX Circle (Int’l)",
+        "most_recent_tweet_id": "2086809979265470520",
+        "name": "45.206 MHᴢ",
+        "pinned_tweet_id": "2076918385678676330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751497892001685504/1780239833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3889,
+          "following_count": 498,
+          "like_count": 39069,
+          "listed_count": 3,
+          "media_count": 1016,
+          "tweet_count": 5082
+        },
+        "url": "https://t.co/bRhXiVkO12",
+        "username": "45_206MHz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

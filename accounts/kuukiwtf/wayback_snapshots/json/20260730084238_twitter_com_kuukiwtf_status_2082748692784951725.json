@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2082748692784951725",
+    "created_at": "2026-07-30T08:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082748692784951725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2082740499853840384",
+          "start": 3,
+          "username": "Silvyn0820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082748692784951725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082745002535608569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Silvyn0820: 刚重生...互fo寻回ing（虽然没几个就是了QwQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2082748692784951725",
+        "created_at": "2026-07-30T08:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082748692784951725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2082740499853840384",
+              "start": 3,
+              "username": "Silvyn0820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082748692784951725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082745002535608569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Silvyn0820: 刚重生...互fo寻回ing（虽然没几个就是了QwQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082740499853840384",
+        "conversation_id": "2082745002535608569",
+        "created_at": "2026-07-30T08:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082745002535608569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082745002535608569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刚重生...互fo寻回ing（虽然没几个就是了QwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 506,
+          "like_count": 7187,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 1337
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-30T08:11:19.000Z",
+        "description": "8.20可以叫我小泠\n友跨 不抽烟喝酒od自伤\nX当动态发化妆进修中ing\n喜欢吃点甜食想要被关注…\n我是温良欢迎找我聊天互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/silvyn_0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/silvyn_0",
+                "start": 0,
+                "url": "https://t.co/ZgjCC8V7mY"
+              }
+            ]
+          }
+        },
+        "id": "2082740499853840384",
+        "name": "Silvyn_0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082741511574478848/w9uyPVCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 4,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/ZgjCC8V7mY",
+        "username": "Silvyn0820",
+        "verified": false
+      }
+    ]
+  }
+}

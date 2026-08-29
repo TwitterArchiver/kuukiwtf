@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088615752773533905",
+    "created_at": "2026-08-15T13:16:14.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088615752773533905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qianyunhr/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/qianyunhr/status/2088548832196071576",
+          "start": 19,
+          "url": "https://t.co/GPPIYauMqN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088615752773533905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088548832196071576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想有人莫名其妙往我家寄点又没啥分 https://t.co/GPPIYauMqN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088615752773533905",
+        "created_at": "2026-08-15T13:16:14.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088615752773533905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qianyunhr/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/qianyunhr/status/2088548832196071576",
+              "start": 19,
+              "url": "https://t.co/GPPIYauMqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088615752773533905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088548832196071576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想有人莫名其妙往我家寄点又没啥分 https://t.co/GPPIYauMqN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058088045380026368",
+        "conversation_id": "2088548832196071576",
+        "created_at": "2026-08-15T08:50:19.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088548832196071576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088548832196071576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想有人莫名其妙往我家寄点又没啥分"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088615752773533905",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 660,
+          "like_count": 11696,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 2351
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T07:31:46.000Z",
+        "description": "圣殿的漆已经掉了´∀`大家一起当婊子吧！\n這裡是qianyun愆昀 可以叫我千云\n^‥^希望成为有价值的人！\n梦想变成一只小鸡\n🔪/中度抑郁/前oder 致死还是小资历\n莫言 苏童 余华？ 以及荒谬主义者\n努力成为健全逼！嗯\n你很可爱呀！互fo我喜欢的入",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qianyunhr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qianyunhr",
+                "start": 0,
+                "url": "https://t.co/f0D5P8sR64"
+              }
+            ]
+          }
+        },
+        "id": "2058088045380026368",
+        "is_identity_verified": false,
+        "location": "蛋仔岛",
+        "most_recent_tweet_id": "2088608902485323994",
+        "name": "qianyun",
+        "pinned_tweet_id": "2088228222848954484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058088045380026368/1779530062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058088663800811520/EsUZ0HXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 130,
+          "like_count": 1588,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/f0D5P8sR64",
+        "username": "qianyunhr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

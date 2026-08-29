@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086860494896509026",
+    "created_at": "2026-08-10T17:01:28.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086860494896509026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ffynya/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/ffynya/status/2086695448702808091",
+          "start": 24,
+          "url": "https://t.co/zSoEzcORQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086860494896509026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086695448702808091",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好了兄弟們我看這個已經沒感覺了\n看來我真該睡了 https://t.co/zSoEzcORQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2086695432974114817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVucMTaIAEslVs.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086860494896509026",
+        "created_at": "2026-08-10T17:01:28.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086860494896509026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ffynya/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ffynya/status/2086695448702808091",
+              "start": 24,
+              "url": "https://t.co/zSoEzcORQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086860494896509026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086695448702808091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好了兄弟們我看這個已經沒感覺了\n看來我真該睡了 https://t.co/zSoEzcORQn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086695432974114817"
+          ]
+        },
+        "author_id": "1682303195832360960",
+        "conversation_id": "2086695448702808091",
+        "created_at": "2026-08-10T06:05:38.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086695448702808091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uf40ajgX7x",
+              "end": 30,
+              "expanded_url": "https://x.com/ffynya/status/2086695448702808091/photo/1",
+              "media_key": "3_2086695432974114817",
+              "start": 7,
+              "url": "https://t.co/uf40ajgX7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086695448702808091",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086695432974114817"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2417,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭😭又刀我 https://t.co/uf40ajgX7x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑　\n不認識也不查就瞎雞巴問 自己從窗戶翻下去 支那豬\n\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n████████████████████\nother acc\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "voidsama777"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086860494896509026",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 560,
+          "like_count": 10073,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜CH/EN｜友跨｜游戏、二次元｜\n聊天：https://t.co/vy1vlfiftN｜\nsteam好友代码：1238560657｜\n不o不割心理正常，不鉴证，不参团｜互fo｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 49,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 26,
+                "url": "https://t.co/vy1vlfiftN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffynya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffynya",
+                "start": 0,
+                "url": "https://t.co/q5hd5vC18p"
+              }
+            ]
+          }
+        },
+        "id": "1682303195832360960",
+        "is_identity_verified": true,
+        "location": "-20cm",
+        "most_recent_tweet_id": "2086825700032659917",
+        "name": "🫥ffy喵🫥",
+        "pinned_tweet_id": "2085612453770182850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682303195832360960/1782040838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 1213,
+          "like_count": 1990,
+          "listed_count": 5,
+          "media_count": 771,
+          "tweet_count": 1650
+        },
+        "url": "https://t.co/q5hd5vC18p",
+        "username": "ffynya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

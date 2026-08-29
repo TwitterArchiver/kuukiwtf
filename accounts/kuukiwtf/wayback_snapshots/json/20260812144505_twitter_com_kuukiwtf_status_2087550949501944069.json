@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087550720635736064"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087550949501944069",
+    "created_at": "2026-08-12T14:45:05.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087550949501944069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xClvHTLrLL",
+          "end": 44,
+          "expanded_url": "https://x.com/kuukiwtf/status/2087550949501944069/video/1",
+          "media_key": "13_2087550720635736064",
+          "start": 21,
+          "url": "https://t.co/xClvHTLrLL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087550949501944069",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087550720635736064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "半夜叫你別回頭\n\n自己調的濾鏡 屏幕錄製 https://t.co/xClvHTLrLL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18964,
+        "height": 1438,
+        "media_key": "13_2087550720635736064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087550720635736064/img/k0h35gcf8DMB9Wje.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087550720635736064/vid/avc1/480x744/zOLAi0vEHqbfIpbU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087550720635736064/pl/ZVL5sfwRyyzJikq8.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087550720635736064/vid/avc1/926x1438/PnQ5uS9ki3oHxbIi.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087550720635736064/vid/avc1/320x496/nHhstzEZ_l8ilrYn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087550720635736064/vid/avc1/720x1118/gVEMQGGHkOzA4Naz.mp4"
+          }
+        ],
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087550720635736064"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087550949501944069",
+        "created_at": "2026-08-12T14:45:05.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087550949501944069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xClvHTLrLL",
+              "end": 44,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087550949501944069/video/1",
+              "media_key": "13_2087550720635736064",
+              "start": 21,
+              "url": "https://t.co/xClvHTLrLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087550949501944069",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087550720635736064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半夜叫你別回頭\n\n自己調的濾鏡 屏幕錄製 https://t.co/xClvHTLrLL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087550949501944069",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 636,
+          "like_count": 10793,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 2176
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

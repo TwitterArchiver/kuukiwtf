@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2060300000190709830",
+    "created_at": "2026-08-15T07:55:08.000Z",
+    "display_text_range": [
+      26,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088534945811869742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1922931476129361920",
+          "start": 0,
+          "username": "lil1176150"
+        },
+        {
+          "end": 25,
+          "id": "2059595909701447680",
+          "start": 12,
+          "username": "Snowduck_xox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088534945811869742",
+    "in_reply_to_user_id": "1922931476129361920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060300000190709830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lil1176150 @Snowduck_xox 你忘记自己的国家被日本侵略过了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1444,
+        "media_key": "3_2060299985716183040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJen68tbAAAPUbY.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2060300000190709830",
+        "created_at": "2026-08-15T07:55:08.000Z",
+        "display_text_range": [
+          26,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088534945811869742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1922931476129361920",
+              "start": 0,
+              "username": "lil1176150"
+            },
+            {
+              "end": 25,
+              "id": "2059595909701447680",
+              "start": 12,
+              "username": "Snowduck_xox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088534945811869742",
+        "in_reply_to_user_id": "1922931476129361920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060300000190709830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lil1176150 @Snowduck_xox 你忘记自己的国家被日本侵略过了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060299985716183040"
+          ]
+        },
+        "author_id": "1922931476129361920",
+        "conversation_id": "2060300000190709830",
+        "created_at": "2026-05-29T09:59:33.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060300000190709830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2059595909701447680",
+              "start": 0,
+              "username": "Snowduck_xox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AN6vjhKxHu",
+              "end": 54,
+              "expanded_url": "https://x.com/lil1176150/status/2060300000190709830/photo/1",
+              "media_key": "3_2060299985716183040",
+              "start": 31,
+              "url": "https://t.co/AN6vjhKxHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060300000190709830",
+        "in_reply_to_user_id": "2059595909701447680",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2060299985716183040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Snowduck_xox 你忘记自己的国家被日本侵略过了吗 https://t.co/AN6vjhKxHu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088534945811869742",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 662,
+          "like_count": 11625,
+          "listed_count": 0,
+          "media_count": 478,
+          "tweet_count": 2313
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-15T08:26:12.000Z",
+        "description": "",
+        "id": "1922931476129361920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088260771360964996",
+        "name": "li l",
+        "pinned_tweet_id": "2065645500054028365",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 545
+        },
+        "url": "",
+        "username": "lil1176150",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T11:22:50.000Z",
+        "description": "아디다스 입어줘\n@snow17hoya 전계정",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "snow17hoya"
+              }
+            ]
+          }
+        },
+        "id": "2059595909701447680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088534657226940544",
+        "name": "설이",
+        "pinned_tweet_id": "2060293058424602995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059595909701447680/1784038409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076682045812785152/qmrfO_cR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 116,
+          "like_count": 3211,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 2689
+        },
+        "url": "",
+        "username": "Snowduck_xox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

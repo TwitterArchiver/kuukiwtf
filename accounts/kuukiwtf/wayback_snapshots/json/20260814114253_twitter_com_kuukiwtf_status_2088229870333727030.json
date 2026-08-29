@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088229863060865024"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088229870333727030",
+    "created_at": "2026-08-14T11:42:53.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T12:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088229870333727030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TjWKN9iqjf",
+          "end": 36,
+          "expanded_url": "https://x.com/kuukiwtf/status/2088229870333727030/photo/1",
+          "media_key": "3_2088229863060865024",
+          "start": 13,
+          "url": "https://t.co/TjWKN9iqjf"
+        },
+        {
+          "display_url": "x.com/C103ofsixteen/…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/C103ofsixteen/status/2088227716814282772",
+          "start": 37,
+          "url": "https://t.co/P1pSRTx9HT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088229870333727030",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088229863060865024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088227716814282772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "數學考了⑨分 謝謝琪露諾 https://t.co/TjWKN9iqjf https://t.co/P1pSRTx9HT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1089,
+        "media_key": "3_2088229863060865024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrh_x0bAAAhure.jpg",
+        "width": 1168
+      },
+      {
+        "height": 714,
+        "media_key": "3_2088227710078160896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrgCdVWEAADzQZ.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088229863060865024"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088229870333727030",
+        "created_at": "2026-08-14T11:42:53.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088229870333727030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjWKN9iqjf",
+              "end": 36,
+              "expanded_url": "https://x.com/kuukiwtf/status/2088229870333727030/photo/1",
+              "media_key": "3_2088229863060865024",
+              "start": 13,
+              "url": "https://t.co/TjWKN9iqjf"
+            },
+            {
+              "display_url": "x.com/C103ofsixteen/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/C103ofsixteen/status/2088227716814282772",
+              "start": 37,
+              "url": "https://t.co/P1pSRTx9HT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088229870333727030",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088229863060865024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088227716814282772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "數學考了⑨分 謝謝琪露諾 https://t.co/TjWKN9iqjf https://t.co/P1pSRTx9HT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088227710078160896"
+          ]
+        },
+        "author_id": "1829502489227575296",
+        "conversation_id": "2088201546471223465",
+        "created_at": "2026-08-14T11:34:19.000Z",
+        "display_text_range": [
+          9,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088227716814282772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QoWMvinzH1",
+              "end": 33,
+              "expanded_url": "https://x.com/C103ofsixteen/status/2088227716814282772/photo/1",
+              "media_key": "3_2088227710078160896",
+              "start": 10,
+              "url": "https://t.co/QoWMvinzH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088227716814282772",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088227710078160896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088225315495764279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf https://t.co/QoWMvinzH1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088229870333727030",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 653,
+          "like_count": 11299,
+          "listed_count": 0,
+          "media_count": 493,
+          "tweet_count": 2368
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阿拉僧本地猫娘｜？｜🏳️‍⚧️（疑｜男｜不线下｜波奇｜双性恋｜♥️@aruannie512｜各方面都不健全｜史上最倒霉的人 | 蓝v互fo | 老人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "aruannie512"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hajihajimo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hajihajimo1",
+                "start": 0,
+                "url": "https://t.co/CCqoayt7ID"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088227811500724443",
+        "name": "C103阿拉僧🦐🍥",
+        "pinned_tweet_id": "2083938434360459319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829502489227575296/1785055211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082063873847541760/wh9SWs9I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 380,
+          "like_count": 5521,
+          "listed_count": 3,
+          "media_count": 1612,
+          "tweet_count": 4248
+        },
+        "url": "https://t.co/CCqoayt7ID",
+        "username": "C103ofsixteen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

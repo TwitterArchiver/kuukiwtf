@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086836000991727665",
+    "created_at": "2026-08-10T16:47:14.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086856912788943080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "akihiro_0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086856912788943080",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086836000991727665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akihiro_0313 沒救了\n重開吧（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3637,
+        "media_key": "3_2086835975783911424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXuQ3EbEAApTNo.jpg",
+        "width": 1294
+      },
+      {
+        "height": 3646,
+        "media_key": "3_2086835983983820800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXuRVnbwAA_CvR.jpg",
+        "width": 1319
+      },
+      {
+        "height": 3985,
+        "media_key": "3_2086835992833703936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXuR2laQAAA02Y.jpg",
+        "width": 2886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086836000991727665",
+        "created_at": "2026-08-10T16:47:14.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086856912788943080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086856912788943080",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086836000991727665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 沒救了\n重開吧（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086835975783911424",
+            "3_2086835983983820800",
+            "3_2086835992833703936"
+          ]
+        },
+        "author_id": "1781893716183060480",
+        "conversation_id": "2086836000991727665",
+        "created_at": "2026-08-10T15:24:08.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086836000991727665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTQOplsXm1",
+              "end": 29,
+              "expanded_url": "https://x.com/akihiro_0313/status/2086836000991727665/photo/1",
+              "media_key": "3_2086835975783911424",
+              "start": 6,
+              "url": "https://t.co/kTQOplsXm1"
+            },
+            {
+              "display_url": "pic.x.com/kTQOplsXm1",
+              "end": 29,
+              "expanded_url": "https://x.com/akihiro_0313/status/2086836000991727665/photo/1",
+              "media_key": "3_2086835983983820800",
+              "start": 6,
+              "url": "https://t.co/kTQOplsXm1"
+            },
+            {
+              "display_url": "pic.x.com/kTQOplsXm1",
+              "end": 29,
+              "expanded_url": "https://x.com/akihiro_0313/status/2086836000991727665/photo/1",
+              "media_key": "3_2086835992833703936",
+              "start": 6,
+              "url": "https://t.co/kTQOplsXm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086836000991727665",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2086835975783911424"
+          },
+          {
+            "media_key": "3_2086835983983820800"
+          },
+          {
+            "media_key": "3_2086835992833703936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wtf…… https://t.co/kTQOplsXm1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑　\n不認識也不查就瞎雞巴問 自己從窗戶翻下去 支那豬\n\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n████████████████████\nother acc\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "voidsama777"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086856912788943080",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 558,
+          "like_count": 10062,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️\n🇨🇳｜15\n​✨ 二次元 & アニメ\n💻 プログラミング\n✏️ 日本語勉強中\n​気軽に仲良くしてください😼✨\n🐾 大切な親友がいます➰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro.03131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro.03131",
+                "start": 0,
+                "url": "https://t.co/cWs0qXeWVS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "is_identity_verified": true,
+        "location": "A happy world...",
+        "most_recent_tweet_id": "2086848213102059821",
+        "name": "⟩あきひろ✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781893716183060480/1786076592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085586274866606080/IOegF-Ij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 2819,
+          "like_count": 13430,
+          "listed_count": 2,
+          "media_count": 1458,
+          "tweet_count": 10448
+        },
+        "url": "https://t.co/cWs0qXeWVS",
+        "username": "akihiro_0313",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

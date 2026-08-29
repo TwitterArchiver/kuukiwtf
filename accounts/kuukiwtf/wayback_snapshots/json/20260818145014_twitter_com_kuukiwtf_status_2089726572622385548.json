@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089726565034983424"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089718895447789810",
+    "created_at": "2026-08-18T14:50:14.000Z",
+    "display_text_range": [
+      10,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T15:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089726572622385548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1959759014318796800",
+          "start": 0,
+          "username": "ninisvo1d"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5kE3p4AZbW",
+          "end": 34,
+          "expanded_url": "https://x.com/kuukiwtf/status/2089726572622385548/photo/1",
+          "media_key": "3_2089726565034983424",
+          "start": 11,
+          "url": "https://t.co/5kE3p4AZbW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089726572622385548",
+    "in_reply_to_user_id": "1959759014318796800",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2089726565034983424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089718895447789810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ninisvo1d https://t.co/5kE3p4AZbW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2089726565034983424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAzPTKbgAA5UKL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089726565034983424"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089718895447789810",
+        "created_at": "2026-08-18T14:50:14.000Z",
+        "display_text_range": [
+          10,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089726572622385548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1959759014318796800",
+              "start": 0,
+              "username": "ninisvo1d"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kE3p4AZbW",
+              "end": 34,
+              "expanded_url": "https://x.com/kuukiwtf/status/2089726572622385548/photo/1",
+              "media_key": "3_2089726565034983424",
+              "start": 11,
+              "url": "https://t.co/5kE3p4AZbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089726572622385548",
+        "in_reply_to_user_id": "1959759014318796800",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089726565034983424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089718895447789810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ninisvo1d https://t.co/5kE3p4AZbW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959759014318796800",
+        "conversation_id": "2089718895447789810",
+        "created_at": "2026-08-18T14:19:44.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089718895447789810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089718895447789810",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "It took me 10 minutes to take the courage to write in the class chat. I was asking for homework cause I wasn't in school...... EVERYONE left me on read ;)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089726572622385548",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 694,
+          "like_count": 12563,
+          "listed_count": 1,
+          "media_count": 564,
+          "tweet_count": 2680
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-24T23:25:49.000Z",
+        "description": "PLEASE don't report just block me\n#shedtwt #edrtwt\nBackup Account @butcherninii\nhttps://t.co/fJB7O0GOKr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "edrtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "butcherninii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ninisvo1d.straw.page",
+                "end": 103,
+                "expanded_url": "https://ninisvo1d.straw.page",
+                "start": 80,
+                "url": "https://t.co/fJB7O0GOKr"
+              }
+            ]
+          }
+        },
+        "id": "1959759014318796800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089721651806048573",
+        "name": "𝘯𝘪𝘯𝘪",
+        "pinned_tweet_id": "2062651520173154374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959759014318796800/1784933775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088209860315717632/hjaVFW8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 234,
+          "like_count": 7387,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1559
+        },
+        "url": "",
+        "username": "ninisvo1d",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

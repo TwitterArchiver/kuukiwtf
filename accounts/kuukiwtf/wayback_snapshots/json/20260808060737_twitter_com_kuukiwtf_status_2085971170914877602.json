@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2085971170914877602",
+    "created_at": "2026-08-08T06:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T07:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085971170914877602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuukiwtf/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/kuukiwtf/status/2085966824676708525",
+          "start": 15,
+          "url": "https://t.co/w02dngNLlb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085971170914877602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085966824676708525",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欸憑什麼我不長這樣\n好氣阿阿 https://t.co/w02dngNLlb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2085966799141773312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLXwHwaoAAzbu-.jpg",
+        "width": 1306
+      },
+      {
+        "height": 3171,
+        "media_key": "3_2085966810839728129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLXwzVbQAE2u79.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2085971170914877602",
+        "created_at": "2026-08-08T06:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T07:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085971170914877602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwtf/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/kuukiwtf/status/2085966824676708525",
+              "start": 15,
+              "url": "https://t.co/w02dngNLlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085971170914877602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085966824676708525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欸憑什麼我不長這樣\n好氣阿阿 https://t.co/w02dngNLlb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085966799141773312",
+            "3_2085966810839728129"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2085966824676708525",
+        "created_at": "2026-08-08T05:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T06:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085966824676708525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QkMjuGKw0w",
+              "end": 30,
+              "expanded_url": "https://x.com/kuukiwtf/status/2085966824676708525/photo/1",
+              "media_key": "3_2085966799141773312",
+              "start": 7,
+              "url": "https://t.co/QkMjuGKw0w"
+            },
+            {
+              "display_url": "pic.x.com/QkMjuGKw0w",
+              "end": 30,
+              "expanded_url": "https://x.com/kuukiwtf/status/2085966824676708525/photo/1",
+              "media_key": "3_2085966810839728129",
+              "start": 7,
+              "url": "https://t.co/QkMjuGKw0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085966824676708525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美麗美麗😋😋 https://t.co/QkMjuGKw0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2084689654230692126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 548,
+          "like_count": 9178,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 1841
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

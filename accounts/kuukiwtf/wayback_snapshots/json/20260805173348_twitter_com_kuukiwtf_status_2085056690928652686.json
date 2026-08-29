@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2085056690928652686",
+    "created_at": "2026-08-05T17:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085056690928652686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SnozakiSakura/…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/SnozakiSakura/status/2084916420169863668",
+          "start": 54,
+          "url": "https://t.co/1l2smZm0wc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085056690928652686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084916420169863668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "先給我再說\n又是這種愚蠢的問題 真噁心 有本事把你那個如果去掉 然後給我們每人綠卡和錢 天天就知道吊人胃口 https://t.co/1l2smZm0wc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2085056690928652686",
+        "created_at": "2026-08-05T17:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085056690928652686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SnozakiSakura/…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/SnozakiSakura/status/2084916420169863668",
+              "start": 54,
+              "url": "https://t.co/1l2smZm0wc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085056690928652686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084916420169863668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先給我再說\n又是這種愚蠢的問題 真噁心 有本事把你那個如果去掉 然後給我們每人綠卡和錢 天天就知道吊人胃口 https://t.co/1l2smZm0wc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573704119516176384",
+        "conversation_id": "2084916420169863668",
+        "created_at": "2026-08-05T08:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084916420169863668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084916420169863668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 261145,
+          "like_count": 726,
+          "quote_count": 13,
+          "reply_count": 759,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "如果立刻给你一张美国绿卡 + 十万美元，\n唯一的条件是永远不能回到中国，\n你会同意吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2084689654230692126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 539,
+          "like_count": 8816,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 1770
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "location": "魔女岛",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97539,
+          "following_count": 2472,
+          "like_count": 7680,
+          "listed_count": 204,
+          "media_count": 686,
+          "tweet_count": 4279
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

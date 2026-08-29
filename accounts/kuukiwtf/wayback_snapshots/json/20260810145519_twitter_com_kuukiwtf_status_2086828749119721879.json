@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086828742262067200"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086565608087523559",
+    "created_at": "2026-08-10T14:55:19.000Z",
+    "display_text_range": [
+      15,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086828749119721879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819276723290095616",
+          "start": 0,
+          "username": "Natsuki_803nz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rW34rNHnF9",
+          "end": 55,
+          "expanded_url": "https://x.com/kuukiwtf/status/2086828749119721879/photo/1",
+          "media_key": "3_2086828742262067200",
+          "start": 32,
+          "url": "https://t.co/rW34rNHnF9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086828749119721879",
+    "in_reply_to_user_id": "1819276723290095616",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086828742262067200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086825877225263586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuki_803nz 能不能加是個問題\n他要我實名認證 https://t.co/rW34rNHnF9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1203,
+        "media_key": "3_2086828742262067200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXnr0GbEAAfh_8.jpg",
+        "width": 844
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086828742262067200"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086565608087523559",
+        "created_at": "2026-08-10T14:55:19.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086828749119721879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819276723290095616",
+              "start": 0,
+              "username": "Natsuki_803nz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rW34rNHnF9",
+              "end": 55,
+              "expanded_url": "https://x.com/kuukiwtf/status/2086828749119721879/photo/1",
+              "media_key": "3_2086828742262067200",
+              "start": 32,
+              "url": "https://t.co/rW34rNHnF9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086828749119721879",
+        "in_reply_to_user_id": "1819276723290095616",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086828742262067200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086825877225263586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuki_803nz 能不能加是個問題\n他要我實名認證 https://t.co/rW34rNHnF9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819276723290095616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2086565608087523559",
+        "created_at": "2026-08-10T14:43:55.000Z",
+        "display_text_range": [
+          10,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086825877225263586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086825877225263586",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086565608087523559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf Please give me your wechat ID"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑　\n不認識也不查就瞎雞巴問 自己從窗戶翻下去 支那豬\n\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n████████████████████\nother acc\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "voidsama777"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086828749119721879",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 558,
+          "like_count": 10025,
+          "listed_count": 0,
+          "media_count": 407,
+          "tweet_count": 2017
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T07:39:26.000Z",
+        "description": "高一｜炸柜断糖｜重度抑郁｜周六晚上复活，消息回复可能不及时｜177cm/58kg｜百合｜交通迷｜无聊｜想被抱抱…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Natsuki_803",
+                "end": 23,
+                "expanded_url": "https://t.me/Natsuki_803",
+                "start": 0,
+                "url": "https://t.co/AYea4soCXv"
+              }
+            ]
+          }
+        },
+        "id": "1819276723290095616",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2086825877225263586",
+        "name": "夏希🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819276723290095616/1771773388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040744519550001153/-nZHCknj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 221,
+          "like_count": 1170,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/AYea4soCXv",
+        "username": "Natsuki_803nz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

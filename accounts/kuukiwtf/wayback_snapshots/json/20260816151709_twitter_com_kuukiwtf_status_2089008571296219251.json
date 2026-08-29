@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088914454826393600",
+        "13_2088914454834798592",
+        "3_2088914454851567616"
+      ],
+      "media_source_tweet_id": [
+        "2088914474396983503",
+        "2088914474396983503",
+        "2088914474396983503"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089008571296219251",
+    "created_at": "2026-08-16T15:17:09.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089008571296219251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2076870648014716928",
+          "start": 3,
+          "username": "owozzzzowo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CmANtUSrmQ",
+          "end": 85,
+          "expanded_url": "https://x.com/owozzzzowo/status/2088914474396983503/video/1",
+          "media_key": "3_2088914454826393600",
+          "start": 62,
+          "url": "https://t.co/CmANtUSrmQ"
+        },
+        {
+          "display_url": "pic.x.com/CmANtUSrmQ",
+          "end": 85,
+          "expanded_url": "https://x.com/owozzzzowo/status/2088914474396983503/video/1",
+          "media_key": "13_2088914454834798592",
+          "start": 62,
+          "url": "https://t.co/CmANtUSrmQ"
+        },
+        {
+          "display_url": "pic.x.com/CmANtUSrmQ",
+          "end": 85,
+          "expanded_url": "https://x.com/owozzzzowo/status/2088914474396983503/video/1",
+          "media_key": "3_2088914454851567616",
+          "start": 62,
+          "url": "https://t.co/CmANtUSrmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089008571296219251",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088914454826393600"
+      },
+      {
+        "media_key": "13_2088914454834798592"
+      },
+      {
+        "media_key": "3_2088914454851567616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088914474396983503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @owozzzzowo: T-T我是月月 大号被封了呀正在努力申诉T-T\n互关回家…\n米娜桑可以帮我转发一下吗TvT https://t.co/CmANtUSrmQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088914454826393600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1QoQ4bIAAhek1.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 3500,
+        "height": 714,
+        "media_key": "13_2088914454834798592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088914454834798592/img/BiB1kEhtHVAC4YmL.jpg",
+        "public_metrics": {
+          "view_count": 235
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088914454834798592/vid/avc1/484x270/WlI5n045FOCYD5_t.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088914454834798592/vid/avc1/644x360/_iksc0gw_b47Q4YJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088914454834798592/vid/avc1/1280x714/Jqe1jFI_XwYTrgnm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088914454834798592/pl/sunbdKwdYeAs-9ZF.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2088914454851567616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1QoQ-bQAArWib.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088914454826393600",
+            "13_2088914454834798592",
+            "3_2088914454851567616"
+          ],
+          "media_source_tweet_id": [
+            "2088914474396983503",
+            "2088914474396983503",
+            "2088914474396983503"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089008571296219251",
+        "created_at": "2026-08-16T15:17:09.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089008571296219251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2076870648014716928",
+              "start": 3,
+              "username": "owozzzzowo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmANtUSrmQ",
+              "end": 85,
+              "expanded_url": "https://x.com/owozzzzowo/status/2088914474396983503/video/1",
+              "media_key": "3_2088914454826393600",
+              "start": 62,
+              "url": "https://t.co/CmANtUSrmQ"
+            },
+            {
+              "display_url": "pic.x.com/CmANtUSrmQ",
+              "end": 85,
+              "expanded_url": "https://x.com/owozzzzowo/status/2088914474396983503/video/1",
+              "media_key": "13_2088914454834798592",
+              "start": 62,
+              "url": "https://t.co/CmANtUSrmQ"
+            },
+            {
+              "display_url": "pic.x.com/CmANtUSrmQ",
+              "end": 85,
+              "expanded_url": "https://x.com/owozzzzowo/status/2088914474396983503/video/1",
+              "media_key": "3_2088914454851567616",
+              "start": 62,
+              "url": "https://t.co/CmANtUSrmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089008571296219251",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088914454826393600"
+          },
+          {
+            "media_key": "13_2088914454834798592"
+          },
+          {
+            "media_key": "3_2088914454851567616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088914474396983503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @owozzzzowo: T-T我是月月 大号被封了呀正在努力申诉T-T\n互关回家…\n米娜桑可以帮我转发一下吗TvT https://t.co/CmANtUSrmQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088914454826393600",
+            "13_2088914454834798592",
+            "3_2088914454851567616"
+          ]
+        },
+        "author_id": "2076870648014716928",
+        "conversation_id": "2088914474396983503",
+        "created_at": "2026-08-16T09:03:15.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088914474396983503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmANtUSrmQ",
+              "end": 69,
+              "expanded_url": "https://x.com/owozzzzowo/status/2088914474396983503/video/1",
+              "media_key": "3_2088914454826393600",
+              "start": 46,
+              "url": "https://t.co/CmANtUSrmQ"
+            },
+            {
+              "display_url": "pic.x.com/CmANtUSrmQ",
+              "end": 69,
+              "expanded_url": "https://x.com/owozzzzowo/status/2088914474396983503/video/1",
+              "media_key": "13_2088914454834798592",
+              "start": 46,
+              "url": "https://t.co/CmANtUSrmQ"
+            },
+            {
+              "display_url": "pic.x.com/CmANtUSrmQ",
+              "end": 69,
+              "expanded_url": "https://x.com/owozzzzowo/status/2088914474396983503/video/1",
+              "media_key": "3_2088914454851567616",
+              "start": 46,
+              "url": "https://t.co/CmANtUSrmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088914474396983503",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088914454826393600"
+          },
+          {
+            "media_key": "13_2088914454834798592"
+          },
+          {
+            "media_key": "3_2088914454851567616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1475,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "T-T我是月月 大号被封了呀正在努力申诉T-T\n互关回家…\n米娜桑可以帮我转发一下吗TvT https://t.co/CmANtUSrmQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089008571296219251",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 672,
+          "like_count": 12124,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 2452
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T03:26:35.000Z",
+        "description": "我是月月保命小号… @DkyOnlyforu\n大号努力寻回中…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "DkyOnlyforu"
+              }
+            ]
+          }
+        },
+        "id": "2076870648014716928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089005848672772504",
+        "name": "哎呀你别哭了2.0",
+        "pinned_tweet_id": "2088914474396983503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076870648014716928/1783999766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076871591263432704/EocqfIhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 27,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "owozzzzowo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

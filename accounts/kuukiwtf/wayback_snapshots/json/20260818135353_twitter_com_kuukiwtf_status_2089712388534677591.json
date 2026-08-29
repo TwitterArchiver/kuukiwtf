@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089653633348731252",
+    "created_at": "2026-08-18T13:53:53.000Z",
+    "display_text_range": [
+      40,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T14:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089712388534677591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880803334405435393",
+          "start": 0,
+          "username": "tiantmaoshenshi"
+        },
+        {
+          "end": 29,
+          "id": "1341181831",
+          "start": 17,
+          "username": "SMILawrence"
+        },
+        {
+          "end": 39,
+          "id": "2083196399211200512",
+          "start": 30,
+          "username": "kuukiwfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089712388534677591",
+    "in_reply_to_user_id": "1880803334405435393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089711556242346089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiantmaoshenshi @SMILawrence @kuukiwfn 你！😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089653633348731252",
+        "created_at": "2026-08-18T13:53:53.000Z",
+        "display_text_range": [
+          40,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089712388534677591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880803334405435393",
+              "start": 0,
+              "username": "tiantmaoshenshi"
+            },
+            {
+              "end": 29,
+              "id": "1341181831",
+              "start": 17,
+              "username": "SMILawrence"
+            },
+            {
+              "end": 39,
+              "id": "2083196399211200512",
+              "start": 30,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089712388534677591",
+        "in_reply_to_user_id": "1880803334405435393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089711556242346089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiantmaoshenshi @SMILawrence @kuukiwfn 你！😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880803334405435393",
+        "conversation_id": "2089653633348731252",
+        "created_at": "2026-08-18T13:50:34.000Z",
+        "display_text_range": [
+          13,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089711556242346089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1341181831",
+              "start": 0,
+              "username": "SMILawrence"
+            },
+            {
+              "end": 22,
+              "id": "2076841557802864640",
+              "start": 13,
+              "username": "kuukiwtf"
+            },
+            {
+              "end": 33,
+              "id": "2083196399211200512",
+              "start": 24,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089711556242346089",
+        "in_reply_to_user_id": "1341181831",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089653633348731252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SMILawrence @kuukiwtf \n@kuukiwfn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089712388534677591",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 690,
+          "like_count": 12521,
+          "listed_count": 1,
+          "media_count": 560,
+          "tweet_count": 2671
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "友一切 靠近才能了解的兔子         \n喜歡視奸喜歡犯病\n有一群非常善良的天使陪著我🥹🥹\n\n                        https://t.co/wDrA82nsIu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao53379",
+                "end": 96,
+                "expanded_url": "https://ngl.link/miao53379",
+                "start": 73,
+                "url": "https://t.co/wDrA82nsIu"
+              }
+            ]
+          }
+        },
+        "id": "1880803334405435393",
+        "is_identity_verified": false,
+        "location": "中北海 🚪114514",
+        "most_recent_tweet_id": "2089712186960855139",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2072983024334189012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880803334405435393/1781014159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081997738003300352/-VJPrMj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 1306,
+          "like_count": 14312,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 10229
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-04-10T06:26:56.000Z",
+        "description": "IDIOT \n\n「戴耳机收听获得最佳体验」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "guesstheprice.net",
+                "end": 23,
+                "expanded_url": "https://guesstheprice.net/",
+                "start": 0,
+                "url": "https://t.co/HEIEy5zLmB"
+              }
+            ]
+          }
+        },
+        "id": "1341181831",
+        "is_identity_verified": false,
+        "location": "Mars",
+        "most_recent_tweet_id": "2089684962811531606",
+        "name": "鱼谦",
+        "pinned_tweet_id": "1251845301649829888",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1341181831/1686596681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949050669824180224/PXUxV6Dt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4797,
+          "following_count": 415,
+          "like_count": 58724,
+          "listed_count": 30,
+          "media_count": 2389,
+          "tweet_count": 11557
+        },
+        "url": "https://t.co/HEIEy5zLmB",
+        "username": "SMILawrence",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T14:22:20.000Z",
+        "description": "ｋｕｕｋｉ　本　體\nGENDER\n#NONBINARY \njoined 31/7/26 (4th acc\n\n████████████████████\nother acc\n@kuukiwtf \n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 17,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "kuukiwtf"
+              },
+              {
+                "end": 111,
+                "start": 96,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2083196399211200512",
+        "is_identity_verified": false,
+        "location": "ｉｎｔｅｒｎｅｔ",
+        "most_recent_tweet_id": "2089617860041810377",
+        "name": "kuuki",
+        "pinned_tweet_id": "2089409020889366730",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083196399211200512/1785509200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202604855926784/BKn2wpol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 118,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "kuukiwfn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

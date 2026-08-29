@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087625491188678656"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087625539834327205",
+    "created_at": "2026-08-12T19:41:29.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T20:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087625539834327205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QXWIbjO0z8",
+          "end": 56,
+          "expanded_url": "https://x.com/kuukiwtf/status/2087625539834327205/video/1",
+          "media_key": "13_2087625491188678656",
+          "start": 33,
+          "url": "https://t.co/QXWIbjO0z8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087625539834327205",
+    "lang": "tl",
+    "media_metadata": [
+      {
+        "media_key": "13_2087625491188678656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "cirno\nkisskisskisskiss ahh\n(((jk https://t.co/QXWIbjO0z8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25543,
+        "height": 1280,
+        "media_key": "13_2087625491188678656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087625491188678656/img/R6bHX7xtXF9bdFSF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087625491188678656/vid/avc1/320x568/vIzPRIbVycLrFi9R.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087625491188678656/vid/avc1/480x852/iiaRBpLNBAO5Vvac.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087625491188678656/vid/avc1/720x1280/p1khjOhgwb9gKkZB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087625491188678656/pl/RV_3kh_9vcpbR3sd.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087625491188678656"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087625539834327205",
+        "created_at": "2026-08-12T19:41:29.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087625539834327205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXWIbjO0z8",
+              "end": 56,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087625539834327205/video/1",
+              "media_key": "13_2087625491188678656",
+              "start": 33,
+              "url": "https://t.co/QXWIbjO0z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087625539834327205",
+        "lang": "tl",
+        "media_metadata": [
+          {
+            "media_key": "13_2087625491188678656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "cirno\nkisskisskisskiss ahh\n(((jk https://t.co/QXWIbjO0z8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087625539834327205",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 639,
+          "like_count": 10884,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 2241
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

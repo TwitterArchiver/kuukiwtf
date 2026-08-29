@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2082661920738582808",
+    "created_at": "2026-07-30T02:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082661920738582808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xijinping_bot/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/xijinping_bot/status/2081869318858645897",
+          "start": 27,
+          "url": "https://t.co/tKYsQtNlfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082661920738582808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081869318858645897",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一個山東人都討厭那些山東人\n呃啊\n看來真的很可惡了 https://t.co/tKYsQtNlfk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75322,
+        "height": 1280,
+        "media_key": "13_2081843127711932416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081843127711932416/img/Ba_cpXyMgJm-u1or.jpg",
+        "public_metrics": {
+          "view_count": 55353
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081843127711932416/vid/avc1/320x710/uiuAqgwrfOQ24FlY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081843127711932416/vid/avc1/480x1066/otmWFYrMtmvK69u9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081843127711932416/vid/avc1/576x1280/6ApBBHeQaxyo0Xmm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081843127711932416/pl/b8Eh7msbQTWUDozY.m3u8?v=b65"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2082661920738582808",
+        "created_at": "2026-07-30T02:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082661920738582808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xijinping_bot/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/xijinping_bot/status/2081869318858645897",
+              "start": 27,
+              "url": "https://t.co/tKYsQtNlfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082661920738582808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081869318858645897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一個山東人都討厭那些山東人\n呃啊\n看來真的很可惡了 https://t.co/tKYsQtNlfk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081843127711932416"
+          ],
+          "media_source_tweet_id": [
+            "2081843157592130009"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "conversation_id": "2081869318858645897",
+        "created_at": "2026-07-27T22:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T23:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081869318858645897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3zAeMgsGw",
+              "end": 43,
+              "expanded_url": "https://x.com/wangdan1989/status/2081843157592130009/video/1",
+              "media_key": "13_2081843127711932416",
+              "start": 20,
+              "url": "https://t.co/f3zAeMgsGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081869318858645897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 20276,
+          "like_count": 217,
+          "quote_count": 2,
+          "reply_count": 43,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "沙东人已经恶心到可以一键清除我的性欲了 https://t.co/f3zAeMgsGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 504,
+          "like_count": 7087,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 1315
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "本账一切不当言论由@fidjmk 编辑、发布，与本人无关/📕🔪/利伯塔利亚通/无产阶级专政万岁，人类专政万岁/驱逐汉畜，恢复马列/#我的史观 #精神探索 #奇异搞笑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 65,
+                "tag": "我的史观"
+              },
+              {
+                "end": 76,
+                "start": 71,
+                "tag": "精神探索"
+              },
+              {
+                "end": 82,
+                "start": 77,
+                "tag": "奇异搞笑"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "fidjmk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deerjisiquanjia.com",
+                "end": 23,
+                "expanded_url": "http://deerjisiquanjia.com",
+                "start": 0,
+                "url": "https://t.co/ZQF7vW5ZMa"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "符拉迪沃斯托克",
+        "name": "羽泽东🇮🇷🚩⛏️🌾——慈父斯大林解放全人类",
+        "pinned_tweet_id": "2023370179196170535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076205963405856768/wOyb_Dwi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 1623,
+          "like_count": 27882,
+          "listed_count": 16,
+          "media_count": 1095,
+          "tweet_count": 21778
+        },
+        "url": "https://t.co/ZQF7vW5ZMa",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

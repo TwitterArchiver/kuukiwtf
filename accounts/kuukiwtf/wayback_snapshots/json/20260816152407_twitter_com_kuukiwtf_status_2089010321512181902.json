@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      }
+    ],
+    "conversation_id": "2089010321512181902",
+    "created_at": "2026-08-16T15:24:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089010321512181902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2026081318497665024",
+          "start": 3,
+          "username": "85240609891_2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089010321512181902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088990100298535396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @85240609891_2nd: 台灣[中華民國自由地區]目前的正式國名是 \n中華民國 Republic of China, ROC\n相關使用情況說明如下\n依據《中華民國憲法》第一條規定\n國名為「中華民國」\n在日常生活中、新聞報導及國際交流中\n普遍通稱為 台灣Taiwa…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2089010321512181902",
+        "created_at": "2026-08-16T15:24:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089010321512181902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2026081318497665024",
+              "start": 3,
+              "username": "85240609891_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089010321512181902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088990100298535396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @85240609891_2nd: 台灣[中華民國自由地區]目前的正式國名是 \n中華民國 Republic of China, ROC\n相關使用情況說明如下\n依據《中華民國憲法》第一條規定\n國名為「中華民國」\n在日常生活中、新聞報導及國際交流中\n普遍通稱為 台灣Taiwa…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026081318497665024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2088990100298535396",
+        "created_at": "2026-08-16T14:03:46.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088990100298535396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088990100298535396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "台灣[中華民國自由地區]目前的正式國名是 \n中華民國 Republic of China, ROC\n相關使用情況說明如下\n依據《中華民國憲法》第一條規定\n國名為「中華民國」\n在日常生活中、新聞報導及國際交流中\n普遍通稱為 台灣Taiwan\n政府在公務場合或外交場合中\n有時也會使用 中華民國台灣\n或 \n台灣 \n作為識別性稱呼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089010321512181902",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 672,
+          "like_count": 12138,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 2457
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "香港仔🇭🇰🎗️\n14年絕對武力player\nHELLO\n呢度係北極戰警嘅second account\n重視政治民主\n🇯🇵🇰🇷🇺🇸🇮🇱🇺🇦🇬🇧🇨🇦🇦🇺🇳🇿🇪🇺\n小粉紅 CCP嘅基本盤\nIF U唔想食我嘅AWP+Desert Eagle\n請快速離開\nPLS!!\n已經封鎖萬位",
+        "id": "2026081318497665024",
+        "is_identity_verified": false,
+        "location": "🇭🇰HONG KONG🇭🇰",
+        "most_recent_tweet_id": "2089001298209411405",
+        "name": "🇭🇰🎗️北極戰警 AWP Ver 0.60.4.1989",
+        "pinned_tweet_id": "2085935614126690638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026081318497665024/1786805749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088640652837871616/GUYKQOKZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 398,
+          "like_count": 1784,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 777
+        },
+        "url": "",
+        "username": "85240609891_2nd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

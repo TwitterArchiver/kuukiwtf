@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090875273499881472"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090875284920926585",
+    "created_at": "2026-08-21T18:54:49.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090875284920926585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JuCSVeg9mR",
+          "end": 67,
+          "expanded_url": "https://x.com/kuukiwtf/status/2090875284920926585/photo/1",
+          "media_key": "3_2090875273499881472",
+          "start": 44,
+          "url": "https://t.co/JuCSVeg9mR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090875284920926585",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090875273499881472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "b站兩天養成一個帳戶\n我帳戶就這麼丟一個建一個 悲\n這一年弄丟五六個了😭😭真是太失敗了 https://t.co/JuCSVeg9mR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2090875273499881472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRH-7qbsAAomSh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090875273499881472"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090875284920926585",
+        "created_at": "2026-08-21T18:54:49.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090875284920926585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuCSVeg9mR",
+              "end": 67,
+              "expanded_url": "https://x.com/kuukiwtf/status/2090875284920926585/photo/1",
+              "media_key": "3_2090875273499881472",
+              "start": 44,
+              "url": "https://t.co/JuCSVeg9mR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090875284920926585",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090875273499881472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "b站兩天養成一個帳戶\n我帳戶就這麼丟一個建一個 悲\n這一年弄丟五六個了😭😭真是太失敗了 https://t.co/JuCSVeg9mR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "NONBINARY | AROMANTIC ASEXUAL\nsh/od twt\njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 96,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090875284920926585",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 695,
+          "like_count": 13444,
+          "listed_count": 1,
+          "media_count": 588,
+          "tweet_count": 2874
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

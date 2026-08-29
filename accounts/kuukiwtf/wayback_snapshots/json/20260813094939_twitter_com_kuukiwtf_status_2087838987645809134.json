@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087624647064089050",
+    "created_at": "2026-08-13T09:49:39.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087838987645809134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849826752891408385",
+          "start": 0,
+          "username": "Noa__Shirayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087838987645809134",
+    "in_reply_to_user_id": "1849826752891408385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087838184948568357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noa__Shirayuki 原來是這樣\n可以了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087624647064089050",
+        "created_at": "2026-08-13T09:49:39.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087838987645809134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849826752891408385",
+              "start": 0,
+              "username": "Noa__Shirayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087838987645809134",
+        "in_reply_to_user_id": "1849826752891408385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087838184948568357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noa__Shirayuki 原來是這樣\n可以了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849826752891408385",
+        "conversation_id": "2087624647064089050",
+        "created_at": "2026-08-13T09:46:28.000Z",
+        "display_text_range": [
+          10,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087838184948568357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087838184948568357",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087624647064089050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 現在還不可以完全隱藏門號，目前僅個人帳戶聯絡企業帳戶可以隱藏，個人對個人隱藏門號或許要等到第四季度(｡ ́︿ ̀｡)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087838987645809134",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 644,
+          "like_count": 10986,
+          "listed_count": 0,
+          "media_count": 481,
+          "tweet_count": 2293
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-25T14:54:21.000Z",
+        "description": "專業銳評 & 情色藝術家\nIT（Windows Server）｜業餘混音／音樂鑑賞／攝影\n正體中文🇹🇼｜簡體中文🇨🇳｜粵語🇭🇰🇲🇴｜日語🇯🇵\n動畫／Galgame 愛好者",
+        "id": "1849826752891408385",
+        "is_identity_verified": false,
+        "location": "Macao(SAR) ,China",
+        "most_recent_tweet_id": "2087838512146210941",
+        "name": "白雪乃愛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849826752891408385/1729870550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849837151518851072/QsQejokl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 98,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "Noa__Shirayuki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

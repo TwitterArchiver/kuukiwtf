@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086885828387856773",
+    "created_at": "2026-08-10T18:42:08.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086885828387856773"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HONGFUFE/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/HONGFUFE/status/2086526431324966997",
+          "start": 5,
+          "url": "https://t.co/DgubSrCG9M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086885828387856773",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086526431324966997",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "禁評禁評 https://t.co/DgubSrCG9M"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32930,
+        "height": 516,
+        "media_key": "13_2086526402476519424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086526402476519424/img/yzFyHJjoxZ0oscb0.jpg",
+        "public_metrics": {
+          "view_count": 265115
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086526402476519424/vid/avc1/320x382/TWlzYfcTovJ_wgh9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086526402476519424/vid/avc1/432x516/roREQKwPzkH-UVnH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086526402476519424/pl/4MZ2ZEP0qfiNJ1MX.m3u8?v=cfc"
+          }
+        ],
+        "width": 432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086885828387856773",
+        "created_at": "2026-08-10T18:42:08.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086885828387856773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HONGFUFE/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/HONGFUFE/status/2086526431324966997",
+              "start": 5,
+              "url": "https://t.co/DgubSrCG9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086885828387856773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086526431324966997",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "禁評禁評 https://t.co/DgubSrCG9M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086526402476519424"
+          ]
+        },
+        "author_id": "1736452884282097665",
+        "conversation_id": "2086526431324966997",
+        "created_at": "2026-08-09T18:54:01.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086526431324966997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQRcsthjy4",
+              "end": 163,
+              "expanded_url": "https://x.com/HONGFUFE/status/2086526431324966997/video/1",
+              "media_key": "13_2086526402476519424",
+              "start": 140,
+              "url": "https://t.co/fQRcsthjy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086526431324966997",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086526402476519424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "网友投稿：\n2026/8/9/晚，武汉司马口警察用手铐石块殴打市民，旁边还有一名警察看戏，手铐打得不过瘾，该警察捡起石块直接将一名女子砸中头部砸晕，具体原因是驱赶睡在桥洞无钱租房的年轻人起了冲突！\n由于网络疯传，目前抖音，小红书，微信视频号，快手，新浪微博已经在大面积删帖封号！\n\n📌楼主点评：民间经济坍塌，年青人无钱租房本来就是社会失去了救助功能，暴力执法更不应该！\n民间经济承压，年轻人连基本租房都困难，只能睡桥洞，这本身就是社会救助与兜底功能的缺失。驱赶可以理解城市管理需要，但使用手铐加石块砸人头部，明显超出必要限度。执法的底线是保护公民，而非制造更大伤害。弱势者本已无路可退，再以暴力相向，只会加深对立与不信任。\n更值得警惕的是删帖封号的速度。信息可以管控，但现实问题不会因此消失。年轻人就业难、房租高、保障不足，是持续存在的结构性压力。把问题压下去，不如正视它：完善低成本临时安置、加强就业与住房支持、规范执法程序、公开调查争议事件。只有把人当人看，把规则当规则用，社会才能真正稳住。\n暴力执法要不得，遮掩真相更要不得。经济再难，也该守住对人的基本尊重。\n📌那么，当年轻人因经济困境睡桥洞被驱赶，执法该如何平衡“城市管理”与“基本人道”？如果类似事件再次发生，公众最该关注的是真相本身，还是事后的删帖与沉默？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 514,
+          "impression_count": 401660,
+          "like_count": 2330,
+          "quote_count": 63,
+          "reply_count": 629,
+          "retweet_count": 509
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：\n2026/8/9/晚，武汉司马口警察用手铐石块殴打市民，旁边还有一名警察看戏，手铐打得不过瘾，该警察捡起石块直接将一名女子砸中头部砸晕，具体原因是驱赶睡在桥洞无钱租房的年轻人起了冲突！\n由于网络疯传，目前抖音，小红书，微信视频号，快手，新浪微博已经在大面积删帖封号！ https://t.co/fQRcsthjy4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑　\n不認識也不查就瞎雞巴問 自己從窗戶翻下去 支那豬\n\n(ᗜᴗᗜ) 東方project (ᗜᴗᗜ) \n\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "voidsama777"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086885828387856773",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 561,
+          "like_count": 10152,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 2056
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-17T18:27:19.000Z",
+        "description": "❤️ 跟随我，我是Premium+\n❤️ 福利频道：https://t.co/zuzVXjl4J2\n❤️福利群组：https://t.co/S9Ib8WFSVK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ZCDJ999",
+                "end": 49,
+                "expanded_url": "https://t.me/ZCDJ999",
+                "start": 26,
+                "url": "https://t.co/zuzVXjl4J2"
+              },
+              {
+                "display_url": "t.me/ZGNFL",
+                "end": 80,
+                "expanded_url": "https://t.me/ZGNFL",
+                "start": 57,
+                "url": "https://t.co/S9Ib8WFSVK"
+              }
+            ]
+          }
+        },
+        "id": "1736452884282097665",
+        "is_identity_verified": false,
+        "location": "火星",
+        "most_recent_tweet_id": "2086839558683972039",
+        "name": "红拂",
+        "pinned_tweet_id": "2086371552837140517",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736452884282097665/1786263586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086366742180212736/QeASGzi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93129,
+          "following_count": 7388,
+          "like_count": 49919,
+          "listed_count": 255,
+          "media_count": 6572,
+          "tweet_count": 12303
+        },
+        "url": "",
+        "username": "HONGFUFE",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

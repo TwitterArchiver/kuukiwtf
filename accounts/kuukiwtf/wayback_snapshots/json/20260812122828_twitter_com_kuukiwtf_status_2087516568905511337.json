@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087516568905511337",
+    "created_at": "2026-08-12T12:28:28.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087516568905511337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EleneMironidis…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/EleneMironidis/status/2087515029453091277",
+          "start": 15,
+          "url": "https://t.co/7SrWc64W1K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087516568905511337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087515029453091277",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "非常正確👍👍\n銀狐上大分👍👍 https://t.co/7SrWc64W1K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087516568905511337",
+        "created_at": "2026-08-12T12:28:28.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087516568905511337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EleneMironidis…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/EleneMironidis/status/2087515029453091277",
+              "start": 15,
+              "url": "https://t.co/7SrWc64W1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087516568905511337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087515029453091277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常正確👍👍\n銀狐上大分👍👍 https://t.co/7SrWc64W1K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "415265635",
+        "conversation_id": "2087514953855156698",
+        "created_at": "2026-08-12T12:22:21.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087515029453091277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087515029453091277",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087514953855156698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 731 這數字真的蠻順眼，簡單慶祝剛好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087516568905511337",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 636,
+          "like_count": 10755,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 2162
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-18T03:34:06.000Z",
+        "description": "用过这款VPN的朋友可以说说体验，还没用过的入口放下面啦👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/Y6yIG1SGlP"
+              }
+            ]
+          }
+        },
+        "id": "415265635",
+        "is_identity_verified": false,
+        "location": "Philadelphia",
+        "most_recent_tweet_id": "2087515426238369972",
+        "name": "FoxLink银狐全球节点加速器",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/415265635/1370385238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085802003041521664/6LSt9wuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 143,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2410
+        },
+        "url": "https://t.co/Y6yIG1SGlP",
+        "username": "EleneMironidis",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

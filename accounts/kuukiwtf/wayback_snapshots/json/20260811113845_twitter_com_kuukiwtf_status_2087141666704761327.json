@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087141666704761327",
+    "created_at": "2026-08-11T11:38:45.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087141666704761327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangchenxing6/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/wangchenxing6/status/2086698620330688781",
+          "start": 23,
+          "url": "https://t.co/5rhyVLvY5p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087141666704761327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086698620330688781",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只要我歧視所有人\n就等於沒歧視😁😁😁😁☝️🤓 https://t.co/5rhyVLvY5p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087141666704761327",
+        "created_at": "2026-08-11T11:38:45.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087141666704761327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangchenxing6/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/wangchenxing6/status/2086698620330688781",
+              "start": 23,
+              "url": "https://t.co/5rhyVLvY5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087141666704761327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086698620330688781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只要我歧視所有人\n就等於沒歧視😁😁😁😁☝️🤓 https://t.co/5rhyVLvY5p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464244060928057348",
+        "conversation_id": "2086683220645732530",
+        "created_at": "2026-08-10T06:18:14.000Z",
+        "display_text_range": [
+          15,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086698620330688781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086698620330688781",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 64334,
+          "like_count": 677,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086683220645732530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 这种事儿黑人有提到过，这就和中国过去的黄色小说里的农民工角色一样。有的女性的xp就是这种喜欢自己被亵渎的感觉，本质上就是一种种族歧视。实际上是把黑人当成兽人了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑\n不認識也不查就瞎雞巴問的支那豬 自己從窗戶翻下去\n支那豬可以自由拉黑我 這也表示你認輸\n\n████████████████████\n其他帳戶\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087141666704761327",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 567,
+          "like_count": 10419,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 2048
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-26T14:46:31.000Z",
+        "description": "",
+        "id": "1464244060928057348",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087092037044547603",
+        "name": "快乐的逗比",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874489112771887104/V05fv4e1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 1222,
+          "like_count": 5373,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 781
+        },
+        "url": "",
+        "username": "wangchenxing6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

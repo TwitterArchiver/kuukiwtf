@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086842515987308545"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086842554222612628",
+    "created_at": "2026-08-10T15:50:11.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086842554222612628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/atVYL2JGOX",
+          "end": 30,
+          "expanded_url": "https://x.com/kuukiwtf/status/2086842554222612628/video/1",
+          "media_key": "13_2086842515987308545",
+          "start": 7,
+          "url": "https://t.co/atVYL2JGOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086842554222612628",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2086842515987308545"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "媽的嚇死我了 https://t.co/atVYL2JGOX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4415,
+        "height": 1280,
+        "media_key": "13_2086842515987308545",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086842515987308545/img/pXl_AlKi1vVQz4YU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086842515987308545/vid/avc1/320x568/tr4tpLWXO0tHi0YK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086842515987308545/vid/avc1/480x852/zjmPUtwHUASa1kLa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086842515987308545/vid/avc1/720x1280/1vKOx-1TlvdikQ3G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086842515987308545/pl/F-m2huhcc7KDOZhF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086842515987308545"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086842554222612628",
+        "created_at": "2026-08-10T15:50:11.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086842554222612628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/atVYL2JGOX",
+              "end": 30,
+              "expanded_url": "https://x.com/kuukiwtf/status/2086842554222612628/video/1",
+              "media_key": "13_2086842515987308545",
+              "start": 7,
+              "url": "https://t.co/atVYL2JGOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086842554222612628",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086842515987308545"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "媽的嚇死我了 https://t.co/atVYL2JGOX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑　\n不認識也不查就瞎雞巴問 自己從窗戶翻下去 支那豬\n\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n████████████████████\nother acc\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "voidsama777"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086842554222612628",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 558,
+          "like_count": 10032,
+          "listed_count": 0,
+          "media_count": 411,
+          "tweet_count": 2022
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

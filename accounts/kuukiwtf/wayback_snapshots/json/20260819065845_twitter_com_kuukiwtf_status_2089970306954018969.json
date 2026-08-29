@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089970290269024256",
+        "3_2089970300897382400"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089970306954018969",
+    "created_at": "2026-08-19T06:58:45.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089970306954018969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O8DZZvoNS5",
+          "end": 28,
+          "expanded_url": "https://x.com/kuukiwtf/status/2089970306954018969/photo/1",
+          "media_key": "3_2089970290269024256",
+          "start": 5,
+          "url": "https://t.co/O8DZZvoNS5"
+        },
+        {
+          "display_url": "pic.x.com/O8DZZvoNS5",
+          "end": 28,
+          "expanded_url": "https://x.com/kuukiwtf/status/2089970306954018969/photo/1",
+          "media_key": "3_2089970300897382400",
+          "start": 5,
+          "url": "https://t.co/O8DZZvoNS5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089970306954018969",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089970290269024256"
+      },
+      {
+        "media_key": "3_2089970300897382400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘯亖我了 https://t.co/O8DZZvoNS5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2089970290269024256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEQ5-aa8AAjE8y.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2089970300897382400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEQ6mAa0AA07Ai.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089970290269024256",
+            "3_2089970300897382400"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089970306954018969",
+        "created_at": "2026-08-19T06:58:45.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089970306954018969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8DZZvoNS5",
+              "end": 28,
+              "expanded_url": "https://x.com/kuukiwtf/status/2089970306954018969/photo/1",
+              "media_key": "3_2089970290269024256",
+              "start": 5,
+              "url": "https://t.co/O8DZZvoNS5"
+            },
+            {
+              "display_url": "pic.x.com/O8DZZvoNS5",
+              "end": 28,
+              "expanded_url": "https://x.com/kuukiwtf/status/2089970306954018969/photo/1",
+              "media_key": "3_2089970300897382400",
+              "start": 5,
+              "url": "https://t.co/O8DZZvoNS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089970306954018969",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089970290269024256"
+          },
+          {
+            "media_key": "3_2089970300897382400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘯亖我了 https://t.co/O8DZZvoNS5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089970306954018969",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 675,
+          "like_count": 12669,
+          "listed_count": 1,
+          "media_count": 564,
+          "tweet_count": 2699
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089549943912665088",
+        "3_2089549957112147968"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089549965463093747",
+    "created_at": "2026-08-18T03:08:28.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089549965463093747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IYUCfzaCNL",
+          "end": 25,
+          "expanded_url": "https://x.com/kuukiwtf/status/2089549965463093747/photo/1",
+          "media_key": "3_2089549943912665088",
+          "start": 2,
+          "url": "https://t.co/IYUCfzaCNL"
+        },
+        {
+          "display_url": "pic.x.com/IYUCfzaCNL",
+          "end": 25,
+          "expanded_url": "https://x.com/kuukiwtf/status/2089549965463093747/photo/1",
+          "media_key": "3_2089549957112147968",
+          "start": 2,
+          "url": "https://t.co/IYUCfzaCNL"
+        },
+        {
+          "display_url": "x.com/ninisvo1d/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/ninisvo1d/status/2089321086257188873",
+          "start": 26,
+          "url": "https://t.co/uT5SqW4F2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089549965463093747",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2089549943912665088"
+      },
+      {
+        "media_key": "3_2089549957112147968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089321086257188873",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "y https://t.co/IYUCfzaCNL https://t.co/uT5SqW4F2W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089549943912665088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-SmmNaEAA5rN7.jpg",
+        "width": 1641
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089549957112147968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-SnXYaMAAo9Q-.jpg",
+        "width": 1641
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2089321066728493056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7CcMQXkAAT2V_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2359,
+        "media_key": "3_2089321076610183168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7CcxEWMAAopSX.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089549943912665088",
+            "3_2089549957112147968"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089549965463093747",
+        "created_at": "2026-08-18T03:08:28.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089549965463093747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYUCfzaCNL",
+              "end": 25,
+              "expanded_url": "https://x.com/kuukiwtf/status/2089549965463093747/photo/1",
+              "media_key": "3_2089549943912665088",
+              "start": 2,
+              "url": "https://t.co/IYUCfzaCNL"
+            },
+            {
+              "display_url": "pic.x.com/IYUCfzaCNL",
+              "end": 25,
+              "expanded_url": "https://x.com/kuukiwtf/status/2089549965463093747/photo/1",
+              "media_key": "3_2089549957112147968",
+              "start": 2,
+              "url": "https://t.co/IYUCfzaCNL"
+            },
+            {
+              "display_url": "x.com/ninisvo1d/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/ninisvo1d/status/2089321086257188873",
+              "start": 26,
+              "url": "https://t.co/uT5SqW4F2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089549965463093747",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2089549943912665088"
+          },
+          {
+            "media_key": "3_2089549957112147968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089321086257188873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "y https://t.co/IYUCfzaCNL https://t.co/uT5SqW4F2W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089321066728493056",
+            "3_2089321076610183168"
+          ]
+        },
+        "author_id": "1959759014318796800",
+        "conversation_id": "2089321086257188873",
+        "created_at": "2026-08-17T11:58:59.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089321086257188873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vAUF4eAVj4",
+              "end": 35,
+              "expanded_url": "https://x.com/ninisvo1d/status/2089321086257188873/photo/1",
+              "media_key": "3_2089321066728493056",
+              "start": 12,
+              "url": "https://t.co/vAUF4eAVj4"
+            },
+            {
+              "display_url": "pic.x.com/vAUF4eAVj4",
+              "end": 35,
+              "expanded_url": "https://x.com/ninisvo1d/status/2089321086257188873/photo/1",
+              "media_key": "3_2089321076610183168",
+              "start": 12,
+              "url": "https://t.co/vAUF4eAVj4"
+            },
+            {
+              "display_url": "x.com/locknclaws/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/locknclaws/status/2089298285832118585",
+              "start": 36,
+              "url": "https://t.co/aiie7i0hDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089321086257188873",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089321066728493056"
+          },
+          {
+            "media_key": "3_2089321076610183168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089298285832118585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I guess ○=○ https://t.co/vAUF4eAVj4 https://t.co/aiie7i0hDA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089549965463093747",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 688,
+          "like_count": 12427,
+          "listed_count": 1,
+          "media_count": 557,
+          "tweet_count": 2630
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-24T23:25:49.000Z",
+        "description": "PLEASE don't report just block me\n#shedtwt #edrtwt\nBackup Account @butcherninii\nhttps://t.co/fJB7O0GOKr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "edrtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "butcherninii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ninisvo1d.straw.page",
+                "end": 103,
+                "expanded_url": "https://ninisvo1d.straw.page",
+                "start": 80,
+                "url": "https://t.co/fJB7O0GOKr"
+              }
+            ]
+          }
+        },
+        "id": "1959759014318796800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089540405054312851",
+        "name": "𝘯𝘪𝘯𝘪",
+        "pinned_tweet_id": "2062651520173154374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959759014318796800/1784933775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088209860315717632/hjaVFW8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 225,
+          "like_count": 7133,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1482
+        },
+        "url": "",
+        "username": "ninisvo1d",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

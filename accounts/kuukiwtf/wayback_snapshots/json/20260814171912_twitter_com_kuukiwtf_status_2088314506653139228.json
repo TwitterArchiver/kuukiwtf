@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088314506653139228",
+    "created_at": "2026-08-14T17:19:12.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088314506653139228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/poisonlQAQ_/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/poisonlQAQ_/status/2088116111300542782",
+          "start": 3,
+          "url": "https://t.co/e4I6U3nIi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088314506653139228",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088116111300542782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抖人 https://t.co/e4I6U3nIi8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1394,
+        "media_key": "3_2088115986486403072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp6bShWIAAo87i.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088314506653139228",
+        "created_at": "2026-08-14T17:19:12.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088314506653139228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/poisonlQAQ_/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/poisonlQAQ_/status/2088116111300542782",
+              "start": 3,
+              "url": "https://t.co/e4I6U3nIi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088314506653139228",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088116111300542782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抖人 https://t.co/e4I6U3nIi8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088115986486403072"
+          ]
+        },
+        "author_id": "2088111584165994496",
+        "conversation_id": "2088116111300542782",
+        "created_at": "2026-08-14T04:10:50.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088116111300542782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "v.douyin.com/5ZNCeNAdCkM/",
+              "end": 70,
+              "expanded_url": "https://v.douyin.com/5ZNCeNAdCkM/",
+              "start": 47,
+              "status": 200,
+              "unwound_url": "https://www.douyin.com/note/7673310352281634746",
+              "url": "https://t.co/bPUe3iST89"
+            },
+            {
+              "display_url": "pic.x.com/bt6MSjbg2O",
+              "end": 118,
+              "expanded_url": "https://x.com/poisonlQAQ_/status/2088116111300542782/photo/1",
+              "media_key": "3_2088115986486403072",
+              "start": 95,
+              "url": "https://t.co/bt6MSjbg2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088116111300542782",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088115986486403072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4485,
+          "like_count": 15,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "切蛋蛋病历\n具体\n7.92 复制打开抖音，看看【Poisonl🍥的图文作品】# 差一步美满  https://t.co/bPUe3iST89 Q@k.PX 07/30 BTL:/ :6pm https://t.co/bt6MSjbg2O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088314521920438506",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 654,
+          "like_count": 11334,
+          "listed_count": 0,
+          "media_count": 494,
+          "tweet_count": 2373
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T03:53:53.000Z",
+        "description": "无证含糖🍥|hrt日期2026.1.08|年龄13\n159cm/41kg|抑郁焦虑|不OD|同类互fo\n一代目：@poisonlQAQ\n抖音账号：72882568888_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "poisonlQAQ"
+              }
+            ]
+          }
+        },
+        "id": "2088111584165994496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088192139150729631",
+        "name": "poisonl🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088111584165994496/1786680006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088113308167487488/l2KWhmpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 27,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "poisonlQAQ_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

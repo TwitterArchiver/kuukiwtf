@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2082350120289640628",
+    "created_at": "2026-07-29T06:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T07:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082350120289640628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yily_cici/stat…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/Yily_cici/status/2082043844238123016",
+          "start": 99,
+          "url": "https://t.co/CYIoTDNzPt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082350120289640628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082043844238123016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对所有人的接受程度belike：\n鬼图：牛逼哪来的\n裸照：牛逼真敢发\n自残：牛逼真敢割\n磕药：牛逼真敢磕\n炫富：牛逼真有钱\n幸福：牛逼真幸福\n福瑞：牛逼真可爱\n文案：牛逼复制了\n穷逼：牛逼我也是 https://t.co/CYIoTDNzPt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2082350120289640628",
+        "created_at": "2026-07-29T06:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082350120289640628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yily_cici/stat…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/Yily_cici/status/2082043844238123016",
+              "start": 99,
+              "url": "https://t.co/CYIoTDNzPt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082350120289640628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082043844238123016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对所有人的接受程度belike：\n鬼图：牛逼哪来的\n裸照：牛逼真敢发\n自残：牛逼真敢割\n磕药：牛逼真敢磕\n炫富：牛逼真有钱\n幸福：牛逼真幸福\n福瑞：牛逼真可爱\n文案：牛逼复制了\n穷逼：牛逼我也是 https://t.co/CYIoTDNzPt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082043844238123016",
+        "created_at": "2026-07-28T10:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082043844238123016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082043844238123016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 22517,
+          "like_count": 853,
+          "quote_count": 7,
+          "reply_count": 72,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "我对所有人的接受程度belike：\n鬼图：牛逼哪来的\n裸照：牛逼真敢发\n自残：牛逼真敢割\n磕药：牛逼真敢磕\n炫富：牛逼真有钱\n幸福：牛逼真幸福\n福瑞：牛逼真可爱\n文案：牛逼复制了\n穷逼：牛逼我也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 494,
+          "like_count": 6922,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2081905696757686330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 30,
+          "like_count": 1503,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

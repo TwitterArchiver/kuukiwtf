@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090628471760593052",
+    "created_at": "2026-08-21T03:52:16.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090648153951490108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2078755510283821056",
+          "start": 0,
+          "username": "WusuoKonghua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090648153951490108",
+    "in_reply_to_user_id": "2078755510283821056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090628471760593052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WusuoKonghua 抖支日常發揮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090628461295722496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNngkjaYAArrpR.jpg",
+        "width": 1313
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090628471760593052",
+        "created_at": "2026-08-21T03:52:16.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090648153951490108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2078755510283821056",
+              "start": 0,
+              "username": "WusuoKonghua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090648153951490108",
+        "in_reply_to_user_id": "2078755510283821056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090628471760593052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WusuoKonghua 抖支日常發揮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090628461295722496"
+          ]
+        },
+        "author_id": "2078755510283821056",
+        "conversation_id": "2090628471760593052",
+        "created_at": "2026-08-21T02:34:04.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090628471760593052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqT8SB4iE6",
+              "end": 39,
+              "expanded_url": "https://x.com/WusuoKonghua/status/2090628471760593052/photo/1",
+              "media_key": "3_2090628461295722496",
+              "start": 16,
+              "url": "https://t.co/yqT8SB4iE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090628471760593052",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090628461295722496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音那现在来到了大压抑时代吗？ https://t.co/yqT8SB4iE6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090648153951490108",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 686,
+          "like_count": 13158,
+          "listed_count": 1,
+          "media_count": 583,
+          "tweet_count": 2816
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T08:16:26.000Z",
+        "description": "愿我们下次相遇 便是在梦中相聚     |     \n次に会えるのは 夢の中でありますように     |     \nMay our next meeting be within a dream",
+        "id": "2078755510283821056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090628471760593052",
+        "name": "雾锁空花",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078755510283821056/1786589367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078756125214924800/F_T-SFKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 101,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "WusuoKonghua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

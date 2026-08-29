@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087234456264523776",
+        "3_2087234465118703616"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087234476128841746",
+    "created_at": "2026-08-11T17:47:32.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087234476128841746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n7sT2lcKJH",
+          "end": 25,
+          "expanded_url": "https://x.com/kuukiwtf/status/2087234476128841746/photo/1",
+          "media_key": "3_2087234456264523776",
+          "start": 2,
+          "url": "https://t.co/n7sT2lcKJH"
+        },
+        {
+          "display_url": "pic.x.com/n7sT2lcKJH",
+          "end": 25,
+          "expanded_url": "https://x.com/kuukiwtf/status/2087234476128841746/photo/1",
+          "media_key": "3_2087234465118703616",
+          "start": 2,
+          "url": "https://t.co/n7sT2lcKJH"
+        },
+        {
+          "display_url": "x.com/Bochichan250hh…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Bochichan250hh/status/2087231997647438020",
+          "start": 26,
+          "url": "https://t.co/0BS7n26hja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087234476128841746",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2087234456264523776"
+      },
+      {
+        "media_key": "3_2087234465118703616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087231997647438020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "⑨ https://t.co/n7sT2lcKJH https://t.co/0BS7n26hja"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1263,
+        "media_key": "3_2087234456264523776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdYreiaQAAa7Ew.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3708,
+        "media_key": "3_2087234465118703616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdYr_haUAAYrDv.jpg",
+        "width": 2574
+      },
+      {
+        "height": 119,
+        "media_key": "3_2087231990227701760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdWb71akAA3VKk.jpg",
+        "width": 192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087234456264523776",
+            "3_2087234465118703616"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087234476128841746",
+        "created_at": "2026-08-11T17:47:32.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087234476128841746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n7sT2lcKJH",
+              "end": 25,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087234476128841746/photo/1",
+              "media_key": "3_2087234456264523776",
+              "start": 2,
+              "url": "https://t.co/n7sT2lcKJH"
+            },
+            {
+              "display_url": "pic.x.com/n7sT2lcKJH",
+              "end": 25,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087234476128841746/photo/1",
+              "media_key": "3_2087234465118703616",
+              "start": 2,
+              "url": "https://t.co/n7sT2lcKJH"
+            },
+            {
+              "display_url": "x.com/Bochichan250hh…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Bochichan250hh/status/2087231997647438020",
+              "start": 26,
+              "url": "https://t.co/0BS7n26hja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087234476128841746",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2087234456264523776"
+          },
+          {
+            "media_key": "3_2087234465118703616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087231997647438020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⑨ https://t.co/n7sT2lcKJH https://t.co/0BS7n26hja"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087231990227701760"
+          ]
+        },
+        "author_id": "2063159075572158465",
+        "conversation_id": "2087231997647438020",
+        "created_at": "2026-08-11T17:37:41.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087231997647438020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j54qzhjaBX",
+              "end": 30,
+              "expanded_url": "https://x.com/Bochichan250hh/status/2087231997647438020/photo/1",
+              "media_key": "3_2087231990227701760",
+              "start": 7,
+              "url": "https://t.co/j54qzhjaBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087231997647438020",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087231990227701760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看我高手电量 https://t.co/j54qzhjaBX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑\n不認識也不查就瞎雞巴問的支那豬 自己從窗戶翻下去\n支那豬可以自由拉黑我 這也表示你認輸\n\n████████████████████\n其他帳戶\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087234476128841746",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 567,
+          "like_count": 10498,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 2073
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "it is too late…. \n@Yokuso_desu的小账户\nelectric guitar 学习中🎸\n查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeybig"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2087233587431309652",
+        "name": "防尘迷呀awa🇰🇵",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063159075572158465/1783759262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 1467,
+          "like_count": 6345,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1189
+        },
+        "url": "https://t.co/dkFNyeybig",
+        "username": "Bochichan250hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

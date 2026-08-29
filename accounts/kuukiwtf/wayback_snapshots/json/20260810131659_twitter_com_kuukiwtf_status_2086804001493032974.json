@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086804001493032974",
+    "created_at": "2026-08-10T13:16:59.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T14:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086804001493032974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/85240609891_2n…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/85240609891_2nd/status/2086703910618546622",
+          "start": 24,
+          "url": "https://t.co/eLlXIdbIeM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086804001493032974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086703910618546622",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "翻牆不愛黨\n愛黨不翻牆\n翻牆又愛黨\n定是狗娘養 https://t.co/eLlXIdbIeM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_2086703634243268608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPV15kaWMAAFGGq.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086804001493032974",
+        "created_at": "2026-08-10T13:16:59.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086804001493032974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/85240609891_2n…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/85240609891_2nd/status/2086703910618546622",
+              "start": 24,
+              "url": "https://t.co/eLlXIdbIeM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086804001493032974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086703910618546622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "翻牆不愛黨\n愛黨不翻牆\n翻牆又愛黨\n定是狗娘養 https://t.co/eLlXIdbIeM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086703634243268608"
+          ]
+        },
+        "author_id": "2026081318497665024",
+        "conversation_id": "2086703910618546622",
+        "created_at": "2026-08-10T06:39:16.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086703910618546622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KoDQH9bIod",
+              "end": 56,
+              "expanded_url": "https://x.com/85240609891_2nd/status/2086703910618546622/photo/1",
+              "media_key": "3_2086703634243268608",
+              "start": 33,
+              "url": "https://t.co/KoDQH9bIod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086703910618546622",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086703634243268608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 476,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "這些人\n欸\nAWP狙擊步槍還是對他們太溫柔\n上Negev輕機槍吧 https://t.co/KoDQH9bIod"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑　\n不認識也不查就瞎雞巴問 自己從窗戶翻下去 支那豬\n\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n████████████████████\nother acc\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "voidsama777"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086804001493032974",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 558,
+          "like_count": 10012,
+          "listed_count": 0,
+          "media_count": 402,
+          "tweet_count": 2008
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "香港仔🇭🇰🎗️\n14年絕對武力player\nHELLO\n呢度係北極戰警嘅second account\n港英派+民國派\n重視政治民主\n撐藍色恐怖\n🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳🇺🇳\n小粉紅 CCP嘅基本盤\nIF U唔想食我嘅AWP+Desert Eagle\n請快速離開\nPLS!!\n已經封鎖萬位",
+        "id": "2026081318497665024",
+        "is_identity_verified": false,
+        "location": "ROC 🇹🇼HK🇭🇰",
+        "most_recent_tweet_id": "2086803127219388470",
+        "name": "🇨🇳CCP🔫🇬🇧AWP小英民國北極戰警溫和版🇭🇰一擊造成8964點傷害值",
+        "pinned_tweet_id": "2085935614126690638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026081318497665024/1786162838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085944072779554816/aWZEq45l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 383,
+          "like_count": 1202,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "85240609891_2nd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087419334344036559",
+    "created_at": "2026-08-12T06:02:06.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087419334344036559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smile_kun422/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/smile_kun422/status/2086784641663713532",
+          "start": 32,
+          "url": "https://t.co/GdW5ukOzLH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087419334344036559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086784641663713532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你還真選上了（bushi\n終於輪到我上傳這句至理名言了哈哈哈哈 https://t.co/GdW5ukOzLH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1191,
+        "media_key": "3_2086780896771014657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW8K1wbgAEI8RX.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087419334344036559",
+        "created_at": "2026-08-12T06:02:06.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087419334344036559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smile_kun422/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/smile_kun422/status/2086784641663713532",
+              "start": 32,
+              "url": "https://t.co/GdW5ukOzLH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087419334344036559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086784641663713532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你還真選上了（bushi\n終於輪到我上傳這句至理名言了哈哈哈哈 https://t.co/GdW5ukOzLH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086780896771014657"
+          ]
+        },
+        "author_id": "1161925320234024960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Fuji Television (フジテレビ)",
+              "id": "1034889162371911680",
+              "name": "Fuji Television"
+            }
+          }
+        ],
+        "conversation_id": "2086784641663713532",
+        "created_at": "2026-08-10T12:00:03.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086784641663713532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eVpv8uQs5C",
+              "end": 53,
+              "expanded_url": "https://x.com/smile_kun422/status/2086784641663713532/photo/1",
+              "media_key": "3_2086780896771014657",
+              "start": 30,
+              "url": "https://t.co/eVpv8uQs5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086784641663713532",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086780896771014657"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 906208,
+          "like_count": 2069,
+          "quote_count": 882,
+          "reply_count": 1636,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "現金1億円もらえる代わりに\n1つだけ失うなら、どれを選ぶ？ https://t.co/eVpv8uQs5C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087419334344036559",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 621,
+          "like_count": 10658,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 2120
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-15T08:59:18.000Z",
+        "description": "毎日12時、19時に大喜利お題を投稿中！\n他にもおもしろ画像やネタツイしてます！\n問題の答え知りたい方はDM下さい✉️",
+        "id": "1161925320234024960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087372254732775825",
+        "name": "スマイルくん(Smiley)",
+        "pinned_tweet_id": "2087177974676332961",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032408622282784768/Y0MyfhNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241165,
+          "following_count": 2366,
+          "like_count": 122700,
+          "listed_count": 781,
+          "media_count": 14582,
+          "tweet_count": 31906
+        },
+        "url": "",
+        "username": "smile_kun422",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

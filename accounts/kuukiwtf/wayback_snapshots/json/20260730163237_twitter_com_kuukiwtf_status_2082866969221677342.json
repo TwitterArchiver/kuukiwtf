@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2082866969221677342",
+    "created_at": "2026-07-30T16:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082866969221677342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1537819684216614913",
+          "start": 3,
+          "username": "YoruHeartpath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082866969221677342",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082866437341983227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YoruHeartpath: This shows the civility of Chinese people; they’ll even pick on a garbage bin.\r😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2082866969221677342",
+        "created_at": "2026-07-30T16:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082866969221677342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1537819684216614913",
+              "start": 3,
+              "username": "YoruHeartpath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082866969221677342",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082866437341983227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YoruHeartpath: This shows the civility of Chinese people; they’ll even pick on a garbage bin.\r😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537819684216614913",
+        "conversation_id": "2082866437341983227",
+        "created_at": "2026-07-30T16:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082866437341983227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwtf/statu…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/kuukiwtf/status/2082848376471921008",
+              "start": 81,
+              "url": "https://t.co/wYpMZoBdXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082866437341983227",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082848376471921008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This shows the civility of Chinese people; they’ll even pick on a garbage bin.\r😨 https://t.co/wYpMZoBdXW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 518,
+          "like_count": 7372,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1381
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-17T15:29:28.000Z",
+        "description": "在深夜中，开启独属于自己的心路历程。                                            \n老大@ANDEL0426\n｜清水日常推｜喜欢一切可爱的事物｜活跃时间集中在深夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "ANDEL0426"
+              }
+            ]
+          }
+        },
+        "id": "1537819684216614913",
+        "location": "你的心里",
+        "name": "Yoru_ki🐾",
+        "pinned_tweet_id": "2068911632974299604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079239807482597382/sKmn5_K6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 57,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "YoruHeartpath",
+        "verified": false
+      }
+    ]
+  }
+}

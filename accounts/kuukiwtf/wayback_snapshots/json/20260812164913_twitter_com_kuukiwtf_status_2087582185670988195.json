@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087582164229771264",
+        "3_2087582173566251008"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087582185670988195",
+    "created_at": "2026-08-12T16:49:13.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087582185670988195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q0Vpi2qIVz",
+          "end": 171,
+          "expanded_url": "https://x.com/kuukiwtf/status/2087582185670988195/photo/1",
+          "media_key": "3_2087582164229771264",
+          "start": 148,
+          "url": "https://t.co/q0Vpi2qIVz"
+        },
+        {
+          "display_url": "pic.x.com/q0Vpi2qIVz",
+          "end": 171,
+          "expanded_url": "https://x.com/kuukiwtf/status/2087582185670988195/photo/1",
+          "media_key": "3_2087582173566251008",
+          "start": 148,
+          "url": "https://t.co/q0Vpi2qIVz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087582185670988195",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087582164229771264"
+      },
+      {
+        "media_key": "3_2087582173566251008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "分享 對比一下我有的節點 因為我聽說這樣會有很多瀏覽（\n目前有訂閱2個機場 vpn(?)（p1）\n第一個是速云\n第二個就是三毛機場\n\n速云..24年這個時候朋友推薦的 然後一直用到現在 主要使用的  沒發現過什麼不好的問題 首先台灣國旗是台灣的 其次可以訪問大紀元 節點不少 而且國家名字很整齊 不會像其他的機場一樣解釋說明一些運營商適用或者或多的內容（p2）一個月只要10cny\n\n三毛..像是比較\"路邊\"的機場 作為備用節點使用的 價格很低  當時用的時候一年只要10cny 然後還有家寬 這是我沒想到的 但缺點很明顯 速度沒那麼快 速度曲線跟股票一樣\n\n但是有錢的話還是選那些大廠的的吧 （我的老師用的一年$200..\n或者 感覺漫遊是很頂級的了\nvps比較技術向了"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享 對比一下我有的節點 因為我聽說這樣會有很多瀏覽（\n目前有訂閱2個機場 vpn(?)（p1）\n第一個是速云\n第二個就是三毛機場\n\n速云..24年這個時候朋友推薦的 然後一直用到現在 主要使用的  沒發現過什麼不好的問題 首先台灣國旗是台灣的 其次可以訪問大紀元 節點不少 而且國家名字很整齊 https://t.co/q0Vpi2qIVz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2087582164229771264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiU6vpbUAASi_w.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2087582173566251008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiU7SbasAA7VM5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087582164229771264",
+            "3_2087582173566251008"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087582185670988195",
+        "created_at": "2026-08-12T16:49:13.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087582185670988195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0Vpi2qIVz",
+              "end": 171,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087582185670988195/photo/1",
+              "media_key": "3_2087582164229771264",
+              "start": 148,
+              "url": "https://t.co/q0Vpi2qIVz"
+            },
+            {
+              "display_url": "pic.x.com/q0Vpi2qIVz",
+              "end": 171,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087582185670988195/photo/1",
+              "media_key": "3_2087582173566251008",
+              "start": 148,
+              "url": "https://t.co/q0Vpi2qIVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087582185670988195",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087582164229771264"
+          },
+          {
+            "media_key": "3_2087582173566251008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "分享 對比一下我有的節點 因為我聽說這樣會有很多瀏覽（\n目前有訂閱2個機場 vpn(?)（p1）\n第一個是速云\n第二個就是三毛機場\n\n速云..24年這個時候朋友推薦的 然後一直用到現在 主要使用的  沒發現過什麼不好的問題 首先台灣國旗是台灣的 其次可以訪問大紀元 節點不少 而且國家名字很整齊 不會像其他的機場一樣解釋說明一些運營商適用或者或多的內容（p2）一個月只要10cny\n\n三毛..像是比較\"路邊\"的機場 作為備用節點使用的 價格很低  當時用的時候一年只要10cny 然後還有家寬 這是我沒想到的 但缺點很明顯 速度沒那麼快 速度曲線跟股票一樣\n\n但是有錢的話還是選那些大廠的的吧 （我的老師用的一年$200..\n或者 感覺漫遊是很頂級的了\nvps比較技術向了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享 對比一下我有的節點 因為我聽說這樣會有很多瀏覽（\n目前有訂閱2個機場 vpn(?)（p1）\n第一個是速云\n第二個就是三毛機場\n\n速云..24年這個時候朋友推薦的 然後一直用到現在 主要使用的  沒發現過什麼不好的問題 首先台灣國旗是台灣的 其次可以訪問大紀元 節點不少 而且國家名字很整齊 https://t.co/q0Vpi2qIVz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087582185670988195",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 635,
+          "like_count": 10827,
+          "listed_count": 0,
+          "media_count": 455,
+          "tweet_count": 2197
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

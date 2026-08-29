@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2084197494737772719",
+    "created_at": "2026-08-03T08:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084197494737772719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist2/s…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/drug_artist2/status/2084003531758194703",
+          "start": 55,
+          "url": "https://t.co/CwcgsrWsBp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084197494737772719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084003531758194703",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晶哥：\n欸\n\n派出所怎麼停電了\n\n我的電棍怎麼漏電了\n\n強光燈怎麼突然有電了\n\n你坐的椅子怎麼不小心連上電了 https://t.co/CwcgsrWsBp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2084003526095806464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOveKluaIAA1fNg.jpg",
+        "width": 661
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2084197494737772719",
+        "created_at": "2026-08-03T08:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084197494737772719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist2/s…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/drug_artist2/status/2084003531758194703",
+              "start": 55,
+              "url": "https://t.co/CwcgsrWsBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084197494737772719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084003531758194703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晶哥：\n欸\n\n派出所怎麼停電了\n\n我的電棍怎麼漏電了\n\n強光燈怎麼突然有電了\n\n你坐的椅子怎麼不小心連上電了 https://t.co/CwcgsrWsBp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084003526095806464"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "conversation_id": "2084003531758194703",
+        "created_at": "2026-08-02T19:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084003531758194703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BO3EbXlbrJ",
+              "end": 48,
+              "expanded_url": "https://x.com/drug_artist2/status/2084003531758194703/photo/1",
+              "media_key": "3_2084003526095806464",
+              "start": 25,
+              "url": "https://t.co/BO3EbXlbrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084003531758194703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3296,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "oder必备技能小科普pt.1:\n防止被晶的教程 https://t.co/BO3EbXlbrJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 528,
+          "like_count": 8294,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 1603
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 56,
+          "like_count": 365,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      }
+    ]
+  }
+}

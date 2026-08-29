@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2083926376734965990",
+    "created_at": "2026-08-02T14:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083926376734965990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ihatefraudjo/s…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/ihatefraudjo/status/2083661398480216146",
+          "start": 29,
+          "url": "https://t.co/XUyxgQWt5k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083926376734965990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083661398480216146",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鼻子裡面怎麼癢癢的\n嗓子裡面怎麼癢癢的\n肺裡面怎麼癢癢的 https://t.co/XUyxgQWt5k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17182,
+        "height": 406,
+        "media_key": "7_2083661364598628352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2083661364598628352/pu/img/1a_swTob_uBHHV09.jpg",
+        "public_metrics": {
+          "view_count": 304026
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2083661364598628352/pu/vid/avc1/320x360/iqCxI3T-guJjqCnh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2083661364598628352/pu/vid/avc1/360x406/KOAZrHnfjPuSYuAz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2083661364598628352/pu/pl/sQLAagwFXn8QM7dJ.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2083926376734965990",
+        "created_at": "2026-08-02T14:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083926376734965990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ihatefraudjo/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/ihatefraudjo/status/2083661398480216146",
+              "start": 29,
+              "url": "https://t.co/XUyxgQWt5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083926376734965990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083661398480216146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鼻子裡面怎麼癢癢的\n嗓子裡面怎麼癢癢的\n肺裡面怎麼癢癢的 https://t.co/XUyxgQWt5k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2083661364598628352"
+          ]
+        },
+        "author_id": "1704478371739054080",
+        "conversation_id": "2083661398480216146",
+        "created_at": "2026-08-01T21:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083661398480216146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRCKteeMLm",
+              "end": 23,
+              "expanded_url": "https://x.com/ihatefraudjo/status/2083661398480216146/video/1",
+              "media_key": "7_2083661364598628352",
+              "start": 0,
+              "url": "https://t.co/WRCKteeMLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083661398480216146",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3266,
+          "impression_count": 845724,
+          "like_count": 17280,
+          "quote_count": 818,
+          "reply_count": 0,
+          "retweet_count": 3390
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/WRCKteeMLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 530,
+          "like_count": 8151,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 1553
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-20T12:51:33.000Z",
+        "description": "",
+        "id": "1704478371739054080",
+        "location": "Kernersville, NC",
+        "name": "thatguy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704478806797377537/zBMCYT_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 2,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "ihatefraudjo",
+        "verified": false
+      }
+    ]
+  }
+}

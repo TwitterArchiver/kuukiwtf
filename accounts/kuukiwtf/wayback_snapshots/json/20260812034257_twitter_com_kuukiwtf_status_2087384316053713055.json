@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087253069310669176",
+    "created_at": "2026-08-12T03:42:57.000Z",
+    "display_text_range": [
+      9,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T04:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087384316053713055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1968354505851891712",
+          "start": 0,
+          "username": "AN4RXH_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087384316053713055",
+    "in_reply_to_user_id": "1968354505851891712",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087355328048267754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AN4RXH_ hah! they are angels!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2087355322344091648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfGmzxXMAA0NMD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087253069310669176",
+        "created_at": "2026-08-12T03:42:57.000Z",
+        "display_text_range": [
+          9,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087384316053713055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1968354505851891712",
+              "start": 0,
+              "username": "AN4RXH_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087384316053713055",
+        "in_reply_to_user_id": "1968354505851891712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087355328048267754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AN4RXH_ hah! they are angels!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087355322344091648"
+          ]
+        },
+        "author_id": "1968354505851891712",
+        "conversation_id": "2087253069310669176",
+        "created_at": "2026-08-12T01:47:46.000Z",
+        "display_text_range": [
+          10,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T02:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087355328048267754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDG99PE3M9",
+              "end": 64,
+              "expanded_url": "https://x.com/AN4RXH_/status/2087355328048267754/photo/1",
+              "media_key": "3_2087355322344091648",
+              "start": 41,
+              "url": "https://t.co/BDG99PE3M9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087355328048267754",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087355322344091648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 455,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087253069310669176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf Asteria and kets mentioned ??? https://t.co/BDG99PE3M9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087384316053713055",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 608,
+          "like_count": 10582,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 2102
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-17T16:42:08.000Z",
+        "description": "a n a r c h y",
+        "id": "1968354505851891712",
+        "is_identity_verified": false,
+        "location": "Lyon, France",
+        "most_recent_tweet_id": "2087357273404309913",
+        "name": "ＡＮ４ＲＸＨ𓂃",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968354505851891712/1778192011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056480372196589568/8pqQAIQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 68,
+          "like_count": 5142,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 711
+        },
+        "url": "",
+        "username": "AN4RXH_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

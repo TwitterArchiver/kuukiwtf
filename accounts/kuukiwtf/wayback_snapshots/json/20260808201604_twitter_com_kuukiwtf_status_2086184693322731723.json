@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086123648512102485",
+    "created_at": "2026-08-08T20:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T21:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086184693322731723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2076882341159677952",
+          "start": 0,
+          "username": "FFCP_0002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086184693322731723",
+    "in_reply_to_user_id": "2076882341159677952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086123648512102485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FFCP_0002 中國網路出現的梗哪個不噁心🔨🔨（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_2086123642900082688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNmZoSacAAuYFg.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086123648512102485",
+        "created_at": "2026-08-08T20:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T21:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086184693322731723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2076882341159677952",
+              "start": 0,
+              "username": "FFCP_0002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086184693322731723",
+        "in_reply_to_user_id": "2076882341159677952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086123648512102485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FFCP_0002 中國網路出現的梗哪個不噁心🔨🔨（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086123642900082688"
+          ]
+        },
+        "author_id": "2076882341159677952",
+        "conversation_id": "2086123648512102485",
+        "created_at": "2026-08-08T16:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086123648512102485"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "支云TV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6slrpHxkRL",
+              "end": 73,
+              "expanded_url": "https://x.com/FFCP_0002/status/2086123648512102485/photo/1",
+              "media_key": "3_2086123642900082688",
+              "start": 50,
+              "url": "https://t.co/6slrpHxkRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086123648512102485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#支云TV 这个烂梗确实很恶心人🤢但我记得你说过反支黑人设绝对不能塌，所以你为什么不用别的词骂人？ https://t.co/6slrpHxkRL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 553,
+          "like_count": 9367,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-14T04:12:50.000Z",
+        "description": "温和左臂/反稻反包/左臂压抑之巅/面对反毛哈耶克粉红我可能会成支黑版弹钢琴/繁茂贼不图能行嘛/ #支云TV /主人@CNM_1958",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "支云TV"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffcp1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffcp1",
+                "start": 0,
+                "url": "https://t.co/BdiA1vBHHx"
+              }
+            ]
+          }
+        },
+        "id": "2076882341159677952",
+        "location": "天安门",
+        "name": "社会主义薯条🍟☭ 井中势力",
+        "pinned_tweet_id": "2083839171127644251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080075466103508992/k2GYTb_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 845,
+          "like_count": 3536,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 825
+        },
+        "url": "https://t.co/BdiA1vBHHx",
+        "username": "FFCP_0002",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088667039607193601"
+      ],
+      "media_source_tweet_id": [
+        "2088667058255053053"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088892675420500165",
+    "created_at": "2026-08-16T07:36:38.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088892675420500165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1570856490654904320",
+          "start": 3,
+          "username": "4berrycat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DIRoEYgg08",
+          "end": 38,
+          "expanded_url": "https://x.com/4berrycat/status/2088667058255053053/video/1",
+          "media_key": "13_2088667039607193601",
+          "start": 15,
+          "url": "https://t.co/DIRoEYgg08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088892675420500165",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2088667039607193601"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088667058255053053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4berrycat: https://t.co/DIRoEYgg08"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6700,
+        "height": 1280,
+        "media_key": "13_2088667039607193601",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088667039607193601/img/X5QGK3I7srRXFTzM.jpg",
+        "public_metrics": {
+          "view_count": 1997
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088667039607193601/vid/avc1/320x568/yqJoRasngSqKO9D2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088667039607193601/vid/avc1/480x852/oQgPze8TjsaPkOUK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088667039607193601/vid/avc1/720x1280/rJ_yLQQ7NQdUq7Km.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088667039607193601/pl/VJu0W0MY6FLbjrbD.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088667039607193601"
+          ],
+          "media_source_tweet_id": [
+            "2088667058255053053"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088892675420500165",
+        "created_at": "2026-08-16T07:36:38.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088892675420500165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1570856490654904320",
+              "start": 3,
+              "username": "4berrycat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DIRoEYgg08",
+              "end": 38,
+              "expanded_url": "https://x.com/4berrycat/status/2088667058255053053/video/1",
+              "media_key": "13_2088667039607193601",
+              "start": 15,
+              "url": "https://t.co/DIRoEYgg08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088892675420500165",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2088667039607193601"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088667058255053053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4berrycat: https://t.co/DIRoEYgg08"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088667039607193601"
+          ]
+        },
+        "author_id": "1570856490654904320",
+        "conversation_id": "2088667058255053053",
+        "created_at": "2026-08-15T16:40:06.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088667058255053053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DIRoEYgg08",
+              "end": 23,
+              "expanded_url": "https://x.com/4berrycat/status/2088667058255053053/video/1",
+              "media_key": "13_2088667039607193601",
+              "start": 0,
+              "url": "https://t.co/DIRoEYgg08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088667058255053053",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2088667039607193601"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 6804,
+          "like_count": 575,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DIRoEYgg08"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088892675420500165",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 661,
+          "like_count": 11914,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 2408
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "is_identity_verified": false,
+        "location": "黒猫様の古城",
+        "most_recent_tweet_id": "2088667058255053053",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570856490654904320/1720794932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8393,
+          "following_count": 287,
+          "like_count": 9880,
+          "listed_count": 19,
+          "media_count": 771,
+          "tweet_count": 2736
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

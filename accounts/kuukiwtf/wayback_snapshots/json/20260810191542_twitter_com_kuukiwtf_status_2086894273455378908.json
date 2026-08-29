@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086894273455378908",
+    "created_at": "2026-08-10T19:15:42.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T20:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086894273455378908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cij1012933/sta…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/cij1012933/status/2086893064124354940",
+          "start": 105,
+          "url": "https://t.co/DbgGs4BvPQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086894273455378908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086893064124354940",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎呦 \n半夜艾特你爹 也是你妈死了\n这两年的甜 只有你自己知道\n手机充电口都比你辛苦\n你这辈子也就只能在山东做题了 哦 你做题也做不好 那你活着干啥？\n支黑也是死全家了\n合照你自己合吧 当给你拍全家福了🤣🤣🤣 https://t.co/DbgGs4BvPQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086894273455378908",
+        "created_at": "2026-08-10T19:15:42.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086894273455378908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cij1012933/sta…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/cij1012933/status/2086893064124354940",
+              "start": 105,
+              "url": "https://t.co/DbgGs4BvPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086894273455378908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086893064124354940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呦 \n半夜艾特你爹 也是你妈死了\n这两年的甜 只有你自己知道\n手机充电口都比你辛苦\n你这辈子也就只能在山东做题了 哦 你做题也做不好 那你活着干啥？\n支黑也是死全家了\n合照你自己合吧 当给你拍全家福了🤣🤣🤣 https://t.co/DbgGs4BvPQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036489795376140288",
+        "conversation_id": "2086892241071857738",
+        "created_at": "2026-08-10T19:10:53.000Z",
+        "display_text_range": [
+          10,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086893064124354940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086893064124354940",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086892241071857738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 哎呦 \n半夜艾特你爹 也是你妈死了\n这两年的甜 只有你自己知道\n手机充电口都比你辛苦\n你这辈子也就只能在山东做题了 哦 你做题也做不好 那你活着干啥？\n支黑也是死全家了\n合照你自己合吧 当给你拍全家福了🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑　\n不認識也不查就瞎雞巴問 自己從窗戶翻下去 支那豬\n\n(ᗜᴗᗜ) 東方project (ᗜᴗᗜ) \n\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "voidsama777"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086894273455378908",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 561,
+          "like_count": 10191,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-24T17:07:04.000Z",
+        "description": "左派青年/尊重LGBTQ+/反中修/馬克思主義者/不是键政魔怔人/170cm 52±2kg/09高二理科生～/ENTP/愛好cos 二次元 羽毛球 中長跑 化學/有时R18/在和心理疾病自由搏击ing/多多交流 歡迎互fo捏～",
+        "id": "2036489795376140288",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086894079699484739",
+        "name": "菜鸡1.20.1",
+        "pinned_tweet_id": "2066569199527608769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036489795376140288/1774617210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038079260775383040/mjTynNs__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 156,
+          "like_count": 3729,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1088
+        },
+        "url": "",
+        "username": "cij1012933",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090413463810310553",
+    "created_at": "2026-08-20T12:19:42.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090413463810310553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oczicl/status/…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/oczicl/status/2090289203573637555",
+          "start": 130,
+          "url": "https://t.co/3lFUi4Q8zL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090413463810310553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "這是一種非常可惡支那無恥傻逼該死的行為\n本神在初中由於天天上課o大d被所有同學都知道被稱做xx大藥房 （xx是我媽名字後面兩個字\n有的同學就直接用父母的名字叫我 那樣很傻逼 很該死\n當然他們父母的名字也被別人翻出來了以後 還不讓人叫了 \n\n然後呢還有一個就是 要是真開玩笑說個「操你媽」「你媽」誰不知道這是個假話 但是如果認真的 或者拿別人父母開玩笑 這也無疑是極其噁心的行為 這無疑是死媽爛爹的"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090289203573637555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這是一種非常可惡支那無恥傻逼該死的行為\n本神在初中由於天天上課o大d被所有同學都知道被稱做xx大藥房 （xx是我媽名字後面兩個字\n有的同學就直接用父母的名字叫我 那樣很傻逼 很該死\n當然他們父母的名字也被別人翻出來了以後 還不讓人叫了 \n\n然後呢還有一個就是 https://t.co/3lFUi4Q8zL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2090289195772526592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIy8t_bwAAIl5v.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090413463810310553",
+        "created_at": "2026-08-20T12:19:42.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090413463810310553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oczicl/status/…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/oczicl/status/2090289203573637555",
+              "start": 130,
+              "url": "https://t.co/3lFUi4Q8zL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090413463810310553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "這是一種非常可惡支那無恥傻逼該死的行為\n本神在初中由於天天上課o大d被所有同學都知道被稱做xx大藥房 （xx是我媽名字後面兩個字\n有的同學就直接用父母的名字叫我 那樣很傻逼 很該死\n當然他們父母的名字也被別人翻出來了以後 還不讓人叫了 \n\n然後呢還有一個就是 要是真開玩笑說個「操你媽」「你媽」誰不知道這是個假話 但是如果認真的 或者拿別人父母開玩笑 這也無疑是極其噁心的行為 這無疑是死媽爛爹的"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090289203573637555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這是一種非常可惡支那無恥傻逼該死的行為\n本神在初中由於天天上課o大d被所有同學都知道被稱做xx大藥房 （xx是我媽名字後面兩個字\n有的同學就直接用父母的名字叫我 那樣很傻逼 很該死\n當然他們父母的名字也被別人翻出來了以後 還不讓人叫了 \n\n然後呢還有一個就是 https://t.co/3lFUi4Q8zL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090289195772526592"
+          ]
+        },
+        "author_id": "2083431637027823616",
+        "conversation_id": "2090289203573637555",
+        "created_at": "2026-08-20T04:05:56.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090289203573637555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkCgLZyFjU",
+              "end": 127,
+              "expanded_url": "https://x.com/oczicl/status/2090289203573637555/photo/1",
+              "media_key": "3_2090289195772526592",
+              "start": 104,
+              "url": "https://t.co/RkCgLZyFjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090289203573637555",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090289195772526592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 418,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个确实绷不住。\n一旦你爹名字被知道后，这将成为你之后的名字。当时我们班有个人保密工作很好，结果和一个初中部的老师撞名了叫王小星，那哥们直接吓一跳说怎么和他爹重名，于是他将继承父亲的意志，被我们叫做王小星。 https://t.co/RkCgLZyFjU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090413463810310553",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 686,
+          "like_count": 13021,
+          "listed_count": 1,
+          "media_count": 579,
+          "tweet_count": 2782
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T05:57:25.000Z",
+        "description": "药娘世家|出厂日期2008.7.9|🍥2026.6.3|MTF|巨蟹座|无证含糖|身高168体重108肩宽38穿37|家长党|不抽烟不喝酒的好孩子🤓讽刺家与小说家|希望能救大家|知心伙伴|95天\n孩子@theqingqiuback\n🐧3866066283",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "theqingqiuback"
+              }
+            ]
+          }
+        },
+        "id": "2083431637027823616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090394777388994575",
+        "name": "𝓠𝓲𝓷𝓰𝓺𝓾月下知清秋🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2090295260572209570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083431637027823616/1785587926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086095343209652224/BE5bgTny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 173,
+          "like_count": 801,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "oczicl",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

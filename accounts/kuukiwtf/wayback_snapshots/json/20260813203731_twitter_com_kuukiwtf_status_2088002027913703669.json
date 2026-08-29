@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088001981033947136",
+        "3_2088001988181028864",
+        "3_2088002020154191872"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087906852201992379",
+    "created_at": "2026-08-13T20:37:31.000Z",
+    "display_text_range": [
+      15,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T21:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088002027913703669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819276723290095616",
+          "start": 0,
+          "username": "Natsuki_803nz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w9PhzEn0Gd",
+          "end": 98,
+          "expanded_url": "https://x.com/kuukiwtf/status/2088002027913703669/photo/1",
+          "media_key": "3_2088001981033947136",
+          "start": 75,
+          "url": "https://t.co/w9PhzEn0Gd"
+        },
+        {
+          "display_url": "pic.x.com/w9PhzEn0Gd",
+          "end": 98,
+          "expanded_url": "https://x.com/kuukiwtf/status/2088002027913703669/photo/1",
+          "media_key": "3_2088001988181028864",
+          "start": 75,
+          "url": "https://t.co/w9PhzEn0Gd"
+        },
+        {
+          "display_url": "pic.x.com/w9PhzEn0Gd",
+          "end": 98,
+          "expanded_url": "https://x.com/kuukiwtf/status/2088002027913703669/photo/1",
+          "media_key": "3_2088002020154191872",
+          "start": 75,
+          "url": "https://t.co/w9PhzEn0Gd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088002027913703669",
+    "in_reply_to_user_id": "1819276723290095616",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088001981033947136"
+      },
+      {
+        "media_key": "3_2088001988181028864"
+      },
+      {
+        "media_key": "3_2088002020154191872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087906852201992379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuki_803nz 你騙了個雞巴  只有這個推文才是騙人的\n誰不會痛苦能夠說出來已經很好了 別給自己扣帽子 多罵別人 少內耗自己\n摸摸🫳🫳 https://t.co/w9PhzEn0Gd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2088001981033947136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoSvTHXIAArjXI.jpg",
+        "width": 534
+      },
+      {
+        "height": 534,
+        "media_key": "3_2088001988181028864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoSvtvW8AAA0M5.jpg",
+        "width": 534
+      },
+      {
+        "height": 534,
+        "media_key": "3_2088002020154191872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoSxk2WsAALDK6.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088001981033947136",
+            "3_2088001988181028864",
+            "3_2088002020154191872"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087906852201992379",
+        "created_at": "2026-08-13T20:37:31.000Z",
+        "display_text_range": [
+          15,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T21:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088002027913703669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819276723290095616",
+              "start": 0,
+              "username": "Natsuki_803nz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9PhzEn0Gd",
+              "end": 98,
+              "expanded_url": "https://x.com/kuukiwtf/status/2088002027913703669/photo/1",
+              "media_key": "3_2088001981033947136",
+              "start": 75,
+              "url": "https://t.co/w9PhzEn0Gd"
+            },
+            {
+              "display_url": "pic.x.com/w9PhzEn0Gd",
+              "end": 98,
+              "expanded_url": "https://x.com/kuukiwtf/status/2088002027913703669/photo/1",
+              "media_key": "3_2088001988181028864",
+              "start": 75,
+              "url": "https://t.co/w9PhzEn0Gd"
+            },
+            {
+              "display_url": "pic.x.com/w9PhzEn0Gd",
+              "end": 98,
+              "expanded_url": "https://x.com/kuukiwtf/status/2088002027913703669/photo/1",
+              "media_key": "3_2088002020154191872",
+              "start": 75,
+              "url": "https://t.co/w9PhzEn0Gd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088002027913703669",
+        "in_reply_to_user_id": "1819276723290095616",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088001981033947136"
+          },
+          {
+            "media_key": "3_2088001988181028864"
+          },
+          {
+            "media_key": "3_2088002020154191872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087906852201992379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuki_803nz 你騙了個雞巴  只有這個推文才是騙人的\n誰不會痛苦能夠說出來已經很好了 別給自己扣帽子 多罵別人 少內耗自己\n摸摸🫳🫳 https://t.co/w9PhzEn0Gd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819276723290095616",
+        "conversation_id": "2087906852201992379",
+        "created_at": "2026-08-13T14:19:19.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087906852201992379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087906852201992379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "五月份之后，咱每天都在害怕，都止不住的想起可怕的事情\n雄性激素一直在折磨咱\n咱根本不敢倾诉，倾诉之后，只会又被说一顿\n刀也被收了，想尽一切工具来zc…\n咱不需要被喜欢的，不需要被爱的，对吧…\n我的痛苦，根本就是没有的，根本就是没有的…都是装出来的，就是为了被同情，咱是个骗子，咱该死\n所以，不需要被喜欢，咱在6月10日本来就应该离开了的…那时候，咱以为Natsuki就会自由了，不用被这具身体困住了…\n好难受…好混乱，好混乱，对不起…这样写根本就是脏了别人的眼！对不起…咱该死，对不起"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 435,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五月份之后，咱每天都在害怕，都止不住的想起可怕的事情\n雄性激素一直在折磨咱\n咱根本不敢倾诉，倾诉之后，只会又被说一顿\n刀也被收了，想尽一切工具来zc…\n咱不需要被喜欢的，不需要被爱的，对吧…\n我的痛苦，根本就是没有的，根本就是没有的…都是装出来的，就是为了被同情，咱是个骗子，咱该死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088002027913703669",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 649,
+          "like_count": 11089,
+          "listed_count": 0,
+          "media_count": 488,
+          "tweet_count": 2329
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T07:39:26.000Z",
+        "description": "高一｜炸柜断糖｜重度抑郁｜周六晚上复活，消息回复可能不及时｜177cm/58kg｜百合｜交通迷｜无聊｜想被抱抱…",
+        "id": "1819276723290095616",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2087909596736418165",
+        "name": "夏希🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819276723290095616/1771773388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087726087333957632/6Jp9VRIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 266,
+          "like_count": 1339,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 867
+        },
+        "url": "",
+        "username": "Natsuki_803nz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

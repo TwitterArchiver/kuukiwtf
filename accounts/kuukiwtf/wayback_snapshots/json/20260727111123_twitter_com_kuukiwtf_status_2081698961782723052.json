@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081698955684171778"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081687376670396837",
+    "created_at": "2026-07-27T11:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081698961782723052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2079399533856079872",
+          "start": 0,
+          "username": "princess_01011"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6f21rBPnJi",
+          "end": 39,
+          "expanded_url": "https://x.com/kuukiwtf/status/2081698961782723052/photo/1",
+          "media_key": "3_2081698955684171778",
+          "start": 16,
+          "url": "https://t.co/6f21rBPnJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081698961782723052",
+    "in_reply_to_user_id": "2079399533856079872",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081687376670396837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@princess_01011 https://t.co/6f21rBPnJi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2081698955684171778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOuK77bUAI11WL.jpg",
+        "width": 534
+      },
+      {
+        "height": 815,
+        "media_key": "3_2081687370290913280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOjok-bYAAzAAh.jpg",
+        "width": 857
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081698955684171778"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081687376670396837",
+        "created_at": "2026-07-27T11:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081698961782723052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2079399533856079872",
+              "start": 0,
+              "username": "princess_01011"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6f21rBPnJi",
+              "end": 39,
+              "expanded_url": "https://x.com/kuukiwtf/status/2081698961782723052/photo/1",
+              "media_key": "3_2081698955684171778",
+              "start": 16,
+              "url": "https://t.co/6f21rBPnJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081698961782723052",
+        "in_reply_to_user_id": "2079399533856079872",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081687376670396837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@princess_01011 https://t.co/6f21rBPnJi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081687370290913280"
+          ]
+        },
+        "author_id": "2079399533856079872",
+        "conversation_id": "2081687376670396837",
+        "created_at": "2026-07-27T10:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081687376670396837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDJkg2uqjm",
+              "end": 31,
+              "expanded_url": "https://x.com/princess_01011/status/2081687376670396837/photo/1",
+              "media_key": "3_2081687370290913280",
+              "start": 8,
+              "url": "https://t.co/HDJkg2uqjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081687376670396837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样刻薄… https://t.co/HDJkg2uqjm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 458,
+          "like_count": 6153,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-21T03:03:57.000Z",
+        "description": "",
+        "id": "2079399533856079872",
+        "name": "公主病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079876512510304256/HnQnVay-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 187,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "princess_01011",
+        "verified": false
+      }
+    ]
+  }
+}

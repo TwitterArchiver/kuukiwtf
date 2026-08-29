@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091252714164592641"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2091252722125472069",
+    "created_at": "2026-08-22T19:54:37.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T20:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091252722125472069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0UXt2s1Gf5",
+          "end": 110,
+          "expanded_url": "https://x.com/kuukiwtf/status/2091252722125472069/photo/1",
+          "media_key": "3_2091252714164592641",
+          "start": 87,
+          "url": "https://t.co/0UXt2s1Gf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091252722125472069",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091252714164592641"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這圖又給我看死了T-T\n我很想回到2010s 雖然那時候我的日子也沒啥好的 天天被打壓 笑死.. 總是對以前有一種特別的濾鏡 導致非常嚮往 沒關係我們只要死一下就好了😭😭👍 https://t.co/0UXt2s1Gf5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1193,
+        "media_key": "3_2091252714164592641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWfQ3taIAEVA4-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091252714164592641"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091252722125472069",
+        "created_at": "2026-08-22T19:54:37.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T20:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091252722125472069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0UXt2s1Gf5",
+              "end": 110,
+              "expanded_url": "https://x.com/kuukiwtf/status/2091252722125472069/photo/1",
+              "media_key": "3_2091252714164592641",
+              "start": 87,
+              "url": "https://t.co/0UXt2s1Gf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091252722125472069",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091252714164592641"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這圖又給我看死了T-T\n我很想回到2010s 雖然那時候我的日子也沒啥好的 天天被打壓 笑死.. 總是對以前有一種特別的濾鏡 導致非常嚮往 沒關係我們只要死一下就好了😭😭👍 https://t.co/0UXt2s1Gf5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "NONBINARY | AROMANTIC ASEXUAL\nsh/od twt\njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 96,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2091252722125472069",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091203227891163502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 674,
+          "like_count": 13810,
+          "listed_count": 1,
+          "media_count": 602,
+          "tweet_count": 2944
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

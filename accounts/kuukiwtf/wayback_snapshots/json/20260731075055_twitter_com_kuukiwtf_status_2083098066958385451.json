@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2083093720824701080",
+    "created_at": "2026-07-31T07:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083098066958385451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022131059794780161",
+          "start": 0,
+          "username": "uwuneko_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083098066958385451",
+    "in_reply_to_user_id": "2022131059794780161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083093720824701080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwuneko_1 我的眼睛！\n早知道就聽勸了😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_2083093711626604544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiisatakAAx1AN.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2083093720824701080",
+        "created_at": "2026-07-31T07:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083098066958385451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022131059794780161",
+              "start": 0,
+              "username": "uwuneko_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083098066958385451",
+        "in_reply_to_user_id": "2022131059794780161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083093720824701080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwuneko_1 我的眼睛！\n早知道就聽勸了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083093711626604544"
+          ]
+        },
+        "author_id": "2022131059794780161",
+        "conversation_id": "2083093720824701080",
+        "created_at": "2026-07-31T07:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083093720824701080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "30.3K Followers • 296 Threads • 习近平是香香软软萌萌小蛋糕 好喜欢好喜欢好喜欢我要当他的情人做他的小宝 . . . See the latest conversations with @_7lyxu.",
+              "display_url": "threads.com/@_7lyxu",
+              "end": 38,
+              "expanded_url": "https://www.threads.com/@_7lyxu",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2083093723441983488/hXnSiSJK?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083093723441983488/hXnSiSJK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "李 (@_7lyxu) • Threads, Say more",
+              "unwound_url": "https://www.threads.com/@_7lyxu",
+              "url": "https://t.co/VSG42ZM33K"
+            },
+            {
+              "display_url": "pic.x.com/ih8XPaYYhQ",
+              "end": 77,
+              "expanded_url": "https://x.com/uwuneko_1/status/2083093720824701080/photo/1",
+              "media_key": "3_2083093711626604544",
+              "start": 54,
+              "url": "https://t.co/ih8XPaYYhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083093720824701080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "千萬不要去脆點這個人主頁🙏：\nhttps://t.co/VSG42ZM33K \n\nuwu提醒過各位了哦🥵🥵 https://t.co/ih8XPaYYhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 521,
+          "like_count": 7591,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1423
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T02:10:09.000Z",
+        "description": "Languages: JP / EN / ZH (TC & SC) | 姑且算是人類 | 中立 | coffee依存症 | Sky光·遇 | 和我聊天互fo可以發dm |\n恋人：@narutomaki_4\nblog：https://t.co/kjzs4WL7Kd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "narutomaki_4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuburogu.blogspot.com",
+                "end": 131,
+                "expanded_url": "http://uwuburogu.blogspot.com",
+                "start": 108,
+                "url": "https://t.co/kjzs4WL7Kd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/uwutokumei",
+                "end": 23,
+                "expanded_url": "https://mond.how/uwutokumei",
+                "start": 0,
+                "url": "https://t.co/Gi3bZS3zne"
+              }
+            ]
+          }
+        },
+        "id": "2022131059794780161",
+        "location": "Hong Kong",
+        "name": "uwu",
+        "pinned_tweet_id": "2081369481398591660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082699868049727488/uPTXzveQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 156,
+          "like_count": 6277,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/Gi3bZS3zne",
+        "username": "uwuneko_1",
+        "verified": false
+      }
+    ]
+  }
+}

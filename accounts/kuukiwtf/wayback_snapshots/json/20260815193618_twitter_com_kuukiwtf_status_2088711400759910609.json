@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088711330622767104",
+        "13_2088711364932157440"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088711400759910609",
+    "created_at": "2026-08-15T19:36:18.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T20:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088711400759910609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3BHhf9YF3S",
+          "end": 55,
+          "expanded_url": "https://x.com/kuukiwtf/status/2088711400759910609/video/1",
+          "media_key": "13_2088711330622767104",
+          "start": 32,
+          "url": "https://t.co/3BHhf9YF3S"
+        },
+        {
+          "display_url": "pic.x.com/3BHhf9YF3S",
+          "end": 55,
+          "expanded_url": "https://x.com/kuukiwtf/status/2088711400759910609/video/1",
+          "media_key": "13_2088711364932157440",
+          "start": 32,
+          "url": "https://t.co/3BHhf9YF3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088711400759910609",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088711330622767104"
+      },
+      {
+        "media_key": "13_2088711364932157440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天天和兩個朋友出來玩 一個叫吉吉一個叫毛毛（\n只有我是全名😅😅 https://t.co/3BHhf9YF3S"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9450,
+        "height": 1280,
+        "media_key": "13_2088711330622767104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088711330622767104/img/LghLNkkoYL2caM3T.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088711330622767104/vid/avc1/320x568/83JFhs5S0P_Kr-_G.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088711330622767104/vid/avc1/480x852/ZmK8t13FoPDhO3Ff.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088711330622767104/vid/avc1/720x1280/z7U-NYZB9k0i5jlb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088711330622767104/pl/ZF8p2HCBqEccaDnd.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 23339,
+        "height": 1280,
+        "media_key": "13_2088711364932157440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088711364932157440/img/NL_q1wvXus774dCR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088711364932157440/vid/avc1/320x568/EHPyEfGokReVbl9l.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088711364932157440/vid/avc1/480x852/C9-7l42lKZ5wwhZ2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088711364932157440/vid/avc1/720x1280/Y8lKWtlJArhErwEB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088711364932157440/pl/FcjyAaWcBdXPF0sz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088711330622767104",
+            "13_2088711364932157440"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088711400759910609",
+        "created_at": "2026-08-15T19:36:18.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T20:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088711400759910609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BHhf9YF3S",
+              "end": 55,
+              "expanded_url": "https://x.com/kuukiwtf/status/2088711400759910609/video/1",
+              "media_key": "13_2088711330622767104",
+              "start": 32,
+              "url": "https://t.co/3BHhf9YF3S"
+            },
+            {
+              "display_url": "pic.x.com/3BHhf9YF3S",
+              "end": 55,
+              "expanded_url": "https://x.com/kuukiwtf/status/2088711400759910609/video/1",
+              "media_key": "13_2088711364932157440",
+              "start": 32,
+              "url": "https://t.co/3BHhf9YF3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088711400759910609",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088711330622767104"
+          },
+          {
+            "media_key": "13_2088711364932157440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天和兩個朋友出來玩 一個叫吉吉一個叫毛毛（\n只有我是全名😅😅 https://t.co/3BHhf9YF3S"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088711400759910609",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 668,
+          "like_count": 11780,
+          "listed_count": 0,
+          "media_count": 508,
+          "tweet_count": 2373
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

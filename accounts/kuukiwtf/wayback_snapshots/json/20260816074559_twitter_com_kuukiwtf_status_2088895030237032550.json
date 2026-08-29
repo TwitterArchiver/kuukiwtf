@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088797490468569088"
+      ],
+      "media_source_tweet_id": [
+        "2088797504334905771"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088895030237032550",
+    "created_at": "2026-08-16T07:45:59.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088895030237032550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1933141573631631360",
+          "start": 3,
+          "username": "mingmingshummk8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qZQeI476hH",
+          "end": 44,
+          "expanded_url": "https://x.com/mingmingshummk8/status/2088797504334905771/photo/1",
+          "media_key": "3_2088797490468569088",
+          "start": 21,
+          "url": "https://t.co/qZQeI476hH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088895030237032550",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088797490468569088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088797504334905771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mingmingshummk8: https://t.co/qZQeI476hH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088797490468569088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzmQCsbQAAlDoa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088797490468569088"
+          ],
+          "media_source_tweet_id": [
+            "2088797504334905771"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088895030237032550",
+        "created_at": "2026-08-16T07:45:59.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088895030237032550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1933141573631631360",
+              "start": 3,
+              "username": "mingmingshummk8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZQeI476hH",
+              "end": 44,
+              "expanded_url": "https://x.com/mingmingshummk8/status/2088797504334905771/photo/1",
+              "media_key": "3_2088797490468569088",
+              "start": 21,
+              "url": "https://t.co/qZQeI476hH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088895030237032550",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088797490468569088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088797504334905771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mingmingshummk8: https://t.co/qZQeI476hH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088797490468569088"
+          ]
+        },
+        "author_id": "1933141573631631360",
+        "conversation_id": "2088797504334905771",
+        "created_at": "2026-08-16T01:18:27.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088797504334905771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZQeI476hH",
+              "end": 23,
+              "expanded_url": "https://x.com/mingmingshummk8/status/2088797504334905771/photo/1",
+              "media_key": "3_2088797490468569088",
+              "start": 0,
+              "url": "https://t.co/qZQeI476hH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088797504334905771",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088797490468569088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 31384,
+          "like_count": 976,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qZQeI476hH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088895030237032550",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 663,
+          "like_count": 11933,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 2409
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-12T12:37:50.000Z",
+        "description": "这里是垃圾站（笑 可以叫我民民鼠\nx唯一小号",
+        "id": "1933141573631631360",
+        "is_identity_verified": false,
+        "location": "喵",
+        "most_recent_tweet_id": "2088797504334905771",
+        "name": "肥鼠（不瘦十斤不改名）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933141573631631360/1753897220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933146998754193408/n9Ka5G2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17111,
+          "following_count": 1,
+          "like_count": 37,
+          "listed_count": 22,
+          "media_count": 68,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "mingmingshummk8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

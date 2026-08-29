@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088005649540251744",
+    "created_at": "2026-08-13T20:51:54.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T21:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088005649540251744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liuyuhe446/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/liuyuhe446/status/2087837984033063267",
+          "start": 10,
+          "url": "https://t.co/9j4oie6wQS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088005649540251744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087837984033063267",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家快來看支那講話 https://t.co/9j4oie6wQS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1693,
+        "media_key": "3_2087837976822996992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl9k_0a4AAfnLw.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088005649540251744",
+        "created_at": "2026-08-13T20:51:54.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T21:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088005649540251744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liuyuhe446/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/liuyuhe446/status/2087837984033063267",
+              "start": 10,
+              "url": "https://t.co/9j4oie6wQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088005649540251744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087837984033063267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家快來看支那講話 https://t.co/9j4oie6wQS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087837976822996992"
+          ]
+        },
+        "author_id": "2034293840476315648",
+        "conversation_id": "2087837984033063267",
+        "created_at": "2026-08-13T09:45:40.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087837984033063267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WxGOujf0Rv",
+              "end": 178,
+              "expanded_url": "https://x.com/liuyuhe446/status/2087837984033063267/photo/1",
+              "media_key": "3_2087837976822996992",
+              "start": 155,
+              "url": "https://t.co/WxGOujf0Rv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087837984033063267",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087837976822996992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4928,
+          "like_count": 200,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "X上中国败类我自己统计大概有35%\n分为几种\n1.装自己是外国人来骂自己同胞的\n2.本身就反华的\n3.自己生活不如意来X上面骂人的\n4.找存在感的\n5.脑子确实有点问题的\n6.低龄化小屁孩\n7.极端主义（这个最多）\n不止这些，还不止这些，以上的这些傻子，纯属就是民族的败类，吃中国的喝中国的，有本事滚到国外去 https://t.co/WxGOujf0Rv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088005649540251744",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 649,
+          "like_count": 11098,
+          "listed_count": 0,
+          "media_count": 488,
+          "tweet_count": 2337
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-18T15:40:43.000Z",
+        "description": "喜欢提问和抽象的人，携手共进，共同发展！\n反对极端主义！BA玩家\n持续关注国内新闻\n欢迎关注，带你观看中国高三生的日常",
+        "id": "2034293840476315648",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2087952829684335036",
+        "name": "小猫包Cat Bag🇨🇳",
+        "pinned_tweet_id": "2087869682141503781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034293840476315648/1785688236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034295040953167872/VIrngiAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 106,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 737
+        },
+        "url": "",
+        "username": "liuyuhe446",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

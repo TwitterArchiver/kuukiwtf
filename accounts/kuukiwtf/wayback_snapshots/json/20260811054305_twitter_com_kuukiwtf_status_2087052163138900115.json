@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086899104698003782",
+    "created_at": "2026-08-11T05:43:05.000Z",
+    "display_text_range": [
+      22,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087052163138900115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062190491991744512",
+          "start": 0,
+          "username": "Sypshenlipu"
+        },
+        {
+          "end": 21,
+          "id": "2078008755325722624",
+          "start": 13,
+          "username": "tgqmao1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087052163138900115",
+    "in_reply_to_user_id": "2062190491991744512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087051962030387539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sypshenlipu @tgqmao1 這人我也不認識啊（\n僅僅只是聽過"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086899104698003782",
+        "created_at": "2026-08-11T05:43:05.000Z",
+        "display_text_range": [
+          22,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087052163138900115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062190491991744512",
+              "start": 0,
+              "username": "Sypshenlipu"
+            },
+            {
+              "end": 21,
+              "id": "2078008755325722624",
+              "start": 13,
+              "username": "tgqmao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087052163138900115",
+        "in_reply_to_user_id": "2062190491991744512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087051962030387539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sypshenlipu @tgqmao1 這人我也不認識啊（\n僅僅只是聽過"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062190491991744512",
+        "conversation_id": "2086899104698003782",
+        "created_at": "2026-08-11T05:42:17.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087051962030387539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            },
+            {
+              "end": 18,
+              "id": "2078008755325722624",
+              "start": 10,
+              "username": "tgqmao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087051962030387539",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086899104698003782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf @tgqmao1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑\n不認識也不查就瞎雞巴問的支那豬 自己從窗戶翻下去\n支那豬可以自由拉黑我 這也表示你認輸\n\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "voidsama777"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087052163138900115",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 567,
+          "like_count": 10315,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T15:13:20.000Z",
+        "description": "照片是我家小貓，他叫玉米\n我是MTF\n照片是貓\n我不是男的\n照片裡也不是肥豬",
+        "id": "2062190491991744512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087051962030387539",
+        "name": "Li pu Shen🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062190491991744512/1785166163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081762845772201984/NPuHvnRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 236,
+          "like_count": 37516,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 1179
+        },
+        "url": "",
+        "username": "Sypshenlipu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-17T06:48:27.000Z",
+        "description": "反毛贼严父\n@TGQmmmao\n@tangangqinmao4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "TGQmmmao"
+              },
+              {
+                "end": 31,
+                "start": 16,
+                "username": "tangangqinmao4"
+              }
+            ]
+          }
+        },
+        "id": "2078008755325722624",
+        "is_identity_verified": false,
+        "location": "反毛贼屠宰场",
+        "most_recent_tweet_id": "2084136623483359514",
+        "name": "弹钢琴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078008755325722624/1784291786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078096475515691008/avdabwyM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 10,
+          "like_count": 276,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "tgqmao1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082846065649446912",
+        "13_2082846085836578816"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2082846126810820879",
+    "created_at": "2026-07-30T15:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082846126810820879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7nLQe6Koe6",
+          "end": 32,
+          "expanded_url": "https://x.com/kuukiwtf/status/2082846126810820879/video/1",
+          "media_key": "3_2082846065649446912",
+          "start": 9,
+          "url": "https://t.co/7nLQe6Koe6"
+        },
+        {
+          "display_url": "pic.x.com/7nLQe6Koe6",
+          "end": 32,
+          "expanded_url": "https://x.com/kuukiwtf/status/2082846126810820879/video/1",
+          "media_key": "13_2082846085836578816",
+          "start": 9,
+          "url": "https://t.co/7nLQe6Koe6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082846126810820879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "屌\n霸凌一個路障 https://t.co/7nLQe6Koe6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2082846065649446912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfBdhja8AA0HYm.jpg",
+        "width": 3000
+      },
+      {
+        "duration_ms": 12821,
+        "height": 1280,
+        "media_key": "13_2082846085836578816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082846085836578816/img/Fzp3W-0nglJu6uLw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082846085836578816/vid/avc1/320x568/mpGyapWX2PWkJSPH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082846085836578816/vid/avc1/480x852/8hHUaelS4Wuc_mDL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082846085836578816/vid/avc1/720x1280/j667got2nE1RWc5Q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082846085836578816/pl/rwtlkBEE3e3r-4kg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082846065649446912",
+            "13_2082846085836578816"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2082846126810820879",
+        "created_at": "2026-07-30T15:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082846126810820879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nLQe6Koe6",
+              "end": 32,
+              "expanded_url": "https://x.com/kuukiwtf/status/2082846126810820879/video/1",
+              "media_key": "3_2082846065649446912",
+              "start": 9,
+              "url": "https://t.co/7nLQe6Koe6"
+            },
+            {
+              "display_url": "pic.x.com/7nLQe6Koe6",
+              "end": 32,
+              "expanded_url": "https://x.com/kuukiwtf/status/2082846126810820879/video/1",
+              "media_key": "13_2082846085836578816",
+              "start": 9,
+              "url": "https://t.co/7nLQe6Koe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082846126810820879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "屌\n霸凌一個路障 https://t.co/7nLQe6Koe6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 515,
+          "like_count": 7354,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1375
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

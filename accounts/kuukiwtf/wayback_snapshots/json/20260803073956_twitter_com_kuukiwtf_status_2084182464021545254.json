@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2084168394966782386",
+    "created_at": "2026-08-03T07:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084182464021545254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        },
+        {
+          "end": 27,
+          "id": "1797976114205478912",
+          "start": 15,
+          "username": "Lilyth_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084182464021545254",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084182367879807363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot @Lilyth_sama 被晶過"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2084168394966782386",
+        "created_at": "2026-08-03T07:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084182464021545254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            },
+            {
+              "end": 27,
+              "id": "1797976114205478912",
+              "start": 15,
+              "username": "Lilyth_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084182464021545254",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084182367879807363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot @Lilyth_sama 被晶過"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790448736629301248",
+        "conversation_id": "2084168394966782386",
+        "created_at": "2026-08-03T07:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084182367879807363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            },
+            {
+              "end": 22,
+              "id": "1797976114205478912",
+              "start": 10,
+              "username": "Lilyth_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084182367879807363",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084168394966782386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf @Lilyth_sama 莉➗凭啥没被晶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 528,
+          "like_count": 8259,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 1600
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "本账一切不当言论由@fidjmk 编辑、发布，与本人无关/📕🔪/利伯塔利亚通/无产阶级专政万岁，人类专政万岁/驱逐汉畜，恢复马列/#我的史观 #精神探索 #奇异搞笑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 65,
+                "tag": "我的史观"
+              },
+              {
+                "end": 76,
+                "start": 71,
+                "tag": "精神探索"
+              },
+              {
+                "end": 82,
+                "start": 77,
+                "tag": "奇异搞笑"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "fidjmk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deerjisiquanjia.com",
+                "end": 23,
+                "expanded_url": "http://deerjisiquanjia.com",
+                "start": 0,
+                "url": "https://t.co/ZQF7vW5ZMa"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "符拉迪沃斯托克",
+        "name": "羽泽东🇮🇷🚩⛏️🌾——慈父斯大林解放全人类",
+        "pinned_tweet_id": "2079068173228249152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076205963405856768/wOyb_Dwi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 1637,
+          "like_count": 28426,
+          "listed_count": 15,
+          "media_count": 1117,
+          "tweet_count": 22183
+        },
+        "url": "https://t.co/ZQF7vW5ZMa",
+        "username": "xijinping_bot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:58:15.000Z",
+        "description": "I’d swear, I’d give the whole thing up for you.",
+        "id": "1797976114205478912",
+        "name": "Lilyth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940446777716391936/_TuNbwig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 54,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 649
+        },
+        "url": "",
+        "username": "Lilyth_sama",
+        "verified": false
+      }
+    ]
+  }
+}

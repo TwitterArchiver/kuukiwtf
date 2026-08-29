@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081712671024701440"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081712688879784211",
+    "created_at": "2026-07-27T12:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081712688879784211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e07894oK6O",
+          "end": 174,
+          "expanded_url": "https://x.com/kuukiwtf/status/2081712688879784211/photo/1",
+          "media_key": "3_2081712671024701440",
+          "start": 151,
+          "url": "https://t.co/e07894oK6O"
+        },
+        {
+          "display_url": "x.com/deeiggh/status…",
+          "end": 198,
+          "expanded_url": "https://twitter.com/deeiggh/status/2081646203838631960",
+          "start": 175,
+          "url": "https://t.co/STwexbweeb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081712688879784211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我我我\n\n但是完全不會考慮路人 \n　因為他們從來沒有考慮過我的感受一直盯著我看\n\n🥰🥰不是想盯嗎 讓你盯個夠 你看我這個增生長得如何 很好看吧 🥰🥰\n\n████████████\nall fake，特效化妆，这是我画的恐怖妆容，全都是假的all fake，特效化妆，这是我画的恐怖妆容，全都是假的all fake，特效化妆，这是我画的恐怖妆容，全都是假的"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081646203838631960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我我我\n\n但是完全不會考慮路人 \n　因為他們從來沒有考慮過我的感受一直盯著我看\n\n🥰🥰不是想盯嗎 讓你盯個夠 你看我這個增生長得如何 很好看吧 🥰🥰\n\n████████████\nall fake，特效化妆，这是我画的恐怖妆容，全都是假的all fake，特效化妆，这是我画的恐怖妆容，全都是假的all https://t.co/e07894oK6O https://t.co/STwexbweeb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2081712671024701440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO6pRjbYAAPE6_.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2081646162172403712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HON-J8xXYAAyI1e.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081712671024701440"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081712688879784211",
+        "created_at": "2026-07-27T12:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081712688879784211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e07894oK6O",
+              "end": 174,
+              "expanded_url": "https://x.com/kuukiwtf/status/2081712688879784211/photo/1",
+              "media_key": "3_2081712671024701440",
+              "start": 151,
+              "url": "https://t.co/e07894oK6O"
+            },
+            {
+              "display_url": "x.com/deeiggh/status…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/deeiggh/status/2081646203838631960",
+              "start": 175,
+              "url": "https://t.co/STwexbweeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081712688879784211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我我我\n\n但是完全不會考慮路人 \n　因為他們從來沒有考慮過我的感受一直盯著我看\n\n🥰🥰不是想盯嗎 讓你盯個夠 你看我這個增生長得如何 很好看吧 🥰🥰\n\n████████████\nall fake，特效化妆，这是我画的恐怖妆容，全都是假的all fake，特效化妆，这是我画的恐怖妆容，全都是假的all fake，特效化妆，这是我画的恐怖妆容，全都是假的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081646203838631960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我我我\n\n但是完全不會考慮路人 \n　因為他們從來沒有考慮過我的感受一直盯著我看\n\n🥰🥰不是想盯嗎 讓你盯個夠 你看我這個增生長得如何 很好看吧 🥰🥰\n\n████████████\nall fake，特效化妆，这是我画的恐怖妆容，全都是假的all fake，特效化妆，这是我画的恐怖妆容，全都是假的all https://t.co/e07894oK6O https://t.co/STwexbweeb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081646162172403712"
+          ]
+        },
+        "author_id": "1721196129877139456",
+        "conversation_id": "2081646203838631960",
+        "created_at": "2026-07-27T07:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081646203838631960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AzAcPCVejm",
+              "end": 50,
+              "expanded_url": "https://x.com/deeiggh/status/2081646203838631960/photo/1",
+              "media_key": "3_2081646162172403712",
+              "start": 27,
+              "url": "https://t.co/AzAcPCVejm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081646203838631960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1552,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想拒绝疤痕羞耻 但我好像做不到 好热的天还要穿长袖 https://t.co/AzAcPCVejm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 458,
+          "like_count": 6201,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1101
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-05T16:02:01.000Z",
+        "description": "",
+        "id": "1721196129877139456",
+        "name": "胡桃爱啃桃🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061682127868190720/L8z-Xg2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 307,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "deeiggh",
+        "verified": false
+      }
+    ]
+  }
+}

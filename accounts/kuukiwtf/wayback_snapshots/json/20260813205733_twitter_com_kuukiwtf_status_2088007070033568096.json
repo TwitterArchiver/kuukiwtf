@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087871532592947517",
+    "created_at": "2026-08-13T20:57:33.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T21:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088007070033568096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2073422551972466689",
+          "start": 0,
+          "username": "Yzrhgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088007070033568096",
+    "in_reply_to_user_id": "2073422551972466689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087871532592947517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yzrhgg 那他媽是心臟（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087871532592947517",
+        "created_at": "2026-08-13T20:57:33.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T21:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088007070033568096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2073422551972466689",
+              "start": 0,
+              "username": "Yzrhgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088007070033568096",
+        "in_reply_to_user_id": "2073422551972466689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087871532592947517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yzrhgg 那他媽是心臟（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073422551972466689",
+        "conversation_id": "2087871532592947517",
+        "created_at": "2026-08-13T11:58:58.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087871532592947517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087871532592947517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胸口左边长了个肿瘤，还一直在跳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088007070033568096",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 649,
+          "like_count": 11106,
+          "listed_count": 0,
+          "media_count": 488,
+          "tweet_count": 2339
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T15:05:34.000Z",
+        "description": "时常感到无聊，欢迎找我聊天\n互fo\n不时发些碎碎念",
+        "id": "2073422551972466689",
+        "is_identity_verified": false,
+        "location": "星星",
+        "most_recent_tweet_id": "2087956922985304418",
+        "name": "退屈党人",
+        "pinned_tweet_id": "2074104382912864345",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073422551972466689/1783178530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073424909980901376/ap3GnRYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 80,
+          "like_count": 1815,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 337
+        },
+        "url": "",
+        "username": "Yzrhgg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

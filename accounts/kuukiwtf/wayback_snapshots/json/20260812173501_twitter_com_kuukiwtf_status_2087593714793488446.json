@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087239995740639690",
+    "created_at": "2026-08-12T17:35:01.000Z",
+    "display_text_range": [
+      27,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087593714793488446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073605026170519552",
+          "start": 0,
+          "username": "runzhimaomao"
+        },
+        {
+          "end": 26,
+          "id": "1897242994811805696",
+          "start": 14,
+          "username": "shapai61643"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087593714793488446",
+    "in_reply_to_user_id": "2073605026170519552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087586021630411081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@runzhimaomao @shapai61643 對呀 你是好寶寶 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087239995740639690",
+        "created_at": "2026-08-12T17:35:01.000Z",
+        "display_text_range": [
+          27,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087593714793488446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073605026170519552",
+              "start": 0,
+              "username": "runzhimaomao"
+            },
+            {
+              "end": 26,
+              "id": "1897242994811805696",
+              "start": 14,
+              "username": "shapai61643"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087593714793488446",
+        "in_reply_to_user_id": "2073605026170519552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087586021630411081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@runzhimaomao @shapai61643 對呀 你是好寶寶 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073605026170519552",
+        "conversation_id": "2087239995740639690",
+        "created_at": "2026-08-12T17:04:27.000Z",
+        "display_text_range": [
+          23,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087586021630411081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            },
+            {
+              "end": 22,
+              "id": "1897242994811805696",
+              "start": 10,
+              "username": "shapai61643"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087586021630411081",
+        "in_reply_to_user_id": "2073605026170519552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087585830055690411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf @shapai61643 竟然攻击别人诱导其自杀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087593714793488446",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 636,
+          "like_count": 10841,
+          "listed_count": 0,
+          "media_count": 457,
+          "tweet_count": 2205
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-05T03:12:25.000Z",
+        "description": "",
+        "id": "2073605026170519552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087592821809365249",
+        "name": "你家剑英猫猫",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085236873795153920/VcMu_q32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 63,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "runzhimaomao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-05T11:10:05.000Z",
+        "description": "我会杀了你们所有人",
+        "id": "1897242994811805696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087513076656705552",
+        "name": "-砂派-",
+        "pinned_tweet_id": "2040434696962883916",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897243685005484032/cH8AKctJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 181,
+          "like_count": 2538,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "shapai61643",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

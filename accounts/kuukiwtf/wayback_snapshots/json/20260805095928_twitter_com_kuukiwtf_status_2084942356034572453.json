@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084942346517655552"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2084942356034572453",
+    "created_at": "2026-08-05T09:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084942356034572453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GDvvCOKMAH",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2084942356034572453/photo/1",
+          "media_key": "3_2084942346517655552",
+          "start": 0,
+          "url": "https://t.co/GDvvCOKMAH"
+        },
+        {
+          "display_url": "x.com/_zz_h_dd_/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/_zz_h_dd_/status/2084736120630419572",
+          "start": 24,
+          "url": "https://t.co/ADC8AEKe6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084942356034572453",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084736120630419572",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/GDvvCOKMAH https://t.co/ADC8AEKe6y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2084942346517655552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO80BIVasAA-5Z8.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2084736113282031616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO54cxqaoAA0DCv.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084942346517655552"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2084942356034572453",
+        "created_at": "2026-08-05T09:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084942356034572453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDvvCOKMAH",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2084942356034572453/photo/1",
+              "media_key": "3_2084942346517655552",
+              "start": 0,
+              "url": "https://t.co/GDvvCOKMAH"
+            },
+            {
+              "display_url": "x.com/_zz_h_dd_/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/_zz_h_dd_/status/2084736120630419572",
+              "start": 24,
+              "url": "https://t.co/ADC8AEKe6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084942356034572453",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084736120630419572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/GDvvCOKMAH https://t.co/ADC8AEKe6y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084736113282031616"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2084736120630419572",
+        "created_at": "2026-08-04T20:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T21:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084736120630419572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMaSIkYgs3",
+              "end": 23,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2084736120630419572/photo/1",
+              "media_key": "3_2084736113282031616",
+              "start": 0,
+              "url": "https://t.co/WMaSIkYgs3"
+            },
+            {
+              "display_url": "x.com/xxkg3g/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/xxkg3g/status/2084646306715480342",
+              "start": 24,
+              "url": "https://t.co/NrVzpYlckW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084736120630419572",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 933,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084646306715480342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/WMaSIkYgs3 https://t.co/NrVzpYlckW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2084689654230692126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 533,
+          "like_count": 8682,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 110,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      }
+    ]
+  }
+}

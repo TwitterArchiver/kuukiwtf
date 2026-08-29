@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086892235057201152"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086892241071857738",
+    "created_at": "2026-08-10T19:07:37.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T20:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086892241071857738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036489795376140288",
+          "start": 0,
+          "username": "cij1012933"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GRihqAORw8",
+          "end": 148,
+          "expanded_url": "https://x.com/kuukiwtf/status/2086892241071857738/photo/1",
+          "media_key": "3_2086892235057201152",
+          "start": 125,
+          "url": "https://t.co/GRihqAORw8"
+        },
+        {
+          "display_url": "x.com/cij1012933/sta…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/cij1012933/status/2086890678265790753",
+          "start": 149,
+          "url": "https://t.co/PnxAZmCT56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086892241071857738",
+    "in_reply_to_user_id": "2036489795376140288",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086892235057201152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086890678265790753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cij1012933 \n支那豬先不要著急叫喔😁😁\n你就永遠留在中國當燒火棍吧😁😁\n這個成績是沒有用處的😁😁\n我並不需要那本支那國學校的畢業證書喔😁😁\n對了提醒你一下護照該辦一下了 以後不讓你支那豬辦護照了😁😁奧奧抱歉你是支那豬不用出國🥰🥰\n\n合影 https://t.co/GRihqAORw8 https://t.co/PnxAZmCT56"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 491,
+        "media_key": "3_2086892235057201152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYhblMbAAA-2JP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086892235057201152"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086892241071857738",
+        "created_at": "2026-08-10T19:07:37.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086892241071857738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036489795376140288",
+              "start": 0,
+              "username": "cij1012933"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRihqAORw8",
+              "end": 148,
+              "expanded_url": "https://x.com/kuukiwtf/status/2086892241071857738/photo/1",
+              "media_key": "3_2086892235057201152",
+              "start": 125,
+              "url": "https://t.co/GRihqAORw8"
+            },
+            {
+              "display_url": "x.com/cij1012933/sta…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/cij1012933/status/2086890678265790753",
+              "start": 149,
+              "url": "https://t.co/PnxAZmCT56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086892241071857738",
+        "in_reply_to_user_id": "2036489795376140288",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086892235057201152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086890678265790753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cij1012933 \n支那豬先不要著急叫喔😁😁\n你就永遠留在中國當燒火棍吧😁😁\n這個成績是沒有用處的😁😁\n我並不需要那本支那國學校的畢業證書喔😁😁\n對了提醒你一下護照該辦一下了 以後不讓你支那豬辦護照了😁😁奧奧抱歉你是支那豬不用出國🥰🥰\n\n合影 https://t.co/GRihqAORw8 https://t.co/PnxAZmCT56"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036489795376140288",
+        "conversation_id": "2086681224194744682",
+        "created_at": "2026-08-10T19:01:24.000Z",
+        "display_text_range": [
+          10,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086890678265790753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086890678265790753",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086681224194744682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 你先别管马赛克了\n学考你过不了 还是先找个楼跳了吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY 非二元  \n　↑　↑　↑　\n不認識也不查就瞎雞巴問 自己從窗戶翻下去 支那豬\n\n(ᗜᴗᗜ) 東方project (ᗜᴗᗜ) \n\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 108,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "voidsama777"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086892241071857738",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 561,
+          "like_count": 10184,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 2059
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-24T17:07:04.000Z",
+        "description": "左派青年/尊重LGBTQ+/反中修/馬克思主義者/不是键政魔怔人/170cm 52±2kg/09高二理科生～/ENTP/愛好cos 二次元 羽毛球 中長跑 化學/有时R18/在和心理疾病自由搏击ing/多多交流 歡迎互fo捏～",
+        "id": "2036489795376140288",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086891784148517136",
+        "name": "菜鸡1.20.1",
+        "pinned_tweet_id": "2066569199527608769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036489795376140288/1774617210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038079260775383040/mjTynNs__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 156,
+          "like_count": 3726,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1084
+        },
+        "url": "",
+        "username": "cij1012933",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

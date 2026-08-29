@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090413463810310553",
+    "created_at": "2026-08-21T09:41:05.000Z",
+    "display_text_range": [
+      17,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090735936221094063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2052721795745169410",
+          "start": 0,
+          "username": "sadfatmind70699"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090735936221094063",
+    "in_reply_to_user_id": "2052721795745169410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090734847572742442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadfatmind70699 真就是屌素質沒有 噁心死了\n摸摸你😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090413463810310553",
+        "created_at": "2026-08-21T09:41:05.000Z",
+        "display_text_range": [
+          17,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090735936221094063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2052721795745169410",
+              "start": 0,
+              "username": "sadfatmind70699"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090735936221094063",
+        "in_reply_to_user_id": "2052721795745169410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090734847572742442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadfatmind70699 真就是屌素質沒有 噁心死了\n摸摸你😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052721795745169410",
+        "conversation_id": "2090413463810310553",
+        "created_at": "2026-08-21T09:36:46.000Z",
+        "display_text_range": [
+          10,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090734847572742442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090734847572742442",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090413463810310553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 深有同感，初中时候有好事的人把一堆人家长名字给搞出来了，我是最先受害的，然后他们就用我家长的名字称呼我，一有矛盾就骂家长的名字，很脏很黄，还有人拿家长名字编打油诗编歌骂我。唉，一群素质低下的人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "NONBINARY | AROMANTIC ASEXUAL\nsh/od twt\njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 96,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090735936221094063",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 688,
+          "like_count": 13294,
+          "listed_count": 1,
+          "media_count": 584,
+          "tweet_count": 2835
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-08T12:06:47.000Z",
+        "description": "假装是个雌小鬼",
+        "id": "2052721795745169410",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090735051566932086",
+        "name": "sadfatmind",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052721795745169410/1779458376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081167774504927232/yq52ALpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 262,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "sadfatmind70699",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

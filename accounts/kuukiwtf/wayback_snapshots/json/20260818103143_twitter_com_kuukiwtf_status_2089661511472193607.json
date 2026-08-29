@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2089485121732632683",
+    "created_at": "2026-08-18T10:31:43.000Z",
+    "display_text_range": [
+      33,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089661511472193607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903716011498733568",
+          "start": 0,
+          "username": "MakinaKing2699"
+        },
+        {
+          "end": 32,
+          "id": "2026081318497665024",
+          "start": 16,
+          "username": "85240609891_2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089661511472193607",
+    "in_reply_to_user_id": "1903716011498733568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089557923429269745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MakinaKing2699 @85240609891_2nd 山東人看笑了（繃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2089485121732632683",
+        "created_at": "2026-08-18T10:31:43.000Z",
+        "display_text_range": [
+          33,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089661511472193607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903716011498733568",
+              "start": 0,
+              "username": "MakinaKing2699"
+            },
+            {
+              "end": 32,
+              "id": "2026081318497665024",
+              "start": 16,
+              "username": "85240609891_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089661511472193607",
+        "in_reply_to_user_id": "1903716011498733568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089557923429269745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MakinaKing2699 @85240609891_2nd 山東人看笑了（繃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903716011498733568",
+        "conversation_id": "2089485121732632683",
+        "created_at": "2026-08-18T03:40:05.000Z",
+        "display_text_range": [
+          17,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089557923429269745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026081318497665024",
+              "start": 0,
+              "username": "85240609891_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089557923429269745",
+        "in_reply_to_user_id": "2026081318497665024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089485121732632683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_2nd 就比如山东那边的粉蛆说浙江公知多，还说浙江媒体被境外势力给渗透了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089661511472193607",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 689,
+          "like_count": 12497,
+          "listed_count": 1,
+          "media_count": 560,
+          "tweet_count": 2659
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-23T07:50:53.000Z",
+        "description": "",
+        "id": "1903716011498733568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089571175508935151",
+        "name": "MakinaKing2699",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903716011498733568/1756000573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011989161813905408/M3_qz1iv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 26,
+          "like_count": 2768,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "MakinaKing2699",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T23:47:34.000Z",
+        "description": "香港仔🇭🇰🎗️\n14年絕對武力player\nHELLO\n呢度係北極戰警嘅second account\n重視政治民主\n🇯🇵🇰🇷🇺🇸🇮🇱🇺🇦🇬🇧🇨🇦🇦🇺🇳🇿🇪🇺\n小粉紅 CCP嘅基本盤\nIF U唔想食我嘅AWP+Desert Eagle\n請快速離開\nPLS!!\n已經封鎖萬位",
+        "id": "2026081318497665024",
+        "is_identity_verified": false,
+        "location": "🇭🇰HONG KONG🇭🇰",
+        "most_recent_tweet_id": "2089654980345290858",
+        "name": "🇭🇰🎗️北極戰警 AWP Ver 0.60.4.1989",
+        "pinned_tweet_id": "2089355297848472021",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026081318497665024/1786963638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089328176166322176/0kEaZVO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 415,
+          "like_count": 1981,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 852
+        },
+        "url": "",
+        "username": "85240609891_2nd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2090697606251044953",
+    "created_at": "2026-08-21T18:49:53.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090874043234951488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847157285337866240",
+          "start": 0,
+          "username": "jiuqiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090874043234951488",
+    "in_reply_to_user_id": "1847157285337866240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090697606251044953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuqiudev 騙你的有也封（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_2090697546134093824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOmV1oagAAZDlc.jpg",
+        "width": 1916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2090697606251044953",
+        "created_at": "2026-08-21T18:49:53.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090874043234951488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847157285337866240",
+              "start": 0,
+              "username": "jiuqiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090874043234951488",
+        "in_reply_to_user_id": "1847157285337866240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090697606251044953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuqiudev 騙你的有也封（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090697546134093824"
+          ]
+        },
+        "author_id": "1847157285337866240",
+        "conversation_id": "2090697606251044953",
+        "created_at": "2026-08-21T07:08:47.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090697606251044953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5QslFXTlb",
+              "end": 35,
+              "expanded_url": "https://x.com/jiuqiudev/status/2090697606251044953/photo/1",
+              "media_key": "3_2090697546134093824",
+              "start": 12,
+              "url": "https://t.co/e5QslFXTlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090697606251044953",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090697546134093824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1923,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "msk be like https://t.co/e5QslFXTlb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "NONBINARY | AROMANTIC ASEXUAL\nsh/od twt\njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 96,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2090874043234951488",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 695,
+          "like_count": 13444,
+          "listed_count": 1,
+          "media_count": 587,
+          "tweet_count": 2873
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T06:07:31.000Z",
+        "description": "你好啊，我是玖秋（不是秋玖（你猜猜）），一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/rJxUg8NWIg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 112,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 89,
+                "url": "https://t.co/rJxUg8NWIg"
+              }
+            ]
+          }
+        },
+        "id": "1847157285337866240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090796974270533647",
+        "name": "玖秋（寻回推友版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847157285337866240/1787148944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090333966616465409/SjGBH4vM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 148,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "jiuqiudev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

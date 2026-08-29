@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087549139563491328",
+        "13_2087549208287141889"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087549256379105468",
+    "created_at": "2026-08-12T14:38:22.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:36:19.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087548740790063422",
+      "2087549256379105468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MD7xBOODps",
+          "end": 44,
+          "expanded_url": "https://x.com/kuukiwtf/status/2087549256379105468/video/1",
+          "media_key": "13_2087549139563491328",
+          "start": 21,
+          "url": "https://t.co/MD7xBOODps"
+        },
+        {
+          "display_url": "pic.x.com/MD7xBOODps",
+          "end": 44,
+          "expanded_url": "https://x.com/kuukiwtf/status/2087549256379105468/video/1",
+          "media_key": "13_2087549208287141889",
+          "start": 21,
+          "url": "https://t.co/MD7xBOODps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087549256379105468",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087549139563491328"
+      },
+      {
+        "media_key": "13_2087549208287141889"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高能預警： \n遇見路人 然後大喊大叫 （ https://t.co/MD7xBOODps"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11114,
+        "height": 1280,
+        "media_key": "13_2087549139563491328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087549139563491328/img/-o41etWB9DjBJz3X.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087549139563491328/vid/avc1/320x568/XzhAhNmI-jrnIlKO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087549139563491328/vid/avc1/480x852/Jfr9YCLPjP2sDw1w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087549139563491328/vid/avc1/720x1280/Ns_IC01887zAly2a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087549139563491328/pl/vucMnmdjiVFvdP3X.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 7478,
+        "height": 720,
+        "media_key": "13_2087549208287141889",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087549208287141889/img/K6TbykDjT1p-zi8d.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087549208287141889/vid/avc1/480x270/VvqBaaqmg2FqGw6e.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087549208287141889/vid/avc1/640x360/CcQTyID-Ky13LL8r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087549208287141889/vid/avc1/1280x720/N5XkJ5oSg_aGv_VU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087549208287141889/pl/IeMhDp9ZGSeKu-mJ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087548700319240192"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087548740790063422",
+        "created_at": "2026-08-12T14:36:19.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:36:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087548740790063422",
+          "2087549256379105468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ML1qiXuULD",
+              "end": 48,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087548740790063422/video/1",
+              "media_key": "13_2087548700319240192",
+              "start": 25,
+              "url": "https://t.co/ML1qiXuULD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087548740790063422",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087548700319240192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高能預警： 7.1s\n遇見路人 然後大喊大叫 （ https://t.co/ML1qiXuULD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087549139563491328",
+            "13_2087549208287141889"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087549256379105468",
+        "created_at": "2026-08-12T14:38:22.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:36:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087548740790063422",
+          "2087549256379105468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MD7xBOODps",
+              "end": 44,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087549256379105468/video/1",
+              "media_key": "13_2087549139563491328",
+              "start": 21,
+              "url": "https://t.co/MD7xBOODps"
+            },
+            {
+              "display_url": "pic.x.com/MD7xBOODps",
+              "end": 44,
+              "expanded_url": "https://x.com/kuukiwtf/status/2087549256379105468/video/1",
+              "media_key": "13_2087549208287141889",
+              "start": 21,
+              "url": "https://t.co/MD7xBOODps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087549256379105468",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087549139563491328"
+          },
+          {
+            "media_key": "13_2087549208287141889"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高能預警： \n遇見路人 然後大喊大叫 （ https://t.co/MD7xBOODps"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087549256379105468",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 636,
+          "like_count": 10791,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 2175
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

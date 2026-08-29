@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088318449470857216"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088318514449060072",
+    "created_at": "2026-08-14T17:35:07.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088318514449060072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JIfjaeLef8",
+          "end": 47,
+          "expanded_url": "https://x.com/kuukiwtf/status/2088318514449060072/video/1",
+          "media_key": "13_2088318449470857216",
+          "start": 24,
+          "url": "https://t.co/JIfjaeLef8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088318514449060072",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2088318449470857216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "happy fumo friday （ᗜᴗᗜ） https://t.co/JIfjaeLef8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58566,
+        "height": 576,
+        "media_key": "13_2088318449470857216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088318449470857216/img/MRGM-y9T2WWXqHLi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088318449470857216/vid/avc1/364x270/tOjTA4RRN6qAPSIb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088318449470857216/vid/avc1/486x360/Yy0decOZHR3sDNGm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088318449470857216/vid/avc1/778x576/2UTx5bNg9GZCz--e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088318449470857216/pl/CGxYO1haizEcUri5.m3u8"
+          }
+        ],
+        "width": 778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088318449470857216"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088318514449060072",
+        "created_at": "2026-08-14T17:35:07.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088318514449060072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIfjaeLef8",
+              "end": 47,
+              "expanded_url": "https://x.com/kuukiwtf/status/2088318514449060072/video/1",
+              "media_key": "13_2088318449470857216",
+              "start": 24,
+              "url": "https://t.co/JIfjaeLef8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088318514449060072",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2088318449470857216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "happy fumo friday （ᗜᴗᗜ） https://t.co/JIfjaeLef8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088318514449060072",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 655,
+          "like_count": 11364,
+          "listed_count": 0,
+          "media_count": 495,
+          "tweet_count": 2376
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

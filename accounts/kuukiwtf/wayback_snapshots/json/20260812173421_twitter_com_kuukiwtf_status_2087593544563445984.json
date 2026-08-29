@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Appliances",
+          "id": "864912523077615616",
+          "name": "Appliances"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Cooking Products",
+          "id": "831535030379835392",
+          "name": "Cooking Products"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      }
+    ],
+    "conversation_id": "2087593544563445984",
+    "created_at": "2026-08-12T17:34:21.000Z",
+    "display_text_range": [
+      0,
+      255
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087593544563445984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CryxtalDymond/…",
+          "end": 279,
+          "expanded_url": "https://twitter.com/CryxtalDymond/status/2087583755527761927",
+          "start": 256,
+          "url": "https://t.co/nOQTbsDGH7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087593544563445984",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087583755527761927",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Fears \nElevator: no\nCementery: EXCITED!! \nLizard: maybe\nSpider: VERY MUUUCH\nDark: kindaa\nHorror movies: no\nOcean depths: yes\nAirplane: kinda\nTraveling alone: no\nSnake: yes \nPressure cooker: kinda\nNeedle: NOT AT ALLLL, I LOVE IT &lt;3\nInsects: VERYMUCH T-T https://t.co/nOQTbsDGH7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Appliances",
+              "id": "864912523077615616",
+              "name": "Appliances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Products",
+              "id": "831535030379835392",
+              "name": "Cooking Products"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2087593544563445984",
+        "created_at": "2026-08-12T17:34:21.000Z",
+        "display_text_range": [
+          0,
+          255
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087593544563445984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CryxtalDymond/…",
+              "end": 279,
+              "expanded_url": "https://twitter.com/CryxtalDymond/status/2087583755527761927",
+              "start": 256,
+              "url": "https://t.co/nOQTbsDGH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087593544563445984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087583755527761927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Fears \nElevator: no\nCementery: EXCITED!! \nLizard: maybe\nSpider: VERY MUUUCH\nDark: kindaa\nHorror movies: no\nOcean depths: yes\nAirplane: kinda\nTraveling alone: no\nSnake: yes \nPressure cooker: kinda\nNeedle: NOT AT ALLLL, I LOVE IT &lt;3\nInsects: VERYMUCH T-T https://t.co/nOQTbsDGH7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022166439579566080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Appliances",
+              "id": "864912523077615616",
+              "name": "Appliances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Products",
+              "id": "831535030379835392",
+              "name": "Cooking Products"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2087583755527761927",
+        "created_at": "2026-08-12T16:55:27.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087583755527761927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rachufishee/st…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/rachufishee/status/2055466387741839760",
+              "start": 280,
+              "url": "https://t.co/cb7qCp8uq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087583755527761927",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055466387741839760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Fears\nElevator: kinda\nCementery: kinda\nLizard: no\nSpider: kinda\nDark: VERY MUCH\nHorror movies: kinda\nOcean depths: VERY MUCH\nAirplane: yes\nTraveling alone: kinda\nSnake: kinda\nPressure cooker:..?\nNeedle: kinda\nInsects: kinda\n\nI only love them when my bestie is comfortable w them🫶 https://t.co/cb7qCp8uq9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087593544563445984",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 636,
+          "like_count": 10840,
+          "listed_count": 0,
+          "media_count": 457,
+          "tweet_count": 2204
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-13T04:31:37.000Z",
+        "description": "\"You want to kill yourself so much that you want everyone to kill themselves too.\"\n🎵kyu-karin🎵-Iyowa",
+        "id": "2022166439579566080",
+        "is_identity_verified": false,
+        "location": "under ur bed",
+        "most_recent_tweet_id": "2087584040098685195",
+        "name": "☆Sayori☆ of shtwt",
+        "pinned_tweet_id": "2087454382296330561",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022166439579566080/1786524971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087453457141972992/fg5Paa5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 944,
+          "like_count": 7980,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2169
+        },
+        "url": "",
+        "username": "CryxtalDymond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

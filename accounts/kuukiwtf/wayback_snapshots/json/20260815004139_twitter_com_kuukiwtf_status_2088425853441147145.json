@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2088425853441147145",
+    "created_at": "2026-08-15T00:41:39.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T01:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088425853441147145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zqtlovekris99/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/zqtlovekris99/status/2088174283684192391",
+          "start": 10,
+          "url": "https://t.co/6kVY65kJaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088425853441147145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088174283684192391",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "還好我沒文化看不懂 https://t.co/6kVY65kJaf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1659,
+        "media_key": "3_2087973023341236224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn4ZvTaUAA0aIx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2088425853441147145",
+        "created_at": "2026-08-15T00:41:39.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088425853441147145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/2088174283684192391",
+              "start": 10,
+              "url": "https://t.co/6kVY65kJaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088425853441147145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088174283684192391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "還好我沒文化看不懂 https://t.co/6kVY65kJaf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087973023341236224"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2088174283684192391",
+        "created_at": "2026-08-14T08:02:00.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088174283684192391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MpGFmDScw6",
+              "end": 38,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2088174283684192391/photo/1",
+              "media_key": "3_2087973023341236224",
+              "start": 15,
+              "url": "https://t.co/MpGFmDScw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088174283684192391",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087973023341236224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 87982,
+          "like_count": 1555,
+          "quote_count": 6,
+          "reply_count": 156,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "不行我岁数大了看不得这种东西 https://t.co/MpGFmDScw6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2088425853441147145",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 662,
+          "like_count": 11519,
+          "listed_count": 0,
+          "media_count": 495,
+          "tweet_count": 2394
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @richelieu_ego 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "richelieu_ego"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacopJC"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "is_identity_verified": false,
+        "location": "找我提问箱！",
+        "most_recent_tweet_id": "2088342263088951384",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1886123516204089430",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390652924481527810/1759414168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14516,
+          "following_count": 1856,
+          "like_count": 26731,
+          "listed_count": 18,
+          "media_count": 6056,
+          "tweet_count": 29979
+        },
+        "url": "https://t.co/WeibacopJC",
+        "username": "zqtlovekris99",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

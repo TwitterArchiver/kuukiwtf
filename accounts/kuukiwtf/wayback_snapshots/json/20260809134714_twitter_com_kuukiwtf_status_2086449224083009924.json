@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086449218269712386"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086449224083009924",
+    "created_at": "2026-08-09T13:47:14.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086449224083009924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZKURWnt1Ni",
+          "end": 29,
+          "expanded_url": "https://x.com/kuukiwtf/status/2086449224083009924/photo/1",
+          "media_key": "3_2086449218269712386",
+          "start": 6,
+          "url": "https://t.co/ZKURWnt1Ni"
+        },
+        {
+          "display_url": "x.com/Wesley10032/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Wesley10032/status/2086437875089072522",
+          "start": 30,
+          "url": "https://t.co/utZ59CIAI3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086449224083009924",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086449218269712386"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086437875089072522",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "臭傻逼死去 https://t.co/ZKURWnt1Ni https://t.co/utZ59CIAI3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2086449218269712386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSOgnDbkAI7C27.jpg",
+        "width": 1024
+      },
+      {
+        "height": 848,
+        "media_key": "3_2086437828783947777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSEJp6awAEE-GU.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086449218269712386"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086449224083009924",
+        "created_at": "2026-08-09T13:47:14.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086449224083009924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZKURWnt1Ni",
+              "end": 29,
+              "expanded_url": "https://x.com/kuukiwtf/status/2086449224083009924/photo/1",
+              "media_key": "3_2086449218269712386",
+              "start": 6,
+              "url": "https://t.co/ZKURWnt1Ni"
+            },
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2086437875089072522",
+              "start": 30,
+              "url": "https://t.co/utZ59CIAI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086449224083009924",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086449218269712386"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086437875089072522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "臭傻逼死去 https://t.co/ZKURWnt1Ni https://t.co/utZ59CIAI3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086437828783947777"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "conversation_id": "2086437875089072522",
+        "created_at": "2026-08-09T13:02:08.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086437875089072522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8aUmd0UhRg",
+              "end": 32,
+              "expanded_url": "https://x.com/Wesley10032/status/2086437875089072522/photo/1",
+              "media_key": "3_2086437828783947777",
+              "start": 9,
+              "url": "https://t.co/8aUmd0UhRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086437875089072522",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086437828783947777"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去职高 别上高中 https://t.co/8aUmd0UhRg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086449224083009924",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 555,
+          "like_count": 9650,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 1934
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2086448623412470224",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1318,
+          "like_count": 13790,
+          "listed_count": 1,
+          "media_count": 338,
+          "tweet_count": 2427
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

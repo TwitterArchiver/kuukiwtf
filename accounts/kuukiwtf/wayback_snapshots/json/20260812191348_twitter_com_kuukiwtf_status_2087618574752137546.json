@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087618574752137546",
+    "created_at": "2026-08-12T19:13:48.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T20:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087618574752137546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sionn100percen…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/sionn100percent/status/2087436101443264849",
+          "start": 24,
+          "url": "https://t.co/xGj9xrMJsY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087618574752137546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087436101443264849",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這的嗎 那很好了 我不會做這個的 因為我沒有（ https://t.co/xGj9xrMJsY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1488,
+        "media_key": "3_2087436083105775616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgQDtDaQAAU7_1.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087618574752137546",
+        "created_at": "2026-08-12T19:13:48.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087618574752137546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sionn100percen…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sionn100percent/status/2087436101443264849",
+              "start": 24,
+              "url": "https://t.co/xGj9xrMJsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087618574752137546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087436101443264849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這的嗎 那很好了 我不會做這個的 因為我沒有（ https://t.co/xGj9xrMJsY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087436083105775616"
+          ]
+        },
+        "author_id": "1468153903384756230",
+        "conversation_id": "2087436101443264849",
+        "created_at": "2026-08-12T07:08:43.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087436101443264849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZBobKM4NX8",
+              "end": 23,
+              "expanded_url": "https://x.com/sionn100percent/status/2087436101443264849/photo/1",
+              "media_key": "3_2087436083105775616",
+              "start": 0,
+              "url": "https://t.co/ZBobKM4NX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087436101443264849",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087436083105775616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 116876,
+          "like_count": 1830,
+          "quote_count": 1,
+          "reply_count": 265,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZBobKM4NX8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087618574752137546",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 639,
+          "like_count": 10866,
+          "listed_count": 0,
+          "media_count": 466,
+          "tweet_count": 2226
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-07T09:42:39.000Z",
+        "description": "小恶魔｜Little devil｜蓝V必回｜femboy｜ENname：LunaRuri｜EN CN JP｜Hot takes｜Commentary｜Humor｜Entertainment｜Verified users follow back｜Submissions welcome",
+        "id": "1468153903384756230",
+        "is_identity_verified": false,
+        "location": "小恶魔｜蓝v必回耐心等待",
+        "most_recent_tweet_id": "2087565875209728356",
+        "name": "月璃_LunaRuri_V2🏳️‍⚧️😈",
+        "pinned_tweet_id": "2063477186338992267",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468153903384756230/1785806767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084451204726484992/gz5_UFla_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 533,
+          "like_count": 819,
+          "listed_count": 10,
+          "media_count": 150,
+          "tweet_count": 4415
+        },
+        "url": "",
+        "username": "sionn100percent",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

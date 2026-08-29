@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2083046889549914508",
+    "created_at": "2026-07-31T04:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083046889549914508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TaoistYouth/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/TaoistYouth/status/2082762132161245235",
+          "start": 23,
+          "url": "https://t.co/OLU7iuIz17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083046889549914508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082762132161245235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了怎麼那麼多字 沒看見一句話是假的😁😁 https://t.co/OLU7iuIz17"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2039,
+        "media_key": "3_2082762126943510529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd1Hpga4AESqxT.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2083046889549914508",
+        "created_at": "2026-07-31T04:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083046889549914508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TaoistYouth/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/TaoistYouth/status/2082762132161245235",
+              "start": 23,
+              "url": "https://t.co/OLU7iuIz17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083046889549914508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082762132161245235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了怎麼那麼多字 沒看見一句話是假的😁😁 https://t.co/OLU7iuIz17"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082762126943510529"
+          ]
+        },
+        "author_id": "2048745058804105216",
+        "conversation_id": "2082762132161245235",
+        "created_at": "2026-07-30T09:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082762132161245235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6KKXxTcqT",
+              "end": 28,
+              "expanded_url": "https://x.com/TaoistYouth/status/2082762132161245235/photo/1",
+              "media_key": "3_2082762126943510529",
+              "start": 5,
+              "url": "https://t.co/O6KKXxTcqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082762132161245235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 10664,
+          "like_count": 277,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "年少有为 https://t.co/O6KKXxTcqT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 520,
+          "like_count": 7473,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "自由，博爱，平等！一个右翼自由派，理想主义者，道教善信，目前在日本生活。致力于反抗中共，反抗独裁暴政！追求人格独立，个人自由｜六四精神永存，自由民主不死。愿我们期冀的民主之花，在不远后的将来，开遍华夏的每一个角落🕯️｜ 日更政治梗图，感兴趣的关注，支持本账号无限连任\n小号防失联@TaoistYouth3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "TaoistYouth3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20812…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2081268318032498774",
+                "start": 0,
+                "url": "https://t.co/O67YQyEOOR"
+              }
+            ]
+          }
+        },
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "☯︎Taoist_Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2082129891450040626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 770,
+          "like_count": 14846,
+          "listed_count": 18,
+          "media_count": 718,
+          "tweet_count": 5703
+        },
+        "url": "https://t.co/O67YQyEOOR",
+        "username": "TaoistYouth",
+        "verified": false
+      }
+    ]
+  }
+}

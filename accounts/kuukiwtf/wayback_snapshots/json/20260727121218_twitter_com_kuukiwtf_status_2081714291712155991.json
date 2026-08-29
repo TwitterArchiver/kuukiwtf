@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2081713007445569934",
+    "created_at": "2026-07-27T12:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081714291712155991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037575598730584064",
+          "start": 0,
+          "username": "RenChanT_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081714291712155991",
+    "in_reply_to_user_id": "2037575598730584064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081713007445569934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RenChanT_T 😡😡不准你們侮辱我的杯子毛澤東 😡😡😡😡那麼潤那麼緊緻😡😡 你們罵他幹什麼（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081713007445569934",
+        "created_at": "2026-07-27T12:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081714291712155991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037575598730584064",
+              "start": 0,
+              "username": "RenChanT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081714291712155991",
+        "in_reply_to_user_id": "2037575598730584064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081713007445569934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenChanT_T 😡😡不准你們侮辱我的杯子毛澤東 😡😡😡😡那麼潤那麼緊緻😡😡 你們罵他幹什麼（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037575598730584064",
+        "conversation_id": "2081713007445569934",
+        "created_at": "2026-07-27T12:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081713007445569934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chinatruth/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/chinatruth/status/2081288208911040791",
+              "start": 11,
+              "url": "https://t.co/6r4dXeIROY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081713007445569934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081288208911040791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上面的成年了有点超纲 https://t.co/6r4dXeIROY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ oder ♡ trans ♡ nonbinary ♡ 互fo大歡迎\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 461,
+          "like_count": 6213,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "@RenChan_VmV被🐜🐉迫害致死后的流亡政府\n依旧极品友跨男 左右逢源の温和社民\n可曾有人还记得我是谁？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "RenChan_VmV"
+              }
+            ]
+          }
+        },
+        "id": "2037575598730584064",
+        "name": "東洋蓮花酥🇵🇱🇪🇪🇫🇮🌹互fo寻回",
+        "pinned_tweet_id": "2079431443441455492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079425858989912064/VLFzMkJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 424,
+          "like_count": 15941,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 1116
+        },
+        "url": "",
+        "username": "RenChanT_T",
+        "verified": false
+      }
+    ]
+  }
+}

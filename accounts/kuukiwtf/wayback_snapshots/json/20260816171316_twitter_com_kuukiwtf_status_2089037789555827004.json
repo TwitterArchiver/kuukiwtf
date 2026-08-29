@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089037765983768576"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2089037789555827004",
+    "created_at": "2026-08-16T17:13:16.000Z",
+    "display_text_range": [
+      0,
+      234
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089037789555827004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rBcrfX9EW8",
+          "end": 258,
+          "expanded_url": "https://x.com/kuukiwtf/status/2089037789555827004/photo/1",
+          "media_key": "3_2089037765983768576",
+          "start": 235,
+          "url": "https://t.co/rBcrfX9EW8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089037789555827004",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089037765983768576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "all fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️Sfx all fake, halloween makeup !!actual sfx makeup not SH!All fake, SFX makeup. This is a horror makeup look I created — everything is fake and purely special effects makeup. No harmful intent or encouragement. This is fake. This is edited. ¡⚠️ ALL FAKE, SFX, FAKE BLOOD AND MAKEUP! ⚠️\nall fake, special effects makeup, this is the horror makeup I drew, it's all fake, special effects makeup. No harmful guidance. This is fake. This is photoshopped. ¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake, special effects makeup, this is the horror makeup I drew, it's all fake, special effects makeup. No harmful guidance. This is fake. This is photoshopped. ¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake, special effects makeup, this is the horror makeup I drew, it's all fake, special effects makeup. No harmful guidance. This is fake. This is photoshopped. ¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake, special effects makeup, this is the horror makeup I drew, it's all fake, special effects makeup. No harmful guidance. This is fake. This is photoshopped. ¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake, special effects makeup, this is the horror makeup I drew, it's all fake, special effects makeup. No harmful guidance. This is fake. This is photoshopped. ¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "all fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️Sfx all fake, halloween makeup !!actual sfx makeup not SH!All fake, SFX makeup. This is a horror makeup look I created — everything is fake https://t.co/rBcrfX9EW8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2089037765983768576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP3Ax6vWkAAPWbE.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089037765983768576"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2089037789555827004",
+        "created_at": "2026-08-16T17:13:16.000Z",
+        "display_text_range": [
+          0,
+          234
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089037789555827004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBcrfX9EW8",
+              "end": 258,
+              "expanded_url": "https://x.com/kuukiwtf/status/2089037789555827004/photo/1",
+              "media_key": "3_2089037765983768576",
+              "start": 235,
+              "url": "https://t.co/rBcrfX9EW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089037789555827004",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089037765983768576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "all fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️Sfx all fake, halloween makeup !!actual sfx makeup not SH!All fake, SFX makeup. This is a horror makeup look I created — everything is fake and purely special effects makeup. No harmful intent or encouragement. This is fake. This is edited. ¡⚠️ ALL FAKE, SFX, FAKE BLOOD AND MAKEUP! ⚠️\nall fake, special effects makeup, this is the horror makeup I drew, it's all fake, special effects makeup. No harmful guidance. This is fake. This is photoshopped. ¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake, special effects makeup, this is the horror makeup I drew, it's all fake, special effects makeup. No harmful guidance. This is fake. This is photoshopped. ¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake, special effects makeup, this is the horror makeup I drew, it's all fake, special effects makeup. No harmful guidance. This is fake. This is photoshopped. ¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake, special effects makeup, this is the horror makeup I drew, it's all fake, special effects makeup. No harmful guidance. This is fake. This is photoshopped. ¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️all fake, special effects makeup, this is the horror makeup I drew, it's all fake, special effects makeup. No harmful guidance. This is fake. This is photoshopped. ¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "all fake，特效化妆，这是我画的恐怖妆容，全都是假的，特效妆。无不良引导。这个是假的。这个是p的。¡⚠️ALL FAKE, SFX, FAKE BLOOD AND MAKE UP!⚠️Sfx all fake, halloween makeup !!actual sfx makeup not SH!All fake, SFX makeup. This is a horror makeup look I created — everything is fake https://t.co/rBcrfX9EW8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2089037789555827004",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2088924674465874075",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 675,
+          "like_count": 12170,
+          "listed_count": 0,
+          "media_count": 527,
+          "tweet_count": 2491
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

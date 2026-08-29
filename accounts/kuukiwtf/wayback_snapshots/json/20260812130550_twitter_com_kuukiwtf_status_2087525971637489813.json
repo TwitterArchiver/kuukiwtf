@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2087497455776796769",
+    "created_at": "2026-08-12T13:05:50.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087525971637489813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2066179606097649664",
+          "start": 0,
+          "username": "CNM_1958"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087525971637489813",
+    "in_reply_to_user_id": "2066179606097649664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087525846147911999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CNM_1958 草（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087525846147911999].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087525846147911999",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087525846147911999"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2087497455776796769",
+        "created_at": "2026-08-12T13:05:50.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087525971637489813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2066179606097649664",
+              "start": 0,
+              "username": "CNM_1958"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087525971637489813",
+        "in_reply_to_user_id": "2066179606097649664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087525846147911999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CNM_1958 草（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "GENDER\n#NONBINARY \njoined 14/7/26 (3rd acc\n\n████████████████████\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2087525971637489813",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 636,
+          "like_count": 10768,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 2164
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T15:25:36.000Z",
+        "description": "永锁号/自由意志主义/个人主义/温和右翼/反威权/实用主义/反腊反包/面对支黑形态下的弹钢琴时我可能会变成粉红/亲邓 反邓贼不碾能行嘛/哈派粉红/性奴隷@FFCP_0002/简介真伪自行分辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "FFCP_0002"
+              }
+            ]
+          }
+        },
+        "id": "2066179606097649664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2069937276902309974",
+        "name": "資本主義薯條🇹🇼🍟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066179606097649664/1784993666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081036353064914944/JG-dilm4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 117,
+          "like_count": 2317,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "CNM_1958",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

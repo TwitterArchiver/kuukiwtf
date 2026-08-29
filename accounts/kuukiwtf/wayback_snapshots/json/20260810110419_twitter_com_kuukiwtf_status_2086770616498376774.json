@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086770599444221952",
+        "3_2086770607937732608"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2086770616498376774",
+    "created_at": "2026-08-10T11:04:19.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:00:43.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086769708410544614",
+      "2086770616498376774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6cJMTLSzuF",
+          "end": 45,
+          "expanded_url": "https://x.com/kuukiwtf/status/2086770616498376774/photo/1",
+          "media_key": "3_2086770599444221952",
+          "start": 22,
+          "url": "https://t.co/6cJMTLSzuF"
+        },
+        {
+          "display_url": "pic.x.com/6cJMTLSzuF",
+          "end": 45,
+          "expanded_url": "https://x.com/kuukiwtf/status/2086770616498376774/photo/1",
+          "media_key": "3_2086770607937732608",
+          "start": 22,
+          "url": "https://t.co/6cJMTLSzuF"
+        },
+        {
+          "display_url": "x.com/akihiro_0313/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/akihiro_0313/status/2086715973768446243",
+          "start": 46,
+          "url": "https://t.co/sfIsqoOVqo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086770616498376774",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086770599444221952"
+      },
+      {
+        "media_key": "3_2086770607937732608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086715973768446243",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這是我的桌面\n只有一頁\np2是所有應用程式 https://t.co/6cJMTLSzuF https://t.co/sfIsqoOVqo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2086770599444221952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWyzdOaEAAEHUo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4005,
+        "media_key": "3_2086770607937732608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWyz83awAAxpNB.jpg",
+        "width": 929
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2086715938846736384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWBFyobAAAR5aa.jpg",
+        "width": 1843
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2086715951450619904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWBGhlbAAA3w0R.jpg",
+        "width": 1440
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2086715962292920320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWBHJ-bYAAQJLH.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086769692153454592",
+            "3_2086769701351538688"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086769708410544614",
+        "created_at": "2026-08-10T11:00:43.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:00:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086769708410544614",
+          "2086770616498376774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P201VE4QlF",
+              "end": 45,
+              "expanded_url": "https://x.com/kuukiwtf/status/2086769708410544614/photo/1",
+              "media_key": "3_2086769692153454592",
+              "start": 22,
+              "url": "https://t.co/P201VE4QlF"
+            },
+            {
+              "display_url": "pic.x.com/P201VE4QlF",
+              "end": 45,
+              "expanded_url": "https://x.com/kuukiwtf/status/2086769708410544614/photo/1",
+              "media_key": "3_2086769701351538688",
+              "start": 22,
+              "url": "https://t.co/P201VE4QlF"
+            },
+            {
+              "display_url": "x.com/akihiro_0313/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/akihiro_0313/status/2086715973768446243",
+              "start": 46,
+              "url": "https://t.co/sfIsqoOVqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086769708410544614",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086769692153454592"
+          },
+          {
+            "media_key": "3_2086769701351538688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086715973768446243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這是我的桌面\n只有一頁\np2是所有應用程式 https://t.co/P201VE4QlF https://t.co/sfIsqoOVqo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086770599444221952",
+            "3_2086770607937732608"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2086770616498376774",
+        "created_at": "2026-08-10T11:04:19.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:00:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086769708410544614",
+          "2086770616498376774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6cJMTLSzuF",
+              "end": 45,
+              "expanded_url": "https://x.com/kuukiwtf/status/2086770616498376774/photo/1",
+              "media_key": "3_2086770599444221952",
+              "start": 22,
+              "url": "https://t.co/6cJMTLSzuF"
+            },
+            {
+              "display_url": "pic.x.com/6cJMTLSzuF",
+              "end": 45,
+              "expanded_url": "https://x.com/kuukiwtf/status/2086770616498376774/photo/1",
+              "media_key": "3_2086770607937732608",
+              "start": 22,
+              "url": "https://t.co/6cJMTLSzuF"
+            },
+            {
+              "display_url": "x.com/akihiro_0313/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/akihiro_0313/status/2086715973768446243",
+              "start": 46,
+              "url": "https://t.co/sfIsqoOVqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086770616498376774",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086770599444221952"
+          },
+          {
+            "media_key": "3_2086770607937732608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086715973768446243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這是我的桌面\n只有一頁\np2是所有應用程式 https://t.co/6cJMTLSzuF https://t.co/sfIsqoOVqo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086715938846736384",
+            "3_2086715951450619904",
+            "3_2086715962292920320"
+          ]
+        },
+        "author_id": "1781893716183060480",
+        "conversation_id": "2086715973768446243",
+        "created_at": "2026-08-10T07:27:12.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086715973768446243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmGA0GDRU8",
+              "end": 52,
+              "expanded_url": "https://x.com/akihiro_0313/status/2086715973768446243/photo/1",
+              "media_key": "3_2086715938846736384",
+              "start": 29,
+              "url": "https://t.co/EmGA0GDRU8"
+            },
+            {
+              "display_url": "pic.x.com/EmGA0GDRU8",
+              "end": 52,
+              "expanded_url": "https://x.com/akihiro_0313/status/2086715973768446243/photo/1",
+              "media_key": "3_2086715951450619904",
+              "start": 29,
+              "url": "https://t.co/EmGA0GDRU8"
+            },
+            {
+              "display_url": "pic.x.com/EmGA0GDRU8",
+              "end": 52,
+              "expanded_url": "https://x.com/akihiro_0313/status/2086715973768446243/photo/1",
+              "media_key": "3_2086715962292920320",
+              "start": 29,
+              "url": "https://t.co/EmGA0GDRU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086715973768446243",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086715938846736384"
+          },
+          {
+            "media_key": "3_2086715951450619904"
+          },
+          {
+            "media_key": "3_2086715962292920320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的桌面😋打码的是我认为的臃肿的软件和galgame https://t.co/EmGA0GDRU8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n\n看黃男滾謝謝\n████████████████████\n其他帳戶\n@kuukiwfn\n@voidsama777\n@kuuki_official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "voidsama777"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2086770616498376774",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 557,
+          "like_count": 9927,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 1992
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️\n🇨🇳｜15\n​✨ 二次元 & アニメ\n💻 プログラミング\n✏️ 日本語勉強中\n​気軽に仲良くしてください😼✨\n🐾 大切な親友がいます➰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro.03131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro.03131",
+                "start": 0,
+                "url": "https://t.co/cWs0qXeWVS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "is_identity_verified": true,
+        "location": "A happy world...",
+        "most_recent_tweet_id": "2086770462097588260",
+        "name": "⟩あきひろ✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781893716183060480/1786076592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085586274866606080/IOegF-Ij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 2812,
+          "like_count": 13342,
+          "listed_count": 2,
+          "media_count": 1446,
+          "tweet_count": 10372
+        },
+        "url": "https://t.co/cWs0qXeWVS",
+        "username": "akihiro_0313",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
