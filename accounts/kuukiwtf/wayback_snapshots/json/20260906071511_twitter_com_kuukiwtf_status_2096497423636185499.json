@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096465702924255410",
+    "created_at": "2026-09-06T07:15:11.000Z",
+    "display_text_range": [
+      30,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096497423636185499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677270742705270784",
+          "start": 0,
+          "username": "GEACPS1940629"
+        },
+        {
+          "end": 29,
+          "id": "2073934453454614530",
+          "start": 15,
+          "username": "dreamolly1997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096497423636185499",
+    "in_reply_to_user_id": "1677270742705270784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096474774205772281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GEACPS1940629 @dreamolly1997 這個什麼？那麼漂亮？👊👊👊👊👊👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096465702924255410",
+        "created_at": "2026-09-06T07:15:11.000Z",
+        "display_text_range": [
+          30,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096497423636185499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677270742705270784",
+              "start": 0,
+              "username": "GEACPS1940629"
+            },
+            {
+              "end": 29,
+              "id": "2073934453454614530",
+              "start": 15,
+              "username": "dreamolly1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096497423636185499",
+        "in_reply_to_user_id": "1677270742705270784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096474774205772281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GEACPS1940629 @dreamolly1997 這個什麼？那麼漂亮？👊👊👊👊👊👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677270742705270784",
+        "conversation_id": "2096465702924255410",
+        "created_at": "2026-09-06T05:45:11.000Z",
+        "display_text_range": [
+          25,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096474774205772281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2073934453454614530",
+              "start": 0,
+              "username": "dreamolly1997"
+            },
+            {
+              "end": 24,
+              "id": "2076841557802864640",
+              "start": 15,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096474774205772281",
+        "in_reply_to_user_id": "2073934453454614530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096465702924255410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamolly1997 @kuukiwtf 這個姐姐這麽漂亮嗎👀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096497423636185499",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 585,
+          "like_count": 19056,
+          "listed_count": 1,
+          "media_count": 763,
+          "tweet_count": 3814
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺\n\n小號：@TenpennyL62429\n\n提問箱：https://t.co/zN1fnV0uNx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "TenpennyL62429"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 118,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 95,
+                "url": "https://t.co/zN1fnV0uNx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://telegram.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/qNSceYpy5B"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096491687682187625",
+        "name": "Mr.湯普尼▐┛",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677270742705270784/1737476278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003522899798269952/v4chWipq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 6736,
+          "like_count": 107103,
+          "listed_count": 3,
+          "media_count": 4394,
+          "tweet_count": 12000
+        },
+        "url": "https://t.co/qNSceYpy5B",
+        "username": "GEACPS1940629",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使\n🚪88，什么都没有",
+        "id": "2073934453454614530",
+        "is_identity_verified": false,
+        "location": "molise 的心里！",
+        "most_recent_tweet_id": "2096489437098307657",
+        "name": "molly",
+        "pinned_tweet_id": "2095379425076621420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073934453454614530/1783770009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 888,
+          "like_count": 5536,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 5241
+        },
+        "url": "",
+        "username": "dreamolly1997",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

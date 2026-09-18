@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2098428696696881435",
+    "created_at": "2026-09-11T16:24:18.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T17:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098447552597074143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752365546916720640",
+          "start": 0,
+          "username": "Yuzumikonami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098447552597074143",
+    "in_reply_to_user_id": "1752365546916720640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098428696696881435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuzumikonami 快樂他媽.. 支那人🤮🤮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098428696696881435",
+        "created_at": "2026-09-11T16:24:18.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098447552597074143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752365546916720640",
+              "start": 0,
+              "username": "Yuzumikonami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098447552597074143",
+        "in_reply_to_user_id": "1752365546916720640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098428696696881435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuzumikonami 快樂他媽.. 支那人🤮🤮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752365546916720640",
+        "conversation_id": "2098428696696881435",
+        "created_at": "2026-09-11T15:09:22.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T16:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098428696696881435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/USA_China_Talk…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/USA_China_Talk/status/2098328193182896286",
+              "start": 42,
+              "url": "https://t.co/XdsEsskMoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098428696696881435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098328193182896286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窝同学9号跟我说那天是🐱泽🕳️ 🪑小🍎快乐日\n然后今天跟我说今天是世贸中心快乐日喵 https://t.co/XdsEsskMoB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098447552597074143",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 606,
+          "like_count": 20264,
+          "listed_count": 1,
+          "media_count": 784,
+          "tweet_count": 4005
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-30T16:18:13.000Z",
+        "description": "非二元 | 11年 | 高一 | ISFP | 猫猫 | 友好温柔 | 中度社恐 | 暂不含糖/不割手 | 友跨🏳️‍⚧️🍥 | 成分复杂 | Kotlin | Python | 批处理 | 网页开发 | 语言 🇨🇳 🇯🇵 🇺🇸 | 日语学习中🇯🇵 | 玛丽厨 | 发点梗图和日常喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuzumikonami",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuzumikonami",
+                "start": 0,
+                "url": "https://t.co/DwXVwJm51t"
+              }
+            ]
+          }
+        },
+        "id": "1752365546916720640",
+        "is_identity_verified": false,
+        "location": "坐标南京 | NGL↓",
+        "most_recent_tweet_id": "2098428696696881435",
+        "name": "Yuzumikonami🤔🥰❤️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752365546916720640/1783142489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075886100984299520/fQugRAKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 742,
+          "like_count": 11164,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/DwXVwJm51t",
+        "username": "Yuzumikonami",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

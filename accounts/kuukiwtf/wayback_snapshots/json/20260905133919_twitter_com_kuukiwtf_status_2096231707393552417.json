@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096231707393552417",
+    "created_at": "2026-09-05T13:39:19.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096231707393552417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/monesy233/stat…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/monesy233/status/2096182803134038193",
+          "start": 38,
+          "url": "https://t.co/XqGcc5Mm6E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096231707393552417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096182803134038193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我們佈置暑假作業 在班級群上傳的只是給家長裝裝樣子\n實際上根本沒有作業👍👍 https://t.co/XqGcc5Mm6E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096231707393552417",
+        "created_at": "2026-09-05T13:39:19.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096231707393552417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/monesy233/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/monesy233/status/2096182803134038193",
+              "start": 38,
+              "url": "https://t.co/XqGcc5Mm6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096231707393552417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096182803134038193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我們佈置暑假作業 在班級群上傳的只是給家長裝裝樣子\n實際上根本沒有作業👍👍 https://t.co/XqGcc5Mm6E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042966135490965504",
+        "conversation_id": "2096182803134038193",
+        "created_at": "2026-09-05T10:25:00.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096182803134038193"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "4797714c95971ac1"
+        },
+        "id": "2096182803134038193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暑假作业一笔没动居然没有检查www"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096231707393552417",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 585,
+          "like_count": 18802,
+          "listed_count": 1,
+          "media_count": 746,
+          "tweet_count": 3739
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-11T14:01:11.000Z",
+        "description": "\"生有涯 艺无涯\" 同类可互fo 注册日期:08 1106\n对一切事物充满好奇与同情\n叫我小mo就好 ☺️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/monesy26445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/monesy26445",
+                "start": 0,
+                "url": "https://t.co/THDSbOiCPr"
+              }
+            ]
+          }
+        },
+        "id": "2042966135490965504",
+        "is_identity_verified": false,
+        "location": "荒漠迷城",
+        "most_recent_tweet_id": "2096182803134038193",
+        "name": "认真做mONESY～",
+        "pinned_tweet_id": "2093728681516835273",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042966135490965504/1779798968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082124815729876992/2pqk7ID6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 173,
+          "like_count": 4197,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/THDSbOiCPr",
+        "username": "monesy233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

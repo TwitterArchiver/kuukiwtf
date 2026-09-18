@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2095489154587164712",
+    "created_at": "2026-09-03T12:28:41.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095489154587164712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2073934453454614530",
+          "start": 3,
+          "username": "dreamolly1997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095489154587164712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095379425076621420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dreamolly1997: 你好这是我的自介\n我支持同性恋，跨性别，性别多元，大麻合法化等。我中立，我反对激进拒绝保守。我身心状态都很差，我滥用我紫参我有一些自毁倾向，我基本无雷，我基本无攻击力， 我有双相精分焦虑强迫症等 114514 种问题。我喜欢 ACG，喜欢车…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2095489154587164712",
+        "created_at": "2026-09-03T12:28:41.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095489154587164712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2073934453454614530",
+              "start": 3,
+              "username": "dreamolly1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095489154587164712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095379425076621420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dreamolly1997: 你好这是我的自介\n我支持同性恋，跨性别，性别多元，大麻合法化等。我中立，我反对激进拒绝保守。我身心状态都很差，我滥用我紫参我有一些自毁倾向，我基本无雷，我基本无攻击力， 我有双相精分焦虑强迫症等 114514 种问题。我喜欢 ACG，喜欢车…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2095379425076621420",
+        "created_at": "2026-09-03T05:12:39.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095379425076621420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095379425076621420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你好这是我的自介\n我支持同性恋，跨性别，性别多元，大麻合法化等。我中立，我反对激进拒绝保守。我身心状态都很差，我滥用我紫参我有一些自毁倾向，我基本无雷，我基本无攻击力， 我有双相精分焦虑强迫症等 114514 种问题。我喜欢 ACG，喜欢车，表等各种机械，喜欢各种民俗文化，谢谢\n骚扰我请先打钱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095489154587164712",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 587,
+          "like_count": 18229,
+          "listed_count": 1,
+          "media_count": 722,
+          "tweet_count": 3641
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "is_identity_verified": false,
+        "location": "molise 的心里！",
+        "most_recent_tweet_id": "2095487967586656276",
+        "name": "molly",
+        "pinned_tweet_id": "2095379425076621420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073934453454614530/1783770009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 689,
+          "like_count": 4461,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 4602
+        },
+        "url": "",
+        "username": "dreamolly1997",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

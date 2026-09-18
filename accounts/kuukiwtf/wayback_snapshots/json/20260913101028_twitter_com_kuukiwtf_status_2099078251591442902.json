@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2099070031711883402",
+    "created_at": "2026-09-13T10:10:28.000Z",
+    "display_text_range": [
+      9,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T11:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099078251591442902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1787374646926651392",
+          "start": 0,
+          "username": "n0by_24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099078251591442902",
+    "in_reply_to_user_id": "1787374646926651392",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099077993238777915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n0by_24 hah, fuckyah"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2099070031711883402",
+        "created_at": "2026-09-13T10:10:28.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099078251591442902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1787374646926651392",
+              "start": 0,
+              "username": "n0by_24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099078251591442902",
+        "in_reply_to_user_id": "1787374646926651392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099077993238777915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n0by_24 hah, fuckyah"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787374646926651392",
+        "conversation_id": "2099070031711883402",
+        "created_at": "2026-09-13T10:09:27.000Z",
+        "display_text_range": [
+          10,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099077993238777915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099077993238777915",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099077585108148274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf oh well that's a problem haha"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2099078251591442902",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 605,
+          "like_count": 20901,
+          "listed_count": 1,
+          "media_count": 803,
+          "tweet_count": 4110
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-06T06:51:55.000Z",
+        "description": "24 winters\n\n(⁠=⁠^⁠･⁠ｪ⁠･⁠^⁠=⁠) \n\n✿sh/blood/drugs✿\n\nDiscord - n0by_24",
+        "id": "1787374646926651392",
+        "is_identity_verified": false,
+        "location": "eternal lock inside my mind",
+        "most_recent_tweet_id": "2099077993238777915",
+        "name": "n·ø·b·y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787374646926651392/1763864518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086330761360338944/lw0kmmLb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 98,
+          "like_count": 1783,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "n0by_24",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

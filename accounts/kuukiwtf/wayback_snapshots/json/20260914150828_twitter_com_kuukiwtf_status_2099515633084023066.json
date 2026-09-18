@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2099037222263820357",
+    "created_at": "2026-09-14T15:08:28.000Z",
+    "display_text_range": [
+      16,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T16:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099515633084023066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849826752891408385",
+          "start": 0,
+          "username": "Noa__Shirayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099515633084023066",
+    "in_reply_to_user_id": "1849826752891408385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099515036414968019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noa__Shirayuki 我支那人 支那國 \n第一語言是中文阿😭😭\n（（悲\n\n如果是英語和美國那我當然喜歡了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2099037222263820357",
+        "created_at": "2026-09-14T15:08:28.000Z",
+        "display_text_range": [
+          16,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099515633084023066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849826752891408385",
+              "start": 0,
+              "username": "Noa__Shirayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099515633084023066",
+        "in_reply_to_user_id": "1849826752891408385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099515036414968019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noa__Shirayuki 我支那人 支那國 \n第一語言是中文阿😭😭\n（（悲\n\n如果是英語和美國那我當然喜歡了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849826752891408385",
+        "conversation_id": "2099037222263820357",
+        "created_at": "2026-09-14T15:06:06.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099515036414968019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099515036414968019",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099514336385609775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 是什麼⋯英語和美國嗎⋯(=ﾟωﾟ)ﾉ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2099515633084023066",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 611,
+          "like_count": 21209,
+          "listed_count": 1,
+          "media_count": 813,
+          "tweet_count": 4169
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-25T14:54:21.000Z",
+        "description": "專業銳評 & 情色藝術家\nIT（Windows Server）｜業餘混音／音樂鑑賞／攝影\n🇹🇼漢語(正體中文/簡體中文)｜🇭🇰🇲🇴粵語｜🇯🇵日語\n動畫／Galgame 愛好者",
+        "id": "1849826752891408385",
+        "is_identity_verified": false,
+        "location": "Macao(SAR) ,China",
+        "most_recent_tweet_id": "2099515036414968019",
+        "name": "白雪乃愛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849826752891408385/1729870550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849837151518851072/QsQejokl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 99,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "Noa__Shirayuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

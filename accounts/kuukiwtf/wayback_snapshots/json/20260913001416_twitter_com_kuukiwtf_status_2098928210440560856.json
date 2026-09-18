@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2098928210440560856",
+    "created_at": "2026-09-13T00:14:16.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T01:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098928210440560856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shushuwoazuixi…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/shushuwoazuixih/status/2098833333979602967",
+          "start": 7,
+          "url": "https://t.co/uHGRWt98h4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098928210440560856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098833333979602967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇 男的來了 https://t.co/uHGRWt98h4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2086,
+        "media_key": "3_2098833327876894720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCNyqbacAAOscl.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098928210440560856",
+        "created_at": "2026-09-13T00:14:16.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T01:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098928210440560856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shushuwoazuixi…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shushuwoazuixih/status/2098833333979602967",
+              "start": 7,
+              "url": "https://t.co/uHGRWt98h4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098928210440560856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098833333979602967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇 男的來了 https://t.co/uHGRWt98h4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098833327876894720"
+          ]
+        },
+        "author_id": "1582402074217951233",
+        "conversation_id": "2098833333979602967",
+        "created_at": "2026-09-12T17:57:15.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098833333979602967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66UhA2G13K",
+              "end": 23,
+              "expanded_url": "https://x.com/shushuwoazuixih/status/2098833333979602967/photo/1",
+              "media_key": "3_2098833327876894720",
+              "start": 0,
+              "url": "https://t.co/66UhA2G13K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098833333979602967",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098833327876894720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/66UhA2G13K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098928210440560856",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 605,
+          "like_count": 20718,
+          "listed_count": 1,
+          "media_count": 800,
+          "tweet_count": 4073
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-18T16:03:59.000Z",
+        "description": "09 fo的查成分回 人类 直男。",
+        "id": "1582402074217951233",
+        "is_identity_verified": false,
+        "location": "Auckland, New Zealand",
+        "most_recent_tweet_id": "2098833333979602967",
+        "name": "😎😇",
+        "pinned_tweet_id": "2090047076469973037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1582402074217951233/1703781607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782040500918505472/X4P9NbEK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 923,
+          "like_count": 754,
+          "listed_count": 2,
+          "media_count": 805,
+          "tweet_count": 4791
+        },
+        "url": "",
+        "username": "shushuwoazuixih",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096552400161309141",
+    "created_at": "2026-09-06T10:53:38.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096552400161309141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jeffrey2001122…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/Jeffrey20011221/status/2096518069065843076",
+          "start": 75,
+          "url": "https://t.co/djVsv3cQuF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096552400161309141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096518069065843076",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "九月开始了请您为号主打分：\nA：约不约跑\nB：神经病吧? \nC：好看爱看\nD：傻逼但是喜欢看 \nE：求断更 \nF：优质逼\nG：你妈死了天天发这种东西 https://t.co/djVsv3cQuF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096552400161309141",
+        "created_at": "2026-09-06T10:53:38.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096552400161309141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jeffrey2001122…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/Jeffrey20011221/status/2096518069065843076",
+              "start": 75,
+              "url": "https://t.co/djVsv3cQuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096552400161309141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096518069065843076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "九月开始了请您为号主打分：\nA：约不约跑\nB：神经病吧? \nC：好看爱看\nD：傻逼但是喜欢看 \nE：求断更 \nF：优质逼\nG：你妈死了天天发这种东西 https://t.co/djVsv3cQuF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032516808951902208",
+        "conversation_id": "2096518069065843076",
+        "created_at": "2026-09-06T08:37:13.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096518069065843076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096518069065843076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "九月开始了请您为号主打分：\nA：约不约跑\nB：神经病吧? \nC：好看爱看\nD：傻逼但是喜欢看 \nE：求断更 \nF：优质逼\nG：你妈死了天天发这种东西"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096552400161309141",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 593,
+          "like_count": 19144,
+          "listed_count": 1,
+          "media_count": 766,
+          "tweet_count": 3840
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T18:00:14.000Z",
+        "description": "@Jeff12212001 转生\nMTF in progress 🏳️‍⚧️\nCollecting fountain pens 🖋️\n持证含糖/速通大证🫣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Jeff12212001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rheafeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rheafeng",
+                "start": 0,
+                "url": "https://t.co/UHHpuDduP5"
+              }
+            ]
+          }
+        },
+        "id": "2032516808951902208",
+        "is_identity_verified": false,
+        "location": "Birmingham, England",
+        "most_recent_tweet_id": "2096521159257076120",
+        "name": "Jeff姐夫 (Rhea)",
+        "pinned_tweet_id": "2053223857318764933",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032516808951902208/1775574040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052498282249650180/swsCu4G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 791,
+          "like_count": 4019,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1176
+        },
+        "url": "https://t.co/UHHpuDduP5",
+        "username": "Jeffrey20011221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

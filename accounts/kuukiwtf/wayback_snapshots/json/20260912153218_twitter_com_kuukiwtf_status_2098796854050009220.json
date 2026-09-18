@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2098790572748369941",
+    "created_at": "2026-09-12T15:32:18.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098796854050009220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819276723290095616",
+          "start": 0,
+          "username": "Natsuki_803nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098796854050009220",
+    "in_reply_to_user_id": "1819276723290095616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098796631621767460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuki_803nz 愛你愛你🤍🤍😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098790572748369941",
+        "created_at": "2026-09-12T15:32:18.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098796854050009220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819276723290095616",
+              "start": 0,
+              "username": "Natsuki_803nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098796854050009220",
+        "in_reply_to_user_id": "1819276723290095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098796631621767460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuki_803nz 愛你愛你🤍🤍😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819276723290095616",
+        "conversation_id": "2098790572748369941",
+        "created_at": "2026-09-12T15:31:25.000Z",
+        "display_text_range": [
+          10,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098796631621767460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098796631621767460",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098790572748369941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 抱抱…抱抱…永远陪着你…\n我们永远互相陪着…好嘛\n上次窝在kuuki怀里，真的很温暖，很安全…\n当时，kuuki睡着了…那时我就觉得，kuuki的心里，有些难受…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098796854050009220",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 605,
+          "like_count": 20657,
+          "listed_count": 1,
+          "media_count": 801,
+          "tweet_count": 4069
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T07:39:26.000Z",
+        "description": "高二｜没钱，暂时蓝v｜炸柜断糖｜重度抑郁｜周六晚上复活，消息回复可能不及时｜179cm/65kg｜百合｜交通迷｜无聊｜想被抱抱…\n小号备用：@Natsuki_nz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Natsuki_nz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/natsuk…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/natsuki803.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Wqo3MVUKbY"
+              }
+            ]
+          }
+        },
+        "id": "1819276723290095616",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2098796631621767460",
+        "name": "夏希🍥",
+        "pinned_tweet_id": "2094084081340563588",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819276723290095616/1771773388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087726087333957632/6Jp9VRIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 526,
+          "like_count": 3228,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1383
+        },
+        "url": "https://t.co/Wqo3MVUKbY",
+        "username": "Natsuki_803nz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

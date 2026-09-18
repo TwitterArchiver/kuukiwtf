@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096226884422181084",
+    "created_at": "2026-09-05T13:20:09.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096226884422181084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Amatsukiqwq/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Amatsukiqwq/status/2096214244425666705",
+          "start": 15,
+          "url": "https://t.co/LeDDNV7xOK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096226884422181084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096214244425666705",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拿點小刀展示出來\n讓他好好剪 https://t.co/LeDDNV7xOK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096226884422181084",
+        "created_at": "2026-09-05T13:20:09.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096226884422181084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Amatsukiqwq/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Amatsukiqwq/status/2096214244425666705",
+              "start": 15,
+              "url": "https://t.co/LeDDNV7xOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096226884422181084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096214244425666705",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿點小刀展示出來\n讓他好好剪 https://t.co/LeDDNV7xOK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035527946354716672",
+        "conversation_id": "2096214244425666705",
+        "created_at": "2026-09-05T12:29:56.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096214244425666705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096214244425666705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我媽帶我去她說很好的理髮店修一下\n我想著我媽說只是「修」一下\n且我擔心學校會檢查說我太長於是我就去了\n我明確說留長一些\n但理髮師給旁邊和後面剪完了\n好幾個月留的呀！！！\n我問怎麼這麼短\n他告訴我這樣清爽\n⋯⋯⋯⋯\n\nHRT一段時間胸開始發育了焦慮-10\n頭髮短了焦慮+100000000000\n好難受(╥﹏╥)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096226884422181084",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 585,
+          "like_count": 18799,
+          "listed_count": 1,
+          "media_count": 746,
+          "tweet_count": 3736
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T01:25:44.000Z",
+        "description": "🏳️‍⚧️mtf🍥hrt中｜正體中文/简体中文/日本語｜自由主義｜INFP｜プロセカ\n總之大家可以來找我聊天交朋友\n互foにゃー",
+        "id": "2035527946354716672",
+        "is_identity_verified": false,
+        "location": "重慶",
+        "most_recent_tweet_id": "2096214244425666705",
+        "name": "天月🏳️‍⚧️ 🍥",
+        "pinned_tweet_id": "2072508716562383206",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035527946354716672/1782924399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068511169758064640/ImfSq6Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 1066,
+          "like_count": 12477,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "Amatsukiqwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

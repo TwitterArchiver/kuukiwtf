@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096541538088034719",
+    "created_at": "2026-09-06T11:54:30.000Z",
+    "display_text_range": [
+      31,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T12:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096567717813801158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812527084973260800",
+          "start": 0,
+          "username": "Keader291533"
+        },
+        {
+          "end": 30,
+          "id": "2093710985827848193",
+          "start": 14,
+          "username": "yamazakiisuzu_N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096567717813801158",
+    "in_reply_to_user_id": "1812527084973260800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096566250684215694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keader291533 @yamazakiisuzu_N 之前用蘋果那邊得充的\nplaystore的這個我被吞了$25 鎖了用不了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096541538088034719",
+        "created_at": "2026-09-06T11:54:30.000Z",
+        "display_text_range": [
+          31,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096567717813801158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812527084973260800",
+              "start": 0,
+              "username": "Keader291533"
+            },
+            {
+              "end": 30,
+              "id": "2093710985827848193",
+              "start": 14,
+              "username": "yamazakiisuzu_N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096567717813801158",
+        "in_reply_to_user_id": "1812527084973260800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096566250684215694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keader291533 @yamazakiisuzu_N 之前用蘋果那邊得充的\nplaystore的這個我被吞了$25 鎖了用不了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812527084973260800",
+        "conversation_id": "2096541538088034719",
+        "created_at": "2026-09-06T11:48:41.000Z",
+        "display_text_range": [
+          27,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096566250684215694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            },
+            {
+              "end": 26,
+              "id": "2093710985827848193",
+              "start": 10,
+              "username": "yamazakiisuzu_N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096566250684215694",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096566135886135404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf @yamazakiisuzu_N 完全没成功过，白白浪费了好多好多米（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096567717813801158",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 593,
+          "like_count": 19163,
+          "listed_count": 1,
+          "media_count": 769,
+          "tweet_count": 3850
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-14T16:38:37.000Z",
+        "description": "只是想要被所有人注视着\n🚪20/限免已经结束了，没有加上恩德大人的东西们就躲在被窝里独自懊悔去吧（）",
+        "id": "1812527084973260800",
+        "is_identity_verified": false,
+        "location": "不思議の国",
+        "most_recent_tweet_id": "2096566300382523737",
+        "name": "✝end君✝",
+        "pinned_tweet_id": "2095146324878598475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812527084973260800/1788511695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094038762208833536/hSjI8Z8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 746,
+          "like_count": 4347,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 3202
+        },
+        "url": "",
+        "username": "Keader291533",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T14:43:57.000Z",
+        "description": "重新开始吧……",
+        "id": "2093710985827848193",
+        "is_identity_verified": false,
+        "location": "梦里",
+        "most_recent_tweet_id": "2096567553908982009",
+        "name": "✞山崎いすず✞",
+        "pinned_tweet_id": "2095158173569339842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093710985827848193/1788162518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093711492566904832/TvwoUe1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 95,
+          "like_count": 1775,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1080
+        },
+        "url": "",
+        "username": "yamazakiisuzu_N",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097439737095274496",
+        "3_2097439752832385025"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2097439765117436092",
+    "created_at": "2026-09-08T21:39:43.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T22:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097439765117436092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/olKcBdoW83",
+          "end": 61,
+          "expanded_url": "https://x.com/kuukiwtf/status/2097439765117436092/photo/1",
+          "media_key": "3_2097439737095274496",
+          "start": 38,
+          "url": "https://t.co/olKcBdoW83"
+        },
+        {
+          "display_url": "pic.x.com/olKcBdoW83",
+          "end": 61,
+          "expanded_url": "https://x.com/kuukiwtf/status/2097439765117436092/photo/1",
+          "media_key": "3_2097439752832385025",
+          "start": 38,
+          "url": "https://t.co/olKcBdoW83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097439765117436092",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097439737095274496"
+      },
+      {
+        "media_key": "3_2097439752832385025"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "HAPPY CIRNO DAY ⑨/⑨ \n🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵 https://t.co/olKcBdoW83"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2097439737095274496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuaVANaQAAEm3_.jpg",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2097439752832385025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuaV61bgAEpnxQ.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097439737095274496",
+            "3_2097439752832385025"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2097439765117436092",
+        "created_at": "2026-09-08T21:39:43.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T22:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097439765117436092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/olKcBdoW83",
+              "end": 61,
+              "expanded_url": "https://x.com/kuukiwtf/status/2097439765117436092/photo/1",
+              "media_key": "3_2097439737095274496",
+              "start": 38,
+              "url": "https://t.co/olKcBdoW83"
+            },
+            {
+              "display_url": "pic.x.com/olKcBdoW83",
+              "end": 61,
+              "expanded_url": "https://x.com/kuukiwtf/status/2097439765117436092/photo/1",
+              "media_key": "3_2097439752832385025",
+              "start": 38,
+              "url": "https://t.co/olKcBdoW83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097439765117436092",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097439737095274496"
+          },
+          {
+            "media_key": "3_2097439752832385025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HAPPY CIRNO DAY ⑨/⑨ \n🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵 https://t.co/olKcBdoW83"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2097439765117436092",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 602,
+          "like_count": 19764,
+          "listed_count": 1,
+          "media_count": 774,
+          "tweet_count": 3935
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

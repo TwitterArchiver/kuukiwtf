@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2095847204485480448"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2095847221681951130",
+    "created_at": "2026-09-04T12:11:31.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T13:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095847221681951130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HTqSe9CoQq",
+          "end": 65,
+          "expanded_url": "https://x.com/kuukiwtf/status/2095847221681951130/photo/1",
+          "media_key": "16_2095847204485480448",
+          "start": 42,
+          "url": "https://t.co/HTqSe9CoQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095847221681951130",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2095847204485480448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "here koishi, u can have a cheeseburger\n😋😋 https://t.co/HTqSe9CoQq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2095847204485480448",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRXx7Z7aQAAGtwg.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRXx7Z7aQAAGtwg.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2095847204485480448"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2095847221681951130",
+        "created_at": "2026-09-04T12:11:31.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095847221681951130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HTqSe9CoQq",
+              "end": 65,
+              "expanded_url": "https://x.com/kuukiwtf/status/2095847221681951130/photo/1",
+              "media_key": "16_2095847204485480448",
+              "start": 42,
+              "url": "https://t.co/HTqSe9CoQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095847221681951130",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2095847204485480448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "here koishi, u can have a cheeseburger\n😋😋 https://t.co/HTqSe9CoQq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095847221681951130",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 587,
+          "like_count": 18392,
+          "listed_count": 1,
+          "media_count": 730,
+          "tweet_count": 3674
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

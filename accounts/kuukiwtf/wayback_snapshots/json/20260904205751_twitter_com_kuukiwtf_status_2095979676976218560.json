@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2095979676976218560",
+    "created_at": "2026-09-04T20:57:51.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T21:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095979676976218560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yamazakiisuzu_…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/yamazakiisuzu_N/status/2095915567794541011",
+          "start": 9,
+          "url": "https://t.co/YwCEXY1i4G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095979676976218560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095915567794541011",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人類必須無性別化 https://t.co/YwCEXY1i4G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2095979676976218560",
+        "created_at": "2026-09-04T20:57:51.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095979676976218560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamazakiisuzu_…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yamazakiisuzu_N/status/2095915567794541011",
+              "start": 9,
+              "url": "https://t.co/YwCEXY1i4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095979676976218560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095915567794541011",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人類必須無性別化 https://t.co/YwCEXY1i4G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093710985827848193",
+        "conversation_id": "2095915567794541011",
+        "created_at": "2026-09-04T16:43:06.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095915567794541011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamazakiisuzu_…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/yamazakiisuzu_N/status/2095674386208714941",
+              "start": 14,
+              "url": "https://t.co/Da0SPLZrTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095915567794541011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095674386208714941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亿万男性必须女性化.jpg https://t.co/Da0SPLZrTt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095979676976218560",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 587,
+          "like_count": 18457,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 3682
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T14:43:57.000Z",
+        "description": "重新开始吧……",
+        "id": "2093710985827848193",
+        "is_identity_verified": false,
+        "location": "梦里",
+        "most_recent_tweet_id": "2095928549010178311",
+        "name": "✞山崎いすず✞",
+        "pinned_tweet_id": "2095158173569339842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093710985827848193/1788162518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093711492566904832/TvwoUe1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 93,
+          "like_count": 1482,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 827
+        },
+        "url": "",
+        "username": "yamazakiisuzu_N",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

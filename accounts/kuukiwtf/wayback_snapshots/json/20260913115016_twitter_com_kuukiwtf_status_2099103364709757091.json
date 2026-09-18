@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2099103364709757091",
+    "created_at": "2026-09-13T11:50:16.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T12:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099103364709757091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuexiaqingqiu/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yuexiaqingqiu/status/2098943295695331705",
+          "start": 4,
+          "url": "https://t.co/vIzgfNUcdO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099103364709757091",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098943295695331705",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘻嘻嘻 https://t.co/vIzgfNUcdO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2098943288795652096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSDxzOxa4AAj9nh.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2099103364709757091",
+        "created_at": "2026-09-13T11:50:16.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T12:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099103364709757091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuexiaqingqiu/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yuexiaqingqiu/status/2098943295695331705",
+              "start": 4,
+              "url": "https://t.co/vIzgfNUcdO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099103364709757091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098943295695331705",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘻嘻嘻 https://t.co/vIzgfNUcdO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098943288795652096"
+          ]
+        },
+        "author_id": "2083431637027823616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098943295695331705",
+        "created_at": "2026-09-13T01:14:12.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098943295695331705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONTmf3AB5h",
+              "end": 44,
+              "expanded_url": "https://x.com/yuexiaqingqiu/status/2098943295695331705/photo/1",
+              "media_key": "3_2098943288795652096",
+              "start": 21,
+              "url": "https://t.co/ONTmf3AB5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098943295695331705",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098943288795652096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 481,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "撒旦来了，都要托关系才能在你课上当清洁工 https://t.co/ONTmf3AB5h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2099103364709757091",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 607,
+          "like_count": 20983,
+          "listed_count": 1,
+          "media_count": 803,
+          "tweet_count": 4120
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T05:57:25.000Z",
+        "description": "2008.7.9诞辰❤️/🎋HRT6.3\n爱好心理学研究📚｡◕‿◕｡/C语言研究中💾\n希望可以帮助到大家哦，少zc不od\n日常幽默风趣，都不许欺负小清秋ʘᴗʘ\n孩子@Loveqingqiu\nLover@theEchohuisheng\n🐧3866066283",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "Loveqingqiu"
+              }
+            ]
+          }
+        },
+        "id": "2083431637027823616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099097138852724922",
+        "name": "𝓠𝓲𝓷𝓰𝓺𝓾月下知清秋",
+        "pinned_tweet_id": "2093611787765829679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083431637027823616/1789286644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086095343209652224/BE5bgTny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 209,
+          "like_count": 1094,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 732
+        },
+        "url": "",
+        "username": "yuexiaqingqiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096418829551480832"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096418838728573107",
+    "created_at": "2026-09-06T02:02:55.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T03:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096418838728573107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ysLwtNS1sX",
+          "end": 71,
+          "expanded_url": "https://x.com/kuukiwtf/status/2096418838728573107/photo/1",
+          "media_key": "3_2096418829551480832",
+          "start": 48,
+          "url": "https://t.co/ysLwtNS1sX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096418838728573107",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096418829551480832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可惡的b站居然讓我滑到miniworld\n太可惡了\n必須點不感興趣😡😡\n迷你不倒 一腳踹倒👍👍 https://t.co/ysLwtNS1sX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2187,
+        "media_key": "3_2096418829551480832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRf50XPbMAARoJp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096418829551480832"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096418838728573107",
+        "created_at": "2026-09-06T02:02:55.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096418838728573107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ysLwtNS1sX",
+              "end": 71,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096418838728573107/photo/1",
+              "media_key": "3_2096418829551480832",
+              "start": 48,
+              "url": "https://t.co/ysLwtNS1sX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096418838728573107",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096418829551480832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可惡的b站居然讓我滑到miniworld\n太可惡了\n必須點不感興趣😡😡\n迷你不倒 一腳踹倒👍👍 https://t.co/ysLwtNS1sX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096418838728573107",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 584,
+          "like_count": 18983,
+          "listed_count": 1,
+          "media_count": 757,
+          "tweet_count": 3781
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

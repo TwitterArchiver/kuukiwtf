@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099129493751488512"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2099129501821051131",
+    "created_at": "2026-09-13T13:34:07.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T14:32:57.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099129208442327158",
+      "2099129501821051131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bl9eqd9Yeu",
+          "end": 140,
+          "expanded_url": "https://x.com/kuukiwtf/status/2099129501821051131/photo/1",
+          "media_key": "3_2099129493751488512",
+          "start": 117,
+          "url": "https://t.co/bl9eqd9Yeu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099129501821051131",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099129493751488512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我們學校的支那校長怎麼連校外都要管\n我在學校門口抽菸怎麼了\n和你有一點關係嗎\n又不是在學校裡面\n\n我在學校裡面抽菸你當然可以拍我\n學校外面和你有關係嗎 管的有點寬了吧\n支那農村人校長\n\n等我就時間對校長吐煙去 等我畢業 或者他被畢業 https://t.co/bl9eqd9Yeu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 167,
+        "media_key": "3_2099129202121523201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGa4z4aQAE5PyC.jpg",
+        "width": 530
+      },
+      {
+        "height": 167,
+        "media_key": "3_2099129493751488512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGbJySaYAA2pcI.jpg",
+        "width": 530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099129202121523201"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2099129208442327158",
+        "created_at": "2026-09-13T13:32:57.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:32:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099129208442327158",
+          "2099129501821051131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G8t9dVsDpJ",
+              "end": 111,
+              "expanded_url": "https://x.com/kuukiwtf/status/2099129208442327158/photo/1",
+              "media_key": "3_2099129202121523201",
+              "start": 88,
+              "url": "https://t.co/G8t9dVsDpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099129208442327158",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099129202121523201"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我們的學校怎麼連校外都要管\n我在學校門口抽菸怎麼了\n和你有一點關係嗎\n又不是在學校裡面\n\n我在學校裡面抽菸你當然可以拍我\n學校外面和你有關係嗎 管的有點寬了吧\n支那農村人校長 https://t.co/G8t9dVsDpJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099129493751488512"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2099129501821051131",
+        "created_at": "2026-09-13T13:34:07.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:32:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099129208442327158",
+          "2099129501821051131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bl9eqd9Yeu",
+              "end": 140,
+              "expanded_url": "https://x.com/kuukiwtf/status/2099129501821051131/photo/1",
+              "media_key": "3_2099129493751488512",
+              "start": 117,
+              "url": "https://t.co/bl9eqd9Yeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099129501821051131",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099129493751488512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我們學校的支那校長怎麼連校外都要管\n我在學校門口抽菸怎麼了\n和你有一點關係嗎\n又不是在學校裡面\n\n我在學校裡面抽菸你當然可以拍我\n學校外面和你有關係嗎 管的有點寬了吧\n支那農村人校長\n\n等我就時間對校長吐煙去 等我畢業 或者他被畢業 https://t.co/bl9eqd9Yeu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2099129501821051131",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 608,
+          "like_count": 21089,
+          "listed_count": 1,
+          "media_count": 806,
+          "tweet_count": 4134
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

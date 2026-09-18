@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096730256908697859",
+    "created_at": "2026-09-06T22:40:23.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T23:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096730256908697859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SuXi8964/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/SuXi8964/status/2096398263025098836",
+          "start": 24,
+          "url": "https://t.co/9jhzwLKOcq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096730256908697859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096398263025098836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可是你不感覺用槍自殺很帥的嗎 除了死相不太好（ https://t.co/9jhzwLKOcq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096730256908697859",
+        "created_at": "2026-09-06T22:40:23.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096730256908697859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SuXi8964/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/SuXi8964/status/2096398263025098836",
+              "start": 24,
+              "url": "https://t.co/9jhzwLKOcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096730256908697859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096398263025098836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可是你不感覺用槍自殺很帥的嗎 除了死相不太好（ https://t.co/9jhzwLKOcq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807972342955405313",
+        "conversation_id": "2096398263025098836",
+        "created_at": "2026-09-06T00:41:09.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096398263025098836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096398263025098836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2440,
+          "like_count": 89,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "其实中国如果放开枪支，我觉得自杀的人会比用枪支袭击别人的多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096730256908697859",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 593,
+          "like_count": 19411,
+          "listed_count": 1,
+          "media_count": 770,
+          "tweet_count": 3882
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-07-02T02:59:43.000Z",
+        "description": "左派/坚持阶级斗争/对绝大多数人民主，对极少数人专政/民主但不民粹/极端进步/支持🏳️‍🌈 🏳️‍⚧️/酷儿 泛性恋\n回fo标准：非机器人，非三无账号，有非回复的帖子，不fo粉红，支黑，极端反共\nNGL：https://t.co/YcGe4jryTy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suxi1848",
+                "end": 125,
+                "expanded_url": "https://ngl.link/suxi1848",
+                "start": 102,
+                "url": "https://t.co/YcGe4jryTy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suxi1848",
+                "end": 23,
+                "expanded_url": "http://ngl.link/suxi1848",
+                "start": 0,
+                "url": "https://t.co/X063tjGYOr"
+              }
+            ]
+          }
+        },
+        "id": "1807972342955405313",
+        "is_identity_verified": false,
+        "location": "泛亚社会主义共和国",
+        "most_recent_tweet_id": "2096404003391525049",
+        "name": "溯汐汐🏳️‍🌈🏳️‍⚧️🚩⚙️",
+        "pinned_tweet_id": "2091130396276859252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807972342955405313/1787096511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090013841304281088/wW-SLdmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 388,
+          "like_count": 2900,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1803
+        },
+        "url": "https://t.co/X063tjGYOr",
+        "username": "SuXi8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2095920175958946098",
+    "created_at": "2026-09-04T21:08:40.000Z",
+    "display_text_range": [
+      14,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T22:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095982401872965639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927827236872409090",
+          "start": 0,
+          "username": "mychoice0402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095982401872965639",
+    "in_reply_to_user_id": "1927827236872409090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095920175958946098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mychoice0402 通訊錄沒有幾個人是我很樂意看的甚至很期待的😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2095920175958946098",
+        "created_at": "2026-09-04T21:08:40.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T22:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095982401872965639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927827236872409090",
+              "start": 0,
+              "username": "mychoice0402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095982401872965639",
+        "in_reply_to_user_id": "1927827236872409090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095920175958946098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mychoice0402 通訊錄沒有幾個人是我很樂意看的甚至很期待的😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927827236872409090",
+        "conversation_id": "2095920175958946098",
+        "created_at": "2026-09-04T17:01:24.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095920175958946098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uuucvea/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/uuucvea/status/2095453736130806269",
+              "start": 49,
+              "url": "https://t.co/gryinMmGUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095920175958946098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095453736130806269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯嘉豪来的。都未必真是情感漠视，就是找个借口不回消息罢了\n为什么这么清楚呢因为以前我也这么死冯😂 https://t.co/gryinMmGUH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095982401872965639",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 587,
+          "like_count": 18481,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 3687
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-28T20:40:15.000Z",
+        "description": "小香\n没什么好说的\n这两天状态很差一直骂人抱歉",
+        "id": "1927827236872409090",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095979230802981325",
+        "name": "__pluviophile",
+        "pinned_tweet_id": "2094108152203780112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927827236872409090/1782501993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093986117221855232/EsYy2XHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 48,
+          "like_count": 767,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 703
+        },
+        "url": "",
+        "username": "mychoice0402",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

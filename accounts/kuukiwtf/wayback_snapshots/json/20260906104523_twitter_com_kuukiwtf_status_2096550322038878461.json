@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096436729914036731",
+    "created_at": "2026-09-06T10:45:23.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096550322038878461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845674780416208897",
+          "start": 0,
+          "username": "liulingyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096550322038878461",
+    "in_reply_to_user_id": "1845674780416208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096436729914036731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyo 為什麼不去女廁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2096436704152559616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgKEzUaoAAoTWc.jpg",
+        "width": 1442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096436729914036731",
+        "created_at": "2026-09-06T10:45:23.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096550322038878461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845674780416208897",
+              "start": 0,
+              "username": "liulingyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096550322038878461",
+        "in_reply_to_user_id": "1845674780416208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096436729914036731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyo 為什麼不去女廁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096436704152559616"
+          ]
+        },
+        "author_id": "1845674780416208897",
+        "conversation_id": "2096436729914036731",
+        "created_at": "2026-09-06T03:14:00.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096436729914036731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bodvudre1r",
+              "end": 70,
+              "expanded_url": "https://x.com/liulingyo/status/2096436729914036731/photo/1",
+              "media_key": "3_2096436704152559616",
+              "start": 47,
+              "url": "https://t.co/bodvudre1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096436729914036731",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096436704152559616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3864,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "凭啥第三卫生间是残疾人和亲子用的啊，为什么没有跨性别用的厕所😡还好看标志了 我差点就走进去了 https://t.co/bodvudre1r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096550322038878461",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 593,
+          "like_count": 19134,
+          "listed_count": 1,
+          "media_count": 766,
+          "tweet_count": 3839
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "06年破壳MTF 睾丸已切⭐️\n厌学 🍥hrt：2024.10 🌟\n自宅警備員 私信回fo喵✨\n吾の傻猫：@GanYuluo💫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "is_identity_verified": true,
+        "location": "ciallo小屋",
+        "most_recent_tweet_id": "2096436729914036731",
+        "name": "悠悠不是雜魚",
+        "pinned_tweet_id": "2087805482828488843",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845674780416208897/1788365951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095184318620676097/LuN4vrWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4574,
+          "following_count": 1095,
+          "like_count": 4827,
+          "listed_count": 6,
+          "media_count": 245,
+          "tweet_count": 1482
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "liulingyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

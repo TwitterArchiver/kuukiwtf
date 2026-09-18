@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096578403319402831",
+    "created_at": "2026-09-06T12:36:58.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096578403319402831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LiTengjiao2026…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/LiTengjiao2026/status/2096189242590335402",
+          "start": 27,
+          "url": "https://t.co/hWlGFldcAo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096578403319402831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096189242590335402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果是我\n我會凌遲所有人\n別管我有沒有那麼多力氣👍👍 https://t.co/hWlGFldcAo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12633,
+        "height": 1024,
+        "media_key": "13_2096189138164658177",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096189138164658177/img/erCBg7T11s48YdC3.jpg",
+        "public_metrics": {
+          "view_count": 18421
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096189138164658177/vid/avc1/320x568/mnQOWoAXu8I66jdW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096189138164658177/vid/avc1/480x852/IgVSLXqoG7HDtjHp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096189138164658177/vid/avc1/576x1024/Vm4RWQ5mQR78awMV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096189138164658177/pl/1Y23dnF_bYY8k-F-.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096578403319402831",
+        "created_at": "2026-09-06T12:36:58.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096578403319402831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiTengjiao2026…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/LiTengjiao2026/status/2096189242590335402",
+              "start": 27,
+              "url": "https://t.co/hWlGFldcAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096578403319402831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096189242590335402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果是我\n我會凌遲所有人\n別管我有沒有那麼多力氣👍👍 https://t.co/hWlGFldcAo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096189138164658177"
+          ]
+        },
+        "author_id": "2078897378405269504",
+        "conversation_id": "2096189242590335402",
+        "created_at": "2026-09-05T10:50:35.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096189242590335402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkAA71mg74",
+              "end": 79,
+              "expanded_url": "https://x.com/LiTengjiao2026/status/2096189242590335402/video/1",
+              "media_key": "13_2096189138164658177",
+              "start": 56,
+              "url": "https://t.co/KkAA71mg74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096189242590335402",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096189138164658177"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 27472,
+          "like_count": 360,
+          "quote_count": 11,
+          "reply_count": 71,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "因为染发，就被强制剪发。\n\n从管理头发，到管理人的生活方式。\n\n当“整齐”凌驾于尊严之上，真的越来越像朝鲜了。 https://t.co/KkAA71mg74"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096578403319402831",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 593,
+          "like_count": 19231,
+          "listed_count": 1,
+          "media_count": 769,
+          "tweet_count": 3864
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T17:39:53.000Z",
+        "description": "🇩🇪德国，两个孩子的父亲。\n写工厂、封控。还在说不。\n中国民主党｜不服从运动预告\n10.1 法兰克福14:00｜伦敦17:00",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/litengjiao2026…",
+                "end": 23,
+                "expanded_url": "https://x.com/litengjiao2026/status/2090015623057199225?s=46",
+                "start": 0,
+                "url": "https://t.co/6qCtb9SY66"
+              }
+            ]
+          }
+        },
+        "id": "2078897378405269504",
+        "is_identity_verified": false,
+        "location": "德国",
+        "most_recent_tweet_id": "2096573043212448251",
+        "name": "Li Tengjiao-李腾蛟",
+        "pinned_tweet_id": "2095868285359210916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078897378405269504/1784487179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078907693184466944/q7GBL8Nx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 513,
+          "like_count": 855,
+          "listed_count": 13,
+          "media_count": 343,
+          "tweet_count": 3037
+        },
+        "url": "https://t.co/6qCtb9SY66",
+        "username": "LiTengjiao2026",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

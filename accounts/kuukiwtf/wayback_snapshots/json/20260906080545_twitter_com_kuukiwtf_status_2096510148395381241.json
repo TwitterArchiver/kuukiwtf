@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096510138647769089"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096510148395381241",
+    "created_at": "2026-09-06T08:05:45.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:04:02.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096509718286209408",
+      "2096510148395381241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CBVW7ScSKr",
+          "end": 61,
+          "expanded_url": "https://x.com/kuukiwtf/status/2096510148395381241/photo/1",
+          "media_key": "3_2096510138647769089",
+          "start": 38,
+          "url": "https://t.co/CBVW7ScSKr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096510148395381241",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096510138647769089"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天還沒有拿快遞\n也沒有快遞要拿（\n怎麼會有這個東西\n我就在想這會是什麼 https://t.co/CBVW7ScSKr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1641,
+        "media_key": "3_2096509709855731712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhMeSwbsAATgSI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1641,
+        "media_key": "3_2096510138647769089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhM3QIa8AEYg8R.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096509709855731712"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096509718286209408",
+        "created_at": "2026-09-06T08:04:02.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:04:02.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096509718286209408",
+          "2096510148395381241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQnypde3in",
+              "end": 42,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096509718286209408/photo/1",
+              "media_key": "3_2096509709855731712",
+              "start": 19,
+              "url": "https://t.co/eQnypde3in"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096509718286209408",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096509709855731712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天還沒有拿快遞\n也沒有快遞要拿（ https://t.co/eQnypde3in"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096510138647769089"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096510148395381241",
+        "created_at": "2026-09-06T08:05:45.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:04:02.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096509718286209408",
+          "2096510148395381241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBVW7ScSKr",
+              "end": 61,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096510148395381241/photo/1",
+              "media_key": "3_2096510138647769089",
+              "start": 38,
+              "url": "https://t.co/CBVW7ScSKr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096510148395381241",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096510138647769089"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天還沒有拿快遞\n也沒有快遞要拿（\n怎麼會有這個東西\n我就在想這會是什麼 https://t.co/CBVW7ScSKr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096510148395381241",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 585,
+          "like_count": 19061,
+          "listed_count": 1,
+          "media_count": 765,
+          "tweet_count": 3817
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2098930042571194404",
+    "created_at": "2026-09-13T00:21:33.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T01:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098930042571194404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/intqwq/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/intqwq/status/2098861957357175144",
+          "start": 11,
+          "url": "https://t.co/rlVNYE6c71"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098930042571194404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098861957357175144",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "xdm你們都是gay https://t.co/rlVNYE6c71"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 697,
+        "media_key": "3_2098816770316603393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB-u4takAEPNdT.png",
+        "width": 478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098930042571194404",
+        "created_at": "2026-09-13T00:21:33.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T01:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098930042571194404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/intqwq/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/intqwq/status/2098861957357175144",
+              "start": 11,
+              "url": "https://t.co/rlVNYE6c71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098930042571194404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098861957357175144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xdm你們都是gay https://t.co/rlVNYE6c71"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098816770316603393"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2098861957357175144",
+        "created_at": "2026-09-12T19:51:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T20:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098861957357175144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/10XLKk0v5P",
+              "end": 23,
+              "expanded_url": "https://x.com/intqwq/status/2098861957357175144/photo/1",
+              "media_key": "3_2098816770316603393",
+              "start": 0,
+              "url": "https://t.co/10XLKk0v5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098861957357175144",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098816770316603393"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 354,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/10XLKk0v5P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098930042571194404",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 605,
+          "like_count": 20728,
+          "listed_count": 1,
+          "media_count": 800,
+          "tweet_count": 4074
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra\n\ntg群: https://t.co/kPoeRn9L1o\n投稿联系: intqwq@intqwq.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Y5MFkw6bV5diY…",
+                "end": 91,
+                "expanded_url": "https://t.me/+Y5MFkw6bV5diYTk9",
+                "start": 68,
+                "url": "https://t.co/kPoeRn9L1o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2098924368403296765",
+        "name": "intにゃ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095807561278857216/tbEp3e78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 704,
+          "like_count": 3854,
+          "listed_count": 6,
+          "media_count": 608,
+          "tweet_count": 1596
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "intqwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

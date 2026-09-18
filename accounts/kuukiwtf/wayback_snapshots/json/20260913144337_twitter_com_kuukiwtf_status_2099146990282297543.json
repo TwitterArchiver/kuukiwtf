@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2099145032326389970",
+    "created_at": "2026-09-13T14:43:37.000Z",
+    "display_text_range": [
+      14,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099146990282297543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2088423309322964992",
+          "start": 0,
+          "username": "butcherninii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099146990282297543",
+    "in_reply_to_user_id": "2088423309322964992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099145032326389970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@butcherninii ur left ear:\n🤤🤤🌀wow! nicotine! \nwowowooooow, that hits different!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2099145023753170945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGpRwDWMAEAaiQ.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2099145032326389970",
+        "created_at": "2026-09-13T14:43:37.000Z",
+        "display_text_range": [
+          14,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099146990282297543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2088423309322964992",
+              "start": 0,
+              "username": "butcherninii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099146990282297543",
+        "in_reply_to_user_id": "2088423309322964992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099145032326389970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@butcherninii ur left ear:\n🤤🤤🌀wow! nicotine! \nwowowooooow, that hits different!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099145023753170945"
+          ]
+        },
+        "author_id": "2088423309322964992",
+        "conversation_id": "2099145032326389970",
+        "created_at": "2026-09-13T14:35:50.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099145032326389970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uovsKb9eCC",
+              "end": 98,
+              "expanded_url": "https://x.com/butcherninii/status/2099145032326389970/photo/1",
+              "media_key": "3_2099145023753170945",
+              "start": 75,
+              "url": "https://t.co/uovsKb9eCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099145032326389970",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099145023753170945"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OMFG IM CRYING i found my earphone in my snus pack after 2 weeks FINALLY 😭 https://t.co/uovsKb9eCC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2099146990282297543",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 609,
+          "like_count": 21140,
+          "listed_count": 1,
+          "media_count": 807,
+          "tweet_count": 4142
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T00:36:15.000Z",
+        "description": "6teen DONT REPORT JUST BLOCK!!!\n#shtwt #edtwt\n old acc @ninisvo1d\nhttps://t.co/nmDH9Y0Qjw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 32,
+                "tag": "shtwt"
+              },
+              {
+                "end": 45,
+                "start": 39,
+                "tag": "edtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "ninisvo1d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ninisvo1d.straw.page",
+                "end": 89,
+                "expanded_url": "https://ninisvo1d.straw.page",
+                "start": 66,
+                "url": "https://t.co/nmDH9Y0Qjw"
+              }
+            ]
+          }
+        },
+        "id": "2088423309322964992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099145032326389970",
+        "name": "Kyouka of shedrtwt 🐰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088423309322964992/1787570407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090054011793637376/4zjL2ddN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 116,
+          "like_count": 3806,
+          "listed_count": 5,
+          "media_count": 182,
+          "tweet_count": 1513
+        },
+        "url": "",
+        "username": "butcherninii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

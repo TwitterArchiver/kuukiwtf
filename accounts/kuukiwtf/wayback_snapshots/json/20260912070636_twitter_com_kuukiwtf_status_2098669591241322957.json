@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2098669591241322957",
+    "created_at": "2026-09-12T07:06:36.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T08:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098669591241322957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1549985313694822400",
+          "start": 3,
+          "username": "Warden47119942"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098669591241322957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098669445371867182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Warden47119942: 剛剛我用塔羅牌算出來我没牛牛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098669591241322957",
+        "created_at": "2026-09-12T07:06:36.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098669591241322957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1549985313694822400",
+              "start": 3,
+              "username": "Warden47119942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098669591241322957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098669445371867182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Warden47119942: 剛剛我用塔羅牌算出來我没牛牛了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549985313694822400",
+        "conversation_id": "2098669445371867182",
+        "created_at": "2026-09-12T07:06:01.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098669445371867182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dreamolly1997/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/dreamolly1997/status/2098668644243067184",
+              "start": 16,
+              "url": "https://t.co/Bfhb3kDpCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098669445371867182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098668644243067184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剛剛我用塔羅牌算出來我没牛牛了 https://t.co/Bfhb3kDpCv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098669591241322957",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 605,
+          "like_count": 20472,
+          "listed_count": 1,
+          "media_count": 790,
+          "tweet_count": 4023
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-21T05:11:19.000Z",
+        "description": "All welcome ！战雷，塔科夫，kards……（日本語を勉强しています。狱长の闲聊小屋https://t.co/NG1ghpP5ab\n欢迎来找咱一起玩 all gender友好 对象招募ing（日常+偶尔涩涩当树洞朋友圈发）是乌萨奇-infp😼求骚扰ing欢迎互相倾诉！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+EV_WdZ2nx59kM…",
+                "end": 70,
+                "expanded_url": "https://t.me/+EV_WdZ2nx59kMDFl",
+                "start": 47,
+                "url": "https://t.co/NG1ghpP5ab"
+              }
+            ]
+          }
+        },
+        "id": "1549985313694822400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098669445371867182",
+        "name": "Warden狱长",
+        "pinned_tweet_id": "1716481628942610447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549985313694822400/1757089565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652716176945061889/uThtCzJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 4324,
+          "like_count": 142948,
+          "listed_count": 1,
+          "media_count": 1310,
+          "tweet_count": 8369
+        },
+        "url": "",
+        "username": "Warden47119942",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095978739767332864"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2095978746461475276",
+    "created_at": "2026-09-04T20:54:09.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T21:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095978746461475276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EZRuSCnAjx",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2095978746461475276/photo/1",
+          "media_key": "3_2095978739767332864",
+          "start": 0,
+          "url": "https://t.co/EZRuSCnAjx"
+        },
+        {
+          "display_url": "x.com/GEACPS1940629/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/GEACPS1940629/status/2095934697734094999",
+          "start": 24,
+          "url": "https://t.co/T2dhQw3U8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095978746461475276",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095978739767332864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095934697734094999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/EZRuSCnAjx https://t.co/T2dhQw3U8f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 652,
+        "media_key": "3_2095978739767332864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZpjxCaUAAJJqf.jpg",
+        "width": 705
+      },
+      {
+        "height": 652,
+        "media_key": "3_2095934691086102528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZBfy6a8AAwMN8.jpg",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095978739767332864"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2095978746461475276",
+        "created_at": "2026-09-04T20:54:09.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095978746461475276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZRuSCnAjx",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2095978746461475276/photo/1",
+              "media_key": "3_2095978739767332864",
+              "start": 0,
+              "url": "https://t.co/EZRuSCnAjx"
+            },
+            {
+              "display_url": "x.com/GEACPS1940629/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/GEACPS1940629/status/2095934697734094999",
+              "start": 24,
+              "url": "https://t.co/T2dhQw3U8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095978746461475276",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095978739767332864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095934697734094999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/EZRuSCnAjx https://t.co/T2dhQw3U8f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095934691086102528"
+          ]
+        },
+        "author_id": "1677270742705270784",
+        "conversation_id": "2095934697734094999",
+        "created_at": "2026-09-04T17:59:07.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095934697734094999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6O0AEBqkMi",
+              "end": 31,
+              "expanded_url": "https://x.com/GEACPS1940629/status/2095934697734094999/photo/1",
+              "media_key": "3_2095934691086102528",
+              "start": 8,
+              "url": "https://t.co/6O0AEBqkMi"
+            },
+            {
+              "display_url": "x.com/KontonAlex/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/KontonAlex/status/2095885792107503884",
+              "start": 32,
+              "url": "https://t.co/NmKL11RccZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095934697734094999",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095934691086102528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 365,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095885792107503884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位說一下唄👀 https://t.co/6O0AEBqkMi https://t.co/NmKL11RccZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095978746461475276",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 587,
+          "like_count": 18445,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 3681
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺\n\n小號：@TenpennyL62429\n\n提問箱：https://t.co/zN1fnV0uNx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "TenpennyL62429"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 118,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 95,
+                "url": "https://t.co/zN1fnV0uNx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://telegram.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/qNSceYpy5B"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095944508156580074",
+        "name": "Mr.湯普尼▐┛",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677270742705270784/1737476278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003522899798269952/v4chWipq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 6726,
+          "like_count": 106523,
+          "listed_count": 3,
+          "media_count": 4373,
+          "tweet_count": 11948
+        },
+        "url": "https://t.co/qNSceYpy5B",
+        "username": "GEACPS1940629",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

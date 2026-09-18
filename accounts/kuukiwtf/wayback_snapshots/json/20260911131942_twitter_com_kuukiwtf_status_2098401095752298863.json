@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098400566993121280"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2098401095752298863",
+    "created_at": "2026-09-11T13:19:42.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T14:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098401095752298863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vp0oi6jf7J",
+          "end": 65,
+          "expanded_url": "https://x.com/kuukiwtf/status/2098401095752298863/video/1",
+          "media_key": "13_2098400566993121280",
+          "start": 42,
+          "url": "https://t.co/vp0oi6jf7J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098401095752298863",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2098400566993121280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "b23.tv/JAqU0zQ",
+            "end": 486,
+            "expanded_url": "https://b23.tv/JAqU0zQ",
+            "start": 463,
+            "url": "https://t.co/VNbejxHxcC"
+          }
+        ]
+      },
+      "text": "今天偶然间认识了一个富家朋友， 具体有钱到什么程度呢。今天刚见面，她就请我喝了一杯 MIXUE(棒打鲜橙哦~)，而且我看她给钱的时候，眼睛都没眨一下。我当时的心情真的非常惶恐，因为第一次收到这种贵重物品。她说要带我体验她的日常，然后二话没说扫了两辆哈喽单车(就是大城市会停在路边的高级出行工具)。接着就去吃晚餐了，说实话，这是我人生第一次进入沙县餐厅，看着菜单上写的蒸饺、馄饨(一种美食，原材料是面和肉，很少出现在大众视线里)，我不由感慨有钱人的奢侈，我还沉浸在感慨的时候，我那个朋友拍了拍手，老板就端着两瓶王老吉上桌，并用普通话(中国官方语言)问:“需要吸管吗”。我全程不敢说话，怕说话被人知道我是井底之蛙，接着我问她，有钱人也会有烦恼吗。她说其实都一样的，看起来都很高大上，其实都是人，没什么区别。经历了这一天的体验以后，我好像突然间发现自己去上流社会祛魅了，以前总觉得那些人很了不起，高大上，但是现在感觉其实都是人，只要心态摆正，就不会差到哪里去。希望大家也能保持一颗平常心，不要被物欲横流的社会影响，失去自信和勇气\n\nhttps://t.co/VNbejxHxcC"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天偶然间认识了一个富家朋友， 具体有钱到什么程度呢。今天刚见面，她就请我喝了一杯 https://t.co/vp0oi6jf7J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 108266,
+        "height": 1344,
+        "media_key": "13_2098400566993121280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098400566993121280/img/_roNMLWqhJu2OYHw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098400566993121280/vid/avc1/320x398/RJf8fzUI51CWWt20.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098400566993121280/vid/avc1/480x596/ZXY0I5a-NSBYZ0-9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098400566993121280/pl/Gl_f6yqnTE--TdCM.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098400566993121280/vid/avc1/1080x1344/SGOgBVZUcavVgnhR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098400566993121280/vid/avc1/720x896/-_pXpdP6TH-XpVrs.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098400566993121280"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098401095752298863",
+        "created_at": "2026-09-11T13:19:42.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098401095752298863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vp0oi6jf7J",
+              "end": 65,
+              "expanded_url": "https://x.com/kuukiwtf/status/2098401095752298863/video/1",
+              "media_key": "13_2098400566993121280",
+              "start": 42,
+              "url": "https://t.co/vp0oi6jf7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098401095752298863",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098400566993121280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "b23.tv/JAqU0zQ",
+                "end": 486,
+                "expanded_url": "https://b23.tv/JAqU0zQ",
+                "start": 463,
+                "url": "https://t.co/VNbejxHxcC"
+              }
+            ]
+          },
+          "text": "今天偶然间认识了一个富家朋友， 具体有钱到什么程度呢。今天刚见面，她就请我喝了一杯 MIXUE(棒打鲜橙哦~)，而且我看她给钱的时候，眼睛都没眨一下。我当时的心情真的非常惶恐，因为第一次收到这种贵重物品。她说要带我体验她的日常，然后二话没说扫了两辆哈喽单车(就是大城市会停在路边的高级出行工具)。接着就去吃晚餐了，说实话，这是我人生第一次进入沙县餐厅，看着菜单上写的蒸饺、馄饨(一种美食，原材料是面和肉，很少出现在大众视线里)，我不由感慨有钱人的奢侈，我还沉浸在感慨的时候，我那个朋友拍了拍手，老板就端着两瓶王老吉上桌，并用普通话(中国官方语言)问:“需要吸管吗”。我全程不敢说话，怕说话被人知道我是井底之蛙，接着我问她，有钱人也会有烦恼吗。她说其实都一样的，看起来都很高大上，其实都是人，没什么区别。经历了这一天的体验以后，我好像突然间发现自己去上流社会祛魅了，以前总觉得那些人很了不起，高大上，但是现在感觉其实都是人，只要心态摆正，就不会差到哪里去。希望大家也能保持一颗平常心，不要被物欲横流的社会影响，失去自信和勇气\n\nhttps://t.co/VNbejxHxcC"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天偶然间认识了一个富家朋友， 具体有钱到什么程度呢。今天刚见面，她就请我喝了一杯 https://t.co/vp0oi6jf7J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098401095752298863",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 606,
+          "like_count": 20121,
+          "listed_count": 1,
+          "media_count": 784,
+          "tweet_count": 3996
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

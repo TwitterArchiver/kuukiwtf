@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096395175748850156",
+    "created_at": "2026-09-06T00:28:53.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T01:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096395175748850156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Akebono__Yohir…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Akebono__Yohira/status/2096377254020628766",
+          "start": 28,
+          "url": "https://t.co/OiRsbNuy5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096395175748850156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096377254020628766",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "army of two!\n我需要一個人來和我組雙人軍團 https://t.co/OiRsbNuy5x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096395175748850156",
+        "created_at": "2026-09-06T00:28:53.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096395175748850156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akebono__Yohir…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Akebono__Yohira/status/2096377254020628766",
+              "start": 28,
+              "url": "https://t.co/OiRsbNuy5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096395175748850156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096377254020628766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "army of two!\n我需要一個人來和我組雙人軍團 https://t.co/OiRsbNuy5x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805486587666644992",
+        "conversation_id": "2096377254020628766",
+        "created_at": "2026-09-05T23:17:40.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096377254020628766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096377254020628766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起来一件虽然跟我关系不大但是让我特别恶心的一件事\n当年初三时有个女学生跳楼了\n我都能听见远处老师跟他家长打电话的声音\n结果为了掩盖事实 来接走轻生学生的不是救护车而是私家车\n当天晚上班主任还告诉我们 走在路上要当心点 有个女生不小心摔下去了\n还有不少人真信了\n这件事恶心我到现在"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096395175748850156",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 584,
+          "like_count": 18919,
+          "listed_count": 1,
+          "media_count": 752,
+          "tweet_count": 3768
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T06:22:20.000Z",
+        "description": "又做了，相同的梦。\n2️⃣@Akebono6sqrt249\n🔑@OshimaKamome",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Akebono6sqrt249"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "OshimaKamome"
+              }
+            ]
+          }
+        },
+        "id": "1805486587666644992",
+        "is_identity_verified": false,
+        "location": "千島列島 Chishima Islands",
+        "most_recent_tweet_id": "2096393732069466307",
+        "name": "✿ YOHIRA ⍜",
+        "pinned_tweet_id": "2091155516382965833",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805486587666644992/1784786651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096349809477361665/uRDVpDlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 3317,
+          "like_count": 27979,
+          "listed_count": 1,
+          "media_count": 852,
+          "tweet_count": 5264
+        },
+        "url": "",
+        "username": "Akebono__Yohira",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

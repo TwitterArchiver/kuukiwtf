@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2098218996348977556",
+    "created_at": "2026-09-11T09:05:08.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098337034150842749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2091114436073603072",
+          "start": 0,
+          "username": "ffelix_spring"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098337034150842749",
+    "in_reply_to_user_id": "2091114436073603072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098218996348977556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffelix_spring 好高深🤔🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098218996348977556",
+        "created_at": "2026-09-11T09:05:08.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098337034150842749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2091114436073603072",
+              "start": 0,
+              "username": "ffelix_spring"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098337034150842749",
+        "in_reply_to_user_id": "2091114436073603072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098218996348977556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffelix_spring 好高深🤔🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091114436073603072",
+        "conversation_id": "2098218996348977556",
+        "created_at": "2026-09-11T01:16:06.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098218996348977556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098218996348977556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢欣赏脆弱的人\n因为我过得很差劲，我看到这个会觉得有种优越感\n而且破碎的人很惹人怜爱\n但是我不会和这种人恋爱\n因为她是一时可怜\n我是一世可怜\n长期下去我还在下位"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098337034150842749",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 606,
+          "like_count": 20028,
+          "listed_count": 1,
+          "media_count": 780,
+          "tweet_count": 3976
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T10:46:54.000Z",
+        "description": "一只，会滥用的動物🩸💊？\n繁簡英日韓都不精通😉\n喜歡各種文化和漂亮的精密機械\n可恨的路邊失敗賭狗",
+        "id": "2091114436073603072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098325927537377343",
+        "name": "狐狸阿鬼",
+        "pinned_tweet_id": "2091167283150504279",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091114436073603072/1787559254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095026139299536896/OnadKp65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 442,
+          "like_count": 1342,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "ffelix_spring",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

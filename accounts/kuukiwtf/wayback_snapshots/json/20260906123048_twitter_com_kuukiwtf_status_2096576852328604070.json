@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096576852328604070",
+    "created_at": "2026-09-06T12:30:48.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096576852328604070"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "臨沂"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/WXX0530/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/WXX0530/status/2096568248351273171",
+          "start": 19,
+          "url": "https://t.co/dvgV0jxmEk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096576852328604070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096568248351273171",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#臨沂 這小破城市怎麽會有非二元出沒 https://t.co/dvgV0jxmEk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096576852328604070",
+        "created_at": "2026-09-06T12:30:48.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096576852328604070"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "臨沂"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/WXX0530/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/WXX0530/status/2096568248351273171",
+              "start": 19,
+              "url": "https://t.co/dvgV0jxmEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096576852328604070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096568248351273171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#臨沂 這小破城市怎麽會有非二元出沒 https://t.co/dvgV0jxmEk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078277656412581889",
+        "conversation_id": "2096568248351273171",
+        "created_at": "2026-09-06T11:56:37.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096568248351273171"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "福州"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/meowania_Fan/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/meowania_Fan/status/2096403189067345962",
+              "start": 20,
+              "url": "https://t.co/7IrLkt9on9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096568248351273171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096403189067345962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#福州 這小破城市怎麽會有跨性別出沒? https://t.co/7IrLkt9on9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096576852328604070",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 593,
+          "like_count": 19220,
+          "listed_count": 1,
+          "media_count": 769,
+          "tweet_count": 3862
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T00:37:34.000Z",
+        "description": "04年MTF \n厭學 🏳️‍⚧️🍥2026.5\n私信互fo",
+        "id": "2078277656412581889",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2096574250270486748",
+        "name": "Fiona",
+        "pinned_tweet_id": "2090403736753766602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078277656412581889/1788609903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096207981725773824/4yWNvg0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 75,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "WXX0530",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

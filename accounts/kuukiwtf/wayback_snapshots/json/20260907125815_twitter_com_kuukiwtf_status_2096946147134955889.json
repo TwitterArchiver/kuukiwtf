@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096946136779313152"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096946147134955889",
+    "created_at": "2026-09-07T12:58:15.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T13:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096946147134955889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2B8W08tPKo",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2096946147134955889/photo/1",
+          "media_key": "3_2096946136779313152",
+          "start": 0,
+          "url": "https://t.co/2B8W08tPKo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096946147134955889",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096946136779313152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/2B8W08tPKo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3131,
+        "media_key": "3_2096946136779313152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnZZrvb0AArJyx.jpg",
+        "width": 1804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096946136779313152"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096946147134955889",
+        "created_at": "2026-09-07T12:58:15.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096946147134955889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2B8W08tPKo",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096946147134955889/photo/1",
+              "media_key": "3_2096946136779313152",
+              "start": 0,
+              "url": "https://t.co/2B8W08tPKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096946147134955889",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096946136779313152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2B8W08tPKo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096946147134955889",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 599,
+          "like_count": 19453,
+          "listed_count": 1,
+          "media_count": 773,
+          "tweet_count": 3898
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

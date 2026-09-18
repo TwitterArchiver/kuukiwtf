@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096515238300639253",
+    "created_at": "2026-09-06T09:19:37.000Z",
+    "display_text_range": [
+      16,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096528737240219879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061773740195921920",
+          "start": 0,
+          "username": "Noise_Echo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096528737240219879",
+    "in_reply_to_user_id": "2061773740195921920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096515238300639253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noise_Echo8964 可是不死你又不能讓他一輩子過得很好 \n如果能的話我給你道歉 是我說錯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096515238300639253",
+        "created_at": "2026-09-06T09:19:37.000Z",
+        "display_text_range": [
+          16,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096528737240219879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061773740195921920",
+              "start": 0,
+              "username": "Noise_Echo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096528737240219879",
+        "in_reply_to_user_id": "2061773740195921920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096515238300639253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noise_Echo8964 可是不死你又不能讓他一輩子過得很好 \n如果能的話我給你道歉 是我說錯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061773740195921920",
+        "conversation_id": "2096515238300639253",
+        "created_at": "2026-09-06T08:25:58.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096515238300639253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cx330_xyn2/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/cx330_xyn2/status/2096405940144927120",
+              "start": 14,
+              "url": "https://t.co/XSLdN4qtrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096515238300639253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096405940144927120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要…不想再看到有人死了… https://t.co/XSLdN4qtrO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096528737240219879",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 586,
+          "like_count": 19083,
+          "listed_count": 1,
+          "media_count": 766,
+          "tweet_count": 3825
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T11:36:27.000Z",
+        "description": "出厂08.30 / MtF / 炸柜 / 暂时无法含糖 / 爱听摇滚 / 精卫中 / 身高162  50kg / 意识流写作",
+        "id": "2061773740195921920",
+        "is_identity_verified": false,
+        "location": "反乌托邦",
+        "most_recent_tweet_id": "2096515238300639253",
+        "name": "噪音&回声_Noise&Echo🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061773740195921920/1780996812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085252915275669504/Kkp34iXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 423,
+          "like_count": 4826,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "Noise_Echo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

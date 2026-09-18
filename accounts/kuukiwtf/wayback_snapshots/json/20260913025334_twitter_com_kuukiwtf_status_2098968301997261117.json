@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2098968301997261117",
+    "created_at": "2026-09-13T02:53:34.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T03:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098968301997261117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minecraftxfj/s…",
+          "end": 115,
+          "expanded_url": "https://twitter.com/Minecraftxfj/status/2098834025221853564",
+          "start": 92,
+          "url": "https://t.co/n0SiN4Ns7q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098968301997261117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098834025221853564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "+1\n但我的某些同學對我是捏臉 玩頭髮 調戲 \n還說什麼\n「你好嫩阿」「你怎麼那麼嫩阿」「短髮小女生」「小女孩」\n他們完全是認知低 智商低 情商低\n死國男\n他們的理由是女的不能摸🤮🤮 https://t.co/n0SiN4Ns7q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_2098766397782577152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBQ60ZbUAAUdwF.png",
+        "width": 538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098968301997261117",
+        "created_at": "2026-09-13T02:53:34.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098968301997261117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minecraftxfj/s…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/Minecraftxfj/status/2098834025221853564",
+              "start": 92,
+              "url": "https://t.co/n0SiN4Ns7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098968301997261117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098834025221853564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "+1\n但我的某些同學對我是捏臉 玩頭髮 調戲 \n還說什麼\n「你好嫩阿」「你怎麼那麼嫩阿」「短髮小女生」「小女孩」\n他們完全是認知低 智商低 情商低\n死國男\n他們的理由是女的不能摸🤮🤮 https://t.co/n0SiN4Ns7q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098766397782577152"
+          ]
+        },
+        "author_id": "1545801302617116672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098834025221853564",
+        "created_at": "2026-09-12T18:00:00.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098834025221853564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKKVeM3cGp",
+              "end": 76,
+              "expanded_url": "https://x.com/Minecraftxfj/status/2098834025221853564/photo/1",
+              "media_key": "3_2098766397782577152",
+              "start": 53,
+              "url": "https://t.co/lKKVeM3cGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098834025221853564",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098766397782577152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2349,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闹麻了🙏\n班里的男的总拍我pg，还袭我胸😭\n怎么办啊😭😭\n我骂他们他们还笑，一天一个还不重样😅\n急哭了😭 https://t.co/lKKVeM3cGp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098968301997261117",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 606,
+          "like_count": 20779,
+          "listed_count": 1,
+          "media_count": 800,
+          "tweet_count": 4079
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n🥰互 fo 请私信喵🥹（？\n高强度发帖👍怀疑状态☹️高三😱拒绝 OD & 自伤❓\n@SiiWayTeam Member ➡️ wyf9 is a catgirl！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "SiiWayTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR4x6b"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "is_identity_verified": true,
+        "location": "Inner Mongolia,P.R.China",
+        "most_recent_tweet_id": "2098958378311762270",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545801302617116672/1756199774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 1465,
+          "like_count": 3303,
+          "listed_count": 3,
+          "media_count": 717,
+          "tweet_count": 6903
+        },
+        "url": "https://t.co/zYxENR4x6b",
+        "username": "Minecraftxfj",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

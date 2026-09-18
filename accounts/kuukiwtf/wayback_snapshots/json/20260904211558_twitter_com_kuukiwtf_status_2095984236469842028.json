@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2095654719352119741",
+    "created_at": "2026-09-04T21:15:58.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T22:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095984236469842028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1900814729683374080",
+          "start": 0,
+          "username": "Prm_x_x_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095984236469842028",
+    "in_reply_to_user_id": "1900814729683374080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095654719352119741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prm_x_x_ 羨慕日本人😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095654703543762944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRVC2YCaQAAQJf2.jpg",
+        "width": 1869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2095654719352119741",
+        "created_at": "2026-09-04T21:15:58.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T22:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095984236469842028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1900814729683374080",
+              "start": 0,
+              "username": "Prm_x_x_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095984236469842028",
+        "in_reply_to_user_id": "1900814729683374080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095654719352119741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prm_x_x_ 羨慕日本人😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095654703543762944"
+          ]
+        },
+        "author_id": "1900814729683374080",
+        "conversation_id": "2095654719352119741",
+        "created_at": "2026-09-03T23:26:35.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T00:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095654719352119741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/runThGPxSv",
+              "end": 47,
+              "expanded_url": "https://x.com/Prm_x_x_/status/2095654719352119741/photo/1",
+              "media_key": "3_2095654703543762944",
+              "start": 24,
+              "url": "https://t.co/runThGPxSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095654719352119741",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095654703543762944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 763889,
+          "like_count": 9065,
+          "quote_count": 15,
+          "reply_count": 1877,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "中国朋友们〜我又来烦你们了✌︎︎( ◜▿◝ ) https://t.co/runThGPxSv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095984236469842028",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 587,
+          "like_count": 18497,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 3689
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-15T07:42:11.000Z",
+        "description": "23さいisfj-t 中国語勉強中✍🏻💍251111",
+        "id": "1900814729683374080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095654719352119741",
+        "name": "る",
+        "pinned_tweet_id": "2009957263876993374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900814729683374080/1742103472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092139939974852608/7Qwvo992_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21577,
+          "following_count": 50,
+          "like_count": 13705,
+          "listed_count": 23,
+          "media_count": 76,
+          "tweet_count": 4689
+        },
+        "url": "",
+        "username": "Prm_x_x_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

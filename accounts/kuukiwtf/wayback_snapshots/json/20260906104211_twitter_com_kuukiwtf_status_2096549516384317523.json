@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096273121267638779",
+    "created_at": "2026-09-06T10:42:11.000Z",
+    "display_text_range": [
+      46,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096549516384317523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2073934453454614530",
+          "start": 0,
+          "username": "dreamolly1997"
+        },
+        {
+          "end": 30,
+          "id": "2086838732741885952",
+          "start": 15,
+          "username": "Ididnothinglqz"
+        },
+        {
+          "end": 45,
+          "id": "2030459124555907072",
+          "start": 31,
+          "username": "2778Guillaume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096549516384317523",
+    "in_reply_to_user_id": "2073934453454614530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096431595595153746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamolly1997 @Ididnothinglqz @2778Guillaume 我摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096273121267638779",
+        "created_at": "2026-09-06T10:42:11.000Z",
+        "display_text_range": [
+          46,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096549516384317523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2073934453454614530",
+              "start": 0,
+              "username": "dreamolly1997"
+            },
+            {
+              "end": 30,
+              "id": "2086838732741885952",
+              "start": 15,
+              "username": "Ididnothinglqz"
+            },
+            {
+              "end": 45,
+              "id": "2030459124555907072",
+              "start": 31,
+              "username": "2778Guillaume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096549516384317523",
+        "in_reply_to_user_id": "2073934453454614530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096431595595153746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamolly1997 @Ididnothinglqz @2778Guillaume 我摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2096273121267638779",
+        "created_at": "2026-09-06T02:53:36.000Z",
+        "display_text_range": [
+          31,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096431595595153746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2086838732741885952",
+              "start": 0,
+              "username": "Ididnothinglqz"
+            },
+            {
+              "end": 30,
+              "id": "2030459124555907072",
+              "start": 16,
+              "username": "2778Guillaume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096431595595153746",
+        "in_reply_to_user_id": "2086838732741885952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096273121267638779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ididnothinglqz @2778Guillaume 我的不可以吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096549516384317523",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 593,
+          "like_count": 19129,
+          "listed_count": 1,
+          "media_count": 766,
+          "tweet_count": 3838
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使\n🚪88，什么都没有",
+        "id": "2073934453454614530",
+        "is_identity_verified": false,
+        "location": "molise 的心里！",
+        "most_recent_tweet_id": "2096548958092841428",
+        "name": "molly",
+        "pinned_tweet_id": "2095379425076621420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073934453454614530/1783770009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 920,
+          "like_count": 5727,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 5361
+        },
+        "url": "",
+        "username": "dreamolly1997",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "昵称源于操蚂蚁龙 \n原则上可以和所有人沟通\n间歇炒作间歇呢喃间歇魔人\n友左友右友跨友同友女权友基督教，你包容我我包容你，原则上不ban少ban，新注册号除外看黄号除外魔人除外\n前世前前世昵称撒旦子民",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2096548474796064932",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2092575887237480786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089708250635935744/H9CfsHhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 361,
+          "like_count": 5087,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 2767
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-08T01:42:41.000Z",
+        "description": "性取向混乱中\n黄推不回关\nask me:https://t.co/zl2svSWmld\n另我@Guillaume2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "Guillaume2778"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/guillaume70172",
+                "end": 43,
+                "expanded_url": "https://ngl.link/guillaume70172",
+                "start": 20,
+                "url": "https://t.co/zl2svSWmld"
+              }
+            ]
+          }
+        },
+        "id": "2030459124555907072",
+        "is_identity_verified": false,
+        "location": "应许之地",
+        "most_recent_tweet_id": "2096512584900133363",
+        "name": "平抑",
+        "pinned_tweet_id": "2090379022249476497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030459124555907072/1772934330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080639163272228865/d0LK_Mhv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 344,
+          "like_count": 12435,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1125
+        },
+        "url": "",
+        "username": "2778Guillaume",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096727762795221166",
+    "created_at": "2026-09-06T22:30:28.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T23:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096727762795221166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/C103ofsixteen/…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/C103ofsixteen/status/2096585114306109788",
+          "start": 55,
+          "url": "https://t.co/mRVaBD5kXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096727762795221166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096585114306109788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我們在班裡電腦登入了一個剛轉走的同學的googleacc 打開同步 瀏覽記錄全是很奇怪的黃片 我都後悔了😭😭 https://t.co/mRVaBD5kXi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096727762795221166",
+        "created_at": "2026-09-06T22:30:28.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096727762795221166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/C103ofsixteen/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/C103ofsixteen/status/2096585114306109788",
+              "start": 55,
+              "url": "https://t.co/mRVaBD5kXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096727762795221166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096585114306109788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我們在班裡電腦登入了一個剛轉走的同學的googleacc 打開同步 瀏覽記錄全是很奇怪的黃片 我都後悔了😭😭 https://t.co/mRVaBD5kXi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829502489227575296",
+        "conversation_id": "2096585114306109788",
+        "created_at": "2026-09-06T13:03:38.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096585114306109788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096585114306109788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去我居然能登录上我初中同学推特号😈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096727762795221166",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 593,
+          "like_count": 19399,
+          "listed_count": 1,
+          "media_count": 770,
+          "tweet_count": 3878
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "Lost Media | 🏳️‍⚧️ |Little @CatgirlMonhrx5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "CatgirlMonhrx5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bespoke-hamster-879987.netlify.app",
+                "end": 23,
+                "expanded_url": "https://bespoke-hamster-879987.netlify.app/",
+                "start": 0,
+                "url": "https://t.co/GMggPO9VHN"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096607101187711035",
+        "name": "僧夏猫修👁️",
+        "pinned_tweet_id": "2083938434360459319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829502489227575296/1788629853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094307369488613376/6fq9E4Zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 968,
+          "like_count": 7238,
+          "listed_count": 5,
+          "media_count": 2124,
+          "tweet_count": 5865
+        },
+        "url": "https://t.co/GMggPO9VHN",
+        "username": "C103ofsixteen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

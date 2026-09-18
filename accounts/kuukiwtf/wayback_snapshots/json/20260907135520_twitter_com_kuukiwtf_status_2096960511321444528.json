@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096781890682323013",
+    "created_at": "2026-09-07T13:55:20.000Z",
+    "display_text_range": [
+      13,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T14:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096960511321444528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1924119398497026050",
+          "start": 0,
+          "username": "HhcvhW18221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096960511321444528",
+    "in_reply_to_user_id": "1924119398497026050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096781890682323013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HhcvhW18221 點一些香菸吧\n比屎味好聞多了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096781890682323013",
+        "created_at": "2026-09-07T13:55:20.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096960511321444528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1924119398497026050",
+              "start": 0,
+              "username": "HhcvhW18221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096960511321444528",
+        "in_reply_to_user_id": "1924119398497026050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096781890682323013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HhcvhW18221 點一些香菸吧\n比屎味好聞多了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924119398497026050",
+        "conversation_id": "2096781890682323013",
+        "created_at": "2026-09-07T02:05:33.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096781890682323013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096781890682323013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我宿舍的厕所臭的呼吸困难  我这活到头了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096960511321444528",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 600,
+          "like_count": 19516,
+          "listed_count": 1,
+          "media_count": 773,
+          "tweet_count": 3903
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-18T15:06:41.000Z",
+        "description": "出厂日期09年9.4号｜无证含糖｜hrt2026.5.19｜碎碎念@kelidexi  TG号 ;https://t.co/TXNcFPNWlV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "kelidexi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HhcvhW",
+                "end": 72,
+                "expanded_url": "http://t.me/HhcvhW",
+                "start": 49,
+                "url": "https://t.co/TXNcFPNWlV"
+              }
+            ]
+          }
+        },
+        "id": "1924119398497026050",
+        "is_identity_verified": false,
+        "location": "纳塔 烟迷主",
+        "most_recent_tweet_id": "2096955677449068813",
+        "name": "茜 🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924119398497026050/1784622428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040818645069189120/SUfTwSbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 568,
+          "like_count": 1172,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 1609
+        },
+        "url": "",
+        "username": "HhcvhW18221",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

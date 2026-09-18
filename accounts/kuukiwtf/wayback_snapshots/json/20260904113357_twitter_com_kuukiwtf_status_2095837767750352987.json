@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2095837767750352987",
+    "created_at": "2026-09-04T11:33:57.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T12:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095837767750352987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yamazakiisuzu_…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/yamazakiisuzu_N/status/2095674386208714941",
+          "start": 11,
+          "url": "https://t.co/PrfIj5nfdM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095837767750352987",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095674386208714941",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "厭二元性別👍👍\n平等 https://t.co/PrfIj5nfdM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2095837767750352987",
+        "created_at": "2026-09-04T11:33:57.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095837767750352987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamazakiisuzu_…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yamazakiisuzu_N/status/2095674386208714941",
+              "start": 11,
+              "url": "https://t.co/PrfIj5nfdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095837767750352987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095674386208714941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "厭二元性別👍👍\n平等 https://t.co/PrfIj5nfdM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093710985827848193",
+        "conversation_id": "2095674386208714941",
+        "created_at": "2026-09-04T00:44:44.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T01:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095674386208714941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "男娘牛逼"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095674386208714941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 914,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "现在的男生都被网络上的独立女性整得恐女/厌女了，加上对老一辈口中“享福”的抗拒，思想上的觉悟，导致男生不愿意找对象，加上现在男娘经济兴起，未来男性女性化是必然的\n\n#男娘牛逼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095837767750352987",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 587,
+          "like_count": 18359,
+          "listed_count": 1,
+          "media_count": 728,
+          "tweet_count": 3666
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T14:43:57.000Z",
+        "description": "重新开始吧……",
+        "id": "2093710985827848193",
+        "is_identity_verified": false,
+        "location": "梦里",
+        "most_recent_tweet_id": "2095834823139233902",
+        "name": "✞山崎いすず✞",
+        "pinned_tweet_id": "2095158173569339842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093710985827848193/1788162518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093711492566904832/TvwoUe1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 91,
+          "like_count": 1346,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 747
+        },
+        "url": "",
+        "username": "yamazakiisuzu_N",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

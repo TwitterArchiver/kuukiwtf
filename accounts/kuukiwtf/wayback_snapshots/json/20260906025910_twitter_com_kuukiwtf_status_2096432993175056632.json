@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096432978532642816"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096432993175056632",
+    "created_at": "2026-09-06T02:59:10.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T03:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096432993175056632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4caNyqI2Gl",
+          "end": 32,
+          "expanded_url": "https://x.com/kuukiwtf/status/2096432993175056632/video/1",
+          "media_key": "13_2096432978532642816",
+          "start": 9,
+          "url": "https://t.co/4caNyqI2Gl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096432993175056632",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2096432978532642816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "東方排名結算畫面 https://t.co/4caNyqI2Gl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30416,
+        "height": 184,
+        "media_key": "13_2096432978532642816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096432978532642816/img/wQdpnjPMG1qyBWzI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096432978532642816/vid/avc1/184x184/fc_qn2Kjde4Q7Rq7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096432978532642816/pl/dQ2UtY6QUCXBVVoY.m3u8"
+          }
+        ],
+        "width": 184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096432978532642816"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096432993175056632",
+        "created_at": "2026-09-06T02:59:10.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096432993175056632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4caNyqI2Gl",
+              "end": 32,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096432993175056632/video/1",
+              "media_key": "13_2096432978532642816",
+              "start": 9,
+              "url": "https://t.co/4caNyqI2Gl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096432993175056632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096432978532642816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "東方排名結算畫面 https://t.co/4caNyqI2Gl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096432993175056632",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 583,
+          "like_count": 19009,
+          "listed_count": 1,
+          "media_count": 758,
+          "tweet_count": 3793
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

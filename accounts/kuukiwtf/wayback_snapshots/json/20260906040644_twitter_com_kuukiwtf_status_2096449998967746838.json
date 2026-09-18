@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096419853301428390",
+    "created_at": "2026-09-06T04:06:44.000Z",
+    "display_text_range": [
+      30,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T05:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096449998967746838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1028199864293703681",
+          "start": 0,
+          "username": "tommyyong8997"
+        },
+        {
+          "end": 29,
+          "id": "1819276723290095616",
+          "start": 15,
+          "username": "Natsuki_803nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096449998967746838",
+    "in_reply_to_user_id": "1028199864293703681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096446486854893828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tommyyong8997 @Natsuki_803nz 不告訴你👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096419853301428390",
+        "created_at": "2026-09-06T04:06:44.000Z",
+        "display_text_range": [
+          30,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096449998967746838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1028199864293703681",
+              "start": 0,
+              "username": "tommyyong8997"
+            },
+            {
+              "end": 29,
+              "id": "1819276723290095616",
+              "start": 15,
+              "username": "Natsuki_803nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096449998967746838",
+        "in_reply_to_user_id": "1028199864293703681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096446486854893828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tommyyong8997 @Natsuki_803nz 不告訴你👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1028199864293703681",
+        "conversation_id": "2096419853301428390",
+        "created_at": "2026-09-06T03:52:47.000Z",
+        "display_text_range": [
+          25,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096446486854893828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            },
+            {
+              "end": 24,
+              "id": "1819276723290095616",
+              "start": 10,
+              "username": "Natsuki_803nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096446486854893828",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096425585836965931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf @Natsuki_803nz 哪里能买氰化物"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096449998967746838",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 584,
+          "like_count": 19019,
+          "listed_count": 1,
+          "media_count": 760,
+          "tweet_count": 3802
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-08-11T08:42:05.000Z",
+        "description": "这里是 Tommy 👋\n跨性别友好🏳️‍⚧️｜彩虹友好 🏳️‍🌈\n想认识新朋友\n欢迎互fo，也欢迎来找我聊天",
+        "id": "1028199864293703681",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096446570292187583",
+        "name": "Tommy Logan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1028199864293703681/1625232563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088710799036665856/G9HXHHS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 283,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "tommyyong8997",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T07:39:26.000Z",
+        "description": "高二｜没钱，暂时蓝v｜炸柜断糖｜重度抑郁｜周六晚上复活，消息回复可能不及时｜179cm/65kg｜百合｜交通迷｜无聊｜想被抱抱…\n小号备用：@Natsuki_nz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Natsuki_nz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/natsuk…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/natsuki803.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Wqo3MVUKbY"
+              }
+            ]
+          }
+        },
+        "id": "1819276723290095616",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2096449351661015415",
+        "name": "夏希🍥",
+        "pinned_tweet_id": "2094084081340563588",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819276723290095616/1771773388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087726087333957632/6Jp9VRIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 517,
+          "like_count": 3168,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/Wqo3MVUKbY",
+        "username": "Natsuki_803nz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

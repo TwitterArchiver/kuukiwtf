@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096014889655672946",
+    "created_at": "2026-09-05T00:25:01.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T01:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096031814586671204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "343200220",
+          "start": 0,
+          "username": "3miku9_0miku1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096031814586671204",
+    "in_reply_to_user_id": "343200220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096025440007917668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3miku9_0miku1 沒錢不去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096014889655672946",
+        "created_at": "2026-09-05T00:25:01.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T01:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096031814586671204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "343200220",
+              "start": 0,
+              "username": "3miku9_0miku1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096031814586671204",
+        "in_reply_to_user_id": "343200220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096025440007917668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3miku9_0miku1 沒錢不去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "343200220",
+        "conversation_id": "2096014889655672946",
+        "created_at": "2026-09-04T23:59:41.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096025440007917668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096025440007917668",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096014889655672946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf Come back"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096031814586671204",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 586,
+          "like_count": 18571,
+          "listed_count": 1,
+          "media_count": 735,
+          "tweet_count": 3700
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-27T06:16:28.000Z",
+        "description": "烂人一个, 这里只有每天说些废话, 漫无目的的过日子, 不强求任何关系.",
+        "id": "343200220",
+        "is_identity_verified": false,
+        "location": "Honolulu, HI",
+        "most_recent_tweet_id": "2096025440007917668",
+        "name": "𤭢",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/343200220/1681163726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995346340252192768/fvuy8H1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 2188,
+          "like_count": 23583,
+          "listed_count": 14,
+          "media_count": 141,
+          "tweet_count": 1920
+        },
+        "url": "",
+        "username": "3miku9_0miku1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2095852281942118528",
+    "created_at": "2026-09-04T21:06:54.000Z",
+    "display_text_range": [
+      23,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T22:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095981958291710104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2069605469103194112",
+          "start": 0,
+          "username": "loixhrg8s"
+        },
+        {
+          "end": 22,
+          "id": "1661759505162711040",
+          "start": 11,
+          "username": "alielie_qq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095981958291710104",
+    "in_reply_to_user_id": "2069605469103194112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095918944083472820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loixhrg8s @alielie_qq 沒錯我說得就是你這個prc小支那"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2095852281942118528",
+        "created_at": "2026-09-04T21:06:54.000Z",
+        "display_text_range": [
+          23,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T22:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095981958291710104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2069605469103194112",
+              "start": 0,
+              "username": "loixhrg8s"
+            },
+            {
+              "end": 22,
+              "id": "1661759505162711040",
+              "start": 11,
+              "username": "alielie_qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095981958291710104",
+        "in_reply_to_user_id": "2069605469103194112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095918944083472820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loixhrg8s @alielie_qq 沒錯我說得就是你這個prc小支那"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069605469103194112",
+        "conversation_id": "2095852281942118528",
+        "created_at": "2026-09-04T16:56:31.000Z",
+        "display_text_range": [
+          22,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095918944083472820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            },
+            {
+              "end": 21,
+              "id": "1661759505162711040",
+              "start": 10,
+              "username": "alielie_qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095918944083472820",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095853752851079621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf @alielie_qq 說的就是妳喔晃民菌🤏🙂‍↔️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095981958291710104",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 587,
+          "like_count": 18478,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 3686
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-24T02:16:58.000Z",
+        "description": "賊仁者謂之賊 賊義者謂之殘 殘賊之人 謂之一夫 聞誅一夫紂矣 未聞弒君也",
+        "id": "2069605469103194112",
+        "is_identity_verified": false,
+        "location": "中華民國🇹🇼",
+        "most_recent_tweet_id": "2095960157826204111",
+        "name": "趙守經",
+        "pinned_tweet_id": "2086858139257929825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069605469103194112/1787450177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091343738673209344/teEcKWyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 56,
+          "like_count": 552,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 839
+        },
+        "url": "",
+        "username": "loixhrg8s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-25T15:42:10.000Z",
+        "description": "这里是永远爱着你的qianyun愆昀 可以叫我千云\n本体@qianyunhr\nWe need love, but all we want is danger.\n在这个操蛋的世界温柔而疯狂的活下去吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "qianyunhr"
+              }
+            ]
+          }
+        },
+        "id": "1661759505162711040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095856064365506802",
+        "name": "qianyun2.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661759505162711040/1787143150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090056330514169856/Z2bHOZ7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 39,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "alielie_qq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

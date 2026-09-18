@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2099017097552769046",
+    "created_at": "2026-09-13T06:07:28.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T07:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099017097552769046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HaruYukii0421/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/HaruYukii0421/status/2098977682696581535",
+          "start": 44,
+          "url": "https://t.co/LiNTIEmJ1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099017097552769046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098977682696581535",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他只要把他的針縫好就可以了 別的跟他沒有關係😇😇說什麼都是多餘的 沒有人會在乎他說的話 https://t.co/LiNTIEmJ1m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2099017097552769046",
+        "created_at": "2026-09-13T06:07:28.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T07:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099017097552769046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HaruYukii0421/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/HaruYukii0421/status/2098977682696581535",
+              "start": 44,
+              "url": "https://t.co/LiNTIEmJ1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099017097552769046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098977682696581535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他只要把他的針縫好就可以了 別的跟他沒有關係😇😇說什麼都是多餘的 沒有人會在乎他說的話 https://t.co/LiNTIEmJ1m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987805389904396288",
+        "conversation_id": "2098977682696581535",
+        "created_at": "2026-09-13T03:30:51.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T04:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098977682696581535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098977682696581535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 884,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是否小众的雷点：缝针时医生一直问为什么要歌手不停说教试图让你意识到这个行为不好\n（自己在家当歌手 唱的太开心不小心摔倒了所以要缝针）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2099017097552769046",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 609,
+          "like_count": 20832,
+          "listed_count": 1,
+          "media_count": 801,
+          "tweet_count": 4089
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T08:52:10.000Z",
+        "description": "=迟羊\n🔪💊❤️\n查成分回fo喵\n最最爱的小狗@zhangyuKawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "zhangyuKawaii"
+              }
+            ]
+          }
+        },
+        "id": "1987805389904396288",
+        "is_identity_verified": false,
+        "location": "请输入文本",
+        "most_recent_tweet_id": "2098980351842595146",
+        "name": "迟羊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987805389904396288/1785696784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073347565870059520/NVJw553W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 602,
+          "like_count": 11182,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 974
+        },
+        "url": "",
+        "username": "HaruYukii0421",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2097973705947140483",
+    "created_at": "2026-09-10T13:37:22.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T14:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098043154524193032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2088423309322964992",
+          "start": 0,
+          "username": "butcherninii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098043154524193032",
+    "in_reply_to_user_id": "2088423309322964992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097973705947140483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@butcherninii FUCK MUSK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3432,
+        "media_key": "3_2097973699584352264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1_9tfWYAgh-Ri.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2097973705947140483",
+        "created_at": "2026-09-10T13:37:22.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098043154524193032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2088423309322964992",
+              "start": 0,
+              "username": "butcherninii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098043154524193032",
+        "in_reply_to_user_id": "2088423309322964992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097973705947140483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@butcherninii FUCK MUSK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097973699584352264"
+          ]
+        },
+        "author_id": "2088423309322964992",
+        "conversation_id": "2097973705947140483",
+        "created_at": "2026-09-10T09:01:24.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097973705947140483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4LmzZGo3o",
+              "end": 53,
+              "expanded_url": "https://x.com/butcherninii/status/2097973705947140483/photo/1",
+              "media_key": "3_2097973699584352264",
+              "start": 30,
+              "url": "https://t.co/r4LmzZGo3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097973705947140483",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097973699584352264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "TF U MEAN FAVOOMF GOT LOCKED😭 https://t.co/r4LmzZGo3o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098043154524193032",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 604,
+          "like_count": 19905,
+          "listed_count": 1,
+          "media_count": 777,
+          "tweet_count": 3957
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T00:36:15.000Z",
+        "description": "6teen DONT REPORT JUST BLOCK!!!\n#shtwt #edtwt\n old acc @ninisvo1d\nhttps://t.co/nmDH9Y0Qjw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 32,
+                "tag": "shtwt"
+              },
+              {
+                "end": 45,
+                "start": 39,
+                "tag": "edtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "ninisvo1d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ninisvo1d.straw.page",
+                "end": 89,
+                "expanded_url": "https://ninisvo1d.straw.page",
+                "start": 66,
+                "url": "https://t.co/nmDH9Y0Qjw"
+              }
+            ]
+          }
+        },
+        "id": "2088423309322964992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098019801918521410",
+        "name": "Kyouka of shedrtwt 🐰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088423309322964992/1787570407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090054011793637376/4zjL2ddN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 113,
+          "like_count": 3689,
+          "listed_count": 5,
+          "media_count": 172,
+          "tweet_count": 1465
+        },
+        "url": "",
+        "username": "butcherninii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

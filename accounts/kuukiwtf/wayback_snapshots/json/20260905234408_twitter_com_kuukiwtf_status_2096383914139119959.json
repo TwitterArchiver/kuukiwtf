@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096383882996412416",
+        "16_2096383890185412608"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096383914139119959",
+    "created_at": "2026-09-05T23:44:08.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T00:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096383914139119959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kGUBHgMbYC",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2096383914139119959/photo/1",
+          "media_key": "3_2096383882996412416",
+          "start": 0,
+          "url": "https://t.co/kGUBHgMbYC"
+        },
+        {
+          "display_url": "pic.x.com/kGUBHgMbYC",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2096383914139119959/photo/1",
+          "media_key": "16_2096383890185412608",
+          "start": 0,
+          "url": "https://t.co/kGUBHgMbYC"
+        },
+        {
+          "display_url": "x.com/C103ofsixteen/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/C103ofsixteen/status/2096268033778188349",
+          "start": 24,
+          "url": "https://t.co/03dFgUA0Tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096383914139119959",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096383882996412416"
+      },
+      {
+        "media_key": "16_2096383890185412608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096268033778188349",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/kGUBHgMbYC https://t.co/03dFgUA0Tw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2096383882996412416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfaCNLa8AAKBX0.jpg",
+        "width": 1280
+      },
+      {
+        "height": 498,
+        "media_key": "16_2096383890185412608",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRfaCn9aYAApMvH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRfaCn9aYAApMvH.mp4"
+          }
+        ],
+        "width": 498
+      },
+      {
+        "height": 1102,
+        "media_key": "3_2096268023065923584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdwqRTa0AAhBU6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096383882996412416",
+            "16_2096383890185412608"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096383914139119959",
+        "created_at": "2026-09-05T23:44:08.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096383914139119959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGUBHgMbYC",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096383914139119959/photo/1",
+              "media_key": "3_2096383882996412416",
+              "start": 0,
+              "url": "https://t.co/kGUBHgMbYC"
+            },
+            {
+              "display_url": "pic.x.com/kGUBHgMbYC",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096383914139119959/photo/1",
+              "media_key": "16_2096383890185412608",
+              "start": 0,
+              "url": "https://t.co/kGUBHgMbYC"
+            },
+            {
+              "display_url": "x.com/C103ofsixteen/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/C103ofsixteen/status/2096268033778188349",
+              "start": 24,
+              "url": "https://t.co/03dFgUA0Tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096383914139119959",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096383882996412416"
+          },
+          {
+            "media_key": "16_2096383890185412608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096268033778188349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/kGUBHgMbYC https://t.co/03dFgUA0Tw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096268023065923584"
+          ]
+        },
+        "author_id": "1829502489227575296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096268033778188349",
+        "created_at": "2026-09-05T16:03:40.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096268033778188349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDxnHI9cTK",
+              "end": 23,
+              "expanded_url": "https://x.com/C103ofsixteen/status/2096268033778188349/photo/1",
+              "media_key": "3_2096268023065923584",
+              "start": 0,
+              "url": "https://t.co/hDxnHI9cTK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096268033778188349",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096268023065923584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hDxnHI9cTK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096383914579570842",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 584,
+          "like_count": 18895,
+          "listed_count": 1,
+          "media_count": 750,
+          "tweet_count": 3763
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "失传媒体",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bespoke-hamster-879987.netlify.app",
+                "end": 23,
+                "expanded_url": "https://bespoke-hamster-879987.netlify.app/",
+                "start": 0,
+                "url": "https://t.co/GMggPO9VHN"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096291581074833746",
+        "name": "僧夏猫修👁️",
+        "pinned_tweet_id": "2083938434360459319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829502489227575296/1788629853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094307369488613376/6fq9E4Zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 966,
+          "like_count": 7200,
+          "listed_count": 5,
+          "media_count": 2120,
+          "tweet_count": 5846
+        },
+        "url": "https://t.co/GMggPO9VHN",
+        "username": "C103ofsixteen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

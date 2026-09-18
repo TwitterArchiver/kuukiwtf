@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095858100049981440"
+      ],
+      "media_source_tweet_id": [
+        "2095858135022125469"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096194024713695320",
+    "created_at": "2026-09-05T11:09:35.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096194024713695320"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 33,
+          "tag": "ふもふも達のいる風景"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "fumo"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "ふもふも"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "125929878",
+          "start": 3,
+          "username": "U_KAZUYA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fT7W7FAKIJ",
+          "end": 80,
+          "expanded_url": "https://x.com/U_KAZUYA/status/2095858135022125469/video/1",
+          "media_key": "13_2095858100049981440",
+          "start": 57,
+          "url": "https://t.co/fT7W7FAKIJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096194024713695320",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2095858100049981440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095858135022125469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @U_KAZUYA: FUMO FRIDAY！      \n#ふもふも達のいる風景 #fumo #ふもふも https://t.co/fT7W7FAKIJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31833,
+        "height": 830,
+        "media_key": "13_2095858100049981440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095858100049981440/img/MaqtfwfWXJrjnvId.jpg",
+        "public_metrics": {
+          "view_count": 271
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095858100049981440/vid/avc1/320x368/ugnWSdCkY0QpT-9a.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095858100049981440/vid/avc1/480x552/DW9qNoM4LnT-y2Xc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095858100049981440/vid/avc1/720x830/g8GHCsRTUH8lJAVE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095858100049981440/pl/4QAIk8NyTmW9LgHQ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095858100049981440"
+          ],
+          "media_source_tweet_id": [
+            "2095858135022125469"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096194024713695320",
+        "created_at": "2026-09-05T11:09:35.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096194024713695320"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 33,
+              "tag": "ふもふも達のいる風景"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "fumo"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "ふもふも"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "125929878",
+              "start": 3,
+              "username": "U_KAZUYA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fT7W7FAKIJ",
+              "end": 80,
+              "expanded_url": "https://x.com/U_KAZUYA/status/2095858135022125469/video/1",
+              "media_key": "13_2095858100049981440",
+              "start": 57,
+              "url": "https://t.co/fT7W7FAKIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096194024713695320",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095858100049981440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095858135022125469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @U_KAZUYA: FUMO FRIDAY！      \n#ふもふも達のいる風景 #fumo #ふもふも https://t.co/fT7W7FAKIJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095858100049981440"
+          ]
+        },
+        "author_id": "125929878",
+        "conversation_id": "2095858135022125469",
+        "created_at": "2026-09-04T12:54:53.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095858135022125469"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 19,
+              "tag": "ふもふも達のいる風景"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "fumo"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "ふもふも"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fT7W7FAKIJ",
+              "end": 66,
+              "expanded_url": "https://x.com/U_KAZUYA/status/2095858135022125469/video/1",
+              "media_key": "13_2095858100049981440",
+              "start": 43,
+              "url": "https://t.co/fT7W7FAKIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095858135022125469",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095858100049981440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 951,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "FUMO FRIDAY！      \n#ふもふも達のいる風景 #fumo #ふもふも https://t.co/fT7W7FAKIJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096194024713695320",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 584,
+          "like_count": 18747,
+          "listed_count": 1,
+          "media_count": 745,
+          "tweet_count": 3727
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-03-24T09:05:08.000Z",
+        "description": "fumo photographer / ふもふもありすとでかふもれいむをこよなく愛する人 / ぬいぐるみが出てくるブログやってます / 艦これ/東方/カメラ/旅行好き/ドライブ/峠ステッカー/御朱印/神社仏閣城郭/車中泊/インプレッサ2.0GT/たまに野鳥撮影/転載禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crimson.be",
+                "end": 23,
+                "expanded_url": "https://www.crimson.be",
+                "start": 0,
+                "url": "https://t.co/vDOEGCsblR"
+              }
+            ]
+          }
+        },
+        "id": "125929878",
+        "is_identity_verified": false,
+        "location": "Between dreams and reality",
+        "most_recent_tweet_id": "2095867168932217061",
+        "name": "宇都宮KAZUYA@秩父例大祭A05b",
+        "pinned_tweet_id": "1486324136154890240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/125929878/1753281610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548504957/1487959_43841763_126large_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 327,
+          "like_count": 21882,
+          "listed_count": 19,
+          "media_count": 5035,
+          "tweet_count": 21567
+        },
+        "url": "https://t.co/vDOEGCsblR",
+        "username": "U_KAZUYA",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

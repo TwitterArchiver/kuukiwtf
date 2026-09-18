@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2094920523444875460",
+    "created_at": "2026-09-01T22:49:09.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T23:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094920523444875460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2094575974641762441",
+          "start": 10,
+          "url": "https://t.co/J18VMyoni9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094920523444875460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094575974641762441",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇\n清朝支那豬剃髮 https://t.co/J18VMyoni9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9733,
+        "height": 1280,
+        "media_key": "13_2094298492143587328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094298492143587328/img/Y_sKsCEuZS6cVjcw.jpg",
+        "public_metrics": {
+          "view_count": 132055
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094298492143587328/vid/avc1/320x656/W1LL4-2L1AlqQKUu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094298492143587328/vid/avc1/480x984/areKew2_Nrmk_9jo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094298492143587328/vid/avc1/624x1280/DrkLxFkGYrQoTAdL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094298492143587328/pl/aA9YtBLLhl0PN99H.m3u8"
+          }
+        ],
+        "width": 624
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2094298500364394496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBxY9faYAAT8tk.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2094,
+        "media_key": "3_2094298534082420736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBxa7GaoAAlMPD.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2094920523444875460",
+        "created_at": "2026-09-01T22:49:09.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T23:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094920523444875460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2094575974641762441",
+              "start": 10,
+              "url": "https://t.co/J18VMyoni9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094920523444875460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094575974641762441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇\n清朝支那豬剃髮 https://t.co/J18VMyoni9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094298492143587328",
+            "3_2094298500364394496",
+            "3_2094298534082420736"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2094575974641762441",
+        "created_at": "2026-09-01T00:00:02.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T01:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094575974641762441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1rzq89D6z",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2094575974641762441/video/1",
+              "media_key": "13_2094298492143587328",
+              "start": 104,
+              "url": "https://t.co/B1rzq89D6z"
+            },
+            {
+              "display_url": "pic.x.com/B1rzq89D6z",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2094575974641762441/video/1",
+              "media_key": "3_2094298500364394496",
+              "start": 104,
+              "url": "https://t.co/B1rzq89D6z"
+            },
+            {
+              "display_url": "pic.x.com/B1rzq89D6z",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2094575974641762441/video/1",
+              "media_key": "3_2094298534082420736",
+              "start": 104,
+              "url": "https://t.co/B1rzq89D6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094575974641762441",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094298492143587328"
+          },
+          {
+            "media_key": "3_2094298500364394496"
+          },
+          {
+            "media_key": "3_2094298534082420736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "小升初女生因“发型不合格”被拒入校，山东一中学门口强制剪发\n\n8月30日，山东菏泽牡丹区实验中学，一名小升初女生，在报名时因“发型不合格”被学校拒绝入校，该女生随后在校门口旁被当场强制剪发，过程中伤心哭泣。\n\n据校方发布的《学生仪容仪表标准》显示，学校对男女生发型有极其严格的统一要求，女生须剪成齐耳短发或扎马尾式短发。\n评论区网友反映，当地包括乡镇在内的多所中学均存在统一强制剪发的规定。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 226454,
+          "like_count": 1058,
+          "quote_count": 47,
+          "reply_count": 446,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "小升初女生因“发型不合格”被拒入校，山东一中学门口强制剪发\n\n8月30日，山东菏泽牡丹区实验中学，一名小升初女生，在报名时因“发型不合格”被学校拒绝入校，该女生随后在校门口旁被当场强制剪发，过程中伤心哭泣。 https://t.co/B1rzq89D6z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2094920523444875460",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 587,
+          "like_count": 18090,
+          "listed_count": 1,
+          "media_count": 721,
+          "tweet_count": 3622
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2094915708698198118",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259912,
+          "following_count": 1083,
+          "like_count": 10389,
+          "listed_count": 8892,
+          "media_count": 53100,
+          "tweet_count": 60425
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

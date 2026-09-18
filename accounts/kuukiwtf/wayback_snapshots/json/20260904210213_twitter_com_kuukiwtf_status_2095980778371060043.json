@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2095980778371060043",
+    "created_at": "2026-09-04T21:02:13.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T22:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095980778371060043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huahuojiang_/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/huahuojiang_/status/2095949652176875826",
+          "start": 11,
+          "url": "https://t.co/RE38prPU3n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095980778371060043",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095949652176875826",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "對了 b我的都是支那 https://t.co/RE38prPU3n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2095949635710058496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZPFr-bgAAxQra.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2095980778371060043",
+        "created_at": "2026-09-04T21:02:13.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T22:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095980778371060043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huahuojiang_/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/huahuojiang_/status/2095949652176875826",
+              "start": 11,
+              "url": "https://t.co/RE38prPU3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095980778371060043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095949652176875826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "對了 b我的都是支那 https://t.co/RE38prPU3n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095949635710058496"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "2095949652176875826",
+        "created_at": "2026-09-04T18:58:32.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095949652176875826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jfgDRaRZAA",
+              "end": 23,
+              "expanded_url": "https://x.com/huahuojiang_/status/2095949652176875826/photo/1",
+              "media_key": "3_2095949635710058496",
+              "start": 0,
+              "url": "https://t.co/jfgDRaRZAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095949652176875826",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095949635710058496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jfgDRaRZAA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095980778371060043",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 587,
+          "like_count": 18472,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 3684
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "is_identity_verified": false,
+        "location": "匹诺康尼",
+        "most_recent_tweet_id": "2095951166794502480",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2090066067116982651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769078117052854272/1774973744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7860,
+          "following_count": 3956,
+          "like_count": 105753,
+          "listed_count": 18,
+          "media_count": 9902,
+          "tweet_count": 106905
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

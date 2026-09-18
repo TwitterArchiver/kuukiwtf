@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096536518445744601",
+    "created_at": "2026-09-06T09:50:32.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:47:34.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096535773810192745",
+      "2096536518445744601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 66,
+          "id": "1720665183188922368",
+          "start": 61,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Wesley10032/st…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/Wesley10032/status/2096522041218539750",
+          "start": 67,
+          "url": "https://t.co/a8wmUPbO35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096536518445744601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096522041218539750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "查看我的所有帖子 然后确定我的性别符合哪種性別的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然\n@grok https://t.co/a8wmUPbO35"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096535773810192745",
+        "created_at": "2026-09-06T09:47:34.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:47:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096535773810192745",
+          "2096536518445744601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2096522041218539750",
+              "start": 61,
+              "url": "https://t.co/a8wmUPclSD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096535773810192745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096522041218539750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "查看我的所有帖子 然后确定我的性别符合哪種性別的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然 https://t.co/a8wmUPclSD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096536518445744601",
+        "created_at": "2026-09-06T09:50:32.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:47:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096535773810192745",
+          "2096536518445744601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "1720665183188922368",
+              "start": 61,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2096522041218539750",
+              "start": 67,
+              "url": "https://t.co/a8wmUPbO35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096536518445744601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096522041218539750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "查看我的所有帖子 然后确定我的性别符合哪種性別的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然\n@grok https://t.co/a8wmUPbO35"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096522041218539750",
+        "created_at": "2026-09-06T08:53:00.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096522041218539750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "1720665183188922368",
+              "start": 61,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/gdioiui/status/2096402134338293800",
+              "start": 67,
+              "url": "https://t.co/NtDo6u6Csr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096522041218539750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 377,
+          "like_count": 8,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096402134338293800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "查看我的所有帖子 然后确定我的性别符不符合女性的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然\n@grok https://t.co/NtDo6u6Csr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096536518445744601",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 586,
+          "like_count": 19099,
+          "listed_count": 1,
+          "media_count": 766,
+          "tweet_count": 3832
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096535150893097122",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1819,
+          "like_count": 24795,
+          "listed_count": 2,
+          "media_count": 506,
+          "tweet_count": 3783
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096536535357124964",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9039706,
+          "following_count": 4,
+          "like_count": 136,
+          "listed_count": 7529,
+          "media_count": 9341439,
+          "tweet_count": 139139822
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

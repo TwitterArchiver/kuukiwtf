@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096075981765439488"
+      ],
+      "media_source_tweet_id": [
+        "2096076155531264472"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2096153018614067347",
+    "created_at": "2026-09-05T08:26:38.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T09:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096153018614067347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1426356464",
+          "start": 3,
+          "username": "FreshMojaveMeme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wL03eWhLi5",
+          "end": 68,
+          "expanded_url": "https://x.com/FreshMojaveMeme/status/2096076155531264472/photo/1",
+          "media_key": "3_2096075981765439488",
+          "start": 45,
+          "url": "https://t.co/wL03eWhLi5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096153018614067347",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2096075981765439488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096076155531264472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FreshMojaveMeme: Fumo Friday pizza 🍕 𑘧ˬ𑘧 https://t.co/wL03eWhLi5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2096075981765439488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbB__tbcAA3Njm.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096075981765439488"
+          ],
+          "media_source_tweet_id": [
+            "2096076155531264472"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096153018614067347",
+        "created_at": "2026-09-05T08:26:38.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096153018614067347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1426356464",
+              "start": 3,
+              "username": "FreshMojaveMeme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wL03eWhLi5",
+              "end": 68,
+              "expanded_url": "https://x.com/FreshMojaveMeme/status/2096076155531264472/photo/1",
+              "media_key": "3_2096075981765439488",
+              "start": 45,
+              "url": "https://t.co/wL03eWhLi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096153018614067347",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096075981765439488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096076155531264472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FreshMojaveMeme: Fumo Friday pizza 🍕 𑘧ˬ𑘧 https://t.co/wL03eWhLi5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096075981765439488"
+          ]
+        },
+        "author_id": "1426356464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096076155531264472",
+        "created_at": "2026-09-05T03:21:13.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096076155531264472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wL03eWhLi5",
+              "end": 47,
+              "expanded_url": "https://x.com/FreshMojaveMeme/status/2096076155531264472/photo/1",
+              "media_key": "3_2096075981765439488",
+              "start": 24,
+              "url": "https://t.co/wL03eWhLi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096076155531264472",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096075981765439488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 286,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Fumo Friday pizza 🍕 𑘧ˬ𑘧 https://t.co/wL03eWhLi5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096153018614067347",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 584,
+          "like_count": 18736,
+          "listed_count": 1,
+          "media_count": 741,
+          "tweet_count": 3717
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-05-13T20:36:51.000Z",
+        "description": "I'm only here for Touhous\n\nMostly reposts, rarely fumoᗜˬᗜ\n\nI love all Touhou bunnies especially Reisen Udongein Inaba♡\nhttps://t.co/C5j3Cfr4NO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/DarkTyrone/",
+                "end": 142,
+                "expanded_url": "https://steamcommunity.com/id/DarkTyrone/",
+                "start": 119,
+                "url": "https://t.co/C5j3Cfr4NO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "change.org/p/rename-fire-…",
+                "end": 23,
+                "expanded_url": "https://www.change.org/p/rename-fire-ants-to-spicy-boys",
+                "start": 0,
+                "url": "https://t.co/DNRgwut2qR"
+              }
+            ]
+          }
+        },
+        "id": "1426356464",
+        "is_identity_verified": false,
+        "location": "Bamboo Forest of the Lost 🎍🎍",
+        "most_recent_tweet_id": "2096151768275300857",
+        "name": "Reisen fumo and other long eared creatures",
+        "pinned_tweet_id": "1946756352355020801",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426356464/1775849276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088786845396340737/btSQoE7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 3151,
+          "like_count": 207219,
+          "listed_count": 6,
+          "media_count": 2820,
+          "tweet_count": 42741
+        },
+        "url": "https://t.co/DNRgwut2qR",
+        "username": "FreshMojaveMeme",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096358910626299904"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2097460724679278894",
+    "created_at": "2026-09-08T23:03:00.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T00:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097460724679278894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NeSRp8dY7U",
+          "end": 48,
+          "expanded_url": "https://x.com/kuukiwtf/status/2097460724679278894/photo/1",
+          "media_key": "3_2096358910626299904",
+          "start": 25,
+          "url": "https://t.co/NeSRp8dY7U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097460724679278894",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096358910626299904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "⑨月⑨日憶幻想鄉baka\n9/9琪露諾日！🩵🩵🩵 https://t.co/NeSRp8dY7U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2096358910626299904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfDUn2bAAAiB_V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096358910626299904"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2097460724679278894",
+        "created_at": "2026-09-08T23:03:00.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T00:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097460724679278894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NeSRp8dY7U",
+              "end": 48,
+              "expanded_url": "https://x.com/kuukiwtf/status/2097460724679278894/photo/1",
+              "media_key": "3_2096358910626299904",
+              "start": 25,
+              "url": "https://t.co/NeSRp8dY7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097460724679278894",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096358910626299904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⑨月⑨日憶幻想鄉baka\n9/9琪露諾日！🩵🩵🩵 https://t.co/NeSRp8dY7U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2097460724679278894",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 602,
+          "like_count": 19810,
+          "listed_count": 1,
+          "media_count": 775,
+          "tweet_count": 3941
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

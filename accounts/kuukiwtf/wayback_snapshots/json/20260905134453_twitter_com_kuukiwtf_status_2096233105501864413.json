@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096232702781558819",
+    "created_at": "2026-09-05T13:44:53.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096233105501864413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2073934453454614530",
+          "start": 0,
+          "username": "dreamolly1997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096233105501864413",
+    "in_reply_to_user_id": "2073934453454614530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096232702781558819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamolly1997 啊啊啊啊神秘藍毛（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2096232651938283520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdQfZlbQAA8YuH.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2096232670883917825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdQggKasAEubYA.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2096232690412638208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdQho6bUAAP-RN.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096232702781558819",
+        "created_at": "2026-09-05T13:44:53.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096233105501864413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2073934453454614530",
+              "start": 0,
+              "username": "dreamolly1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096233105501864413",
+        "in_reply_to_user_id": "2073934453454614530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096232702781558819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamolly1997 啊啊啊啊神秘藍毛（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096232651938283520",
+            "3_2096232670883917825",
+            "3_2096232690412638208"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096232702781558819",
+        "created_at": "2026-09-05T13:43:17.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:42:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096232553686737327",
+          "2096232702781558819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrWsIHo8Rw",
+              "end": 33,
+              "expanded_url": "https://x.com/dreamolly1997/status/2096232702781558819/photo/1",
+              "media_key": "3_2096232651938283520",
+              "start": 10,
+              "url": "https://t.co/jrWsIHo8Rw"
+            },
+            {
+              "display_url": "pic.x.com/jrWsIHo8Rw",
+              "end": 33,
+              "expanded_url": "https://x.com/dreamolly1997/status/2096232702781558819/photo/1",
+              "media_key": "3_2096232670883917825",
+              "start": 10,
+              "url": "https://t.co/jrWsIHo8Rw"
+            },
+            {
+              "display_url": "pic.x.com/jrWsIHo8Rw",
+              "end": 33,
+              "expanded_url": "https://x.com/dreamolly1997/status/2096232702781558819/photo/1",
+              "media_key": "3_2096232690412638208",
+              "start": 10,
+              "url": "https://t.co/jrWsIHo8Rw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096232702781558819",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096232651938283520"
+          },
+          {
+            "media_key": "3_2096232670883917825"
+          },
+          {
+            "media_key": "3_2096232690412638208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf https://t.co/jrWsIHo8Rw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096233105501864413",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 585,
+          "like_count": 18806,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 3744
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使\n🚪88，什么都没有",
+        "id": "2073934453454614530",
+        "is_identity_verified": false,
+        "location": "molise 的心里！",
+        "most_recent_tweet_id": "2096232702781558819",
+        "name": "molly",
+        "pinned_tweet_id": "2095379425076621420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073934453454614530/1783770009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 781,
+          "like_count": 5198,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 5058
+        },
+        "url": "",
+        "username": "dreamolly1997",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

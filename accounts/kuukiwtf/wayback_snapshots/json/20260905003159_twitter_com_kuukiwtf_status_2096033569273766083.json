@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096033562151845888"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096033569273766083",
+    "created_at": "2026-09-05T00:31:59.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T01:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096033569273766083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PprijpLFFr",
+          "end": 28,
+          "expanded_url": "https://x.com/kuukiwtf/status/2096033569273766083/photo/1",
+          "media_key": "3_2096033562151845888",
+          "start": 5,
+          "url": "https://t.co/PprijpLFFr"
+        },
+        {
+          "display_url": "x.com/Moningmeng/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Moningmeng/status/2095849840630813183",
+          "start": 29,
+          "url": "https://t.co/zDjzDAeG6m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096033569273766083",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096033562151845888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095849840630813183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但實際上 https://t.co/PprijpLFFr https://t.co/zDjzDAeG6m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_2096033562151845888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRaba2VbgAAHFmI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2095849826512773120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRX0UBvboAAsOxU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096033562151845888"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096033569273766083",
+        "created_at": "2026-09-05T00:31:59.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T01:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096033569273766083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PprijpLFFr",
+              "end": 28,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096033569273766083/photo/1",
+              "media_key": "3_2096033562151845888",
+              "start": 5,
+              "url": "https://t.co/PprijpLFFr"
+            },
+            {
+              "display_url": "x.com/Moningmeng/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Moningmeng/status/2095849840630813183",
+              "start": 29,
+              "url": "https://t.co/zDjzDAeG6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096033569273766083",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096033562151845888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095849840630813183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但實際上 https://t.co/PprijpLFFr https://t.co/zDjzDAeG6m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095849826512773120"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095849840630813183",
+        "created_at": "2026-09-04T12:21:55.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095849840630813183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Si8at04Yir",
+              "end": 134,
+              "expanded_url": "https://x.com/Moningmeng/status/2095849840630813183/photo/1",
+              "media_key": "3_2095849826512773120",
+              "start": 111,
+              "url": "https://t.co/Si8at04Yir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095849840630813183",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095849826512773120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3647,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉自己病得很重，心理问题，已经不是正常人了，而且快受不了了对未来感到害怕和焦虑，极度的焦虑。我很感谢网上的每一个和我说亲亲抱抱安慰我的人，可是一样的话说多了听起来就会很空，或许我真的有精神类疾病。我不会责怪任何一个人 https://t.co/Si8at04Yir"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096033569273766083",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 586,
+          "like_count": 18586,
+          "listed_count": 1,
+          "media_count": 736,
+          "tweet_count": 3701
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2095849840630813183",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086299839948840960/4R_bASxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29980,
+          "following_count": 12175,
+          "like_count": 99293,
+          "listed_count": 106,
+          "media_count": 5814,
+          "tweet_count": 20648
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

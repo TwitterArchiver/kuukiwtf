@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2099495957180383504",
+    "created_at": "2026-09-14T13:55:14.000Z",
+    "display_text_range": [
+      16,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T14:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099497200778948634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1549985313694822400",
+          "start": 0,
+          "username": "Warden47119942"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099497200778948634",
+    "in_reply_to_user_id": "1549985313694822400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099496399524220999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Warden47119942 啊啊不用啦 我用了很麻煩的辦法匯入到這個裝置裡的😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2099495957180383504",
+        "created_at": "2026-09-14T13:55:14.000Z",
+        "display_text_range": [
+          16,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099497200778948634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1549985313694822400",
+              "start": 0,
+              "username": "Warden47119942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099497200778948634",
+        "in_reply_to_user_id": "1549985313694822400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099496399524220999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warden47119942 啊啊不用啦 我用了很麻煩的辦法匯入到這個裝置裡的😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549985313694822400",
+        "conversation_id": "2099495957180383504",
+        "created_at": "2026-09-14T13:52:03.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099496399524220999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099496399524220999",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099496308876980412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 机场🤓"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2099497200778948634",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 610,
+          "like_count": 21171,
+          "listed_count": 1,
+          "media_count": 813,
+          "tweet_count": 4157
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-21T05:11:19.000Z",
+        "description": "All welcome ！战雷，塔科夫，kards……（日本語を勉强しています。狱长の闲聊小屋https://t.co/NG1ghpP5ab\n欢迎来找咱一起玩 all gender友好 对象招募ing（日常+偶尔涩涩当树洞朋友圈发）是乌萨奇-infp😼求骚扰ing欢迎互相倾诉！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+EV_WdZ2nx59kM…",
+                "end": 70,
+                "expanded_url": "https://t.me/+EV_WdZ2nx59kMDFl",
+                "start": 47,
+                "url": "https://t.co/NG1ghpP5ab"
+              }
+            ]
+          }
+        },
+        "id": "1549985313694822400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099496399524220999",
+        "name": "Warden狱长",
+        "pinned_tweet_id": "1716481628942610447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549985313694822400/1757089565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652716176945061889/uThtCzJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 4346,
+          "like_count": 144292,
+          "listed_count": 1,
+          "media_count": 1316,
+          "tweet_count": 8451
+        },
+        "url": "",
+        "username": "Warden47119942",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

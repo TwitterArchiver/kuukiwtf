@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099003060089712640"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2099003116494725374",
+    "created_at": "2026-09-13T05:11:55.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T06:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099003116494725374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "sadCredits:Model used:Koishi - by Miy [ https://bowlroll.net/u...",
+          "display_url": "youtube.com/watch?v=hg9en6…",
+          "end": 23,
+          "expanded_url": "https://www.youtube.com/watch?v=hg9en6238rQ",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2099003120131162112/riH23cmj?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2099003120131162112/riH23cmj?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "rock",
+          "unwound_url": "https://www.youtube.com/watch?v=hg9en6238rQ",
+          "url": "https://t.co/6PJYcODdzE"
+        },
+        {
+          "display_url": "pic.x.com/7NwhUMo0wX",
+          "end": 47,
+          "expanded_url": "https://x.com/kuukiwtf/status/2099003116494725374/video/1",
+          "media_key": "13_2099003060089712640",
+          "start": 24,
+          "url": "https://t.co/7NwhUMo0wX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099003116494725374",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2099003060089712640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/6PJYcODdzE https://t.co/7NwhUMo0wX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16532,
+        "height": 720,
+        "media_key": "13_2099003060089712640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099003060089712640/img/GF7CG5_mXKu18q0u.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099003060089712640/vid/avc1/480x270/dJJkDVb8HxxW0uOd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099003060089712640/vid/avc1/640x360/puyYYVtl6rGY5Jz5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099003060089712640/vid/avc1/1280x720/CT0qvPNFm7MfxS8E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099003060089712640/pl/9K6Ac_wTQyhYtj3C.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099003060089712640"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2099003116494725374",
+        "created_at": "2026-09-13T05:11:55.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099003116494725374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "sadCredits:Model used:Koishi - by Miy [ https://bowlroll.net/u...",
+              "display_url": "youtube.com/watch?v=hg9en6…",
+              "end": 23,
+              "expanded_url": "https://www.youtube.com/watch?v=hg9en6238rQ",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2099003120131162112/riH23cmj?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2099003120131162112/riH23cmj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "rock",
+              "unwound_url": "https://www.youtube.com/watch?v=hg9en6238rQ",
+              "url": "https://t.co/6PJYcODdzE"
+            },
+            {
+              "display_url": "pic.x.com/7NwhUMo0wX",
+              "end": 47,
+              "expanded_url": "https://x.com/kuukiwtf/status/2099003116494725374/video/1",
+              "media_key": "13_2099003060089712640",
+              "start": 24,
+              "url": "https://t.co/7NwhUMo0wX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099003116494725374",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2099003060089712640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6PJYcODdzE https://t.co/7NwhUMo0wX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2099003116494725374",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 608,
+          "like_count": 20818,
+          "listed_count": 1,
+          "media_count": 801,
+          "tweet_count": 4084
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

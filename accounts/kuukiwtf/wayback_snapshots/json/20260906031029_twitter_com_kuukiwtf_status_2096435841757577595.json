@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096435826863624193"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096435841757577595",
+    "created_at": "2026-09-06T03:10:29.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T04:06:10.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096434758372966821",
+      "2096435841757577595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ILEOTG3RQ6",
+          "end": 77,
+          "expanded_url": "https://x.com/kuukiwtf/status/2096435841757577595/photo/1",
+          "media_key": "3_2096435826863624193",
+          "start": 54,
+          "url": "https://t.co/ILEOTG3RQ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096435841757577595",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096435826863624193"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我累死了\n我還要把這篇寫的像史一樣的文章在電腦抄一邊 再把檔案傳到老師那邊😭😭\n我最不會的就是用電腦打字了 https://t.co/ILEOTG3RQ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2096434745802641408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgISz5aUAANS0H.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2096435826863624193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgJRvKb0AERE0n.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096434745802641408"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096434758372966821",
+        "created_at": "2026-09-06T03:06:10.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:06:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096434758372966821",
+          "2096435841757577595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LkajWi4J8",
+              "end": 77,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096434758372966821/photo/1",
+              "media_key": "3_2096434745802641408",
+              "start": 54,
+              "url": "https://t.co/3LkajWi4J8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096434758372966821",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096434745802641408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我累死了\n我還要把這篇寫的像史一樣的文章在電腦抄一邊 再把檔案傳到老師那邊😭😭\n我最不會的就是用電腦打字了 https://t.co/3LkajWi4J8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096435826863624193"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096435841757577595",
+        "created_at": "2026-09-06T03:10:29.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:06:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096434758372966821",
+          "2096435841757577595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILEOTG3RQ6",
+              "end": 77,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096435841757577595/photo/1",
+              "media_key": "3_2096435826863624193",
+              "start": 54,
+              "url": "https://t.co/ILEOTG3RQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096435841757577595",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096435826863624193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我累死了\n我還要把這篇寫的像史一樣的文章在電腦抄一邊 再把檔案傳到老師那邊😭😭\n我最不會的就是用電腦打字了 https://t.co/ILEOTG3RQ6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096435841757577595",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 583,
+          "like_count": 19010,
+          "listed_count": 1,
+          "media_count": 760,
+          "tweet_count": 3796
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

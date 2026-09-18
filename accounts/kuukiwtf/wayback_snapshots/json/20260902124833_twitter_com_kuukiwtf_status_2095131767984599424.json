@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2095131767984599424",
+    "created_at": "2026-09-02T12:48:33.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T13:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095131767984599424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wgddking/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/wgddking/status/2095037242331025472",
+          "start": 10,
+          "url": "https://t.co/01a5gPpq5D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095131767984599424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095037242331025472",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依舊是抖音支那爛梗 https://t.co/01a5gPpq5D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2139,
+        "media_key": "3_2095037221191720960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMRQLBaoAAbXnr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2140,
+        "media_key": "3_2095037229131513856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMRQomaQAAacfE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2095131767984599424",
+        "created_at": "2026-09-02T12:48:33.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095131767984599424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wgddking/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/wgddking/status/2095037242331025472",
+              "start": 10,
+              "url": "https://t.co/01a5gPpq5D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095131767984599424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095037242331025472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依舊是抖音支那爛梗 https://t.co/01a5gPpq5D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095037221191720960",
+            "3_2095037229131513856"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "conversation_id": "2095037242331025472",
+        "created_at": "2026-09-02T06:32:57.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T07:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095037242331025472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZNM7q9xOT",
+              "end": 40,
+              "expanded_url": "https://x.com/wgddking/status/2095037242331025472/photo/1",
+              "media_key": "3_2095037221191720960",
+              "start": 17,
+              "url": "https://t.co/hZNM7q9xOT"
+            },
+            {
+              "display_url": "pic.x.com/hZNM7q9xOT",
+              "end": 40,
+              "expanded_url": "https://x.com/wgddking/status/2095037242331025472/photo/1",
+              "media_key": "3_2095037229131513856",
+              "start": 17,
+              "url": "https://t.co/hZNM7q9xOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095037242331025472",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095037221191720960"
+          },
+          {
+            "media_key": "3_2095037229131513856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4551,
+          "like_count": 64,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能想出这个视频的家里真的请高人了 https://t.co/hZNM7q9xOT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095131767984599424",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 590,
+          "like_count": 18161,
+          "listed_count": 1,
+          "media_count": 721,
+          "tweet_count": 3628
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "自由 平等 博爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "is_identity_verified": false,
+        "location": "我在精神病院学搬屎",
+        "most_recent_tweet_id": "2095123283335368999",
+        "name": "wgdd",
+        "pinned_tweet_id": "2084275640656904451",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811384610749874176/1780900493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 84,
+          "like_count": 2758,
+          "listed_count": 2,
+          "media_count": 829,
+          "tweet_count": 3578
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

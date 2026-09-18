@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2097167447174553601",
+    "created_at": "2026-09-08T12:21:47.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T13:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097299358698135759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1781868776918790144",
+          "start": 0,
+          "username": "Hoshika_Mahiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097299358698135759",
+    "in_reply_to_user_id": "1781868776918790144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097167447174553601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshika_Mahiyo 不回答是正確的\n拒絕爛梗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2097167431580221440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqiqvHbgAAERqJ.jpg",
+        "width": 720
+      },
+      {
+        "height": 1604,
+        "media_key": "3_2097167440518230016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqirQaasAA5K--.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2097167447174553601",
+        "created_at": "2026-09-08T12:21:47.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097299358698135759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1781868776918790144",
+              "start": 0,
+              "username": "Hoshika_Mahiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097299358698135759",
+        "in_reply_to_user_id": "1781868776918790144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097167447174553601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshika_Mahiyo 不回答是正確的\n拒絕爛梗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097167431580221440",
+            "3_2097167440518230016"
+          ]
+        },
+        "author_id": "1781868776918790144",
+        "conversation_id": "2097167447174553601",
+        "created_at": "2026-09-08T03:37:37.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097167447174553601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GkXLBrrhGG",
+              "end": 54,
+              "expanded_url": "https://x.com/Hoshika_Mahiyo/status/2097167447174553601/photo/1",
+              "media_key": "3_2097167431580221440",
+              "start": 31,
+              "url": "https://t.co/GkXLBrrhGG"
+            },
+            {
+              "display_url": "pic.x.com/GkXLBrrhGG",
+              "end": 54,
+              "expanded_url": "https://x.com/Hoshika_Mahiyo/status/2097167447174553601/photo/1",
+              "media_key": "3_2097167440518230016",
+              "start": 31,
+              "url": "https://t.co/GkXLBrrhGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097167447174553601",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097167431580221440"
+          },
+          {
+            "media_key": "3_2097167440518230016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Q1：emmm...您想表达的是？\nQ2：这类问题我不予回答 https://t.co/GkXLBrrhGG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2097299358698135759",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 602,
+          "like_count": 19614,
+          "listed_count": 1,
+          "media_count": 773,
+          "tweet_count": 3920
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "也可以叫我刘星瑶~\n同类互fo喵\n🏳️‍⚧️11/08/17 高一 MtF 泛性恋 天残党 半家长党\n🍥2026/08/02 无证含糖 已炸柜\n❌无任何政治立场，不od不抽烟不喝酒不混社会\n👤MBTI-INSFTP 乐观 佛系 非牛顿流体\n♥️爱好 折腾/音乐/写作/美食\n🗣️🇨🇳🇨🇦🇯🇵🇰🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n6fqO"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "is_identity_verified": false,
+        "location": "现居📍吉林四平    想移民去Canada🇨🇦",
+        "most_recent_tweet_id": "2097179575247831131",
+        "name": "Hoshika_Mahiyo",
+        "pinned_tweet_id": "2096462009609166971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781868776918790144/1786784735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096475212271489024/A9cxjBWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 1678,
+          "like_count": 3434,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/evOh4n6fqO",
+        "username": "Hoshika_Mahiyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

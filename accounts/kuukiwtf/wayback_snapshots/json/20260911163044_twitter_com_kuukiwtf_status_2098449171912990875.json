@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098283784487550977"
+      ],
+      "media_source_tweet_id": [
+        "2098283797552755137"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2098449171912990875",
+    "created_at": "2026-09-11T16:30:44.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T17:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098449171912990875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2597996233",
+          "start": 3,
+          "username": "6chezza"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xz2inHYQOk",
+          "end": 36,
+          "expanded_url": "https://x.com/6chezza/status/2098283797552755137/photo/1",
+          "media_key": "3_2098283784487550977",
+          "start": 13,
+          "url": "https://t.co/Xz2inHYQOk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098449171912990875",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2098283784487550977"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2205
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098283797552755137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6chezza: https://t.co/Xz2inHYQOk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3235,
+        "media_key": "3_2098283784487550977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6Z_BxXwAEjMBH.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098283784487550977"
+          ],
+          "media_source_tweet_id": [
+            "2098283797552755137"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098449171912990875",
+        "created_at": "2026-09-11T16:30:44.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098449171912990875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2597996233",
+              "start": 3,
+              "username": "6chezza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xz2inHYQOk",
+              "end": 36,
+              "expanded_url": "https://x.com/6chezza/status/2098283797552755137/photo/1",
+              "media_key": "3_2098283784487550977",
+              "start": 13,
+              "url": "https://t.co/Xz2inHYQOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098449171912990875",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098283784487550977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098283797552755137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @6chezza: https://t.co/Xz2inHYQOk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098283784487550977"
+          ]
+        },
+        "author_id": "2597996233",
+        "conversation_id": "2098283797552755137",
+        "created_at": "2026-09-11T05:33:36.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T06:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098283797552755137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xz2inHYQOk",
+              "end": 23,
+              "expanded_url": "https://x.com/6chezza/status/2098283797552755137/photo/1",
+              "media_key": "3_2098283784487550977",
+              "start": 0,
+              "url": "https://t.co/Xz2inHYQOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098283797552755137",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098283784487550977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 439,
+          "impression_count": 80282,
+          "like_count": 12141,
+          "quote_count": 16,
+          "reply_count": 16,
+          "retweet_count": 2205
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Xz2inHYQOk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098449171912990875",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 606,
+          "like_count": 20277,
+          "listed_count": 1,
+          "media_count": 784,
+          "tweet_count": 4006
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-07-01T13:12:37.000Z",
+        "description": "doing it for the plot - @user0000O0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "user0000O0"
+              }
+            ]
+          }
+        },
+        "id": "2597996233",
+        "is_identity_verified": false,
+        "location": "psych ward",
+        "most_recent_tweet_id": "2098429863249989937",
+        "name": "chezza ➠",
+        "pinned_tweet_id": "2084287480811958283",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2597996233/1785359924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082586674286972928/4HJ-iKPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5182,
+          "following_count": 2306,
+          "like_count": 227258,
+          "listed_count": 58,
+          "media_count": 645,
+          "tweet_count": 56975
+        },
+        "url": "",
+        "username": "6chezza",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

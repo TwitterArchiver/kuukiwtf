@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095900685552484352"
+      ],
+      "media_source_tweet_id": [
+        "2095900693253284345"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096160169793339551",
+    "created_at": "2026-09-05T08:55:03.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T09:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096160169793339551"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 20,
+          "tag": "AIのクソ動画が話題になってるので人間が作った動画を見よう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1755575885418438656",
+          "start": 3,
+          "username": "GoForItHalycon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KoQkSXExt5",
+          "end": 74,
+          "expanded_url": "https://x.com/GoForItHalycon/status/2095900693253284345/video/1",
+          "media_key": "13_2095900685552484352",
+          "start": 51,
+          "url": "https://t.co/KoQkSXExt5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096160169793339551",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2095900685552484352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1481
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095900693253284345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GoForItHalycon: #AIのクソ動画が話題になってるので人間が作った動画を見よう https://t.co/KoQkSXExt5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5921,
+        "height": 346,
+        "media_key": "13_2095900685552484352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095900685552484352/img/_2Xb_RoB7QeyMCTe.jpg",
+        "public_metrics": {
+          "view_count": 423315
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095900685552484352/vid/avc1/498x270/a-yylcxFPxg2mcdz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095900685552484352/vid/avc1/640x346/fyb_Bs_wToEHD942.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095900685552484352/pl/BkQ6Szk8nSUnO59W.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095900685552484352"
+          ],
+          "media_source_tweet_id": [
+            "2095900693253284345"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096160169793339551",
+        "created_at": "2026-09-05T08:55:03.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096160169793339551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 20,
+              "tag": "AIのクソ動画が話題になってるので人間が作った動画を見よう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1755575885418438656",
+              "start": 3,
+              "username": "GoForItHalycon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KoQkSXExt5",
+              "end": 74,
+              "expanded_url": "https://x.com/GoForItHalycon/status/2095900693253284345/video/1",
+              "media_key": "13_2095900685552484352",
+              "start": 51,
+              "url": "https://t.co/KoQkSXExt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096160169793339551",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2095900685552484352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1481
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095900693253284345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GoForItHalycon: #AIのクソ動画が話題になってるので人間が作った動画を見よう https://t.co/KoQkSXExt5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095900685552484352"
+          ]
+        },
+        "author_id": "1755575885418438656",
+        "conversation_id": "2095900693253284345",
+        "created_at": "2026-09-04T15:43:59.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095900693253284345"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 0,
+              "tag": "AIのクソ動画が話題になってるので人間が作った動画を見よう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KoQkSXExt5",
+              "end": 54,
+              "expanded_url": "https://x.com/GoForItHalycon/status/2095900693253284345/video/1",
+              "media_key": "13_2095900685552484352",
+              "start": 31,
+              "url": "https://t.co/KoQkSXExt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095900693253284345",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2095900685552484352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1728,
+          "impression_count": 713084,
+          "like_count": 13250,
+          "quote_count": 27,
+          "reply_count": 17,
+          "retweet_count": 1481
+        },
+        "reply_settings": "everyone",
+        "text": "#AIのクソ動画が話題になってるので人間が作った動画を見よう https://t.co/KoQkSXExt5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096160169793339551",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 584,
+          "like_count": 18739,
+          "listed_count": 1,
+          "media_count": 742,
+          "tweet_count": 3720
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T12:54:57.000Z",
+        "description": "ちなみにユーザー名の@GoForItHalycon は核P-MODELのアルバムГипноза収録曲「それ行け！Halycon」の英訳です",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "GoForItHalycon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/22uQwKZfxX",
+                "end": 23,
+                "expanded_url": "https://discord.gg/22uQwKZfxX",
+                "start": 0,
+                "url": "https://t.co/0OvA2uBckw"
+              }
+            ]
+          }
+        },
+        "id": "1755575885418438656",
+        "is_identity_verified": false,
+        "location": "入って、どうぞ→",
+        "most_recent_tweet_id": "2096150378866000251",
+        "name": "はるぽん",
+        "pinned_tweet_id": "2041713935653728728",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755575885418438656/1787932824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093262296655314944/mr08Qoxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5497,
+          "following_count": 4850,
+          "like_count": 20846,
+          "listed_count": 10,
+          "media_count": 1712,
+          "tweet_count": 9397
+        },
+        "url": "https://t.co/0OvA2uBckw",
+        "username": "GoForItHalycon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

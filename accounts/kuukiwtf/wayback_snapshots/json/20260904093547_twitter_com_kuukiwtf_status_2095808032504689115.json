@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095808015966568448",
+        "3_2095808022841118720"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2095808032504689115",
+    "created_at": "2026-09-04T09:35:47.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T10:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095808032504689115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rYPl2zFTI5",
+          "end": 123,
+          "expanded_url": "https://x.com/kuukiwtf/status/2095808032504689115/photo/1",
+          "media_key": "3_2095808015966568448",
+          "start": 100,
+          "url": "https://t.co/rYPl2zFTI5"
+        },
+        {
+          "display_url": "pic.x.com/rYPl2zFTI5",
+          "end": 123,
+          "expanded_url": "https://x.com/kuukiwtf/status/2095808032504689115/photo/1",
+          "media_key": "3_2095808022841118720",
+          "start": 100,
+          "url": "https://t.co/rYPl2zFTI5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095808032504689115",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095808015966568448"
+      },
+      {
+        "media_key": "3_2095808022841118720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "uu？優秀作業 那我要看看\n我去 我瞎雞巴寫還能是優秀 那我都不敢想這個班同學有多爛\n\n（當時只是馬上要交作業了 一節課極限補出來的 冇一點邏輯 小學生水平👍\n我照著範文的漢語翻譯又翻譯成了英語（（ https://t.co/rYPl2zFTI5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 385,
+        "media_key": "3_2095808015966568448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXOSVUagAATPwJ.jpg",
+        "width": 817
+      },
+      {
+        "height": 2187,
+        "media_key": "3_2095808022841118720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXOSu7b0AAukgf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095808015966568448",
+            "3_2095808022841118720"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2095808032504689115",
+        "created_at": "2026-09-04T09:35:47.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095808032504689115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rYPl2zFTI5",
+              "end": 123,
+              "expanded_url": "https://x.com/kuukiwtf/status/2095808032504689115/photo/1",
+              "media_key": "3_2095808015966568448",
+              "start": 100,
+              "url": "https://t.co/rYPl2zFTI5"
+            },
+            {
+              "display_url": "pic.x.com/rYPl2zFTI5",
+              "end": 123,
+              "expanded_url": "https://x.com/kuukiwtf/status/2095808032504689115/photo/1",
+              "media_key": "3_2095808022841118720",
+              "start": 100,
+              "url": "https://t.co/rYPl2zFTI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095808032504689115",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095808015966568448"
+          },
+          {
+            "media_key": "3_2095808022841118720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "uu？優秀作業 那我要看看\n我去 我瞎雞巴寫還能是優秀 那我都不敢想這個班同學有多爛\n\n（當時只是馬上要交作業了 一節課極限補出來的 冇一點邏輯 小學生水平👍\n我照著範文的漢語翻譯又翻譯成了英語（（ https://t.co/rYPl2zFTI5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095808032504689115",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 587,
+          "like_count": 18299,
+          "listed_count": 1,
+          "media_count": 726,
+          "tweet_count": 3651
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

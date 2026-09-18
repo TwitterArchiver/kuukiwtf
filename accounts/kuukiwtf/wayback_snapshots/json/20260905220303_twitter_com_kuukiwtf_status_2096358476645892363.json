@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2096358412024193024",
+        "16_2096358451853369344",
+        "3_2096358469356212224"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096358476645892363",
+    "created_at": "2026-09-05T22:03:03.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T23:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096358476645892363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YOebCWbK2w",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2096358476645892363/photo/1",
+          "media_key": "16_2096358412024193024",
+          "start": 0,
+          "url": "https://t.co/YOebCWbK2w"
+        },
+        {
+          "display_url": "pic.x.com/YOebCWbK2w",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2096358476645892363/photo/1",
+          "media_key": "16_2096358451853369344",
+          "start": 0,
+          "url": "https://t.co/YOebCWbK2w"
+        },
+        {
+          "display_url": "pic.x.com/YOebCWbK2w",
+          "end": 23,
+          "expanded_url": "https://x.com/kuukiwtf/status/2096358476645892363/photo/1",
+          "media_key": "3_2096358469356212224",
+          "start": 0,
+          "url": "https://t.co/YOebCWbK2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096358476645892363",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2096358412024193024"
+      },
+      {
+        "media_key": "16_2096358451853369344"
+      },
+      {
+        "media_key": "3_2096358469356212224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/YOebCWbK2w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "16_2096358412024193024",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRfC3maaoAAAxLt.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRfC3maaoAAAxLt.mp4"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 270,
+        "media_key": "16_2096358451853369344",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRfC56yboAAcQIh.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRfC56yboAAcQIh.mp4"
+          }
+        ],
+        "width": 270
+      },
+      {
+        "height": 904,
+        "media_key": "3_2096358469356212224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfC67_b0AAOCpj.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2096358412024193024",
+            "16_2096358451853369344",
+            "3_2096358469356212224"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096358476645892363",
+        "created_at": "2026-09-05T22:03:03.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T23:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096358476645892363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOebCWbK2w",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096358476645892363/photo/1",
+              "media_key": "16_2096358412024193024",
+              "start": 0,
+              "url": "https://t.co/YOebCWbK2w"
+            },
+            {
+              "display_url": "pic.x.com/YOebCWbK2w",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096358476645892363/photo/1",
+              "media_key": "16_2096358451853369344",
+              "start": 0,
+              "url": "https://t.co/YOebCWbK2w"
+            },
+            {
+              "display_url": "pic.x.com/YOebCWbK2w",
+              "end": 23,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096358476645892363/photo/1",
+              "media_key": "3_2096358469356212224",
+              "start": 0,
+              "url": "https://t.co/YOebCWbK2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096358476645892363",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2096358412024193024"
+          },
+          {
+            "media_key": "16_2096358451853369344"
+          },
+          {
+            "media_key": "3_2096358469356212224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YOebCWbK2w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096358476645892363",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 584,
+          "like_count": 18843,
+          "listed_count": 1,
+          "media_count": 749,
+          "tweet_count": 3754
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

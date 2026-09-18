@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096200384578744320"
+      ],
+      "media_source_tweet_id": [
+        "2096201192359792839"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096209348645314783",
+    "created_at": "2026-09-05T12:10:29.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096209348645314783"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 20,
+          "tag": "でかふもれいむ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "125929878",
+          "start": 3,
+          "username": "U_KAZUYA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oC2rBZarYF",
+          "end": 52,
+          "expanded_url": "https://x.com/U_KAZUYA/status/2096201192359792839/video/1",
+          "media_key": "13_2096200384578744320",
+          "start": 29,
+          "url": "https://t.co/oC2rBZarYF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096209348645314783",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2096200384578744320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096201192359792839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @U_KAZUYA: Swing\n#でかふもれいむ https://t.co/oC2rBZarYF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26074,
+        "height": 358,
+        "media_key": "13_2096200384578744320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096200384578744320/img/kxhBx3MfsCUXwBCO.jpg",
+        "public_metrics": {
+          "view_count": 83
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096200384578744320/vid/avc1/478x270/9CsS2LRqvZdDuuwQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096200384578744320/vid/avc1/636x358/ZSWXP_fJKWbGj8qp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096200384578744320/pl/jFCfUr7f-OrL2lbv.m3u8?tag=14"
+          }
+        ],
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096200384578744320"
+          ],
+          "media_source_tweet_id": [
+            "2096201192359792839"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096209348645314783",
+        "created_at": "2026-09-05T12:10:29.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096209348645314783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "でかふもれいむ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "125929878",
+              "start": 3,
+              "username": "U_KAZUYA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oC2rBZarYF",
+              "end": 52,
+              "expanded_url": "https://x.com/U_KAZUYA/status/2096201192359792839/video/1",
+              "media_key": "13_2096200384578744320",
+              "start": 29,
+              "url": "https://t.co/oC2rBZarYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096209348645314783",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2096200384578744320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096201192359792839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @U_KAZUYA: Swing\n#でかふもれいむ https://t.co/oC2rBZarYF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096200384578744320"
+          ]
+        },
+        "author_id": "125929878",
+        "conversation_id": "2096201192359792839",
+        "created_at": "2026-09-05T11:38:04.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096201192359792839"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "でかふもれいむ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oC2rBZarYF",
+              "end": 38,
+              "expanded_url": "https://x.com/U_KAZUYA/status/2096201192359792839/video/1",
+              "media_key": "13_2096200384578744320",
+              "start": 15,
+              "url": "https://t.co/oC2rBZarYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096201192359792839",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2096200384578744320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 267,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Swing\n#でかふもれいむ https://t.co/oC2rBZarYF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096209348645314783",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 584,
+          "like_count": 18769,
+          "listed_count": 1,
+          "media_count": 746,
+          "tweet_count": 3729
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-03-24T09:05:08.000Z",
+        "description": "fumo photographer / ふもふもありすとでかふもれいむをこよなく愛する人 / ぬいぐるみが出てくるブログやってます / 艦これ/東方/カメラ/旅行好き/ドライブ/峠ステッカー/御朱印/神社仏閣城郭/車中泊/インプレッサ2.0GT/たまに野鳥撮影/転載禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crimson.be",
+                "end": 23,
+                "expanded_url": "https://www.crimson.be",
+                "start": 0,
+                "url": "https://t.co/vDOEGCsblR"
+              }
+            ]
+          }
+        },
+        "id": "125929878",
+        "is_identity_verified": false,
+        "location": "Between dreams and reality",
+        "most_recent_tweet_id": "2096203551030800594",
+        "name": "宇都宮KAZUYA@秩父例大祭A05b",
+        "pinned_tweet_id": "1486324136154890240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/125929878/1753281610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548504957/1487959_43841763_126large_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 327,
+          "like_count": 21888,
+          "listed_count": 19,
+          "media_count": 5037,
+          "tweet_count": 21569
+        },
+        "url": "https://t.co/vDOEGCsblR",
+        "username": "U_KAZUYA",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

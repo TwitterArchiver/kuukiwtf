@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096481793214132224"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096481807629984110",
+    "created_at": "2026-09-06T06:13:08.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T07:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096481807629984110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Da9Am0MY4r",
+          "end": 40,
+          "expanded_url": "https://x.com/kuukiwtf/status/2096481807629984110/photo/1",
+          "media_key": "3_2096481793214132224",
+          "start": 17,
+          "url": "https://t.co/Da9Am0MY4r"
+        },
+        {
+          "display_url": "x.com/kuukiwtf/statu…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/kuukiwtf/status/2096480372880232539",
+          "start": 41,
+          "url": "https://t.co/ORRpg3UyGP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096481807629984110",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096481793214132224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096480372880232539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哥哥姐姐我還在寫作業喵，快夸我喵 https://t.co/Da9Am0MY4r https://t.co/ORRpg3UyGP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2592,
+        "media_key": "3_2096481793214132224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgzFVKaMAADUin.jpg",
+        "width": 1944
+      },
+      {
+        "height": 2592,
+        "media_key": "3_2096480357390651392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgxxwTakAABKKS.jpg",
+        "width": 1944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096481793214132224"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096481807629984110",
+        "created_at": "2026-09-06T06:13:08.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096481807629984110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Da9Am0MY4r",
+              "end": 40,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096481807629984110/photo/1",
+              "media_key": "3_2096481793214132224",
+              "start": 17,
+              "url": "https://t.co/Da9Am0MY4r"
+            },
+            {
+              "display_url": "x.com/kuukiwtf/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/kuukiwtf/status/2096480372880232539",
+              "start": 41,
+              "url": "https://t.co/ORRpg3UyGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096481807629984110",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096481793214132224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096480372880232539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哥哥姐姐我還在寫作業喵，快夸我喵 https://t.co/Da9Am0MY4r https://t.co/ORRpg3UyGP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096480357390651392"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096480372880232539",
+        "created_at": "2026-09-06T06:07:26.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096480372880232539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BGAluFPNp",
+              "end": 42,
+              "expanded_url": "https://x.com/kuukiwtf/status/2096480372880232539/photo/1",
+              "media_key": "3_2096480357390651392",
+              "start": 19,
+              "url": "https://t.co/3BGAluFPNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096480372880232539",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096480357390651392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我太遜了，一個半小時沒有寫完一篇閱讀 https://t.co/3BGAluFPNp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096481807629984110",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 586,
+          "like_count": 19048,
+          "listed_count": 1,
+          "media_count": 763,
+          "tweet_count": 3812
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096044145865556230",
+    "created_at": "2026-09-05T01:14:01.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T02:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096044145865556230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AGZlove8964/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/AGZlove8964/status/2095885121966759985",
+          "start": 16,
+          "url": "https://t.co/n7ktGFHr0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096044145865556230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095885121966759985",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我受不了以中國人的身份留在中國 https://t.co/n7ktGFHr0h"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096044145865556230",
+        "created_at": "2026-09-05T01:14:01.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T02:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096044145865556230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AGZlove8964/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/AGZlove8964/status/2095885121966759985",
+              "start": 16,
+              "url": "https://t.co/n7ktGFHr0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096044145865556230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095885121966759985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我受不了以中國人的身份留在中國 https://t.co/n7ktGFHr0h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947765957658873860",
+        "conversation_id": "2095885121966759985",
+        "created_at": "2026-09-04T14:42:07.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095885121966759985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wowmanypeople/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/wowmanypeople/status/2095465417850691891",
+              "start": 16,
+              "url": "https://t.co/uLryXNIRje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095885121966759985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 552,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095465417850691891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我受不了以大陆人的身份留在中国 https://t.co/uLryXNIRje"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096044145865556230",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 586,
+          "like_count": 18611,
+          "listed_count": 1,
+          "media_count": 737,
+          "tweet_count": 3704
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "🚪89.64 用于国家有难时刻捐款\n小号@dkcy1109\n匿名箱：",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "dkcy1109"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agzlove8964/clo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/agzlove8964/clo",
+                "start": 0,
+                "url": "https://t.co/4wZOTqS2xK"
+              }
+            ]
+          }
+        },
+        "id": "1947765957658873860",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095944901318066643",
+        "name": "爱国者8964 🇹🇼",
+        "pinned_tweet_id": "2094276078441570373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947765957658873860/1788514260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088197181895536640/pyp-2zYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 173,
+          "like_count": 3316,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 2203
+        },
+        "url": "https://t.co/4wZOTqS2xK",
+        "username": "AGZlove8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

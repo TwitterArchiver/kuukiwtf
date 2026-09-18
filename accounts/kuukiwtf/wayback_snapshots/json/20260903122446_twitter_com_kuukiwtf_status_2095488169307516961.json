@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095419317810794496"
+      ],
+      "media_source_tweet_id": [
+        "2095419387109069174"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095488169307516961",
+    "created_at": "2026-09-03T12:24:46.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095488169307516961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "771963948191055874",
+          "start": 3,
+          "username": "PhanthakanXD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eNfstiYG7f",
+          "end": 85,
+          "expanded_url": "https://x.com/PhanthakanXD/status/2095419387109069174/video/1",
+          "media_key": "13_2095419317810794496",
+          "start": 62,
+          "url": "https://t.co/eNfstiYG7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095488169307516961",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2095419317810794496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 347
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095419387109069174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PhanthakanXD: It's my second time trying to rig something https://t.co/eNfstiYG7f"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11100,
+        "height": 1080,
+        "media_key": "13_2095419317810794496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095419317810794496/img/EpfjD0VRisRMiOgX.jpg",
+        "public_metrics": {
+          "view_count": 32622
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095419317810794496/vid/avc1/354x270/DXbscO4ETTHWPhM9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095419317810794496/vid/avc1/472x360/tcm54xtQN3I_LN-f.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095419317810794496/vid/avc1/946x720/hWDC-lAW4n75qf8T.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095419317810794496/pl/E6zRZTvY90tJ2In4.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095419317810794496"
+          ],
+          "media_source_tweet_id": [
+            "2095419387109069174"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095488169307516961",
+        "created_at": "2026-09-03T12:24:46.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095488169307516961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "771963948191055874",
+              "start": 3,
+              "username": "PhanthakanXD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eNfstiYG7f",
+              "end": 85,
+              "expanded_url": "https://x.com/PhanthakanXD/status/2095419387109069174/video/1",
+              "media_key": "13_2095419317810794496",
+              "start": 62,
+              "url": "https://t.co/eNfstiYG7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095488169307516961",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095419317810794496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095419387109069174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PhanthakanXD: It's my second time trying to rig something https://t.co/eNfstiYG7f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095419317810794496"
+          ]
+        },
+        "author_id": "771963948191055874",
+        "conversation_id": "2095419387109069174",
+        "created_at": "2026-09-03T07:51:27.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095419387109069174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eNfstiYG7f",
+              "end": 67,
+              "expanded_url": "https://x.com/PhanthakanXD/status/2095419387109069174/video/1",
+              "media_key": "13_2095419317810794496",
+              "start": 44,
+              "url": "https://t.co/eNfstiYG7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095419387109069174",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095419317810794496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 742,
+          "impression_count": 63563,
+          "like_count": 4910,
+          "quote_count": 13,
+          "reply_count": 32,
+          "retweet_count": 347
+        },
+        "reply_settings": "everyone",
+        "text": "It's my second time trying to rig something https://t.co/eNfstiYG7f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095488169307516961",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 587,
+          "like_count": 18226,
+          "listed_count": 1,
+          "media_count": 722,
+          "tweet_count": 3640
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-09-03T06:52:02.000Z",
+        "description": "I'm Phan :3\nI make animation and stuff\nAlt: @PTKAME",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 44,
+                "username": "PTKAME"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "phanthakanxd.carrd.co",
+                "end": 23,
+                "expanded_url": "https://phanthakanxd.carrd.co",
+                "start": 0,
+                "url": "https://t.co/3pZ20pLgTo"
+              }
+            ]
+          }
+        },
+        "id": "771963948191055874",
+        "is_identity_verified": false,
+        "location": "博麗神社",
+        "most_recent_tweet_id": "2095487233549807938",
+        "name": "Phan🍮",
+        "pinned_tweet_id": "2056025186353426469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/771963948191055874/1787637470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092129292503445504/tjsPjs1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14105,
+          "following_count": 230,
+          "like_count": 17567,
+          "listed_count": 47,
+          "media_count": 483,
+          "tweet_count": 3580
+        },
+        "url": "https://t.co/3pZ20pLgTo",
+        "username": "PhanthakanXD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

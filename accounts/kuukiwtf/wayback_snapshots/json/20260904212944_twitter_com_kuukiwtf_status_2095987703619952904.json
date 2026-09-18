@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2095987703619952904",
+    "created_at": "2026-09-04T21:29:44.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T22:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095987703619952904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YongQuan/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/YongQuan/status/2095876787280679174",
+          "start": 20,
+          "url": "https://t.co/1Jzn9G60li"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095987703619952904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095876787280679174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "豆包到底能幹什麼\n在你們中間那麼受歡迎 https://t.co/1Jzn9G60li"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2095514462539460608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTDTRlbsAAumXY.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2095987703619952904",
+        "created_at": "2026-09-04T21:29:44.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T22:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095987703619952904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YongQuan/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/YongQuan/status/2095876787280679174",
+              "start": 20,
+              "url": "https://t.co/1Jzn9G60li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095987703619952904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095876787280679174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "豆包到底能幹什麼\n在你們中間那麼受歡迎 https://t.co/1Jzn9G60li"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095514462539460608"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2095876787280679174",
+        "created_at": "2026-09-04T14:09:00.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095876787280679174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBqRofGAVf",
+              "end": 40,
+              "expanded_url": "https://x.com/YongQuan/status/2095876787280679174/photo/1",
+              "media_key": "3_2095514462539460608",
+              "start": 17,
+              "url": "https://t.co/pBqRofGAVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095876787280679174",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095514462539460608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9911,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让豆包配电脑，价格都是几万年前的 https://t.co/pBqRofGAVf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095987703619952904",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 587,
+          "like_count": 18519,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 3693
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n日常@1H4teTheWorld\nPUBGM PRO Player UID：51758460894\n雪秋账号没有收益，我将夺舍栓栓铨铨的账号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2095982483515007341",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11887,
+          "following_count": 4859,
+          "like_count": 54332,
+          "listed_count": 43,
+          "media_count": 6317,
+          "tweet_count": 17516
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

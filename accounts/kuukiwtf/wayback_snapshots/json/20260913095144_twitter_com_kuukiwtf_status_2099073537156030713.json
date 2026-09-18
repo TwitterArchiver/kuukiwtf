@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2099065709791977558",
+    "created_at": "2026-09-13T09:51:44.000Z",
+    "display_text_range": [
+      11,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T10:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099073537156030713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2073228681758298112",
+          "start": 0,
+          "username": "fffyyp565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099073537156030713",
+    "in_reply_to_user_id": "2073228681758298112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099072463099330828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffyyp565 啊啊玩過一個差不多的😭😭我後來放棄了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2099065709791977558",
+        "created_at": "2026-09-13T09:51:44.000Z",
+        "display_text_range": [
+          11,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099073537156030713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2073228681758298112",
+              "start": 0,
+              "username": "fffyyp565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099073537156030713",
+        "in_reply_to_user_id": "2073228681758298112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099072463099330828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffyyp565 啊啊玩過一個差不多的😭😭我後來放棄了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073228681758298112",
+        "conversation_id": "2099065709791977558",
+        "created_at": "2026-09-13T09:47:28.000Z",
+        "display_text_range": [
+          10,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099072463099330828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099072463099330828",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099065709791977558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 你下一个打字旋风。里面有一个键法就是jjjkkkqqq这样子打，你先打，打一会你就去打一篇英文文章，每次连着练。多练一会。然后过几天就再练习中文。然后后面聊天也改为电脑，这样几天就会了 。我当时就是喜欢跟别人聊天。但是速度提不起来，就靠这个方法。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2099073537156030713",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 605,
+          "like_count": 20895,
+          "listed_count": 1,
+          "media_count": 803,
+          "tweet_count": 4106
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T02:15:32.000Z",
+        "description": "互fo。我是沼泽(ˆつ⩊⊂ˆ)੭。找对象……永久",
+        "id": "2073228681758298112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099072723284631821",
+        "name": "fff yy🐾",
+        "pinned_tweet_id": "2097553972332806477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073228681758298112/1789275150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098998231636316160/8b6IqvoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 114,
+          "like_count": 1361,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 378
+        },
+        "url": "",
+        "username": "fffyyp565",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

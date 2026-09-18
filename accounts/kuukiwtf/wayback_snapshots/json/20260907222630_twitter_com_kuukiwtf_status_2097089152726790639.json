@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097028425995485185"
+      ],
+      "media_source_tweet_id": [
+        "2097028435927605681"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "conversation_id": "2097089152726790639",
+    "created_at": "2026-09-07T22:26:30.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T23:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097089152726790639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "785009471109996544",
+          "start": 3,
+          "username": "NotStickOS"
+        },
+        {
+          "end": 32,
+          "id": "4655970753",
+          "start": 16,
+          "username": "bitesyourfinger"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DqAwINEJZx",
+          "end": 100,
+          "expanded_url": "https://x.com/NotStickOS/status/2097028435927605681/video/1",
+          "media_key": "13_2097028425995485185",
+          "start": 77,
+          "url": "https://t.co/DqAwINEJZx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097089152726790639",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2097028425995485185"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097028435927605681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NotStickOS: @bitesyourfinger i definitely wouldnt do something like that https://t.co/DqAwINEJZx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3300,
+        "height": 270,
+        "media_key": "13_2097028425995485185",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097028425995485185/img/gIDRBXtySEU86hEn.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097028425995485185/vid/avc1/360x270/L8ZW9cxm_Ynm0lEV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097028425995485185/pl/8Zs5dvYbKKcSsGvW.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097028425995485185"
+          ],
+          "media_source_tweet_id": [
+            "2097028435927605681"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2097089152726790639",
+        "created_at": "2026-09-07T22:26:30.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T23:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097089152726790639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "785009471109996544",
+              "start": 3,
+              "username": "NotStickOS"
+            },
+            {
+              "end": 32,
+              "id": "4655970753",
+              "start": 16,
+              "username": "bitesyourfinger"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqAwINEJZx",
+              "end": 100,
+              "expanded_url": "https://x.com/NotStickOS/status/2097028435927605681/video/1",
+              "media_key": "13_2097028425995485185",
+              "start": 77,
+              "url": "https://t.co/DqAwINEJZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097089152726790639",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097028425995485185"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097028435927605681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NotStickOS: @bitesyourfinger i definitely wouldnt do something like that https://t.co/DqAwINEJZx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097028425995485185"
+          ]
+        },
+        "author_id": "785009471109996544",
+        "conversation_id": "2096975003409371357",
+        "created_at": "2026-09-07T18:25:14.000Z",
+        "display_text_range": [
+          17,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T19:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097028435927605681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4655970753",
+              "start": 0,
+              "username": "bitesyourfinger"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqAwINEJZx",
+              "end": 84,
+              "expanded_url": "https://x.com/NotStickOS/status/2097028435927605681/video/1",
+              "media_key": "13_2097028425995485185",
+              "start": 61,
+              "url": "https://t.co/DqAwINEJZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097028435927605681",
+        "in_reply_to_user_id": "4655970753",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097028425995485185"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096975003409371357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitesyourfinger i definitely wouldnt do something like that https://t.co/DqAwINEJZx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2097089152726790639",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 601,
+          "like_count": 19554,
+          "listed_count": 1,
+          "media_count": 773,
+          "tweet_count": 3911
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-10-09T06:50:17.000Z",
+        "description": "Kys",
+        "id": "785009471109996544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097028435927605681",
+        "name": "not sticc",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/785009471109996544/1475996323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363550084541997056/BiEwyfHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 384,
+          "like_count": 878,
+          "listed_count": 1,
+          "media_count": 3023,
+          "tweet_count": 3088
+        },
+        "url": "",
+        "username": "NotStickOS",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-30T17:33:58.000Z",
+        "description": "",
+        "id": "4655970753",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097082756190621696",
+        "name": "ᗜ‿ᗜ",
+        "pinned_tweet_id": "2085753822190751906",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4655970753/1778309501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053004965610676226/qIaWvDy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 726,
+          "like_count": 200575,
+          "listed_count": 8,
+          "media_count": 14066,
+          "tweet_count": 52853
+        },
+        "url": "",
+        "username": "bitesyourfinger",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

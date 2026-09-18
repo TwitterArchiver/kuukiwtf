@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2094791293243433245",
+    "created_at": "2026-09-01T21:52:48.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T22:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094906344432410884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "85240609891_1st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094906344432410884",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094791293243433245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@85240609891_1st 支那人智商低"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2094791293243433245",
+        "created_at": "2026-09-01T21:52:48.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T22:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094906344432410884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "85240609891_1st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094906344432410884",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094791293243433245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@85240609891_1st 支那人智商低"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885557129588948992",
+        "conversation_id": "2094791293243433245",
+        "created_at": "2026-09-01T14:15:38.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094791293243433245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094791293243433245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 656,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大陸人智商高嗎\n一直在講我的智商低"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2094906344432410884",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 587,
+          "like_count": 18052,
+          "listed_count": 1,
+          "media_count": 721,
+          "tweet_count": 3619
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Arctic Warfare Police\nQueen Victoria\nGlory to Hong Kong\nHongkonger",
+        "id": "1885557129588948992",
+        "is_identity_verified": false,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2094799453529997522",
+        "name": "Accuracy International Arctic Warfare Police🇬🇧",
+        "pinned_tweet_id": "2094233171919609931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885557129588948992/1787754530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092620200805834752/bxkHlSSu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 2820,
+          "like_count": 20584,
+          "listed_count": 6,
+          "media_count": 1163,
+          "tweet_count": 6229
+        },
+        "url": "",
+        "username": "85240609891_1st",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

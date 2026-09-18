@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095885552772149248"
+      ],
+      "media_source_tweet_id": [
+        "2095885602264862916"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095980073891602888",
+    "created_at": "2026-09-04T20:59:25.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T21:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095980073891602888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009518306114588675",
+          "start": 3,
+          "username": "Fumo_Nootice"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zsosKjIhJr",
+          "end": 75,
+          "expanded_url": "https://x.com/Fumo_Nootice/status/2095885602264862916/video/1",
+          "media_key": "13_2095885552772149248",
+          "start": 52,
+          "url": "https://t.co/zsosKjIhJr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095980073891602888",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2095885552772149248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095885602264862916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fumo_Nootice: OOMFIES WAKE UP IT IS FUMO FRIDAY https://t.co/zsosKjIhJr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69892,
+        "height": 360,
+        "media_key": "13_2095885552772149248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095885552772149248/img/PCRSIa7Ylem5tCH2.jpg",
+        "public_metrics": {
+          "view_count": 404
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095885552772149248/vid/avc1/480x270/ANWhmoy5bHRTYTG9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095885552772149248/vid/avc1/640x360/zh1Cqh8PQmQPBlLa.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095885552772149248/pl/m3bW9C9QEWL5c8om.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095885552772149248"
+          ],
+          "media_source_tweet_id": [
+            "2095885602264862916"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095980073891602888",
+        "created_at": "2026-09-04T20:59:25.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095980073891602888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2009518306114588675",
+              "start": 3,
+              "username": "Fumo_Nootice"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsosKjIhJr",
+              "end": 75,
+              "expanded_url": "https://x.com/Fumo_Nootice/status/2095885602264862916/video/1",
+              "media_key": "13_2095885552772149248",
+              "start": 52,
+              "url": "https://t.co/zsosKjIhJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095980073891602888",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095885552772149248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095885602264862916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fumo_Nootice: OOMFIES WAKE UP IT IS FUMO FRIDAY https://t.co/zsosKjIhJr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095885552772149248"
+          ]
+        },
+        "author_id": "2009518306114588675",
+        "conversation_id": "2095885602264862916",
+        "created_at": "2026-09-04T14:44:01.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095885602264862916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsosKjIhJr",
+              "end": 57,
+              "expanded_url": "https://x.com/Fumo_Nootice/status/2095885602264862916/video/1",
+              "media_key": "13_2095885552772149248",
+              "start": 34,
+              "url": "https://t.co/zsosKjIhJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095885602264862916",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095885552772149248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1021,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "OOMFIES WAKE UP IT IS FUMO FRIDAY https://t.co/zsosKjIhJr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2095980073891602888",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 587,
+          "like_count": 18461,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 3683
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-09T06:51:25.000Z",
+        "description": "You cannot give Shit Leftards an inch of room!!\nFumo Enjoyer | Austrian School Follower🐍| American Supremacist | Proud Anti-Socialist\nLONG LIVE LIBERTY DAMNIT!",
+        "id": "2009518306114588675",
+        "is_identity_verified": false,
+        "location": "Misty Lake",
+        "most_recent_tweet_id": "2095942213142503574",
+        "name": "Cirnotarian",
+        "pinned_tweet_id": "2051053598398968015",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2009518306114588675/1787470822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091449869743669248/vR7MY7EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 343,
+          "like_count": 22566,
+          "listed_count": 5,
+          "media_count": 1110,
+          "tweet_count": 3379
+        },
+        "url": "",
+        "username": "Fumo_Nootice",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

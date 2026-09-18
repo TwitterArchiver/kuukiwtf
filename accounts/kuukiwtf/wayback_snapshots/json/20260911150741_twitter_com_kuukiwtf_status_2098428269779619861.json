@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2098428269779619861",
+    "created_at": "2026-09-11T15:07:41.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T16:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098428269779619861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rare_jpg/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/rare_jpg/status/2098110485119783003",
+          "start": 27,
+          "url": "https://t.co/SDGRKrYmXf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098428269779619861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098110485119783003",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我需要這些刻板印象mdma的東西 誰給我拿一點我要吃 https://t.co/SDGRKrYmXf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2098110482607661058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR38Xh9aYAITn0g.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098428269779619861",
+        "created_at": "2026-09-11T15:07:41.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T16:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098428269779619861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rare_jpg/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/rare_jpg/status/2098110485119783003",
+              "start": 27,
+              "url": "https://t.co/SDGRKrYmXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098428269779619861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098110485119783003",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要這些刻板印象mdma的東西 誰給我拿一點我要吃 https://t.co/SDGRKrYmXf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098110482607661058"
+          ]
+        },
+        "author_id": "3140679366",
+        "conversation_id": "2098110485119783003",
+        "created_at": "2026-09-10T18:04:55.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098110485119783003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIaBjQw3uq",
+              "end": 23,
+              "expanded_url": "https://x.com/rare_jpg/status/2098110485119783003/photo/1",
+              "media_key": "3_2098110482607661058",
+              "start": 0,
+              "url": "https://t.co/iIaBjQw3uq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098110485119783003",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098110482607661058"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 928,
+          "impression_count": 248099,
+          "like_count": 9633,
+          "quote_count": 229,
+          "reply_count": 134,
+          "retweet_count": 1078
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iIaBjQw3uq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098428269779619861",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 606,
+          "like_count": 20221,
+          "listed_count": 1,
+          "media_count": 784,
+          "tweet_count": 4001
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-04-05T20:50:17.000Z",
+        "description": "the internet.",
+        "id": "3140679366",
+        "is_identity_verified": false,
+        "location": "biz@rarejpg.com",
+        "most_recent_tweet_id": "2098423672071495716",
+        "name": "rare.jpg",
+        "pinned_tweet_id": "2097774044250567028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3140679366/1749092146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854365475003920384/mbml_UNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324761,
+          "following_count": 11,
+          "like_count": 11955,
+          "listed_count": 723,
+          "media_count": 8718,
+          "tweet_count": 10008
+        },
+        "url": "",
+        "username": "rare_jpg",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

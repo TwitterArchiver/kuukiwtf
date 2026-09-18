@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2094892416683917419",
+    "created_at": "2026-09-01T20:57:28.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T21:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094892416683917419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kiki_qiqing/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/kiki_qiqing/status/2094676045177946532",
+          "start": 42,
+          "url": "https://t.co/FtQnhSnjQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094892416683917419",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094676045177946532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很多藥娘..\n除了性激素和生理女相似\n其他根本和女性不沾邊\n至少刻板印象上是這樣的 https://t.co/FtQnhSnjQX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2094892416683917419",
+        "created_at": "2026-09-01T20:57:28.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T21:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094892416683917419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiki_qiqing/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/kiki_qiqing/status/2094676045177946532",
+              "start": 42,
+              "url": "https://t.co/FtQnhSnjQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094892416683917419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094676045177946532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多藥娘..\n除了性激素和生理女相似\n其他根本和女性不沾邊\n至少刻板印象上是這樣的 https://t.co/FtQnhSnjQX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600024316552179713",
+        "conversation_id": "2094676045177946532",
+        "created_at": "2026-09-01T06:37:41.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094676045177946532"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2094676045177946532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 13036,
+          "like_count": 164,
+          "quote_count": 7,
+          "reply_count": 94,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "为什么很多xyn很需要用跨旗，鱼板，高度性化的衣着或者喵喵叫这种象征符号来增进和确证自我认同，推上有一大群这样子的预制药娘，给人感觉内核有点空虚🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2094892416683917419",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 585,
+          "like_count": 18000,
+          "listed_count": 1,
+          "media_count": 722,
+          "tweet_count": 3618
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 小证含糖 | HRT 2025.12.05 | 非二元 | 同类可以找我互fo，但最好说一声 | 喜欢同类 | 169cm/60kg | 有点地雷",
+        "id": "1600024316552179713",
+        "is_identity_verified": false,
+        "location": "Silverstone Track",
+        "most_recent_tweet_id": "2094780863590600997",
+        "name": "祈晴kiki🍥",
+        "pinned_tweet_id": "2071875138975580225",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600024316552179713/1784887409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080617205654503424/h9hH830E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 365,
+          "like_count": 6465,
+          "listed_count": 7,
+          "media_count": 226,
+          "tweet_count": 2138
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

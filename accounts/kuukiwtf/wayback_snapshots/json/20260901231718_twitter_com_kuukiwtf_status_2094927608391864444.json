@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2094809252842103154",
+    "created_at": "2026-09-01T23:17:18.000Z",
+    "display_text_range": [
+      17,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T00:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094927608391864444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "727338733423464448",
+          "start": 0,
+          "username": "RespectfulMemes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094927608391864444",
+    "in_reply_to_user_id": "727338733423464448",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094809252842103154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RespectfulMemes not that comfortable"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1577,
+        "media_key": "3_2094698219188240384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHc7qJbwAAa0vf.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2094809252842103154",
+        "created_at": "2026-09-01T23:17:18.000Z",
+        "display_text_range": [
+          17,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T00:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094927608391864444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "727338733423464448",
+              "start": 0,
+              "username": "RespectfulMemes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094927608391864444",
+        "in_reply_to_user_id": "727338733423464448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094809252842103154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RespectfulMemes not that comfortable"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094698219188240384"
+          ]
+        },
+        "author_id": "727338733423464448",
+        "conversation_id": "2094809252842103154",
+        "created_at": "2026-09-01T15:27:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094809252842103154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8loChNSBA",
+              "end": 23,
+              "expanded_url": "https://x.com/RespectfulMemes/status/2094809252842103154/photo/1",
+              "media_key": "3_2094698219188240384",
+              "start": 0,
+              "url": "https://t.co/O8loChNSBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094809252842103154",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094698219188240384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 46909,
+          "like_count": 4332,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 224
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O8loChNSBA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2094927608391864444",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 587,
+          "like_count": 18104,
+          "listed_count": 1,
+          "media_count": 721,
+          "tweet_count": 3623
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-03T03:27:22.000Z",
+        "description": "#1 Source of Memes to show your Grandma!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "PrettyGoodNews.com",
+                "end": 23,
+                "expanded_url": "http://PrettyGoodNews.com",
+                "start": 0,
+                "url": "https://t.co/IOUdGXdW4T"
+              }
+            ]
+          }
+        },
+        "id": "727338733423464448",
+        "is_identity_verified": false,
+        "location": "Respectfulmemes@gmail.com ",
+        "most_recent_tweet_id": "2094923757680722287",
+        "name": "Respectful Memes",
+        "pinned_tweet_id": "2094576972739252540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/727338733423464448/1486169440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/800857197697703936/RMfUXdGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2674231,
+          "following_count": 36,
+          "like_count": 65135,
+          "listed_count": 3680,
+          "media_count": 34193,
+          "tweet_count": 37397
+        },
+        "url": "https://t.co/IOUdGXdW4T",
+        "username": "RespectfulMemes",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

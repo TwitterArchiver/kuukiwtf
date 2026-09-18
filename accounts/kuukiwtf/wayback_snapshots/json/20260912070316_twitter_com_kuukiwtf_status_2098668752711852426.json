@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2098668752711852426",
+    "created_at": "2026-09-12T07:03:16.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T08:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098668752711852426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dreamolly1997/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/dreamolly1997/status/2098668644243067184",
+          "start": 15,
+          "url": "https://t.co/IIHBF7wAu8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098668752711852426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098668644243067184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "剛剛我用塔羅牌算出來我長屌了 https://t.co/IIHBF7wAu8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098668752711852426",
+        "created_at": "2026-09-12T07:03:16.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098668752711852426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dreamolly1997/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/dreamolly1997/status/2098668644243067184",
+              "start": 15,
+              "url": "https://t.co/IIHBF7wAu8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098668752711852426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098668644243067184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剛剛我用塔羅牌算出來我長屌了 https://t.co/IIHBF7wAu8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2098668644243067184",
+        "created_at": "2026-09-12T07:02:50.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098668644243067184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuanluvu4ever/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/yuanluvu4ever/status/2098508943819505890",
+              "start": 15,
+              "url": "https://t.co/7auLgF6aEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098668644243067184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098508943819505890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剛剛我用塔羅牌算出來我陽痿了 https://t.co/7auLgF6aEx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098668752711852426",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 605,
+          "like_count": 20464,
+          "listed_count": 1,
+          "media_count": 790,
+          "tweet_count": 4022
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头          \n喜歡轉貼可愛的生物                       \n08的魔法使\n🚪88，什么都没有",
+        "id": "2073934453454614530",
+        "is_identity_verified": false,
+        "location": "molise 的心里！",
+        "most_recent_tweet_id": "2098668689193410665",
+        "name": "molly",
+        "pinned_tweet_id": "2095379425076621420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073934453454614530/1783770009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 1052,
+          "like_count": 6929,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 6398
+        },
+        "url": "",
+        "username": "dreamolly1997",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2098790572748369941",
+    "created_at": "2026-09-12T15:07:20.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:06:52.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098790452161814679",
+      "2098790572748369941"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098790572748369941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在想一些很奇怪的東西 我不能說出來 臉皮沒有那麼厚阿 不知道想多少天了\n我居然想親親抱抱別人 我好想需要感受點什麼體溫 也並不想談戀愛 所以我感覺這很不好\n可是這聽起來很像一個小學生\n還想一起不經意弄死他們 我們一起都死掉吧😭😭😭😭怎麼可以這樣阿怎麼這麼對我😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098790452161814679",
+        "created_at": "2026-09-12T15:06:52.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:06:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098790452161814679",
+          "2098790572748369941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098790452161814679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在想一些很奇怪的東西 我不能說出來 臉皮沒有那麼厚阿 不知道想多少天了\n我居然想親親抱抱別人 我好想需要感受點什麼體溫 也並不想談戀愛 所以我感覺這很不好\n可是這聽起來很像一個小學生\n還想喂他們吃氰化物 我們一起都死掉吧😭😭😭😭怎麼可以這樣阿怎麼這麼對我😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2098790572748369941",
+        "created_at": "2026-09-12T15:07:20.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:06:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098790452161814679",
+          "2098790572748369941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098790572748369941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在想一些很奇怪的東西 我不能說出來 臉皮沒有那麼厚阿 不知道想多少天了\n我居然想親親抱抱別人 我好想需要感受點什麼體溫 也並不想談戀愛 所以我感覺這很不好\n可是這聽起來很像一個小學生\n還想一起不經意弄死他們 我們一起都死掉吧😭😭😭😭怎麼可以這樣阿怎麼這麼對我😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away chinks\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 111,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "kuuki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1FM…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1FMRotPYPSMUIeuEaDj51WUvHujsgwOGK_BWt9BM0Y2c/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/oxrasf9ejn"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2098790572748369941",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 605,
+          "like_count": 20635,
+          "listed_count": 1,
+          "media_count": 800,
+          "tweet_count": 4061
+        },
+        "url": "https://t.co/oxrasf9ejn",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

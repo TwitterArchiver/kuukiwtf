@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096227757193564543",
+    "created_at": "2026-09-05T13:46:46.000Z",
+    "display_text_range": [
+      14,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096233578963320899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2088423309322964992",
+          "start": 0,
+          "username": "butcherninii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096233578963320899",
+    "in_reply_to_user_id": "2088423309322964992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096227757193564543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@butcherninii ohno that's a pity 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096227757193564543",
+        "created_at": "2026-09-05T13:46:46.000Z",
+        "display_text_range": [
+          14,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096233578963320899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2088423309322964992",
+              "start": 0,
+              "username": "butcherninii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096233578963320899",
+        "in_reply_to_user_id": "2088423309322964992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096227757193564543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@butcherninii ohno that's a pity 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088423309322964992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2096227757193564543",
+        "created_at": "2026-09-05T13:23:38.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096227757193564543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096227757193564543",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Just saw really cool ciel and Sebastian cosplayer but I didn't have time to ask for a picture😮‍💨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096233578963320899",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 585,
+          "like_count": 18811,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 3745
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T00:36:15.000Z",
+        "description": "6teen DONT REPORT JUST BLOCK!!!\n#shtwt #edtwt\n old acc @ninisvo1d\nhttps://t.co/nmDH9Y0Qjw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 32,
+                "tag": "shtwt"
+              },
+              {
+                "end": 45,
+                "start": 39,
+                "tag": "edtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "ninisvo1d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ninisvo1d.straw.page",
+                "end": 89,
+                "expanded_url": "https://ninisvo1d.straw.page",
+                "start": 66,
+                "url": "https://t.co/nmDH9Y0Qjw"
+              }
+            ]
+          }
+        },
+        "id": "2088423309322964992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096233514706321664",
+        "name": "Kyouka of shedrtwt 🐰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088423309322964992/1787570407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090054011793637376/4zjL2ddN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 119,
+          "like_count": 3539,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 1424
+        },
+        "url": "",
+        "username": "butcherninii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

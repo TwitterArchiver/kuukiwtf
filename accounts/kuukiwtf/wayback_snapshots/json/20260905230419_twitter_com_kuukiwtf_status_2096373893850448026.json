@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096321968689860608"
+      ],
+      "media_source_tweet_id": [
+        "2096321972510900544"
+      ]
+    },
+    "author_id": "2076841557802864640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2096373893850448026",
+    "created_at": "2026-09-05T23:04:19.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T00:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096373893850448026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1295871704594432001",
+          "start": 3,
+          "username": "BakaDollmaker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QPSfzuxYiS",
+          "end": 72,
+          "expanded_url": "https://x.com/BakaDollmaker/status/2096321972510900544/photo/1",
+          "media_key": "3_2096321968689860608",
+          "start": 49,
+          "url": "https://t.co/QPSfzuxYiS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096373893850448026",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2096321968689860608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096321972510900544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BakaDollmaker: McFeast~\n\nNever Kill Yourself https://t.co/QPSfzuxYiS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2096321968689860608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRehuUabUAA9xT5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096321968689860608"
+          ],
+          "media_source_tweet_id": [
+            "2096321972510900544"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096373893850448026",
+        "created_at": "2026-09-05T23:04:19.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096373893850448026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1295871704594432001",
+              "start": 3,
+              "username": "BakaDollmaker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QPSfzuxYiS",
+              "end": 72,
+              "expanded_url": "https://x.com/BakaDollmaker/status/2096321972510900544/photo/1",
+              "media_key": "3_2096321968689860608",
+              "start": 49,
+              "url": "https://t.co/QPSfzuxYiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096373893850448026",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096321968689860608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096321972510900544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BakaDollmaker: McFeast~\n\nNever Kill Yourself https://t.co/QPSfzuxYiS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096321968689860608"
+          ]
+        },
+        "author_id": "1295871704594432001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096321972510900544",
+        "created_at": "2026-09-05T19:38:00.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096321972510900544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QPSfzuxYiS",
+              "end": 53,
+              "expanded_url": "https://x.com/BakaDollmaker/status/2096321972510900544/photo/1",
+              "media_key": "3_2096321968689860608",
+              "start": 30,
+              "url": "https://t.co/QPSfzuxYiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096321972510900544",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096321968689860608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 355,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "McFeast~\n\nNever Kill Yourself https://t.co/QPSfzuxYiS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096373893850448026",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 584,
+          "like_count": 18872,
+          "listed_count": 1,
+          "media_count": 749,
+          "tweet_count": 3759
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-18T23:54:40.000Z",
+        "description": "Profesional Baka | Lolis are superior beings | Amateur Plush Maker | 🔞 | If you’re annoying, I block.",
+        "id": "1295871704594432001",
+        "is_identity_verified": false,
+        "location": "Cute and Funny Cult",
+        "most_recent_tweet_id": "2096364699365384371",
+        "name": "Dollmaker💢",
+        "pinned_tweet_id": "2087375024672174270",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1295871704594432001/1785821555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084518295785586688/6Hq1FvHv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 298,
+          "like_count": 8120,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 1062
+        },
+        "url": "",
+        "username": "BakaDollmaker",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

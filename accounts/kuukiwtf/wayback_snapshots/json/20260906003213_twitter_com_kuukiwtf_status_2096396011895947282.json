@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2076841557802864640",
+    "conversation_id": "2096396011895947282",
+    "created_at": "2026-09-06T00:32:13.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T01:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096396011895947282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fffyyp565/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/fffyyp565/status/2096393249229586827",
+          "start": 20,
+          "url": "https://t.co/sQHnS2w9lE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096396011895947282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096393249229586827",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這我\n誰來讓我的生殖器官消失阿 我求了 https://t.co/sQHnS2w9lE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2096396011895947282",
+        "created_at": "2026-09-06T00:32:13.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096396011895947282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fffyyp565/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/fffyyp565/status/2096393249229586827",
+              "start": 20,
+              "url": "https://t.co/sQHnS2w9lE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096396011895947282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096393249229586827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這我\n誰來讓我的生殖器官消失阿 我求了 https://t.co/sQHnS2w9lE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073228681758298112",
+        "conversation_id": "2096393249229586827",
+        "created_at": "2026-09-06T00:21:14.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096393249229586827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096393249229586827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想当男生也不想当女生。我不想来月经，也不想长几把。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "AGENDER | AROMANTIC ASEXUAL\nsh/od twt\nfuck away shinapigs\n\n████████████████████\njoined 14/7/26 (3rd acc\nother acc\n@kuukiwfn\n@kuuki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 114,
+                "username": "kuukiwfn"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "kuuki_official"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "is_identity_verified": true,
+        "location": "✟ インタネット ✟",
+        "most_recent_tweet_id": "2096396011895947282",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2091601531577696651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076841557802864640/1783992817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 584,
+          "like_count": 18931,
+          "listed_count": 1,
+          "media_count": 752,
+          "tweet_count": 3771
+        },
+        "url": "",
+        "username": "kuukiwtf",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T02:15:32.000Z",
+        "description": "互",
+        "id": "2073228681758298112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096393249229586827",
+        "name": "fff yy🐾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073228681758298112/1787140445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082076868975767552/uhPoX7b5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 165,
+          "like_count": 848,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "fffyyp565",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
